@@ -1,0 +1,13 @@
+.AirplaneCard-root
+{
+    color:white;
+    box-shadow: 0px 0px 5px black;
+    margin: 10px;
+    background: #777;
+    width: 200px;
+    height: 250px;
+}
+
+.AirplaneCard-root>img{
+    max-width: 200px;
+}

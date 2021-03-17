@@ -1,0 +1,15 @@
+.app-header{
+    background-color: #666;
+    height: 100px;
+    box-shadow: 0px 0px 5px
+}
+
+.app-header>p{
+    color:white;
+    margin: 0;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
