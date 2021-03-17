@@ -1,0 +1,27 @@
+[
+    {
+        "name":"F/A-18C",
+        "data":"fa18c",
+        "image":"fa18c.jpg"
+    },
+    {
+        "name":"F-15C",
+        "data":"f15c",
+        "image":"f15c.jpg"
+    },
+    {
+        "name":"F-14B",
+        "data":"f14b",
+        "image":"f14b.jpg"
+    },
+    {
+        "name":"MiG-21bis",
+        "data":"mig21bis",
+        "image":"mig21bis.jpg"
+    },
+    {
+        "name":"AV-8B",
+        "data":"av8b",
+        "image":"av8b.jpg"
+    }
+]
