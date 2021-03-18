@@ -28,7 +28,7 @@ class SearchBar extends React.Component
         return (
             <div className="SearchBar-root">
                 <input type="text" placeholder="Search" value={text} onChange={this.handleChange} />
-                <span class="material-icons" onClick={this.clear}>close</span>
+                <span className="material-icons" onClick={this.clear}>close</span>
             </div>
         );
     }

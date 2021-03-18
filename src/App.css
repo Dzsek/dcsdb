@@ -4,3 +4,12 @@
     flex-direction: column;
     align-items: center;
 }
+
+.swipe-appear{
+    transition: transform 300ms;
+    transform: translateY(-100%);
+}
+
+.swipe-appear-active{
+    transform: translateY(0);
+}

@@ -6,7 +6,7 @@ class AircraftList extends React.Component{
     constructor(props){
         super(props);
         this.state={
-            airplanes:[]
+            aircrafts:[]
         };
     }
 
@@ -16,28 +16,41 @@ class AircraftList extends React.Component{
         .then(
             (result)=>{
                 this.setState({
-                    airplanes: result
+                    aircrafts: result
                 })
             }
         )
     }
 
     render(){
-        const airplanes = this.state.airplanes;
+        const aircrafts = this.state.aircrafts;
 
         return(
             <div className="AircraftList-root">
                 {
-                    airplanes
+                    aircrafts
                         .filter(f=> {
-                            let planename = f.name.replace('-','').replace('/','').replace('.','').toLowerCase();
+                            let planename = f.name.replaceAll(' ','').replaceAll('-','').replaceAll('/','').replaceAll('.','').toLowerCase();
+                            let filter = this.props.filter.replaceAll(' ','').toLowerCase();
+                            let foundintag = false;
+                            if(f.tags)
+                            {
+                                for(let tag of f.tags)
+                                {
+                                    if(tag.startsWith(filter))
+                                    {
+                                        foundintag = true;
+                                        break;
+                                    }
+                                }
+                            }
 
-                            return f.name.toLowerCase().includes(this.props.filter.toLowerCase()) || planename.includes(this.props.filter.toLowerCase());
+                            return f.name.toLowerCase().includes(filter) || planename.includes(filter) || foundintag;
                         })
                         // .slice(0,20)
                         .map(plane=>
                         (
-                            <AircraftCard  plane={plane}/>
+                            <AircraftCard key={plane.id}  plane={plane}/>
                         )
                     )
                 }
