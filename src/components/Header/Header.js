@@ -1,10 +1,15 @@
 
+import { Link } from 'react-router-dom';
 import './Header.css';
 
 function Header() {
   return (
       <header className="app-header">
-        <p>DCSDB</p>
+          <Link className="app-header-link" to="/">
+            <p>
+              DCSDB
+            </p>
+          </Link>
       </header>
   );
 }

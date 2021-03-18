@@ -15,7 +15,7 @@ class AircraftCard extends React.Component{
         const plane = this.props.plane
 
         return(
-            <Link to={"/dcsdb/aircraft/" + plane.id}>
+            <Link to={"/aircraft/" + plane.id}>
                 <div className="AircraftCard-root">
                     <img alt={plane.name} src={process.env.PUBLIC_URL+"/data/aircrafts/"+plane.id+"/thumbnail.jpg"}></img>
                     <span>{plane.name}</span>

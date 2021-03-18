@@ -5,7 +5,7 @@
     box-shadow: 0px 0px 5px
 }
 
-.app-header>p{
+.app-header-link>p{
     color:white;
     margin: 0;
     font-size: 2em;
@@ -13,4 +13,8 @@
     justify-content: center;
     align-items: center;
     height: 100%;
+}
+
+.app-header-link{
+    text-decoration: none;
 }

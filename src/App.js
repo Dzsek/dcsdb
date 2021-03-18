@@ -4,16 +4,19 @@ import AircraftPage from './components/AircraftPage/AircraftPage';
 import AircraftView from './components/AircraftView/AircraftView';
 import Header from './components/Header/Header';
 
-import {BrowserRouter as Router, Route} from 'react-router-dom';
+import {HashRouter as HashRouter, Redirect, Route} from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <Router>
-        <Route exact={true} path="/dcsdb/aircraft" component={AircraftPage}/>
-        <Route exact={true} path="/dcsdb/aircraft/:id" component={AircraftView}/>
-      </Router>
+      <HashRouter hashType="slash">
+        <Header/>
+        <Route exact={true} path="/">
+          <Redirect to="/aircraft" />
+        </Route>
+        <Route exact={true} path="/aircraft" component={AircraftPage}/>
+        <Route exact={true} path="/aircraft/:id" component={AircraftView}/>
+      </HashRouter>
     </div>
   );
 }
