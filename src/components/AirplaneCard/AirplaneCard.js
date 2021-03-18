@@ -16,7 +16,7 @@ class AirplaneCard extends React.Component{
         return(
             <div className="AirplaneCard-root">
                 <p>{plane.name}</p>
-                <img src={process.env.PUBLIC_URL+"/data/airplanes/"+plane.data+"/"+plane.image}></img>
+                <img alt={plane.name} src={process.env.PUBLIC_URL+"/data/aircrafts/"+plane.id+"/thumbnail.jpg"}></img>
             </div>
         );
     }

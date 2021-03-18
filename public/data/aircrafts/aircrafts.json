@@ -1,0 +1,22 @@
+[
+    {
+        "id":"fa18c",
+        "name":"F/A-18C"
+    },
+    {
+        "id":"f15c",
+        "name":"F-15C"
+    },
+    {
+        "id":"f14b",
+        "name":"F-14B"
+    },
+    {
+        "id":"mig21bis",
+        "name":"MiG-21bis"
+    },
+    {
+        "id":"av8b",
+        "name":"AV-8B"
+    }
+]

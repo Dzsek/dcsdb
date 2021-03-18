@@ -11,7 +11,7 @@ class AirplaneList extends React.Component{
     }
 
     componentDidMount(){
-        fetch(process.env.PUBLIC_URL+"/data/airplanes.json")
+        fetch(process.env.PUBLIC_URL+"/data/aircrafts/aircrafts.json")
         .then(res=>res.json())
         .then(
             (result)=>{
