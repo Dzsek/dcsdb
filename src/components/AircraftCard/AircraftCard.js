@@ -1,7 +1,7 @@
 import React from 'react';
-import './AirplaneCard.css';
+import './AircraftCard.css';
 
-class AirplaneCard extends React.Component{
+class AircraftCard extends React.Component{
     constructor(props){
         super(props);
     }
@@ -14,7 +14,7 @@ class AirplaneCard extends React.Component{
         const plane = this.props.plane
 
         return(
-            <div className="AirplaneCard-root">
+            <div className="AircraftCard-root">
                 <p>{plane.name}</p>
                 <img alt={plane.name} src={process.env.PUBLIC_URL+"/data/aircrafts/"+plane.id+"/thumbnail.jpg"}></img>
             </div>
@@ -22,4 +22,4 @@ class AirplaneCard extends React.Component{
     }
 }
 
-export default AirplaneCard;
+export default AircraftCard;

@@ -1,8 +1,8 @@
 import React from 'react';
-import AirplaneCard from '../AirplaneCard/AirplaneCard';
-import './AirplaneList.css';
+import AircraftCard from '../AircraftCard/AircraftCard';
+import './AircraftList.css';
 
-class AirplaneList extends React.Component{
+class AircraftList extends React.Component{
     constructor(props){
         super(props);
         this.state={
@@ -26,11 +26,11 @@ class AirplaneList extends React.Component{
         const airplanes = this.state.airplanes;
 
         return(
-            <div className="AirplaneList-root">
+            <div className="AircraftList-root">
                 {
                     airplanes.map(plane=>
                         (
-                            <AirplaneCard  plane={plane}/>
+                            <AircraftCard  plane={plane}/>
                         )
                     )
                 }
@@ -39,4 +39,4 @@ class AirplaneList extends React.Component{
     }
 }
 
-export default AirplaneList;
+export default AircraftList;
