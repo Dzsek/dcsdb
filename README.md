@@ -6,5 +6,3 @@ This project is meant to be a database containing information on all usable modu
 
 * Search for modules and weapons by name
 * Weapons available for each module referenced under said module
-
-The idea came from the attempt of /u/LtCol_Davenport to create pdf documents describing the available weapons.

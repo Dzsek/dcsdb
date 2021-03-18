@@ -4,10 +4,31 @@
     box-shadow: 0px 0px 5px black;
     margin: 10px;
     background: #777;
-    width: 200px;
-    height: 250px;
+    width: 250px;
+    height: 160px;
+    position:relative;
+    cursor:pointer;
+    overflow: hidden;
+    display:flex;
 }
 
 .AircraftCard-root>img{
-    max-width: 200px;
+    max-width: 100%;
+    align-self: center;
+}
+
+.AircraftCard-root>span{
+    position: absolute; 
+    top:0px;
+    left:0px;
+    width:calc(100% - 20px);
+    height: 30%;
+    padding:10px;
+    background: linear-gradient(black, transparent);
+    opacity: 0.5;
+}
+
+.AircraftCard-root:hover > span
+{
+    opacity: 1.0;
 }
