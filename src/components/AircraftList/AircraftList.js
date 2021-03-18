@@ -28,7 +28,14 @@ class AircraftList extends React.Component{
         return(
             <div className="AircraftList-root">
                 {
-                    airplanes.map(plane=>
+                    airplanes
+                        .filter(f=> {
+                            let planename = f.name.replace('-','').replace('/','').replace('.','').toLowerCase();
+
+                            return f.name.toLowerCase().includes(this.props.filter.toLowerCase()) || planename.includes(this.props.filter.toLowerCase());
+                        })
+                        // .slice(0,20)
+                        .map(plane=>
                         (
                             <AircraftCard  plane={plane}/>
                         )

@@ -1,0 +1,35 @@
+.SearchBar-root{
+    background: #EEE;
+    margin:15px;
+    border-radius: 1000px;
+    box-shadow: 0px 0px 5px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.SearchBar-root > input{
+     background: none;
+     border: none;
+     margin:0px;
+     padding:10px;
+     padding-left:20px;
+     font-size:1.2em;
+     width: 100%;
+}
+
+.SearchBar-root > input:focus{
+    outline:none;
+}
+
+.SearchBar-root > span{
+    padding: 10px;
+    padding-right:15px;
+    margin: 0px;
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.SearchBar-root >span:hover{
+    opacity: 1.0;
+}

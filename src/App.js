@@ -1,6 +1,6 @@
 
 import './App.css';
-import AircraftList from './components/AircraftList/AircraftList';
+import AircraftPage from './components/AircraftPage/AircraftPage';
 import Header from './components/Header/Header';
 
 import {BrowserRouter as Router, Route} from 'react-router-dom';
@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Header/>
       <Router>
-        <Route path="/dcsdb/aircraft" component={AircraftList}/>
+        <Route path="/dcsdb/aircraft" component={AircraftPage}/>
       </Router>
     </div>
   );
