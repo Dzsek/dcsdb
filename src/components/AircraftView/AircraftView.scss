@@ -1,0 +1,131 @@
+.AircraftView-root{
+    color:white;
+    margin: 10px;
+    width: 80%;
+    height: 85vh;
+    display:grid;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: 50% 50%;
+    
+    & > img{
+        width: calc(100% - 10px);
+        height: calc(100% - 10px);
+        object-fit: cover;
+        box-shadow: 0 0 5px black;
+        margin:5px;
+        grid-column-start: 1;
+        grid-column-end:2;
+        grid-row-start: 1;
+        grid-row-end:2;
+        align-self: center;
+    }
+
+    & > span {
+        font-size: 1.5em;
+        text-align: center;
+        width: calc(100% - 10px);
+        opacity: 0.7;
+        background: linear-gradient(black, transparent);
+        height: 60px;
+        margin: 5px;
+        padding-top:10px;
+        grid-row-start:1;
+        grid-row-end:2;
+        grid-column-start:1;
+        grid-column-end:2;
+    }
+}
+
+.AircraftView-root-content{
+    display:flex;
+    flex-direction: column;
+    grid-row-start:1;
+    grid-row-end:3;
+    box-shadow: 0 0 5px black;
+    background: #777;
+    margin: 5px 5px 5px 0px;
+    padding:10px;
+
+    & > .AircraftView-root-content-header
+    {
+        display:flex;
+        flex-direction: row;
+        justify-content: space-between;
+
+        & > span {
+            font-size:1.5em;
+        }
+    }
+
+    & > div {
+        display:flex;
+        flex-direction: column;
+    }
+}
+
+.AircraftView-root-backbutton{
+    align-self: flex-end;
+    justify-self: flex-start;
+}
+
+.AircraftView-root-extra{
+    grid-row-start:2;
+    grid-row-end:3;
+    box-shadow: 0 0 5px black;
+    background: #777;
+    margin: 0px 5px 5px 5px;
+    padding: 10px;
+    overflow: auto;
+    white-space: pre-wrap;
+}
+
+@media only screen and (max-width: 970px)
+{
+    .AircraftView-root{
+        grid-template-rows: 40% 60%;
+    }
+}
+
+@media only screen and (max-width: 800px)
+{
+    .AircraftView-root{
+        height:auto;
+        width: 100%;
+        grid-template-columns: 100%;
+        grid-template-rows:  200px auto auto;
+
+        & > img{
+            height: 100%;
+            width: 100%;
+            box-shadow: none;
+            justify-self: center;
+            grid-row-start:1;
+            grid-row-end:2;
+        }
+
+        & > span {
+            width: auto;
+            height: 50px;
+            font-size: 1.1em;
+            margin:0px;
+            grid-row-start:1;
+            grid-row-end:2;
+        }
+    }
+
+    .AircraftView-root-content{
+        grid-column: 0/0;
+        grid-row: 2/3;
+        margin: 5px;
+    }
+
+    .AircraftView-root-extra{
+        grid-row: 3/4;
+    }
+
+    .AircraftView-root-backbutton{
+        position: absolute;
+        top:10px;
+        left:10px;
+    }
+}

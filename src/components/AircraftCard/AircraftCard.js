@@ -1,5 +1,5 @@
 import React from 'react';
-import './AircraftCard.css';
+import './AircraftCard.scss';
 import {Link} from 'react-router-dom'
 
 class AircraftCard extends React.Component{
