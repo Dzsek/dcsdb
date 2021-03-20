@@ -1,0 +1,26 @@
+.WeaponCard-root{
+    display:grid;
+    grid-template-columns: 150px calc(100% - 150px);
+    box-shadow: 0 0 5px black;
+    margin: 3px;
+    background: #999;
+    cursor: pointer;
+
+    &>img{
+        display:flex;
+        width: 150px;
+        height: 60px;
+        object-fit: cover;
+        align-self: center;
+        justify-self: center;
+    }
+
+    &>span{
+        align-self: center;
+        text-align: center;
+    }
+
+    &:hover{
+        background: #888;
+    }
+}

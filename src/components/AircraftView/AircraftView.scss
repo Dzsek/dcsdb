@@ -2,10 +2,9 @@
     color:white;
     margin: 10px;
     width: 80%;
-    height: 85vh;
     display:grid;
     grid-template-columns: 40% 60%;
-    grid-template-rows: 50% 50%;
+    grid-template-rows: 400px auto;
     
     & > img{
         width: calc(100% - 10px);
@@ -45,6 +44,7 @@
     background: #777;
     margin: 5px 5px 5px 0px;
     padding:10px;
+    align-self:flex-start;
 
     & > .AircraftView-root-content-header
     {
@@ -64,8 +64,9 @@
 }
 
 .AircraftView-root-backbutton{
-    align-self: flex-end;
-    justify-self: flex-start;
+    position: absolute;
+    top:25px;
+    left:25px;
 }
 
 .AircraftView-root-extra{
@@ -75,8 +76,39 @@
     background: #777;
     margin: 0px 5px 5px 5px;
     padding: 10px;
-    overflow: auto;
     white-space: pre-wrap;
+    display:flex;
+    align-self: flex-start;
+    height:auto;
+}
+
+.WeaponGroup-root{
+    display:flex;
+    flex-direction: column;
+
+    & > .WeaponGroup-root-header{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-between;
+        font-size: 1.2em;
+        background: #aaa;
+        box-shadow: 0 0 5px black;
+        padding: 5px;
+        cursor: pointer;
+
+        &:hover{
+            background: #999;
+        }
+
+        & > .material-icons{
+            align-self:center;
+            user-select: none;
+        }
+    }
+}
+
+.collapsed{
+    height: 3px !important;
 }
 
 @media only screen and (max-width: 970px)

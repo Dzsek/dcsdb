@@ -2,6 +2,7 @@ import React from 'react';
 import {withRouter} from 'react-router-dom';
 import './AircraftView.scss';
 import BackButton from '../Common/BackButton.js';
+import WeaponCard from '../WeaponCard/WeaponCard.js';
 
 class AircraftView extends React.Component
 {
@@ -35,24 +36,29 @@ class AircraftView extends React.Component
         const {aircraft, id} = this.state;
         return (
             <div className="AircraftView-root">
+                <BackButton className="AircraftView-root-backbutton" returnTo="/aircraft"/>
                 <img alt={aircraft.name} src={process.env.PUBLIC_URL+"/data/aircrafts/"+id+"/thumbnail.jpg"}></img>
                 <span>{aircraft.name}</span>
                 <div className="AircraftView-root-content">
-                    <div className="AircraftView-root-content-header">
-                        <span>Armament</span>
-                        <BackButton className="AircraftView-root-backbutton" returnTo="/aircraft"/>
-                    </div>
                     <div className="AircraftView-root-content-weapons">
                         {(()=>{
-                        if(aircraft.weapons)
-                        {
-                            return aircraft.weapons.map(weapon=>(
-                                <span key={weapon.id}>{weapon.name}</span>
-                                ));
+                            if(aircraft.weapons)
+                            {
+                                let results = [];
+                                for(let groupid in aircraft.weapons)
+                                {
+                                    let group = aircraft.weapons[groupid];
+                                    if(group && group.length)
+                                    {
+                                        results.push(<WeaponGroup id={groupid} group={group}/>);
+                                    }
+                                }
+
+                                return results.length ? results : (<span>Equipment data unavailable</span>);
                             }
                             else
                             {
-                                return (<span></span>);
+                                return (<span/>);
                             }
                         })()}
                     </div>
@@ -62,6 +68,69 @@ class AircraftView extends React.Component
                 </div>
             </div>
         );
+    }
+}
+
+class WeaponGroup extends React.Component
+{
+    constructor(props)
+    {
+        super(props);
+
+        this.state = {
+            isOpen: true
+        }
+
+        this.toggleGroup = this.toggleGroup.bind(this);
+    }
+
+    toggleGroup()
+    {
+        let {isOpen} = this.state;
+        this.setState({isOpen: !isOpen});
+    }
+
+    render()
+    {
+        let {id, group} = this.props;
+        let {isOpen} = this.state;
+        return (
+            <div className="WeaponGroup-root">
+                <div className="WeaponGroup-root-header" onClick={this.toggleGroup}>
+                    <span>
+                        {(()=>{
+                            switch(id)
+                            {
+                                case 'aam':
+                                    return 'AA Missiles';
+                                case 'agm':
+                                    return 'AG Missiles';
+                                case 'bomb':
+                                    return 'Bombs';
+                                case 'fuel':
+                                    return 'Fuel Tanks';
+                                case 'pod':
+                                    return 'Pods';
+                                case 'rocket':
+                                    return 'Rockets';
+                                default:
+                                    return id;
+                            }
+                        })()}
+                    </span>
+                    {isOpen ? (<span className="material-icons">keyboard_arrow_down</span>) : (<span className="material-icons">keyboard_arrow_up</span>)}
+                </div>
+                <div className={!isOpen ? "collapsed" : ""}>
+                    {
+                        isOpen ? group.map(weapon=>(
+                            <WeaponCard key={weapon.id} weapon={weapon}/>
+                            ))
+                            :
+                            ""
+                    }
+                </div>
+            </div>
+        )
     }
 }
 
