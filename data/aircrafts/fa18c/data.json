@@ -2,9 +2,16 @@
     "name":"McDonnel Douglass F/A-18C Hornet",
     "description": "The McDonnell Douglas F/A-18 Hornet is a twin-engine, supersonic, all-weather, carrier-capable, multirole combat jet, designed as both a fighter and attack aircraft (hence the F/A designation). Designed by McDonnell Douglas (now part of Boeing) and Northrop (now part of Northrop Grumman), the F/A-18 was derived from the latter's YF-17 in the 1970s for use by the United States Navy and Marine Corps. The Hornet is also used by the air forces of several other nations, and formerly, by the U.S. Navy's Flight Demonstration Squadron, the Blue Angels. The F/A-18 was designed to be a highly versatile aircraft due to its avionics, cockpit displays, and excellent aerodynamic characteristics, with the ability to carry a wide variety of weapons. The aircraft can perform fighter escort, fleet air defense, suppression of enemy air defenses, air interdiction, close air support, and aerial reconnaissance. Its versatility and reliability have proven it to be a valuable carrier asset, though it has been criticized for its lack of range and payload compared to its earlier contemporaries, such as the Grumman F-14 Tomcat in the fighter and strike fighter role, and the Grumman A-6 Intruder and LTV A-7 Corsair II in the attack role. The Hornet first saw combat action during the 1986 United States bombing of Libya and subsequently participated in the 1991 Gulf War and 2003 Iraq War. The F/A-18 Hornet served as the baseline for the Boeing F/A-18E/F Super Hornet, its larger, evolutionary redesign.",
     "images": [],
-    "weapons": [ 
-        { "id":"aim9x", "name":"AIM-9X" },
-        { "id":"aim7m", "name":"AIM-7M" },
-        { "id": "aim120b", "name":"AIM-120B"}
-    ]
+    "weapons": {
+        "aam": [
+            { "id":"aim9x", "name":"AIM-9X" },
+            { "id":"aim7m", "name":"AIM-7M" },
+            { "id": "aim120b", "name":"AIM-120B"}
+        ],
+        "agm": [],
+        "bomb": [],
+        "fuel": [],
+        "pod": [],
+        "rocket": []
+    }
 }

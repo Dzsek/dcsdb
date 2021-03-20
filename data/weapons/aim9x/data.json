@@ -1,0 +1,5 @@
+{
+    "name": "AIM-9X Sidewinder",
+    "description" : "sidey-windy",
+    "aircraft" : ["fa18c"]
+}

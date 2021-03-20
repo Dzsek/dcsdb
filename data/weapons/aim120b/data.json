@@ -1,0 +1,5 @@
+{
+    "name": "AIM-120B AMRAAM",
+    "description" : "Spamraam",
+    "aircraft" : ["fa18c", "f15c"]
+}
