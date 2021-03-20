@@ -10,25 +10,25 @@
     cursor:pointer;
     overflow: hidden;
     display:flex;
-}
 
-.AircraftCard-root>img{
-    max-width: 100%;
-    align-self: center;
-}
+    &>img{
+        max-width: 100%;
+        align-self: center;
+    }
+    
+    &>span{
+        position: absolute; 
+        top:0px;
+        left:0px;
+        width:calc(100% - 20px);
+        height: 30%;
+        padding:10px;
+        background: linear-gradient(black, transparent);
+        opacity: 0.5;
+    }
 
-.AircraftCard-root>span{
-    position: absolute; 
-    top:0px;
-    left:0px;
-    width:calc(100% - 20px);
-    height: 30%;
-    padding:10px;
-    background: linear-gradient(black, transparent);
-    opacity: 0.5;
-}
-
-.AircraftCard-root:hover > span
-{
-    opacity: 1.0;
+    &:hover > span
+    {
+        opacity: 1.0;
+    }
 }

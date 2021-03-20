@@ -1,9 +1,9 @@
 import React from 'react';
-import './AircraftPage.scss';
-import AircraftList from '../AircraftList/AircraftList';
+import './WeaponPage.scss';
+import WeaponList from '../WeaponList/WeaponList';
 import SearchBar from '../SearchBar/SearchBar';
 
-class AircraftPage extends React.Component
+class WeaponPage extends React.Component
 {
     constructor(props)
     {
@@ -23,12 +23,12 @@ class AircraftPage extends React.Component
     render()
     {
         return (
-            <div className="AircraftPage-root">
+            <div className="WeaponPage-root">
                 <SearchBar searchText={this.state.searchText} onSearchTextChanged={this.handleSearchTextChanged}/>
-                <AircraftList filter={this.state.searchText}/>
+                <WeaponList filter={this.state.searchText}/>
             </div>
         );
     }
 }
 
-export default AircraftPage;
+export default WeaponPage;

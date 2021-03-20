@@ -1,0 +1,16 @@
+.WeaponList-root{
+    display:flex;
+    justify-content: left;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+@media only screen and (max-width: 800px)
+{
+    .WeaponList-root{
+        justify-content: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}

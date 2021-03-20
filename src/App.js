@@ -1,6 +1,7 @@
 
 import './App.css';
 import AircraftPage from './components/AircraftPage/AircraftPage';
+import WeaponPage from './components/WeaponPage/WeaponPage';
 import AircraftView from './components/AircraftView/AircraftView';
 import Header from './components/Header/Header';
 
@@ -17,6 +18,9 @@ function App() {
               </Route>
               <Route exact={true} path="/aircraft">
                 <AircraftPage/>
+              </Route>
+              <Route exact={true} path="/weapons">
+                <WeaponPage/>
               </Route>
               <Route exact={true} path="/aircraft/:id">
                 <AircraftView/>

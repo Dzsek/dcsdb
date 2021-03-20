@@ -40,7 +40,6 @@ class AircraftView extends React.Component
                 <img alt={aircraft.name} src={process.env.PUBLIC_URL+"/data/aircrafts/"+id+"/thumbnail.jpg"}></img>
                 <span>{aircraft.name}</span>
                 <div className="AircraftView-root-content">
-                    <div className="AircraftView-root-content-weapons">
                         {(()=>{
                             if(aircraft.weapons)
                             {
@@ -61,7 +60,6 @@ class AircraftView extends React.Component
                                 return (<span/>);
                             }
                         })()}
-                    </div>
                 </div>
                 <div className="AircraftView-root-extra">
                     <p>{aircraft.description}</p>
@@ -120,7 +118,7 @@ class WeaponGroup extends React.Component
                     </span>
                     {isOpen ? (<span className="material-icons">keyboard_arrow_down</span>) : (<span className="material-icons">keyboard_arrow_up</span>)}
                 </div>
-                <div className={!isOpen ? "collapsed" : ""}>
+                <div className={"WeaponGroup-root-content " + (!isOpen ? "collapsed" : "")}>
                     {
                         isOpen ? group.map(weapon=>(
                             <WeaponCard key={weapon.id} weapon={weapon}/>

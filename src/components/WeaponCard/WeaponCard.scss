@@ -1,26 +1,37 @@
 .WeaponCard-root{
-    display:grid;
-    grid-template-columns: 150px calc(100% - 150px);
     box-shadow: 0 0 5px black;
     margin: 3px;
     background: #999;
     cursor: pointer;
+    width: 250px;
+    height: 160px;
+    position:relative;
+    display:flex;
+    overflow: hidden;
 
     &>img{
-        display:flex;
-        width: 150px;
-        height: 60px;
-        object-fit: cover;
+        max-width: 100%;
         align-self: center;
-        justify-self: center;
     }
 
     &>span{
+        position: absolute; 
+        top:0px;
+        left:0px;
+        color:white;
         align-self: center;
         text-align: center;
+        background: linear-gradient(black, transparent);
+        width:calc(100% - 20px);
+        padding: 10px;
+        opacity: 0.5;
     }
 
     &:hover{
         background: #888;
+
+        &>span{
+            opacity: 1;
+        }
     }
 }

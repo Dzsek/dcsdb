@@ -1,36 +1,36 @@
 import React from 'react';
-import AircraftCard from '../AircraftCard/AircraftCard';
-import './AircraftList.scss';
+import WeaponCard from '../WeaponCard/WeaponCard';
+import './WeaponList.scss';
 
-class AircraftList extends React.Component{
+class WeaponList extends React.Component{
     constructor(props){
         super(props);
         this.state={
-            aircrafts:[]
+            weapons:[]
         };
     }
 
     componentDidMount(){
-        fetch(process.env.PUBLIC_URL+"/data/aircrafts/aircrafts.json")
+        fetch(process.env.PUBLIC_URL+"/data/weapons/weapons.json")
         .then(res=>res.json())
         .then(
             (result)=>{
                 this.setState({
-                    aircrafts: result
+                    weapons: result
                 })
             }
         )
     }
 
     render(){
-        const aircrafts = this.state.aircrafts;
+        const weapons = this.state.weapons;
 
         return(
-            <div className="AircraftList-root">
+            <div className="WeaponList-root">
                 {
-                    aircrafts
+                    weapons
                         .filter(f=> {
-                            let planename = f.name.replaceAll(' ','').replaceAll('-','').replaceAll('/','').replaceAll('.','').toLowerCase();
+                            let weaponname = f.name.replaceAll(' ','').replaceAll('-','').replaceAll('/','').replaceAll('.','').toLowerCase();
                             let filter = this.props.filter.replaceAll(' ','').toLowerCase();
                             let foundintag = false;
                             if(f.tags)
@@ -45,12 +45,12 @@ class AircraftList extends React.Component{
                                 }
                             }
 
-                            return f.name.toLowerCase().includes(filter) || planename.includes(filter) || foundintag;
+                            return f.name.toLowerCase().includes(filter) || weaponname.includes(filter) || foundintag;
                         })
                         // .slice(0,20)
-                        .map(plane=>
+                        .map(weapon=>
                         (
-                            <AircraftCard key={plane.id}  plane={plane}/>
+                            <WeaponCard key={weapon.id}  weapon={weapon}/>
                         )
                     )
                 }
@@ -59,4 +59,4 @@ class AircraftList extends React.Component{
     }
 }
 
-export default AircraftList;
+export default WeaponList;

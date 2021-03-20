@@ -106,6 +106,12 @@
             align-self:center;
         }
     }
+
+    & > .WeaponGroup-root-content{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content: flex-start;
+    }
 }
 
 .collapsed{
@@ -115,7 +121,11 @@
 @media only screen and (max-width: 970px)
 {
     .AircraftView-root{
-        grid-template-rows: 40% 60%;
+        grid-template-rows: 200px auto;
+    }
+    
+    .WeaponGroup-root > .WeaponGroup-root-content{
+        justify-content: center;
     }
 }
 
@@ -158,7 +168,7 @@
 
     .AircraftView-root-backbutton{
         position: absolute;
-        top:10px;
-        left:10px;
+        top:5px;
+        left:5px;
     }
 }
