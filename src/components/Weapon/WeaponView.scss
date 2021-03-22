@@ -58,7 +58,7 @@
         flex-direction: column;
         box-shadow: 0 0 5px black;
         background: #777;
-        margin: 5px 5px 5px 0px;
+        margin: 5px 5px 0px 0px;
         padding:10px;
     }
 }
@@ -104,10 +104,10 @@
 }
 
 .WeaponView-instruction{
-    background: #777;
+    background: #888;
     margin: 3px;
     padding: 3px;
-    box-shadow: inset 0 0 5px #222;
+    box-shadow: 0 0 5px #222;
     white-space: pre-wrap;
 }
 

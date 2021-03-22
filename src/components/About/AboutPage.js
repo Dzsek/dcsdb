@@ -12,7 +12,7 @@ class AboutPage extends React.Component{
                 <p>The data presented on this website is only in applicable to DCS, and it does not necessarily reflect any real-world characteristics of the various aircraft and weapons.</p>
                 <p>This is a hobby project and is in no way affiliated with Eagle Dynamics.</p>
 
-                <p>If you would like to contribute to the project with either code or keeping the data updated, you can find the github project <a href="https://github.com/Dzsek/dcsdb">here</a>.</p>
+                <p>If you would like to contribute to the project with either code or keeping the data updated, you can find the github project <a href="https://github.com/Dzsek/dcsdb">here</a>, or send me a pm on reddit (<a href="https://www.reddit.com/user/Dzsekeb/">/u/Dzsekeb</a>)</p>
             </div>
         );
     }
