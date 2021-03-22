@@ -49,7 +49,7 @@ class AircraftView extends React.Component
                                     let group = aircraft.weapons[groupid];
                                     if(group && group.length)
                                     {
-                                        results.push(<WeaponGroup id={groupid} group={group}/>);
+                                        results.push(<WeaponGroup id={groupid} group={group} aircraftid={id}/>);
                                     }
                                 }
 
@@ -90,7 +90,7 @@ class WeaponGroup extends React.Component
 
     render()
     {
-        let {id, group} = this.props;
+        let {id, group, aircraftid} = this.props;
         let {isOpen} = this.state;
         return (
             <div className="WeaponGroup-root">
@@ -121,7 +121,7 @@ class WeaponGroup extends React.Component
                 <div className={"WeaponGroup-root-content " + (!isOpen ? "collapsed" : "")}>
                     {
                         isOpen ? group.map(weapon=>(
-                            <WeaponCard key={weapon.id} weapon={weapon}/>
+                            <WeaponCard key={weapon.id} weapon={weapon} aircraftid={aircraftid}/>
                             ))
                             :
                             ""
