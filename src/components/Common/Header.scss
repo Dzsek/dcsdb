@@ -45,6 +45,10 @@ $transition-time: 200ms;
     }
 }
 
+.link-icon{
+    display:none;
+}
+
 @media only screen and (max-width: 800px)
 {
     .app-header{
@@ -69,5 +73,13 @@ $transition-time: 200ms;
 
     .app-header-link{
         margin:10px;
+    }
+
+    .link-text{
+        display:none;
+    }
+
+    .link-icon{
+        display:block;
     }
 }

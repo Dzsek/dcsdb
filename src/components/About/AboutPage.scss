@@ -1,0 +1,11 @@
+.AboutPage-root{
+    color:white;
+    margin: 10px;
+    width: 80%;
+    background: #777;
+    box-shadow: 0 0 5px black;
+    padding:10px;
+    &>p{
+        white-space: pre-wrap;
+    }
+}
