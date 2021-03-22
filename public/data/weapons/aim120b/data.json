@@ -1,5 +1,21 @@
 {
     "name": "AIM-120B AMRAAM",
     "description" : "Spamraam",
-    "aircraft" : ["fa18c", "f15c"]
+    "data":{
+        "weight": "2kg",
+        "range":{ "max":"5m", "ideal":"6m", "min": "7m"},
+        "guidance": "Active Radar",
+        "type":"Medium Range Active Air-to-Air Missile",
+        "warhead": "Half kg explosive",
+        "targets": "Aircraft"
+    },
+    "instructions":[
+        "Arm",
+        "Aim",
+        "Launch"
+    ],
+    "aircraft" : [
+        {"id": "fa18c", "name":"F/A-18C"},
+        {"id": "f15c", "name":"F-15C"}
+    ]
 }

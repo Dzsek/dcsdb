@@ -7,7 +7,7 @@ class WeaponCard extends React.Component
 {
     render()
     {
-        let {weapon, aircraftid} = this.props;
+        const {weapon, aircraftid} = this.props;
         return (
             <Link to={"/weapon/" + weapon.id + (aircraftid ? "?from="+aircraftid : "")}>
                 <div className="WeaponCard-root">

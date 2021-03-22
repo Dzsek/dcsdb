@@ -33,10 +33,13 @@ class AircraftView extends React.Component
 
     render()
     {
+        const query = new URLSearchParams(this.props.location.search);
+        const fromId = query.get('from');
+
         const {aircraft, id} = this.state;
         return (
             <div className="AircraftView-root">
-                <BackButton className="AircraftView-root-backbutton" returnTo="/aircraft"/>
+                <BackButton className="AircraftView-root-backbutton" returnTo={fromId ? "/weapon/"+fromId : "/aircraft"}/>
                 <img alt={aircraft.name} src={process.env.PUBLIC_URL+"/data/aircrafts/"+id+"/thumbnail.jpg"}></img>
                 <span>{aircraft.name}</span>
                 <div className="AircraftView-root-content">

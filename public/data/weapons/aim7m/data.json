@@ -1,5 +1,9 @@
 {
     "name": "AIM-7M Sparrow",
     "description" : "eh",
-    "aircraft" : ["fa18c", "f14b", "f15c"]
+    "aircraft" : [
+        {"id": "fa18c", "name":"F/A-18C"}, 
+        {"id": "f14b", "name":"F-14B"},
+        {"id": "f15c", "name":"F-15C"}
+    ]
 }

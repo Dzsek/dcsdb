@@ -1,5 +1,20 @@
 {
     "name": "AIM-9X Sidewinder",
     "description" : "sidey-windy",
-    "aircraft" : ["fa18c"]
+    "data":{
+        "weight": "1kg",
+        "range":{ "max":"3m", "ideal":"2m", "min": "1m"},
+        "guidance": "Infared",
+        "type":"Short Range Air-to-Air Missile",
+        "warhead": "Half kg explosive",
+        "targets": "Aircraft"
+    },
+    "instructions":[
+        "Arm",
+        "Aim",
+        "Launch"
+    ],
+    "aircraft" : [
+        {"id": "fa18c", "name":"F/A-18C"}
+    ]
 }
