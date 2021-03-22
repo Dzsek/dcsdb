@@ -1,0 +1,123 @@
+Instructions for editing the database
+
+Introduction:
+The application is implemented as a static website, meaning no backend. 
+This is why the so called "database" consists of a series of folders and json files that the website fetches using simple get requests to the right urls.
+
+File structure:
+-data                   #folder containing all the data available to the website
+--aircrafts             #folder containing all the aircraft data
+---aircrafts.json       #file containing a list of all available aircraft
+---[aircraftid]         #folder containg data about an aircraft, there should be one for each aircraft defined in the aircrafts.json file. It is put in brackets to signify that the name depends on the aircraft
+----data.json           #file containg data about the aircraft
+----thumbnail.jpg       #image used for the aircraft in the application
+--weapons               #folder containing all the weapon data
+---weapons.json         #file containing a list of all available weapons
+---[weaponid]           #folder containg data about a weapon, there should be one for each weapon defined in the weapons.json file. It is put into brackets to signify that the name depends on the weapon.
+----data.json           #file containg data about the weapon
+----thumbnail.jpg       #image used for the weapon in the application
+
+Format of the files (will be using F/A-18C and AIM-9X as examples):
+
+---aircrafts.json---
+
+This file consists of a json array with each object having the following format
+{
+    "id":"fa18c",
+    "name":"F/A-18C",
+    "tags": ["hornet","navy","carrier"]
+}
+
+id - unique, only contains lower case letters and numbers, use a simplified name of the aircraft
+name - name to be displayed on the aircraft cards when viewing lists of aircraft, also used when searching for aircraft using the search bar
+tags - additional strings to search for when searching using the search bar, use this for alternate spellings and nicknames to make it easier for users to find what they're looking for
+
+---[fa18c]---
+
+The name of this folder should be exactly the same as the id field defined in aircrafts.json
+
+---data.json (aircraft)---
+
+The file contains a single json object
+
+{
+    "name":"McDonnel Douglass F/A-18C Hornet",
+    "description": "general information about the hornet",
+    "weapons": {
+        "aam": [
+            { "id":"aim9x", "name":"AIM-9X" },
+            { "id":"aim7m", "name":"AIM-7M" },
+            { "id": "aim120b", "name":"AIM-120B"}
+        ],
+        "agm": [],
+        "bomb": [],
+        "fuel": [],
+        "pod": [],
+        "rocket": []
+    }
+}
+
+name - Full name for the aircraft used only when viewing the aircraft page
+description - general information about the aircraft
+weapons - json object with each property representing a category of weapons similar to how they are categorized in the DCS loadout editor
+          each property is a json array containg objects with two properties, "id" is the id of the weapon, "name" is the name to be displayed on the weapon card in the aircraft view
+ aam - air to air weapons
+ agm - air to ground weapons
+ bomb - bombs
+ fuel - fuel pods
+ pod - targeting pods, gunpods, etc.
+ rocket - rockets
+
+---weapons.json---
+
+This file consists of a json array with each object having the following format
+{
+    "id":"aim9x",
+    "name":"AIM-9X",
+    "tags": ["sidewinder", "ir", "fox2", "heatseaker", "aa", "missile"]
+}
+
+id - unique, only contains lower case letters and numbers, use a simplified name of the weapon
+name - name to be displayed on the weapon cards when viewing lists of weapons, also used when searching for weapons using the search bar
+tags - additional strings to search for when searching using the search bar, use this for alternate spellings and nicknames to make it easier for users to find what they're looking for
+
+---[aim9x]---
+
+The name of this folder should be exactly the same as the id field defined in weapons.json
+
+---data.json (weapon)---
+
+The file contains a single json object
+
+{
+    "name": "AIM-9X Sidewinder",
+    "description" : "sidey-windy",
+    "data":{
+        "weight": "1kg",
+        "range":{ "max":"3m", "ideal":"2m", "min": "1m"},
+        "guidance": "Infared",
+        "type":"Short Range Air-to-Air Missile",
+        "warhead": "Half kg explosive",
+        "targets": "Aircraft"
+    },
+    "instructions":[
+        "Arm",
+        "Aim",
+        "Launch"
+    ],
+    "aircraft" : [
+        {"id": "fa18c", "name":"F/A-18C"}
+    ]
+}
+
+name - Full name for the aircraft used only when viewing the weapon page
+description - general information about the weapon
+data - json object describing various properties of the weapon, if any of them are not relevant you can leave them out and they will not appear on the unique
+ weight - weight of the weapon, please include units as well
+ range - json object describing range of weapon "max" is the maximum range, "min" is the minimum range, and "ideal" is the optimal range. You can leave these out as well if some of them are not relevant
+ guidance - should describe how the weapon is guided. Ex. Radar, Infrared, Active Radar, Semi Active Radar, Laser, Unguided, gunpods
+ type - describe what type of weapon it is. Ex. air to air missile, air to surface missile, bomb, rocket
+ warhead - describe what kind of warhead this weapon has. Ex. High explosive, High explosive anti tank, White phosphorus, smoke
+ targets - describe what kind of targets the weapon was designed to be used against
+instructions - array of strings containing usage instructions for the weapon, each string should be it's own instruction. can be formated by using \n for newlines and \t for tabs. Spaces will also be preserved
+aircraft - array of json objects listing which aircrafts can use the weapon, "id" is the id of the aircraft, "name" is the name to show on the aircraft card
