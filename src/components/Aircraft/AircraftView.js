@@ -1,8 +1,8 @@
 import React from 'react';
 import {withRouter} from 'react-router-dom';
 import './AircraftView.scss';
-import BackButton from '../Common/BackButton.js';
-import WeaponCard from '../WeaponCard/WeaponCard.js';
+import BackButton from '../Common/BackButton';
+import WeaponCard from '../Weapon/WeaponCard';
 
 class AircraftView extends React.Component
 {

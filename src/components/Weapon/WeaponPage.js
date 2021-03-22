@@ -1,7 +1,7 @@
 import React from 'react';
 import './WeaponPage.scss';
-import WeaponList from '../WeaponList/WeaponList';
-import SearchBar from '../SearchBar/SearchBar';
+import WeaponList from './WeaponList';
+import SearchBar from '../Common/SearchBar';
 
 class WeaponPage extends React.Component
 {

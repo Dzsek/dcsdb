@@ -1,9 +1,9 @@
 
-import './App.css';
-import AircraftPage from './components/AircraftPage/AircraftPage';
-import WeaponPage from './components/WeaponPage/WeaponPage';
-import AircraftView from './components/AircraftView/AircraftView';
-import Header from './components/Header/Header';
+import './App.scss';
+import AircraftPage from './components/Aircraft/AircraftPage';
+import WeaponPage from './components/Weapon/WeaponPage';
+import AircraftView from './components/Aircraft/AircraftView';
+import Header from './components/Common/Header';
 
 import {Redirect, Route, Switch} from 'react-router-dom';
 

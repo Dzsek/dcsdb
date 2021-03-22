@@ -1,7 +1,7 @@
 import React from 'react';
 import './AircraftPage.scss';
-import AircraftList from '../AircraftList/AircraftList';
-import SearchBar from '../SearchBar/SearchBar';
+import AircraftList from './AircraftList';
+import SearchBar from '../Common/SearchBar';
 
 class AircraftPage extends React.Component
 {
