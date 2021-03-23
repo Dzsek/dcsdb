@@ -36,6 +36,24 @@
     }
 }
 
+.WeaponView-aircraftinstructions{
+    display:flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    font-size: 1.5em;
+
+    &>select{
+        background: #eb0;
+        font-weight: bold;
+        color:white;
+        font-size: 0.7em;
+        padding: 2px 10px 2px 30px;
+        box-shadow: 0 0 5px #333;
+        margin-right: 2px;
+    }
+}
+
 .WeaponView-root-content{
     display:flex;
     flex-direction: column;

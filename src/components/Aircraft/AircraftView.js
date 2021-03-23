@@ -13,6 +13,8 @@ class AircraftView extends React.Component
             aircraft:{},
             id: ""
         }
+
+        this.loadAlternate = this.loadAlternate.bind(this);
     }
 
     componentDidMount()
@@ -31,6 +33,14 @@ class AircraftView extends React.Component
         )
     }
 
+    loadAlternate(ev)
+    {
+        if(ev.target.src.includes('image.jpg'))
+        {
+            ev.target.src = ev.target.src.replace('image.jpg','thumbnail.jpg');
+        }
+    }
+
     render()
     {
         const query = new URLSearchParams(this.props.location.search);
@@ -40,7 +50,7 @@ class AircraftView extends React.Component
         return (
             <div className="AircraftView-root">
                 <BackButton className="AircraftView-root-backbutton" returnTo={fromId ? "/weapon/"+fromId : "/aircraft"}/>
-                <img alt={aircraft.name} src={process.env.PUBLIC_URL+"/data/aircrafts/"+id+"/thumbnail.jpg"}></img>
+                <img alt={aircraft.name} src={process.env.PUBLIC_URL+"/data/aircrafts/"+id+"/image.jpg"} onError={this.loadAlternate}></img>
                 <span>{aircraft.name}</span>
                 <div className="AircraftView-root-content">
                         {(()=>{

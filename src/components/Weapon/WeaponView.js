@@ -11,13 +11,19 @@ class WeaponView extends React.Component
         super(props);
         this.state={
             weapon:{},
-            id: ""
+            id: "",
+            selectedInstructionAircraft: {}
         }
+
+        this.selectedAircraftChanged = this.selectedAircraftChanged.bind(this);
+        this.loadAlternate = this.loadAlternate.bind(this);
     }
 
     componentDidMount()
     {
-        let {params} = this.props.match;
+        const query = new URLSearchParams(this.props.location.search);
+        const fromId = query.get('from');
+        const {params} = this.props.match;
         this.setState({id:params.id});
 
         fetch(process.env.PUBLIC_URL+"/data/weapons/"+params.id+"/data.json")
@@ -27,8 +33,45 @@ class WeaponView extends React.Component
                 this.setState({
                     weapon: result
                 })
+
+                if(result.aircraft)
+                {
+                    let plane = result.aircraft.find(x=>x.id===fromId);
+                    if(!plane && result.aircraft.length)
+                    {
+                        plane = result.aircraft[0];
+                    }
+
+                    if(plane)
+                    {
+                        this.setState({
+                            selectedInstructionAircraft: plane
+                        });
+                    }
+                }
             }
         )
+    }
+
+    selectedAircraftChanged(ev)
+    {
+        const selected = ev.target.value;
+        const plane = this.state.weapon.aircraft.find(x=>x.id===selected); 
+        if(plane)
+        {
+            this.setState({
+                selectedInstructionAircraft: plane
+            });
+        }
+        
+    }
+
+    loadAlternate(ev)
+    {
+        if(ev.target.src.includes('image.jpg'))
+        {
+            ev.target.src = ev.target.src.replace('image.jpg','thumbnail.jpg');
+        }
     }
 
     render()
@@ -36,11 +79,11 @@ class WeaponView extends React.Component
         const query = new URLSearchParams(this.props.location.search);
         const fromId = query.get('from');
 
-        const {weapon, id} = this.state;
+        const {weapon, id, selectedInstructionAircraft} = this.state;
         return (
             <div className="WeaponView-root">
                 <BackButton className="WeaponView-root-backbutton" returnTo={fromId ? "/aircraft/"+fromId : "/weapons"}/>
-                <img alt={weapon.name} src={process.env.PUBLIC_URL+"/data/weapons/"+id+"/thumbnail.jpg"}></img>
+                <img alt={weapon.name} src={process.env.PUBLIC_URL+"/data/weapons/"+id+"/image.jpg"} onError={this.loadAlternate}></img>
                 <span>{weapon.name}</span>
                
                 <div className="WeaponView-root-content">
@@ -51,14 +94,9 @@ class WeaponView extends React.Component
                             {
                                 return (
                                     <div className="WeaponView-table">
-                                        <DataRow name="Type" data={weapon.data.type}/>
-                                        <DataRow name="Guidance" data={weapon.data.guidance}/>
-                                        <DataRow name="Max Range" data={weapon.data.range.max}/>
-                                        <DataRow name="Min Range" data={weapon.data.range.min}/>
-                                        <DataRow name="Optimal Range" data={weapon.data.range.ideal}/>
-                                        <DataRow name="Warhead" data={weapon.data.warhead}/>
-                                        <DataRow name="Weight" data={weapon.data.weight}/>
-                                        <DataRow name="Use against" data={weapon.data.targets}/>
+                                        {
+                                            weapon.data ? Object.keys(weapon.data).map(key=> (<DataRow name={key} data={weapon.data[key]}/>)) : ""
+                                        }
                                     </div>
                                 );
                             }
@@ -70,14 +108,20 @@ class WeaponView extends React.Component
                         })()}
                     </div>
                     {
-                        weapon.instructions && weapon.instructions.length?
+                        weapon.aircraft && weapon.aircraft.length ?
                         (<div>
-                            <div>
-                                <span style={{fontSize:"1.5em"}}>Instructions</span>
-
+                            <div className="WeaponView-aircraftinstructions">
+                                <span>Instructions</span>
+                                <select value={selectedInstructionAircraft.id} onChange={this.selectedAircraftChanged}>
+                                    {
+                                        weapon.aircraft.map(plane=>(
+                                            <option value={plane.id}>{plane.name}</option>
+                                        ))
+                                    }
+                                </select>
                             </div>
                             {
-                                weapon.instructions ? weapon.instructions.map(instr=>(<span className="WeaponView-instruction">{instr}</span>)) : ""
+                                selectedInstructionAircraft.instructions ? selectedInstructionAircraft.instructions.map(instr=>(<span className="WeaponView-instruction">{instr}</span>)) : "No instructions"
                             }
                         </div>) : ""
                     }

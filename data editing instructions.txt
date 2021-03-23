@@ -79,7 +79,8 @@ This file consists of a json array with each object having the following format
 
 id - unique, only contains lower case letters and numbers, use a simplified name of the weapon
 name - name to be displayed on the weapon cards when viewing lists of weapons, also used when searching for weapons using the search bar
-tags - additional strings to search for when searching using the search bar, use this for alternate spellings and nicknames to make it easier for users to find what they're looking for
+tags - additional strings to search for when searching using the search bar, use this for alternate spellings and nicknames 
+       to make it easier for users to find what they're looking for
 
 ---[aim9x]---
 
@@ -93,31 +94,60 @@ The file contains a single json object
     "name": "AIM-9X Sidewinder",
     "description" : "sidey-windy",
     "data":{
-        "weight": "1kg",
-        "range":{ "max":"3m", "ideal":"2m", "min": "1m"},
-        "guidance": "Infared",
-        "type":"Short Range Air-to-Air Missile",
-        "warhead": "Half kg explosive",
-        "targets": "Aircraft"
+        "Weight": "1kg",
+        "Range": "far away",
+        "Guidance": "Infared",
+        "Type":"Short Range Air-to-Air Missile",
+        "Warhead": "high explosive",
+        "Targets": "Aircraft"
     },
-    "instructions":[
-        "Arm",
-        "Aim",
-        "Launch"
-    ],
     "aircraft" : [
-        {"id": "fa18c", "name":"F/A-18C"}
+        {
+            "id": "fa18c", 
+            "name":"F/A-18C",
+            "instructions":[
+                "Arm",
+                "Aim",
+                "Launch"
+            ]
+        }
     ]
 }
 
 name - Full name for the aircraft used only when viewing the weapon page
 description - general information about the weapon
-data - json object describing various properties of the weapon, if any of them are not relevant you can leave them out and they will not appear on the unique
- weight - weight of the weapon, please include units as well
- range - json object describing range of weapon "max" is the maximum range, "min" is the minimum range, and "ideal" is the optimal range. You can leave these out as well if some of them are not relevant
- guidance - should describe how the weapon is guided. Ex. Radar, Infrared, Active Radar, Semi Active Radar, Laser, Unguided, gunpods
- type - describe what type of weapon it is. Ex. air to air missile, air to surface missile, bomb, rocket
- warhead - describe what kind of warhead this weapon has. Ex. High explosive, High explosive anti tank, White phosphorus, smoke
- targets - describe what kind of targets the weapon was designed to be used against
-instructions - array of strings containing usage instructions for the weapon, each string should be it's own instruction. can be formated by using \n for newlines and \t for tabs. Spaces will also be preserved
+data - json object describing various properties of the weapon, you can define any property you would like here, try to keep the property names to only letters and numbers
 aircraft - array of json objects listing which aircrafts can use the weapon, "id" is the id of the aircraft, "name" is the name to show on the aircraft card
+           "instructions" is an array of strings containing usage instructions for the weapon, each string should be it's own instruction. 
+           can be formated by using \n for newlines and \t for tabs. Spaces will also be preserved
+
+
+Suggested weapon properties and some example values:
+
+Weight - 500lb, 10kg
+Min Range - 2nm, 2km
+Max Range - 40nm, 60km
+Optimal Range - 30nm, 40km
+Guidance - Infrared, Laser, Active Radar, Semi-Active Radar, Unguided, TV, GPS, Datalink
+Type - Missile, Bomb, Gunpod, Rocket, Fuel tank, Targeting pod, Air-to-Air Missile, Air-to-Ground Missile
+Warhead - High Explosive, Smoke, White-Phosphorus
+Use against - Aircraft, Armor, Soft-Armor, Radar, Ships
+
+
+---image files---
+
+storage on github pages is limited to 1GB per webstie, and bandwidth is limited to 100GB/month
+most users wont care much about image quality as the focus is more on the data being presented and loading the pages as fast as possible
+
+do not create images that are larger resolution then needed
+use jpg format as the small file sizes offset the loss of quality from the compression
+
+thumbnail.jpg
+- used on cards
+- minimum size width:250 heigth:160
+
+image.jpg
+- used on the weapon and aircraft pages for the main image
+- minimum size width:610 height:390
+
+if image.jpg is not found thumbnail.jpg will be loaded instead
