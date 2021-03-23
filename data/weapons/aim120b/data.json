@@ -3,19 +3,30 @@
     "description" : "Spamraam",
     "data":{
         "weight": "2kg",
-        "range":{ "max":"5m", "ideal":"6m", "min": "7m"},
+        "range": "far",
         "guidance": "Active Radar",
         "type":"Medium Range Active Air-to-Air Missile",
         "warhead": "Half kg explosive",
         "targets": "Aircraft"
     },
-    "instructions":[
-        "Arm",
-        "Aim",
-        "Launch"
-    ],
     "aircraft" : [
-        {"id": "fa18c", "name":"F/A-18C"},
-        {"id": "f15c", "name":"F-15C"}
+        {
+            "id": "fa18c", 
+            "name":"F/A-18C",
+            "instructions":[
+                "Arm",
+                "Aim",
+                "Launch"
+            ]
+        },
+        {
+            "id": "f15c", 
+            "name":"F-15C",
+            "instructions":[
+                "Arm 1",
+                "Aim 2",
+                "Launch 3"
+            ]
+        }
     ]
 }
