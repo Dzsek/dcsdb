@@ -1,17 +1,60 @@
 {
     "name":"McDonnel Douglass F/A-18C Hornet",
-    "description": "The McDonnell Douglas F/A-18 Hornet is a twin-engine, supersonic, all-weather, carrier-capable, multirole combat jet, designed as both a fighter and attack aircraft (hence the F/A designation). Designed by McDonnell Douglas (now part of Boeing) and Northrop (now part of Northrop Grumman), the F/A-18 was derived from the latter's YF-17 in the 1970s for use by the United States Navy and Marine Corps. The Hornet is also used by the air forces of several other nations, and formerly, by the U.S. Navy's Flight Demonstration Squadron, the Blue Angels. The F/A-18 was designed to be a highly versatile aircraft due to its avionics, cockpit displays, and excellent aerodynamic characteristics, with the ability to carry a wide variety of weapons. The aircraft can perform fighter escort, fleet air defense, suppression of enemy air defenses, air interdiction, close air support, and aerial reconnaissance. Its versatility and reliability have proven it to be a valuable carrier asset, though it has been criticized for its lack of range and payload compared to its earlier contemporaries, such as the Grumman F-14 Tomcat in the fighter and strike fighter role, and the Grumman A-6 Intruder and LTV A-7 Corsair II in the attack role. The Hornet first saw combat action during the 1986 United States bombing of Libya and subsequently participated in the 1991 Gulf War and 2003 Iraq War. The F/A-18 Hornet served as the baseline for the Boeing F/A-18E/F Super Hornet, its larger, evolutionary redesign.",
+    "description": "The McDonnell Douglas F/A-18 Hornet is a twin-engine, supersonic, all-weather, carrier-capable, multirole combat jet, designed as both a fighter and attack aircraft (hence the F/A designation). \n\nDesigned by McDonnell Douglas (now part of Boeing) and Northrop (now part of Northrop Grumman), the F/A-18 was derived from the latter's YF-17 in the 1970s for use by the United States Navy and Marine Corps.",
     "images": [],
     "weapons": {
         "aam": [
+            { "id":"aim9l", "name":"AIM-9L" },
+            { "id":"aim9m", "name":"AIM-9M" },
             { "id":"aim9x", "name":"AIM-9X" },
+            { "id":"cap9m", "name":"CAP-9M" },
             { "id":"aim7m", "name":"AIM-7M" },
-            { "id": "aim120b", "name":"AIM-120B"}
+            { "id":"aim7f", "name":"AIM-7F" },
+            { "id":"aim7mh", "name":"AIM-7MH" },
+            { "id": "aim120b", "name":"AIM-120B"},
+            { "id": "aim120c", "name":"AIM-120C"}
         ],
-        "agm": [],
-        "bomb": [],
-        "fuel": [],
-        "pod": [],
-        "rocket": []
+        "agm": [
+            { "id":"agm154a", "name":"AGM-154A" },
+            { "id":"agm154c", "name":"AGM-154C" },
+            { "id":"agm84d", "name":"AGM-84D" },
+            { "id":"agm84e", "name":"AGM-84E" },
+            { "id":"agm88c", "name":"AGM-88C" },
+            { "id":"agm65e", "name":"AGM-65E" },
+            { "id":"agm65f", "name":"AGM-65F" }
+        ],
+        "bomb": [
+            { "id":"bdu45", "name":"BDU-45" },
+            { "id":"bdu45b", "name":"BDU-45B" },
+            { "id":"bdu33", "name":"BDU-33" },
+            { "id":"cbu99", "name":"CBU-99" },
+            { "id":"mk20", "name":"Mk-20 Rockeye" },
+            { "id":"mk82", "name":"Mk-82" },
+            { "id":"mk82se", "name":"Mk-82 SnakeEye" },
+            { "id":"mk82y", "name":"Mk-82Y" },
+            { "id":"mk83", "name":"Mk-83" },
+            { "id":"mk84", "name":"Mk-84" },
+            { "id":"gbu10", "name":"GBU-10" },
+            { "id":"gbu12", "name":"GBU-12" },
+            { "id":"gbu16", "name":"GBU-16" },
+            { "id":"gbu24", "name":"GBU-24" },
+            { "id":"gbu31v1b", "name":"GBU-31(V)1/B" },
+            { "id":"gbu31v2b", "name":"GBU-31(V)2/B" },
+            { "id":"gbu31v3b", "name":"GBU-31(V)3/B" },
+            { "id":"gbu31v4b", "name":"GBU-31(V)4/B" },
+            { "id":"gbu32v2b", "name":"GBU-32(V)2/B" },
+            { "id":"gbu38", "name":"GBU-38" }
+        ],
+        "fuel": [
+            { "id":"fpu8a", "name":"FPU-8A Fuel Tank 330 gallons" }
+        ],
+        "pod": [
+            { "id":"anaaq28", "name":"AN/AAQ-28 LITENING" },
+            { "id":"aww13", "name":"AWW-13 DATALINK POD" }
+        ],
+        "rocket": [
+            { "id":"zuni", "name":"ZUNI MK 71" },
+            { "id":"m151", "name":"2.75' rocket M151 (HE)" }
+        ]
     }
 }
