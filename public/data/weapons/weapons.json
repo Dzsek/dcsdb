@@ -1,17 +1,40 @@
 [
-    {
-        "id":"aim9x",
-        "name":"AIM-9X",
-        "tags": ["sidewinder", "ir", "fox2", "heatseaker", "aa", "missile"]
-    },
-    {
-        "id":"aim7m",
-        "name":"AIM-7M",
-        "tags":["sparrow", "sahr", "fox1", "semiactive", "aa", "missile"]
-    },
-    {
-        "id":"aim120b",
-        "name":"AIM-120B",
-        "tags":["amraam", "active", "fox3", "aa", "missile"]
-    }
+  {
+    "category": "aam",
+    "tags": [
+      "amraam",
+      "active",
+      "fox3",
+      "aa",
+      "missile"
+    ],
+    "id": "aim120b",
+    "name": "AIM-120B"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "sparrow",
+      "sahr",
+      "fox1",
+      "semiactive",
+      "aa",
+      "missile"
+    ],
+    "id": "aim7m",
+    "name": "AIM-7M"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "sidewinder",
+      "ir",
+      "fox2",
+      "heatseaker",
+      "aa",
+      "missile"
+    ],
+    "id": "aim9x",
+    "name": "AIM-9X"
+  }
 ]

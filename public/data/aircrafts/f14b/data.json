@@ -1,6 +1,13 @@
 {
-    "name":"Grumman F-14B Tomcat",
-    "description": "Is nice and wide",
-    "images": [],
-    "weapons": []
+  "id": "f14b",
+  "name": "test",
+  "description": null,
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7m",
+      "name": "AIM-7M"
+    }
+  ]
 }

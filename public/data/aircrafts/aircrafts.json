@@ -1,27 +1,44 @@
 [
-    {
-        "id":"fa18c",
-        "name":"F/A-18C",
-        "tags": ["hornet","navy","carrier", "fighter", "multirole", "a2a", "aa", "ag","a2g", "modern", "f18"]
-    },
-    {
-        "id":"f15c",
-        "name":"F-15C",
-        "tags":["eagle","usaf","fighter","aa","a2a","modern"]
-    },
-    {
-        "id":"f14b",
-        "name":"F-14B",
-        "tags":["tomcat","topgun","navy","fighter","aa","a2a", "coldwar"]
-    },
-    {
-        "id":"mig21bis",
-        "name":"MiG-21bis",
-        "tags":["fishbed","aa","a2a","coldwar","redfor"]
-    },
-    {
-        "id":"av8b",
-        "name":"AV-8B",
-        "tags":["harrier","a2g", "ag", "vtol", "marines", "modern"]
-    }
+  {
+    "tags": [
+      "hornet",
+      "navy",
+      "carrier",
+      "fighter",
+      "multirole",
+      "a2a",
+      "aa",
+      "ag",
+      "a2g",
+      "modern",
+      "f18"
+    ],
+    "id": "fa18c",
+    "name": "F/A-18C"
+  },
+  {
+    "tags": [
+      "tomcat",
+      "navy",
+      "fighter",
+      "aa",
+      "a2a",
+      "coldwar",
+      "topgun"
+    ],
+    "id": "f14b",
+    "name": "F-14B"
+  },
+  {
+    "tags": [
+      "eagle",
+      "usaf",
+      "fighter",
+      "aa",
+      "a2a",
+      "modern"
+    ],
+    "id": "f15c",
+    "name": "F-15C"
+  }
 ]

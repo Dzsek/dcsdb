@@ -1,9 +1,23 @@
 {
-    "name": "AIM-7M Sparrow",
-    "description" : "eh",
-    "aircraft" : [
-        {"id": "fa18c", "name":"F/A-18C"}, 
-        {"id": "f14b", "name":"F-14B"},
-        {"id": "f15c", "name":"F-15C"}
-    ]
+  "id": "aim7m",
+  "name": "AIM-7M Sparrow",
+  "description": "eh",
+  "data": {},
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "fa18c",
+      "name": "F/A-18C"
+    },
+    {
+      "instructions": [],
+      "id": "f14b",
+      "name": "F-14B"
+    },
+    {
+      "instructions": [],
+      "id": "f15c",
+      "name": "F-15C"
+    }
+  ]
 }

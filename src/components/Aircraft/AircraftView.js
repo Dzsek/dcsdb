@@ -26,6 +26,17 @@ class AircraftView extends React.Component
         .then(res=>res.json())
         .then(
             (result)=>{
+                result.weapongroups = {};
+                for(let w of result.weapons)
+                {
+                    if(!result.weapongroups[w.category])
+                    {
+                        result.weapongroups[w.category] = [];
+                    }
+
+                    result.weapongroups[w.category].push(w);
+                }
+
                 this.setState({
                     aircraft: result
                 })
@@ -54,12 +65,12 @@ class AircraftView extends React.Component
                 <span>{aircraft.name}</span>
                 <div className="AircraftView-root-content">
                         {(()=>{
-                            if(aircraft.weapons)
+                            if(aircraft.weapongroups)
                             {
                                 let results = [];
-                                for(let groupid in aircraft.weapons)
+                                for(let groupid in aircraft.weapongroups)
                                 {
-                                    let group = aircraft.weapons[groupid];
+                                    let group = aircraft.weapongroups[groupid];
                                     if(group && group.length)
                                     {
                                         results.push(<WeaponGroup id={groupid} group={group} aircraftid={id}/>);
