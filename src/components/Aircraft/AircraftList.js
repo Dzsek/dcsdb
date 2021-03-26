@@ -47,7 +47,7 @@ class AircraftList extends React.Component{
 
                             return f.name.toLowerCase().includes(filter) || planename.includes(filter) || foundintag;
                         })
-                        // .slice(0,20)
+                        .sort((a,b)=>a.name-b.name)
                         .map(plane=>
                         (
                             <AircraftCard key={plane.id}  plane={plane}/>

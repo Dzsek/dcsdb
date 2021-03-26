@@ -13,11 +13,7 @@
   },
   "aircraft": [
     {
-      "instructions": [
-        "Arm",
-        "Aim",
-        "Launch"
-      ],
+      "instructions": [],
       "id": "fa18c",
       "name": "F/A-18C"
     }

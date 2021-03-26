@@ -2,24 +2,5 @@
   "id": "f15c",
   "name": "McDonnell Douglas F-15 Eagle",
   "description": "Is nice and leggy",
-  "weapons": [
-    {
-      "category": "aam",
-      "tags": [],
-      "id": "aim7m",
-      "name": "AIM-7M"
-    },
-    {
-      "category": "aam",
-      "tags": [],
-      "id": "aim120b",
-      "name": "AIM-120B"
-    },
-    {
-      "category": "aam",
-      "tags": [],
-      "id": "aim9x",
-      "name": "AIM-9X"
-    }
-  ]
+  "weapons": []
 }

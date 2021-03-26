@@ -45,9 +45,11 @@ class WeaponList extends React.Component{
                                 }
                             }
 
-                            return f.name.toLowerCase().includes(filter) || weaponname.includes(filter) || foundintag;
+                            let foundincategory = f.category.toLowerCase().includes(filter);
+
+                            return f.name.toLowerCase().includes(filter) || weaponname.includes(filter) || foundintag || foundincategory;
                         })
-                        // .slice(0,20)
+                        .sort((a,b)=>a.name-b.name)
                         .map(weapon=>
                         (
                             <WeaponCard key={weapon.id}  weapon={weapon}/>

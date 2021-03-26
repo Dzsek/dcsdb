@@ -26,7 +26,7 @@ class AircraftView extends React.Component
         .then(res=>res.json())
         .then(
             (result)=>{
-                result.weapongroups = {};
+                result.weapongroups = { "aam":[],"agm":[],"bomb":[],"fuel":[],"pod":[],"rocket":[] };
                 for(let w of result.weapons)
                 {
                     if(!result.weapongroups[w.category])
@@ -144,7 +144,7 @@ class WeaponGroup extends React.Component
                 </div>
                 <div className={"WeaponGroup-root-content " + (!isOpen ? "collapsed" : "")}>
                     {
-                        isOpen ? group.map(weapon=>(
+                        isOpen ? group.sort((a,b)=> a.name-b.name).map(weapon=>(
                             <WeaponCard key={weapon.id} weapon={weapon} aircraftid={aircraftid}/>
                             ))
                             :
