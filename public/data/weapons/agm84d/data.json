@@ -2,7 +2,14 @@
   "id": "agm84d",
   "name": "agm84d",
   "description": "agm84d",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

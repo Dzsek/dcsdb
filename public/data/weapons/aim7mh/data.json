@@ -2,7 +2,14 @@
   "id": "aim7mh",
   "name": "aim7mh",
   "description": "aim7mh",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

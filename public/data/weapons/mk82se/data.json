@@ -2,7 +2,14 @@
   "id": "mk82se",
   "name": "mk82se",
   "description": "mk82se",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

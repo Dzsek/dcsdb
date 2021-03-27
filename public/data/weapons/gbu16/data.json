@@ -2,7 +2,14 @@
   "id": "gbu16",
   "name": "gbu16",
   "description": "gbu16",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

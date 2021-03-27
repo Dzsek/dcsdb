@@ -2,7 +2,14 @@
   "id": "aim7m",
   "name": "AIM-7M Sparrow",
   "description": "eh",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

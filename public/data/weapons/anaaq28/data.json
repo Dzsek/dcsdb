@@ -2,7 +2,14 @@
   "id": "anaaq28",
   "name": "anaaq28",
   "description": "anaaq28",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

@@ -2,7 +2,14 @@
   "id": "agm88c",
   "name": "agm88c",
   "description": "agm88c",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

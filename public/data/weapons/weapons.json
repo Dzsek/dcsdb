@@ -1,13 +1,19 @@
 [
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "hydra",
+      "ag"
+    ],
     "id": "m151he",
     "name": "2.75' rocket M151 (HE)"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "ag",
+      "hydra"
+    ],
     "id": "mk5he",
     "name": "2.75' rocket MK5 (HE)"
   },

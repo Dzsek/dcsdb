@@ -2,7 +2,14 @@
   "id": "gbu31v4b",
   "name": "gbu31v4b",
   "description": "gbu31v4b",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],
