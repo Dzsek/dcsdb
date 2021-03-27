@@ -1,0 +1,20 @@
+{
+  "id": "cap9m",
+  "name": "",
+  "description": "",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "fa18c",
+      "name": "F/A-18C"
+    }
+  ]
+}

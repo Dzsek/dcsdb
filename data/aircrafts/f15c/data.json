@@ -1,16 +1,6 @@
 {
-    "name":"McDonnell Douglas F-15 Eagle",
-    "description": "Is nice and leggy",
-    "images": [],
-    "weapons": {
-        "aam": [
-            { "id":"aim7m", "name":"AIM-7M" },
-            { "id": "aim120b", "name":"AIM-120B"}
-        ],
-        "agm": [],
-        "bomb": [],
-        "fuel": [],
-        "pod": [],
-        "rocket": []
-    }
+  "id": "f15c",
+  "name": "McDonnell Douglas F-15 Eagle",
+  "description": "Is nice and leggy",
+  "weapons": []
 }

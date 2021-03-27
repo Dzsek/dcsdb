@@ -1,0 +1,20 @@
+{
+  "id": "gbu38",
+  "name": "gbu38",
+  "description": "gbu38",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "fa18c",
+      "name": "F/A-18C"
+    }
+  ]
+}

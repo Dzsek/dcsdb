@@ -1,0 +1,20 @@
+{
+  "id": "mk71zuni",
+  "name": "mk71zuni",
+  "description": "mk71zuni",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "fa18c",
+      "name": "F/A-18C"
+    }
+  ]
+}

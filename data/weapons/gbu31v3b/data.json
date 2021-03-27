@@ -1,0 +1,20 @@
+{
+  "id": "gbu31v3b",
+  "name": "gbu31v3b",
+  "description": "gbu31v3b",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "fa18c",
+      "name": "F/A-18C"
+    }
+  ]
+}

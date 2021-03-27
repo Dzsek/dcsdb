@@ -1,0 +1,20 @@
+{
+  "id": "agm154a",
+  "name": "AGM-154A Joint Standoff Weapon",
+  "description": "The AGM-154 Joint Standoff Weapon (JSOW) is a glide bomb that resulted from a joint venture between the United States Navy and Air Force to deploy a standardized medium range precision guided weapon, especially for engagement of defended targets from outside the range of standard anti-aircraft defenses, thereby increasing aircraft survivability and minimizing friendly losses.\r\n\r\nThe A version releases 145 BLU-97/B bomblets upon reaching the target area.",
+  "data": {
+    "Weight": "490 kg",
+    "Range": "22 km to 130 km (depending on release altitude)",
+    "Guidance": "GPS",
+    "Type": "JSOW",
+    "Warhead": "BLU-97/B bomblets x 145",
+    "Targets": "Soft Targets, Tanks"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "fa18c",
+      "name": "F/A-18C"
+    }
+  ]
+}

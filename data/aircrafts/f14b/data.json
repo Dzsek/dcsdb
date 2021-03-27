@@ -1,6 +1,6 @@
 {
-    "name":"Grumman F-14B Tomcat",
-    "description": "Is nice and wide",
-    "images": [],
-    "weapons": []
+  "id": "f14b",
+  "name": "test",
+  "description": null,
+  "weapons": []
 }

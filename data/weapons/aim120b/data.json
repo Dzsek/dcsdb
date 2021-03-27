@@ -1,32 +1,20 @@
 {
-    "name": "AIM-120B AMRAAM",
-    "description" : "Spamraam",
-    "data":{
-        "weight": "2kg",
-        "range": "far",
-        "guidance": "Active Radar",
-        "type":"Medium Range Active Air-to-Air Missile",
-        "warhead": "Half kg explosive",
-        "targets": "Aircraft"
-    },
-    "aircraft" : [
-        {
-            "id": "fa18c", 
-            "name":"F/A-18C",
-            "instructions":[
-                "Arm",
-                "Aim",
-                "Launch"
-            ]
-        },
-        {
-            "id": "f15c", 
-            "name":"F-15C",
-            "instructions":[
-                "Arm 1",
-                "Aim 2",
-                "Launch 3"
-            ]
-        }
-    ]
+  "id": "aim120b",
+  "name": "AIM-120B AMRAAM",
+  "description": "The AIM-120 Advanced Medium-Range Air-to-Air Missile, or AMRAAM (pronounced AM-ram), is an American beyond-visual-range air-to-air missile capable of all-weather day-and-night operations. \r\n\r\nDesigned with a 7-inch (180mm) diameter form-and-fit factor, and employing active transmit-receive radar guidance instead of semi-active receive-only radar guidance, it has the advantage of being a fire-and-forget weapon when compared to the previous generation Sparrow missiles.",
+  "data": {
+    "Weight": "152 kg",
+    "Range": "55-75 km",
+    "Guidance": "Active Radar",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "High explosive blast-fragmentation",
+    "Targets": "Aircraft"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "fa18c",
+      "name": "F/A-18C"
+    }
+  ]
 }

@@ -1,17 +1,345 @@
 [
-    {
-        "id":"aim9x",
-        "name":"AIM-9X",
-        "tags": ["sidewinder", "ir", "fox2", "heatseaker", "aa", "missile"]
-    },
-    {
-        "id":"aim7m",
-        "name":"AIM-7M",
-        "tags":["sparrow", "sahr", "fox1", "semiactive", "aa", "missile"]
-    },
-    {
-        "id":"aim120b",
-        "name":"AIM-120B",
-        "tags":["amraam", "active", "fox3", "aa", "missile"]
-    }
+  {
+    "category": "rocket",
+    "tags": [
+      "hydra",
+      "ag"
+    ],
+    "id": "m151he",
+    "name": "2.75' rocket M151 (HE)"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "ag",
+      "hydra"
+    ],
+    "id": "mk5he",
+    "name": "2.75' rocket MK5 (HE)"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "jsow"
+    ],
+    "id": "agm154a",
+    "name": "AGM-154A JSOW"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "jsow"
+    ],
+    "id": "agm154c",
+    "name": "AGM-154C JSOW"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "walleye",
+      "tv"
+    ],
+    "id": "agm62",
+    "name": "AGM-62 Walleye II"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "laser",
+      "maverick"
+    ],
+    "id": "agm65e",
+    "name": "AGM-65E Maverick"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "maverick",
+      "infrared"
+    ],
+    "id": "agm65f",
+    "name": "AGM-65F Maverick"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "antiship"
+    ],
+    "id": "agm84d",
+    "name": "AGM-84D Harpoon"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "slam",
+      "cruise"
+    ],
+    "id": "agm84e",
+    "name": "AGM-84E SLAM"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "sead",
+      "harm",
+      "antiradiation"
+    ],
+    "id": "agm88c",
+    "name": "AGM-88C HARM"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "amraam",
+      "active",
+      "fox3",
+      "aa",
+      "missile"
+    ],
+    "id": "aim120b",
+    "name": "AIM-120B"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "amraam",
+      "active",
+      "fox3",
+      "missile",
+      "aa"
+    ],
+    "id": "aim120c",
+    "name": "AIM-120C"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "sparrow",
+      "sahr",
+      "fox1",
+      "semiactive",
+      "aa",
+      "missile"
+    ],
+    "id": "aim7f",
+    "name": "AIM-7F"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "sparrow",
+      "sahr",
+      "fox1",
+      "semiactive",
+      "aa",
+      "missile"
+    ],
+    "id": "aim7m",
+    "name": "AIM-7M"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "sparrow",
+      "sahr",
+      "semiactive",
+      "fox1",
+      "aa",
+      "missile"
+    ],
+    "id": "aim7mh",
+    "name": "AIM-7MH"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "aa",
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "infrared"
+    ],
+    "id": "aim9l",
+    "name": "AIM-9L"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "aa",
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "infrared"
+    ],
+    "id": "aim9m",
+    "name": "AIM-9M"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "aa",
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "infrared"
+    ],
+    "id": "aim9x",
+    "name": "AIM-9X"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "anaaq28",
+    "name": "AN/AAW-28 LITENING"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "aww13",
+    "name": "AWW-13 Datalink Pod"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "bdu33",
+    "name": "BDU-33"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "bdu45",
+    "name": "BDU-45"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "bdu45b",
+    "name": "BDU-45B"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "cap9m",
+    "name": "CAP-9M"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "cbu99",
+    "name": "CBU-99"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fpu8a",
+    "name": "FPU-8A Fuel Tank 330 gallons"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "gbu10",
+    "name": "GBU-10"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "gbu12",
+    "name": "GBU-12"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "gbu16",
+    "name": "GBU-16"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "gbu24",
+    "name": "GBU-24"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "gbu31v1b",
+    "name": "GBU-31(V)1/B"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "gbu31v2b",
+    "name": "GBU-31(V)2/B"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "gbu31v3b",
+    "name": "GBU-31(V)3/B"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "gbu31v4b",
+    "name": "GBU-31(V)4/B"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "gbu32v2b",
+    "name": "GBU-32(V)2/B"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "gbu38",
+    "name": "GBU-38"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "mk20",
+    "name": "Mk-20"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "mk82",
+    "name": "Mk-82"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "mk82se",
+    "name": "Mk-82 SnakeEye"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "mk82y",
+    "name": "Mk-82Y"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "mk83",
+    "name": "Mk-83"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "mk84",
+    "name": "Mk-84"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "mk71zuni",
+    "name": "ZUNI MK 71"
+  }
 ]

@@ -1,0 +1,20 @@
+{
+  "id": "aim9m",
+  "name": "AIM-9M Sidewinder",
+  "description": "The AIM-9 Sidewinder is a short-range air-to-air missile which entered service with the US Navy in 1956 and subsequently was adopted by the US Air Force in 1964. \r\n\r\nSince then the Sidewinder has proved to be an enduring international success, and its latest variants are still standard equipment in most western-aligned air forces.\r\n\r\nThe Mike version improves apon the Lime version by providing all-around higher performance, a reduced-smoke rocket motor and improved capability against flares.",
+  "data": {
+    "Weight": "86 kg",
+    "Range": "1 - 35.4 km",
+    "Guidance": "Infrared",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "21 lb annular blast-fragmentation",
+    "Targets": "Aircraft"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "fa18c",
+      "name": "F/A-18C"
+    }
+  ]
+}

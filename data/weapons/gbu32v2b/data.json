@@ -1,0 +1,20 @@
+{
+  "id": "gbu32v2b",
+  "name": "gbu32v2b",
+  "description": "gbu32v2b",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "fa18c",
+      "name": "F/A-18C"
+    }
+  ]
+}
