@@ -1,14 +1,11 @@
 {
   "id": "bdu33",
-  "name": "bdu33",
-  "description": "bdu33",
+  "name": "BDU-33",
+  "description": "Training bomb",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Training bomb",
+    "Warhead": "None"
   },
   "aircraft": [
     {

@@ -109,7 +109,7 @@ class WeaponView extends React.Component
                     </div>
                     {
                         weapon.aircraft && weapon.aircraft.length ?
-                        (<div>
+                        (<div style={{display:"none"}}>
                             <div className="WeaponView-aircraftinstructions">
                                 <span>Notes</span>
                                 <select value={selectedInstructionAircraft.id} onChange={this.selectedAircraftChanged}>
