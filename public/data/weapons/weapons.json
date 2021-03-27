@@ -66,19 +66,26 @@
       "antiship"
     ],
     "id": "agm84d",
-    "name": "AGM-84D"
+    "name": "AGM-84D Harpoon"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "slam",
+      "cruise"
+    ],
     "id": "agm84e",
-    "name": "AGM-84E"
+    "name": "AGM-84E SLAM"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "sead",
+      "harm",
+      "antiradiation"
+    ],
     "id": "agm88c",
-    "name": "AGM-88C"
+    "name": "AGM-88C HARM"
   },
   {
     "category": "aam",
@@ -94,13 +101,26 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "amraam",
+      "active",
+      "fox3",
+      "missile",
+      "aa"
+    ],
     "id": "aim120c",
     "name": "AIM-120C"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "sparrow",
+      "sahr",
+      "fox1",
+      "semiactive",
+      "aa",
+      "missile"
+    ],
     "id": "aim7f",
     "name": "AIM-7F"
   },
@@ -119,31 +139,55 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "sparrow",
+      "sahr",
+      "semiactive",
+      "fox1",
+      "aa",
+      "missile"
+    ],
     "id": "aim7mh",
     "name": "AIM-7MH"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "aa",
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "infrared"
+    ],
     "id": "aim9l",
     "name": "AIM-9L"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "aa",
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "infrared"
+    ],
     "id": "aim9m",
     "name": "AIM-9M"
   },
   {
     "category": "aam",
     "tags": [
+      "aa",
+      "missile",
       "sidewinder",
-      "ir",
       "fox2",
       "heatseaker",
-      "aa",
-      "missile"
+      "ir",
+      "infrared"
     ],
     "id": "aim9x",
     "name": "AIM-9X"
