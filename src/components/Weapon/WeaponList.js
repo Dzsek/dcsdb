@@ -32,6 +32,33 @@ class WeaponList extends React.Component{
                         .filter(f=> {
                             let weaponname = f.name.replaceAll(' ','').replaceAll('-','').replaceAll('/','').replaceAll('.','').toLowerCase();
                             let filter = this.props.filter.replaceAll(' ','').toLowerCase();
+
+                            if(f.category==="aam")
+                            {
+                                f.tags.push("airtoair")
+                            }
+
+                            if(f.category==="agm")
+                            {
+                                f.tags.push("airtoground")
+                            }
+                            
+                            if(f.category==="bomb")
+                            {
+                                f.tags.push("bombs")
+                            }
+                            
+                            if(f.category==="pod")
+                            {
+                                f.tags.push("pods")
+                                f.tags.push("sensors")
+                            }
+                            
+                            if(f.category==="rocket")
+                            {
+                                f.tags.push("rockets")
+                            }
+
                             let foundintag = false;
                             if(f.tags)
                             {
