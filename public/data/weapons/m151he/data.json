@@ -3,8 +3,8 @@
   "name": "Hydra 70 M151 (HE)",
   "description": "The Hydra 70 rocket is a 2.75-inch (70 mm) diameter fin-stabilized unguided rocket used primarily in the air-to-ground role.\r\n\r\nIt can be equipped with a variety of warheads, this particular version using the M151 High Explosive warhead.",
   "data": {
-    "Weight": "6.2 Kg",
-    "Range": "8.8 Km",
+    "Weight": "6.2 kg",
+    "Range": "8.8 km",
     "Guidance": "Unguided",
     "Type": "Rocket",
     "Warhead": "High Explosive",
