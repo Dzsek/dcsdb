@@ -1,7 +1,7 @@
 {
   "id": "aim7f",
   "name": "AIM-7F Sparrow",
-  "description": "The AIM-7 Sparrow is an American, medium-range semi-active radar homing air-to-air missile operated by the United States Air Force, United States Navy, and United States Marine Corps, as well as other various air forces and navies. \r\n\r\nSparrow and its derivatives were the West's principal beyond visual range air-to-air missile from the late 1950s until the 1990s. \r\n\r\nIt remains in service, although it is being phased out in aviation applications in favor of the more advanced AIM-120 AMRAAM.",
+  "description": "The AIM-7 Sparrow is an American, medium-range semi-active radar homing air-to-air missile operated by the United States Air Force, United States Navy, and United States Marine Corps, as well as other various air forces and navies. \r\n\r\nSparrow and its derivatives were the West's principal beyond visual range air-to-air missile from the late 1950s until the 1990s. \r\n\r\nIt remains in service, although it is being phased out in aviation applications in favor of the more advanced AIM-120 AMRAAM.\r\n\r\nThe F version, which entered service in 1976, had a dual-stage rocket motor for longer range, solid-state electronics for greatly improved reliability, and a larger warhead. ",
   "data": {
     "Weight": "230 kg",
     "Range": "70 km",
