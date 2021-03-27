@@ -111,7 +111,7 @@ class WeaponView extends React.Component
                         weapon.aircraft && weapon.aircraft.length ?
                         (<div>
                             <div className="WeaponView-aircraftinstructions">
-                                <span>Instructions</span>
+                                <span>Notes</span>
                                 <select value={selectedInstructionAircraft.id} onChange={this.selectedAircraftChanged}>
                                     {
                                         weapon.aircraft.map(plane=>(
@@ -125,7 +125,7 @@ class WeaponView extends React.Component
                             }
                         </div>) : ""
                     }
-                    <div>
+                    <div className="WeaponView-root-description">
                         <p>{weapon.description}</p>
                     </div>
                 </div>

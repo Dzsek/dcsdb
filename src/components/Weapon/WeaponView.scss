@@ -111,6 +111,10 @@
     }
 }
 
+.WeaponView-root-description{
+    white-space: pre-wrap;
+}
+
 .WeaponView-table{
     display:grid;
     grid-template-columns: min-content auto;
