@@ -36,16 +36,20 @@ class WeaponList extends React.Component{
                             if(f.category==="aam")
                             {
                                 f.tags.push("airtoair")
+                                f.tags.push("aa")
                             }
 
                             if(f.category==="agm")
                             {
                                 f.tags.push("airtoground")
+                                f.tags.push("ag")
                             }
                             
                             if(f.category==="bomb")
                             {
                                 f.tags.push("bombs")
+                                f.tags.push("airtoground")
+                                f.tags.push("ag")
                             }
                             
                             if(f.category==="pod")
@@ -57,6 +61,8 @@ class WeaponList extends React.Component{
                             if(f.category==="rocket")
                             {
                                 f.tags.push("rockets")
+                                f.tags.push("airtoground")
+                                f.tags.push("ag")
                             }
 
                             let foundintag = false;
