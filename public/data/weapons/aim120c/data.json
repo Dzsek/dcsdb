@@ -2,7 +2,14 @@
   "id": "aim120c",
   "name": "AIM-120C AMRAAM",
   "description": "",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

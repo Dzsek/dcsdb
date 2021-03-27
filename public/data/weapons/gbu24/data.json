@@ -2,7 +2,14 @@
   "id": "gbu24",
   "name": "gbu24",
   "description": "gbu24",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

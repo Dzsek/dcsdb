@@ -2,7 +2,14 @@
   "id": "mk71zuni",
   "name": "mk71zuni",
   "description": "mk71zuni",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

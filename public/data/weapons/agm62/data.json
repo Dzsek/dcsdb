@@ -2,7 +2,14 @@
   "id": "agm62",
   "name": "agm62",
   "description": "agm62",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

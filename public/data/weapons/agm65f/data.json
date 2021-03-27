@@ -2,7 +2,14 @@
   "id": "agm65f",
   "name": "agm65f",
   "description": "agm65f",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

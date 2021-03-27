@@ -2,7 +2,14 @@
   "id": "bdu45b",
   "name": "bdu45b",
   "description": "bdu45b",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

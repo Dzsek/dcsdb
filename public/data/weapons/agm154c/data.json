@@ -2,7 +2,14 @@
   "id": "agm154c",
   "name": "agm154c",
   "description": "agm154c",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

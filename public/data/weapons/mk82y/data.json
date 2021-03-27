@@ -2,7 +2,14 @@
   "id": "mk82y",
   "name": "mk82y",
   "description": "mk82y",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],

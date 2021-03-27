@@ -2,7 +2,14 @@
   "id": "cbu99",
   "name": "cbu99",
   "description": "cbu99",
-  "data": {},
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
   "aircraft": [
     {
       "instructions": [],
