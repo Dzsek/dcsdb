@@ -1,14 +1,12 @@
 {
   "id": "bdu45",
-  "name": "bdu45",
-  "description": "bdu45",
+  "name": "BDU-45",
+  "description": "Training bomb",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Weight": "239 kg",
+    "Guidance": "Unguided",
+    "Type": "Training bomb",
+    "Warhead": "None"
   },
   "aircraft": [
     {

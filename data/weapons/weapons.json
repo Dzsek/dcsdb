@@ -194,43 +194,65 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "litening",
+      "lightning",
+      "tgp",
+      "tpod",
+      "targeting"
+    ],
     "id": "anaaq28",
-    "name": "AN/AAW-28 LITENING"
+    "name": "AN/AAQ-28 LITENING"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "datalink"
+    ],
     "id": "aww13",
-    "name": "AWW-13 Datalink Pod"
+    "name": "AN/AWW-13 Datalink Pod"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "training",
+      "practice"
+    ],
     "id": "bdu33",
     "name": "BDU-33"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "practice",
+      "training"
+    ],
     "id": "bdu45",
     "name": "BDU-45"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "training",
+      "practice"
+    ],
     "id": "bdu45b",
     "name": "BDU-45B"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "training",
+      "practice"
+    ],
     "id": "cap9m",
     "name": "CAP-9M"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "cluster"
+    ],
     "id": "cbu99",
     "name": "CBU-99"
   },
