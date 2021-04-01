@@ -22,11 +22,22 @@ class SearchBar extends React.Component
         if(this.props.searchText.includes(data))
         {
             let newtext = this.props.searchText.replaceAll(data, "").replaceAll("  "," ");
+            if(newtext===" ")
+            {
+                newtext = "";
+            }
+
             this.props.onSearchTextChanged(newtext);
         }
         else
         {
-            let newtext = this.props.searchText + " " + data;
+            let newtext = this.props.searchText;
+            if(newtext.length)
+            {
+                newtext += " " 
+            }
+
+            newtext += data;
             this.props.onSearchTextChanged(newtext);
         }
     }
