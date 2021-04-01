@@ -2,6 +2,7 @@ import React from 'react';
 import './WeaponPage.scss';
 import WeaponList from './WeaponList';
 import SearchBar from '../Common/SearchBar';
+import {WeaponSearchTerms} from '../../helper/Helper';
 
 class WeaponPage extends React.Component
 {
@@ -10,7 +11,7 @@ class WeaponPage extends React.Component
         super(props);
         this.state={
             searchText : "",
-            searchterms : ["Air-to-Ground", "Air-to-Air", "Bomb", "Rocket", "Pod", "Fuel", "GPS", "Radar", "Laser"]
+            searchterms : WeaponSearchTerms
         }
 
         this.handleSearchTextChanged = this.handleSearchTextChanged.bind(this);

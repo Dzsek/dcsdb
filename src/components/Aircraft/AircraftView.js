@@ -3,6 +3,8 @@ import {withRouter} from 'react-router-dom';
 import './AircraftView.scss';
 import BackButton from '../Common/BackButton';
 import WeaponCard from '../Weapon/WeaponCard';
+import SearchBar from '../Common/SearchBar';
+import {OptimizeWeaponTags, FilterByTags, WeaponSearchTerms} from "../../helper/Helper";
 
 class AircraftView extends React.Component
 {
@@ -11,10 +13,13 @@ class AircraftView extends React.Component
         super(props);
         this.state={
             aircraft:{},
-            id: ""
+            id: "",
+            searchText: "",
+            searchterms: WeaponSearchTerms
         }
 
         this.loadAlternate = this.loadAlternate.bind(this);
+        this.handleSearchTextChanged = this.handleSearchTextChanged.bind(this);
     }
 
     componentDidMount()
@@ -25,23 +30,33 @@ class AircraftView extends React.Component
         fetch(process.env.PUBLIC_URL+"/data/aircrafts/"+params.id+"/data.json")
         .then(res=>res.json())
         .then(
-            (result)=>{
-                result.weapongroups = { "aam":[],"agm":[],"bomb":[],"fuel":[],"pod":[],"rocket":[] };
-                for(let w of result.weapons)
-                {
-                    if(!result.weapongroups[w.category])
+            (aircraftdata)=>{
+                fetch(process.env.PUBLIC_URL+"/data/weapons/weapons.json").then(res=>res.json()).then((weaponlist)=>{
+                    aircraftdata.weapongroups = { "aam":[],"agm":[],"bomb":[],"fuel":[],"pod":[],"rocket":[] };
+                    for(let w of aircraftdata.weapons)
                     {
-                        result.weapongroups[w.category] = [];
+                        w.tags = weaponlist.find(x=>x.id===w.id).tags;
+                        OptimizeWeaponTags(w);
+
+                        if(!aircraftdata.weapongroups[w.category])
+                        {
+                            aircraftdata.weapongroups[w.category] = [];
+                        }
+    
+                        aircraftdata.weapongroups[w.category].push(w);
                     }
-
-                    result.weapongroups[w.category].push(w);
-                }
-
-                this.setState({
-                    aircraft: result
-                })
+    
+                    this.setState({
+                        aircraft: aircraftdata
+                    })
+                });
             }
         )
+    }
+
+    handleSearchTextChanged(e)
+    {
+        this.setState({searchText: e});
     }
 
     loadAlternate(ev)
@@ -57,13 +72,14 @@ class AircraftView extends React.Component
         const query = new URLSearchParams(this.props.location.search);
         const fromId = query.get('from');
 
-        const {aircraft, id} = this.state;
+        const {aircraft, id, searchText} = this.state;
         return (
             <div className="AircraftView-root">
                 <BackButton className="AircraftView-root-backbutton" returnTo={fromId ? "/weapon/"+fromId : "/aircraft"}/>
                 <img alt={aircraft.name} src={process.env.PUBLIC_URL+"/data/aircrafts/"+id+"/image.jpg"} onError={this.loadAlternate}></img>
                 <span>{aircraft.name}</span>
                 <div className="AircraftView-root-content">
+                        <SearchBar searchText={searchText} onSearchTextChanged={this.handleSearchTextChanged} chips={this.state.searchterms}/>
                         {(()=>{
                             if(aircraft.weapongroups)
                             {
@@ -71,13 +87,14 @@ class AircraftView extends React.Component
                                 for(let groupid in aircraft.weapongroups)
                                 {
                                     let group = aircraft.weapongroups[groupid];
+                                    group = group.filter(f=> FilterByTags(searchText, f));
                                     if(group && group.length)
                                     {
                                         results.push(<WeaponGroup id={groupid} group={group} aircraftid={id}/>);
                                     }
                                 }
 
-                                return results.length ? results : (<span>Equipment data unavailable</span>);
+                                return results.length ? results : (<span>No equipment found</span>);
                             }
                             else
                             {

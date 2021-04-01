@@ -1,6 +1,7 @@
 import React from 'react';
 import AircraftCard from './AircraftCard';
 import './AircraftList.scss';
+import {FilterByTags} from '../../helper/Helper';
 
 class AircraftList extends React.Component{
     constructor(props){
@@ -42,30 +43,7 @@ class AircraftList extends React.Component{
                 {
                     aircrafts
                         .filter(f=> {
-                            let filter = this.props.filter.replaceAll('-','').toLowerCase();
-                            let filters = filter.split(' ');
-                            
-                            let allwordsfound = true;
-                            for(let word of filters)
-                            {
-                                let wordvalid = false;
-                                for(let tag of f.tags)
-                                {
-                                    if(tag.includes(word))
-                                    {
-                                        wordvalid = true;
-                                        break;
-                                    }
-                                }
-
-                                if(!wordvalid)
-                                {
-                                    allwordsfound = false;
-                                    break;
-                                }
-                            }
-
-                            return allwordsfound;
+                            return FilterByTags(this.props.filter, f);
                         })
                         .sort((a,b)=>a.name-b.name)
                         .map(plane=>
