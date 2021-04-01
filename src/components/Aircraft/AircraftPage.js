@@ -9,7 +9,8 @@ class AircraftPage extends React.Component
     {
         super(props);
         this.state={
-            searchText : ""
+            searchText : "",
+            searchterms : ["Modern", "Cold War", "Multirole", "Blue", "Red"]
         }
 
         this.handleSearchTextChanged = this.handleSearchTextChanged.bind(this);
@@ -24,7 +25,7 @@ class AircraftPage extends React.Component
     {
         return (
             <div className="AircraftPage-root">
-                <SearchBar searchText={this.state.searchText} onSearchTextChanged={this.handleSearchTextChanged}/>
+                <SearchBar searchText={this.state.searchText} onSearchTextChanged={this.handleSearchTextChanged} chips={this.state.searchterms}/>
                 <AircraftList filter={this.state.searchText}/>
             </div>
         );

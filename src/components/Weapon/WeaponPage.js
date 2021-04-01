@@ -9,7 +9,8 @@ class WeaponPage extends React.Component
     {
         super(props);
         this.state={
-            searchText : ""
+            searchText : "",
+            searchterms : ["Air-to-Ground", "Air-to-Air", "Bomb", "Rocket", "Pod", "Fuel", "GPS", "Radar", "Laser"]
         }
 
         this.handleSearchTextChanged = this.handleSearchTextChanged.bind(this);
@@ -24,7 +25,7 @@ class WeaponPage extends React.Component
     {
         return (
             <div className="WeaponPage-root">
-                <SearchBar searchText={this.state.searchText} onSearchTextChanged={this.handleSearchTextChanged}/>
+                <SearchBar searchText={this.state.searchText} onSearchTextChanged={this.handleSearchTextChanged} chips={this.state.searchterms}/>
                 <WeaponList filter={this.state.searchText}/>
             </div>
         );

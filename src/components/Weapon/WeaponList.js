@@ -15,6 +15,51 @@ class WeaponList extends React.Component{
         .then(res=>res.json())
         .then(
             (result)=>{
+                for(let w of result)
+                {
+                    let weaponname = w.name.replaceAll(' ','').replaceAll('-','').replaceAll('/','').replaceAll('.','').toLowerCase();
+
+                    if(!w.tags)
+                    {
+                        w.tags = [];
+                    }
+
+                    w.tags.push(weaponname);
+                    w.tags.push(w.category.toLowerCase());
+
+                    if(w.category==="aam")
+                    {
+                        w.tags.push("airtoair")
+                        w.tags.push("aa")
+                    }
+
+                    if(w.category==="agm")
+                    {
+                        w.tags.push("airtoground")
+                        w.tags.push("ag")
+                    }
+                    
+                    if(w.category==="bomb")
+                    {
+                        w.tags.push("bombs")
+                        w.tags.push("airtoground")
+                        w.tags.push("ag")
+                    }
+                    
+                    if(w.category==="pod")
+                    {
+                        w.tags.push("pods")
+                        w.tags.push("sensors")
+                    }
+                    
+                    if(w.category==="rocket")
+                    {
+                        w.tags.push("rockets")
+                        w.tags.push("airtoground")
+                        w.tags.push("ag")
+                    }
+                }
+
                 this.setState({
                     weapons: result
                 })
@@ -30,57 +75,30 @@ class WeaponList extends React.Component{
                 {
                     weapons
                         .filter(f=> {
-                            let weaponname = f.name.replaceAll(' ','').replaceAll('-','').replaceAll('/','').replaceAll('.','').toLowerCase();
-                            let filter = this.props.filter.replaceAll(' ','').toLowerCase();
-
-                            if(f.category==="aam")
-                            {
-                                f.tags.push("airtoair")
-                                f.tags.push("aa")
-                            }
-
-                            if(f.category==="agm")
-                            {
-                                f.tags.push("airtoground")
-                                f.tags.push("ag")
-                            }
+                            let filter = this.props.filter.replaceAll('-','').toLowerCase();
+                            let filters = filter.split(' ');
                             
-                            if(f.category==="bomb")
+                            let allwordsfound = true;
+                            for(let word of filters)
                             {
-                                f.tags.push("bombs")
-                                f.tags.push("airtoground")
-                                f.tags.push("ag")
-                            }
-                            
-                            if(f.category==="pod")
-                            {
-                                f.tags.push("pods")
-                                f.tags.push("sensors")
-                            }
-                            
-                            if(f.category==="rocket")
-                            {
-                                f.tags.push("rockets")
-                                f.tags.push("airtoground")
-                                f.tags.push("ag")
-                            }
-
-                            let foundintag = false;
-                            if(f.tags)
-                            {
+                                let wordvalid = false;
                                 for(let tag of f.tags)
                                 {
-                                    if(tag.startsWith(filter))
+                                    if(tag.includes(word))
                                     {
-                                        foundintag = true;
+                                        wordvalid = true;
                                         break;
                                     }
                                 }
+
+                                if(!wordvalid)
+                                {
+                                    allwordsfound = false;
+                                    break;
+                                }
                             }
 
-                            let foundincategory = f.category.toLowerCase().includes(filter);
-
-                            return f.name.toLowerCase().includes(filter) || weaponname.includes(filter) || foundintag || foundincategory;
+                            return allwordsfound;
                         })
                         .sort((a,b)=>a.name-b.name)
                         .map(weapon=>

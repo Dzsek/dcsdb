@@ -15,6 +15,18 @@ class AircraftList extends React.Component{
         .then(res=>res.json())
         .then(
             (result)=>{
+                for(let a of result)
+                {
+                    let aircraftname = a.name.replaceAll(' ','').replaceAll('-','').replaceAll('/','').replaceAll('.','').toLowerCase();
+
+                    if(!a.tags)
+                    {
+                        a.tags = [];
+                    }
+
+                    a.tags.push(aircraftname);
+                }
+
                 this.setState({
                     aircrafts: result
                 })
@@ -30,22 +42,30 @@ class AircraftList extends React.Component{
                 {
                     aircrafts
                         .filter(f=> {
-                            let planename = f.name.replaceAll(' ','').replaceAll('-','').replaceAll('/','').replaceAll('.','').toLowerCase();
-                            let filter = this.props.filter.replaceAll(' ','').toLowerCase();
-                            let foundintag = false;
-                            if(f.tags)
+                            let filter = this.props.filter.replaceAll('-','').toLowerCase();
+                            let filters = filter.split(' ');
+                            
+                            let allwordsfound = true;
+                            for(let word of filters)
                             {
+                                let wordvalid = false;
                                 for(let tag of f.tags)
                                 {
-                                    if(tag.startsWith(filter))
+                                    if(tag.includes(word))
                                     {
-                                        foundintag = true;
+                                        wordvalid = true;
                                         break;
                                     }
                                 }
+
+                                if(!wordvalid)
+                                {
+                                    allwordsfound = false;
+                                    break;
+                                }
                             }
 
-                            return f.name.toLowerCase().includes(filter) || planename.includes(filter) || foundintag;
+                            return allwordsfound;
                         })
                         .sort((a,b)=>a.name-b.name)
                         .map(plane=>
