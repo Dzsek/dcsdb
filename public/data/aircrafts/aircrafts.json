@@ -1,23 +1,6 @@
 [
   {
     "tags": [
-      "hornet",
-      "navy",
-      "carrier",
-      "fighter",
-      "multirole",
-      "a2a",
-      "aa",
-      "ag",
-      "a2g",
-      "modern",
-      "f18"
-    ],
-    "id": "fa18c",
-    "name": "F/A-18C"
-  },
-  {
-    "tags": [
       "tomcat",
       "navy",
       "fighter",
@@ -40,6 +23,23 @@
     ],
     "id": "f15c",
     "name": "F-15C"
+  },
+  {
+    "tags": [
+      "hornet",
+      "navy",
+      "carrier",
+      "fighter",
+      "multirole",
+      "a2a",
+      "aa",
+      "ag",
+      "a2g",
+      "modern",
+      "f18"
+    ],
+    "id": "fa18c",
+    "name": "F/A-18C"
   },
   {
     "tags": [

@@ -1,28 +1,5 @@
 [
   {
-    "category": "rocket",
-    "tags": [
-      "hydra",
-      "ag",
-      "lightarmor",
-      "dumb"
-    ],
-    "id": "m151he",
-    "name": "2.75' rocket M151 (HE)"
-  },
-  {
-    "category": "rocket",
-    "tags": [
-      "ag",
-      "hydra",
-      "lightarmor",
-      "tank",
-      "dumb"
-    ],
-    "id": "mk5he",
-    "name": "2.75' rocket MK5 (HE)"
-  },
-  {
     "category": "agm",
     "tags": [
       "laser",
@@ -615,6 +592,17 @@
     "name": "L-081 Fantasmagoria"
   },
   {
+    "category": "rocket",
+    "tags": [
+      "hydra",
+      "ag",
+      "lightarmor",
+      "dumb"
+    ],
+    "id": "m151he",
+    "name": "2.75' rocket M151 (HE)"
+  },
+  {
     "category": "pod",
     "tags": [
       "tgp",
@@ -633,6 +621,29 @@
     ],
     "id": "mk20",
     "name": "Mk-20"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "ag",
+      "hydra",
+      "lightarmor",
+      "tank",
+      "dumb"
+    ],
+    "id": "mk5he",
+    "name": "2.75' rocket MK5 (HE)"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "ag",
+      "lightarmor",
+      "dumb",
+      "e"
+    ],
+    "id": "mk71zuni",
+    "name": "ZUNI MK 71"
   },
   {
     "category": "bomb",
@@ -736,6 +747,16 @@
   {
     "category": "bomb",
     "tags": [
+      "dumb",
+      "cluster",
+      "lightarmor"
+    ],
+    "id": "rbk250275ao1sch",
+    "name": "RBK-250-275 AO-1SCh"
+  },
+  {
+    "category": "bomb",
+    "tags": [
       "lightarmor",
       "dumb",
       "cluster",
@@ -747,12 +768,13 @@
   {
     "category": "bomb",
     "tags": [
-      "dumb",
+      "tank",
+      "lightarmor",
       "cluster",
-      "lightarmor"
+      "dumb"
     ],
-    "id": "rbk250275ao1sch",
-    "name": "RBK-250-275 AO-1SCh"
+    "id": "rbk500255ptab105",
+    "name": "RBK-500-255 PTAB-10.5"
   },
   {
     "category": "bomb",
@@ -764,17 +786,6 @@
     ],
     "id": "rbk500ptab1m",
     "name": "RBK-500 PTAB-1M"
-  },
-  {
-    "category": "bomb",
-    "tags": [
-      "tank",
-      "lightarmor",
-      "cluster",
-      "dumb"
-    ],
-    "id": "rbk500255ptab105",
-    "name": "RBK-500-255 PTAB-10.5"
   },
   {
     "category": "bomb",
@@ -806,16 +817,6 @@
     "name": "S-24B"
   },
   {
-    "category": "rocket",
-    "tags": [
-      "runway",
-      "building",
-      "dumb"
-    ],
-    "id": "s25ofm",
-    "name": "S-25 OFM"
-  },
-  {
     "category": "agm",
     "tags": [
       "laser",
@@ -825,6 +826,16 @@
     ],
     "id": "s25l",
     "name": "S-25L"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "runway",
+      "building",
+      "dumb"
+    ],
+    "id": "s25ofm",
+    "name": "S-25 OFM"
   },
   {
     "category": "rocket",
@@ -882,15 +893,5 @@
     ],
     "id": "sppu221",
     "name": "SPPU-22-1"
-  },
-  {
-    "category": "rocket",
-    "tags": [
-      "ag",
-      "lightarmor",
-      "dumb"
-    ],
-    "id": "mk71zuni",
-    "name": "ZUNI MK 71"
   }
 ]
