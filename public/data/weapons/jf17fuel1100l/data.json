@@ -1,0 +1,20 @@
+{
+  "id": "jf17fuel1100l",
+  "name": "jf17fuel1100l",
+  "description": "jf17fuel1100l",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "jf17",
+      "name": "jf17"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "jf17",
+  "name": "jf17",
+  "description": "jf17",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "pl5ii",
+      "name": "pl5ii"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "sd10",
+      "name": "sd10"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "c701ir",
+      "name": "c701ir"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "c701t",
+      "name": "c701t"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "ld10",
+      "name": "ld10"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "ls6500",
+      "name": "ls6500"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "c802ak",
+      "name": "c802ak"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "cm802akg",
+      "name": "cm802akg"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "gb6",
+      "name": "gb6"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "gb6he",
+      "name": "gb6he"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "gb6sfw",
+      "name": "gb6sfw"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu10",
+      "name": "GBU-10"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu12",
+      "name": "GBU-12"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu16",
+      "name": "GBU-16"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk20",
+      "name": "Mk-20"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82",
+      "name": "Mk-82"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82se",
+      "name": "Mk-82 SnakeEye"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk83",
+      "name": "Mk-83"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk84",
+      "name": "Mk-84"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "type200a",
+      "name": "type200a"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "jf17fuel800l",
+      "name": "jf17fuel800l"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "jf17fuel1100l",
+      "name": "jf17fuel1100l"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "jf17spj",
+      "name": "jf17spj"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "jf17datalink",
+      "name": "jf17datalink"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "wmd7",
+      "name": "wmd7"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "brm19mm",
+      "name": "brm19mm"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "ug90mm",
+      "name": "ug90mm"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk5he",
+      "name": "2.75' rocket MK5 (HE)"
+    }
+  ]
+}
