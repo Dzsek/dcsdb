@@ -78,4 +78,4 @@ export function FilterByTags(filtertext, object)
 
 export const WeaponSearchTerms = ["Air-to-Ground", "Air-to-Air", "Bomb", "Rocket", "Pod", "Fuel", "GPS", "Radar", "Laser", "Infrared", "TV", "Dumb", "Cluster", "Tank", "Light Armor", "Building", "Fortification", "SAM"]
 
-export const AircraftSearchTerms = ["Modern", "Cold War", "Multirole", "Blue", "Red"]
+export const AircraftSearchTerms = ["Modern", "Cold War", "Multirole", "Fighter", "CAS", "Blue", "Red"]
