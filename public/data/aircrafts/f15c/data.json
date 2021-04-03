@@ -1,7 +1,7 @@
 {
   "id": "f15c",
   "name": "McDonnell Douglas F-15 Eagle",
-  "description": "",
+  "description": "The McDonnell Douglas F-15 Eagle is an American twin-engine, all-weather tactical fighter aircraft designed by McDonnell Douglas.\r\n\r\nThe C is an improved single-seat all-weather air-superiority fighter version.",
   "weapons": [
     {
       "category": "aam",
