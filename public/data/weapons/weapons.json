@@ -24,12 +24,6 @@
   },
   {
     "category": "agm",
-    "tags": [],
-    "id": "9a4172vikhr",
-    "name": "9a4172vikhr"
-  },
-  {
-    "category": "agm",
     "tags": [
       "jsow",
       "tank",
@@ -296,18 +290,6 @@
     "name": "BDU-45B"
   },
   {
-    "category": "bomb",
-    "tags": [],
-    "id": "betab500",
-    "name": "betab500"
-  },
-  {
-    "category": "bomb",
-    "tags": [],
-    "id": "betab500shp",
-    "name": "betab500shp"
-  },
-  {
     "category": "aam",
     "tags": [
       "training",
@@ -321,28 +303,11 @@
     "tags": [
       "cluster",
       "lightarmor",
-      "tank"
+      "tank",
+      "ag"
     ],
     "id": "cbu99",
     "name": "CBU-99"
-  },
-  {
-    "category": "bomb",
-    "tags": [],
-    "id": "fab100",
-    "name": "fab100"
-  },
-  {
-    "category": "bomb",
-    "tags": [],
-    "id": "fab250",
-    "name": "fab250"
-  },
-  {
-    "category": "bomb",
-    "tags": [],
-    "id": "fab500m62",
-    "name": "fab500m62"
   },
   {
     "category": "fuel",
@@ -351,19 +316,14 @@
     "name": "FPU-8A Fuel Tank 330 gallons"
   },
   {
-    "category": "fuel",
-    "tags": [],
-    "id": "fuel800l",
-    "name": "fuel800l"
-  },
-  {
     "category": "bomb",
     "tags": [
       "laser",
       "paveway",
       "lightarmor",
       "tank",
-      "building"
+      "building",
+      "ag"
     ],
     "id": "gbu10",
     "name": "GBU-10"
@@ -375,7 +335,8 @@
       "paveway",
       "lightarmor",
       "tank",
-      "building"
+      "building",
+      "ag"
     ],
     "id": "gbu12",
     "name": "GBU-12"
@@ -387,261 +348,394 @@
       "laser",
       "tank",
       "lightarmor",
-      "paveway"
+      "paveway",
+      "ag"
     ],
     "id": "gbu16",
     "name": "GBU-16"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "paveway",
+      "laser",
+      "lightarmor",
+      "tank",
+      "building",
+      "ag"
+    ],
     "id": "gbu24",
     "name": "GBU-24"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "tank",
+      "building",
+      "gps",
+      "jdam",
+      "ag"
+    ],
     "id": "gbu31v1b",
     "name": "GBU-31(V)1/B"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "jdam",
+      "tank",
+      "building",
+      "lightarmor",
+      "gps",
+      "ag"
+    ],
     "id": "gbu31v2b",
     "name": "GBU-31(V)2/B"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "building",
+      "jdam",
+      "gps",
+      "fortification",
+      "ag"
+    ],
     "id": "gbu31v3b",
     "name": "GBU-31(V)3/B"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "fortification",
+      "jdam",
+      "gps",
+      "building",
+      "ag"
+    ],
     "id": "gbu31v4b",
     "name": "GBU-31(V)4/B"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "building",
+      "tank",
+      "lightarmor",
+      "gps",
+      "jdam",
+      "ag"
+    ],
     "id": "gbu32v2b",
     "name": "GBU-32(V)2/B"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "jdam",
+      "gps",
+      "lightarmor",
+      "tank",
+      "building",
+      "ag"
+    ],
     "id": "gbu38",
     "name": "GBU-38"
   },
   {
-    "category": "agm",
-    "tags": [],
-    "id": "kh25ml",
-    "name": "kh25ml"
-  },
-  {
-    "category": "agm",
-    "tags": [],
-    "id": "kh25mp",
-    "name": "kh25mp"
-  },
-  {
-    "category": "agm",
-    "tags": [],
-    "id": "kh25mpu",
-    "name": "kh25mpu"
-  },
-  {
-    "category": "agm",
-    "tags": [],
-    "id": "kh29l",
-    "name": "kh29l"
-  },
-  {
-    "category": "agm",
-    "tags": [],
-    "id": "kh29t",
-    "name": "kh29t"
-  },
-  {
-    "category": "agm",
-    "tags": [],
-    "id": "kh29u",
-    "name": "kh29u"
-  },
-  {
     "category": "bomb",
-    "tags": [],
-    "id": "kmgu2ao25rt",
-    "name": "kmgu2ao25rt"
-  },
-  {
-    "category": "bomb",
-    "tags": [],
-    "id": "kmgu2ptab25ko",
-    "name": "kmgu2ptab25ko"
-  },
-  {
-    "category": "pod",
-    "tags": [],
-    "id": "l081elint",
-    "name": "l081elint"
-  },
-  {
-    "category": "pod",
-    "tags": [],
-    "id": "mercurylltv",
-    "name": "mercurylltv"
-  },
-  {
-    "category": "bomb",
-    "tags": [],
+    "tags": [
+      "cluster",
+      "lightarmor",
+      "tank",
+      "ag"
+    ],
     "id": "mk20",
     "name": "Mk-20"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "tank",
+      "lightarmor",
+      "building",
+      "dumb",
+      "ag"
+    ],
     "id": "mk82",
     "name": "Mk-82"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "retarded",
+      "tank",
+      "building",
+      "lightarmor",
+      "highdrag",
+      "ag"
+    ],
     "id": "mk82se",
     "name": "Mk-82 SnakeEye"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "dumb",
+      "tank",
+      "building",
+      "retarded",
+      "highdrag",
+      "ag"
+    ],
     "id": "mk82y",
     "name": "Mk-82Y"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "tank",
+      "lightarmor",
+      "building",
+      "dumb",
+      "ag"
+    ],
     "id": "mk83",
     "name": "Mk-83"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building",
+      "ag"
+    ],
     "id": "mk84",
     "name": "Mk-84"
   },
   {
-    "category": "pod",
-    "tags": [],
-    "id": "mps410",
-    "name": "mps410"
+    "category": "rocket",
+    "tags": [
+      "ag",
+      "lightarmor",
+      "dumb"
+    ],
+    "id": "mk71zuni",
+    "name": "ZUNI MK 71"
   },
   {
-    "category": "aam",
+    "category": null,
     "tags": [],
     "id": "r60m",
     "name": "r60m"
   },
   {
-    "category": "aam",
+    "category": null,
     "tags": [],
     "id": "r73",
     "name": "r73"
   },
   {
-    "category": "bomb",
+    "category": null,
     "tags": [],
-    "id": "rbk250275ao1sch",
-    "name": "rbk250275ao1sch"
+    "id": "mps410",
+    "name": "mps410"
   },
   {
-    "category": "bomb",
-    "tags": [],
-    "id": "rbk250ptab25m",
-    "name": "rbk250ptab25m"
-  },
-  {
-    "category": "bomb",
-    "tags": [],
-    "id": "rbk500255ptab105",
-    "name": "rbk500255ptab105"
-  },
-  {
-    "category": "bomb",
-    "tags": [],
-    "id": "rbk500ptab1m",
-    "name": "rbk500ptab1m"
-  },
-  {
-    "category": "bomb",
-    "tags": [],
-    "id": "rbk500uoab25rt",
-    "name": "rbk500uoab25rt"
-  },
-  {
-    "category": "rocket",
-    "tags": [],
-    "id": "s13of",
-    "name": "s13of"
-  },
-  {
-    "category": "rocket",
-    "tags": [],
-    "id": "s24b",
-    "name": "s24b"
-  },
-  {
-    "category": "agm",
-    "tags": [],
-    "id": "s25l",
-    "name": "s25l"
-  },
-  {
-    "category": "rocket",
-    "tags": [],
-    "id": "s25ofm",
-    "name": "s25ofm"
-  },
-  {
-    "category": "rocket",
-    "tags": [],
-    "id": "s5ko",
-    "name": "s5ko"
-  },
-  {
-    "category": "rocket",
-    "tags": [],
-    "id": "s8kom",
-    "name": "s8kom"
-  },
-  {
-    "category": "rocket",
-    "tags": [],
-    "id": "s8ofp2",
-    "name": "s8ofp2"
-  },
-  {
-    "category": "rocket",
-    "tags": [],
-    "id": "s8tsm",
-    "name": "s8tsm"
-  },
-  {
-    "category": "bomb",
-    "tags": [],
-    "id": "sab100",
-    "name": "sab100"
-  },
-  {
-    "category": "pod",
+    "category": null,
     "tags": [],
     "id": "sppu221",
     "name": "sppu221"
   },
   {
-    "category": "rocket",
+    "category": null,
     "tags": [],
-    "id": "mk71zuni",
-    "name": "ZUNI MK 71"
+    "id": "l081elint",
+    "name": "l081elint"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "mercurylltv",
+    "name": "mercurylltv"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "s25l",
+    "name": "s25l"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "kh25ml",
+    "name": "kh25ml"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "kh25mp",
+    "name": "kh25mp"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "kh25mpu",
+    "name": "kh25mpu"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "kh29l",
+    "name": "kh29l"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "kh29t",
+    "name": "kh29t"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "kh29u",
+    "name": "kh29u"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "9a4172vikhr",
+    "name": "9a4172vikhr"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "betab500",
+    "name": "betab500"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "betab500shp",
+    "name": "betab500shp"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "fab100",
+    "name": "fab100"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "fab250",
+    "name": "fab250"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "fab500m62",
+    "name": "fab500m62"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "kmgu2ao25rt",
+    "name": "kmgu2ao25rt"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "kmgu2ptab25ko",
+    "name": "kmgu2ptab25ko"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "rbk250ptab25m",
+    "name": "rbk250ptab25m"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "rbk250275ao1sch",
+    "name": "rbk250275ao1sch"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "rbk500ptab1m",
+    "name": "rbk500ptab1m"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "rbk500255ptab105",
+    "name": "rbk500255ptab105"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "rbk500uoab25rt",
+    "name": "rbk500uoab25rt"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "sab100",
+    "name": "sab100"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "s13of",
+    "name": "s13of"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "s8kom",
+    "name": "s8kom"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "s8ofp2",
+    "name": "s8ofp2"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "s8tsm",
+    "name": "s8tsm"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "s24b",
+    "name": "s24b"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "s25ofm",
+    "name": "s25ofm"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "s5ko",
+    "name": "s5ko"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "fuel800l",
+    "name": "fuel800l"
   }
 ]

@@ -1,14 +1,12 @@
 {
   "id": "mk83",
-  "name": "mk83",
-  "description": "mk83",
+  "name": "Mk-83",
+  "description": "The Mark 83 is an unguided, low-drag general-purpose bomb, part of the United States Mark 80 series. The explosive filling is usually tritonal, though other compositions have sometimes been used.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "General Purpose Bomb",
+    "Warhead": "1000lb High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
   },
   "aircraft": [
     {

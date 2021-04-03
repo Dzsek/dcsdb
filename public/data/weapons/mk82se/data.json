@@ -1,14 +1,12 @@
 {
   "id": "mk82se",
-  "name": "mk82se",
-  "description": "mk82se",
+  "name": "Mk-82 SnakeEye",
+  "description": "Standard Mk 82 General-Purpose bomb fitted with a special high-drag tail fin unit.\r\n\r\nThe tail unit has four folded fins which spring open into a cruciform shape when the bomb is released. The fins increase the drag of the bomb, slowing its forward progress and allowing the delivery aircraft to safely pass over the target before the bomb explodes.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "High-drag General Purpose Bomb",
+    "Warhead": "500lb High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
   },
   "aircraft": [
     {

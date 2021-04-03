@@ -1,14 +1,12 @@
 {
   "id": "mk20",
-  "name": "mk20",
-  "description": "cluster",
+  "name": "Mk-20 Rockeye",
+  "description": "The Mk-20 Rockeye is an American cluster bomb which is employed primarily in an anti-tank mode.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Cluster Bomb",
+    "Warhead": "247 x Mk 118 Mod 1 bomblet",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {
