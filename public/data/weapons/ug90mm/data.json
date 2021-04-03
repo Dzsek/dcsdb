@@ -1,0 +1,20 @@
+{
+  "id": "ug90mm",
+  "name": "ug90mm",
+  "description": "ug90mm",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "jf17",
+      "name": "jf17"
+    }
+  ]
+}

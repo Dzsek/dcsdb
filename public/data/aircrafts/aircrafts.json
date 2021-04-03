@@ -59,6 +59,11 @@
     "name": "F/A-18C"
   },
   {
+    "tags": [],
+    "id": "jf17",
+    "name": "jf17"
+  },
+  {
     "tags": [
       "cas",
       "sead",

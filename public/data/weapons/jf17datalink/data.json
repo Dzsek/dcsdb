@@ -1,0 +1,20 @@
+{
+  "id": "jf17datalink",
+  "name": "jf17datalink",
+  "description": "jf17datalink",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "jf17",
+      "name": "jf17"
+    }
+  ]
+}

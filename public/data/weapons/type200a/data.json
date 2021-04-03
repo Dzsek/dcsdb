@@ -1,0 +1,20 @@
+{
+  "id": "type200a",
+  "name": "type200a",
+  "description": "type200a",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "jf17",
+      "name": "jf17"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gb6sfw",
+  "name": "gb6sfw",
+  "description": "gb6sfw",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "jf17",
+      "name": "jf17"
+    }
+  ]
+}

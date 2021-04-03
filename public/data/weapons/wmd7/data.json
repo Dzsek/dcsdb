@@ -1,0 +1,20 @@
+{
+  "id": "wmd7",
+  "name": "wmd7",
+  "description": "wmd7",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "jf17",
+      "name": "jf17"
+    }
+  ]
+}

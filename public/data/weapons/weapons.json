@@ -388,6 +388,30 @@
     "name": "BetAB-500 Shp"
   },
   {
+    "category": "rocket",
+    "tags": [],
+    "id": "brm19mm",
+    "name": "brm19mm"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "c701ir",
+    "name": "c701ir"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "c701t",
+    "name": "c701t"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "c802ak",
+    "name": "c802ak"
+  },
+  {
     "category": "aam",
     "tags": [
       "training",
@@ -406,6 +430,12 @@
     ],
     "id": "cbu99",
     "name": "CBU-99"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "cm802akg",
+    "name": "cm802akg"
   },
   {
     "category": "bomb",
@@ -466,6 +496,24 @@
     "tags": [],
     "id": "fuel800l",
     "name": "Fuel Tank 800L"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "gb6",
+    "name": "gb6"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "gb6he",
+    "name": "gb6he"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "gb6sfw",
+    "name": "gb6sfw"
   },
   {
     "category": "bomb",
@@ -596,6 +644,30 @@
     "name": "GBU-38"
   },
   {
+    "category": "pod",
+    "tags": [],
+    "id": "jf17datalink",
+    "name": "jf17datalink"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "jf17fuel1100l",
+    "name": "jf17fuel1100l"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "jf17fuel800l",
+    "name": "jf17fuel800l"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "jf17spj",
+    "name": "jf17spj"
+  },
+  {
     "category": "agm",
     "tags": [
       "laser",
@@ -703,6 +775,18 @@
     ],
     "id": "lantirn",
     "name": "AN/AAQ-14 LANTIRN"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "ld10",
+    "name": "ld10"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "ls6500",
+    "name": "ls6500"
   },
   {
     "category": "rocket",
@@ -855,6 +939,12 @@
     ],
     "id": "mps410",
     "name": "MPS-410"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "pl5ii",
+    "name": "pl5ii"
   },
   {
     "category": "aam",
@@ -1023,6 +1113,12 @@
     "name": "SAB-100"
   },
   {
+    "category": "aam",
+    "tags": [],
+    "id": "sd10",
+    "name": "sd10"
+  },
+  {
     "category": "pod",
     "tags": [
       "gun",
@@ -1040,5 +1136,23 @@
     ],
     "id": "suu25",
     "name": "SUU-25"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "type200a",
+    "name": "type200a"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "ug90mm",
+    "name": "ug90mm"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "wmd7",
+    "name": "wmd7"
   }
 ]
