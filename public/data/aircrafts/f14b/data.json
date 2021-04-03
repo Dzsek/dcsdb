@@ -2,5 +2,162 @@
   "id": "f14b",
   "name": "Grumman F-14B Tomcat",
   "description": null,
-  "weapons": []
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "cap9m",
+      "name": "CAP-9M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9l",
+      "name": "AIM-9L"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9m",
+      "name": "AIM-9M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7f",
+      "name": "AIM-7F"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7m",
+      "name": "AIM-7M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7mh",
+      "name": "AIM-7MH"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk20",
+      "name": "Mk-20"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82",
+      "name": "Mk-82"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82se",
+      "name": "Mk-82 SnakeEye"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu33",
+      "name": "BDU-33"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk83",
+      "name": "Mk-83"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu10",
+      "name": "GBU-10"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu12",
+      "name": "GBU-12"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu16",
+      "name": "GBU-16"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk84",
+      "name": "Mk-84"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk71zuni",
+      "name": "ZUNI MK 71"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim54amk47",
+      "name": "aim54amk47"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim54amk60",
+      "name": "aim54amk60"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim54cmk47",
+      "name": "aim54cmk47"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "adm141a",
+      "name": "adm141a"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk81",
+      "name": "mk81"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82air",
+      "name": "mk82air"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "suu25",
+      "name": "suu25"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "lantirn",
+      "name": "lantirn"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "anasqt50tcts",
+      "name": "anasqt50tcts"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel300gal",
+      "name": "fuel300gal"
+    }
+  ]
 }

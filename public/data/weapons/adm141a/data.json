@@ -1,0 +1,20 @@
+{
+  "id": "adm141a",
+  "name": "adm141a",
+  "description": "adm141a",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f14b",
+      "name": "F-14B"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lantirn",
+  "name": "lantirn",
+  "description": "lantirn",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f14b",
+      "name": "F-14B"
+    }
+  ]
+}

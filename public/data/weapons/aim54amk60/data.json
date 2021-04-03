@@ -1,0 +1,20 @@
+{
+  "id": "aim54amk60",
+  "name": "aim54amk60",
+  "description": "aim54amk60",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f14b",
+      "name": "F-14B"
+    }
+  ]
+}

@@ -10,6 +10,12 @@
   },
   {
     "category": "agm",
+    "tags": [],
+    "id": "adm141a",
+    "name": "adm141a"
+  },
+  {
+    "category": "agm",
     "tags": [
       "jsow",
       "tank",
@@ -137,6 +143,24 @@
   },
   {
     "category": "aam",
+    "tags": [],
+    "id": "aim54amk47",
+    "name": "aim54amk47"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "aim54amk60",
+    "name": "aim54amk60"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "aim54cmk47",
+    "name": "aim54cmk47"
+  },
+  {
+    "category": "aam",
     "tags": [
       "sparrow",
       "sahr",
@@ -215,6 +239,18 @@
   },
   {
     "category": "aam",
+    "tags": [],
+    "id": "aim9p",
+    "name": "aim9p"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "aim9p5",
+    "name": "aim9p5"
+  },
+  {
+    "category": "aam",
     "tags": [
       "aa",
       "missile",
@@ -240,6 +276,12 @@
     ],
     "id": "anaaq28",
     "name": "AN/AAQ-28 LITENING"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "anasqt50tcts",
+    "name": "anasqt50tcts"
   },
   {
     "category": "pod",
@@ -360,6 +402,18 @@
     "tags": [],
     "id": "fpu8a",
     "name": "FPU-8A Fuel Tank 330 gallons"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel300gal",
+    "name": "fuel300gal"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel610gal",
+    "name": "fuel610gal"
   },
   {
     "category": "fuel",
@@ -592,6 +646,12 @@
     "name": "L-081 Fantasmagoria"
   },
   {
+    "category": "pod",
+    "tags": [],
+    "id": "lantirn",
+    "name": "lantirn"
+  },
+  {
     "category": "rocket",
     "tags": [
       "hydra",
@@ -646,6 +706,12 @@
   },
   {
     "category": "bomb",
+    "tags": [],
+    "id": "mk81",
+    "name": "mk81"
+  },
+  {
+    "category": "bomb",
     "tags": [
       "tank",
       "lightarmor",
@@ -655,6 +721,12 @@
     ],
     "id": "mk82",
     "name": "Mk-82"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "mk82air",
+    "name": "mk82air"
   },
   {
     "category": "bomb",
@@ -892,5 +964,11 @@
     ],
     "id": "sppu221",
     "name": "SPPU-22-1"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "suu25",
+    "name": "suu25"
   }
 ]

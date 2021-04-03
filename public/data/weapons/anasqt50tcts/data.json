@@ -1,0 +1,25 @@
+{
+  "id": "anasqt50tcts",
+  "name": "anasqt50tcts",
+  "description": "anasqt50tcts",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f14b",
+      "name": "F-14B"
+    },
+    {
+      "instructions": [],
+      "id": "f15c",
+      "name": "F-15C"
+    }
+  ]
+}

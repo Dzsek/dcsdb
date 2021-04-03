@@ -1,0 +1,20 @@
+{
+  "id": "fuel300gal",
+  "name": "fuel300gal",
+  "description": "fuel300gal",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f14b",
+      "name": "F-14B"
+    }
+  ]
+}

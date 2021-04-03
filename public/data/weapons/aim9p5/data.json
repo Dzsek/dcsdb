@@ -1,0 +1,20 @@
+{
+  "id": "aim9p5",
+  "name": "aim9p5",
+  "description": "aim9p5",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f15c",
+      "name": "F-15C"
+    }
+  ]
+}

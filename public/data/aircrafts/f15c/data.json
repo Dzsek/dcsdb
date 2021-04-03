@@ -2,5 +2,72 @@
   "id": "f15c",
   "name": "McDonnell Douglas F-15 Eagle",
   "description": "",
-  "weapons": []
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim120b",
+      "name": "AIM-120B"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim120c",
+      "name": "AIM-120C"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9l",
+      "name": "AIM-9L"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9m",
+      "name": "AIM-9M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7f",
+      "name": "AIM-7F"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7m",
+      "name": "AIM-7M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7mh",
+      "name": "AIM-7MH"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel610gal",
+      "name": "fuel610gal"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "anasqt50tcts",
+      "name": "anasqt50tcts"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9p",
+      "name": "aim9p"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9p5",
+      "name": "aim9p5"
+    }
+  ]
 }
