@@ -49,25 +49,25 @@
       "category": "fuel",
       "tags": [],
       "id": "fuel610gal",
-      "name": "fuel610gal"
+      "name": "Fuel Tank 610 gallons"
     },
     {
       "category": "pod",
       "tags": [],
       "id": "anasqt50tcts",
-      "name": "anasqt50tcts"
+      "name": "AN/ASQ-T50 TCTS"
     },
     {
       "category": "aam",
       "tags": [],
       "id": "aim9p",
-      "name": "aim9p"
+      "name": "AIM-9P"
     },
     {
       "category": "aam",
       "tags": [],
       "id": "aim9p5",
-      "name": "aim9p5"
+      "name": "AIM-9P5"
     }
   ]
 }

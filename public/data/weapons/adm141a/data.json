@@ -1,14 +1,10 @@
 {
   "id": "adm141a",
-  "name": "adm141a",
-  "description": "adm141a",
+  "name": "ADM-141 TALD",
+  "description": "The ADM-141A/B TALD was an American decoy missile originally built by Brunswick Corporation for the United States Air Force and the Israeli Air Force. ",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Decoy"
   },
   "aircraft": [
     {

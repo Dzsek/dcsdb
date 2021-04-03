@@ -10,9 +10,12 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "sead",
+      "decoy"
+    ],
     "id": "adm141a",
-    "name": "adm141a"
+    "name": "ADM-141 TALD"
   },
   {
     "category": "agm",
@@ -143,21 +146,45 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "active",
+      "fox3",
+      "missile",
+      "aa",
+      "radar",
+      "aircraft",
+      "phoenix"
+    ],
     "id": "aim54amk47",
-    "name": "aim54amk47"
+    "name": "AIM-54A Mk47"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "phoenix",
+      "active",
+      "fox3",
+      "missile",
+      "aa",
+      "radar",
+      "aircraft"
+    ],
     "id": "aim54amk60",
-    "name": "aim54amk60"
+    "name": "AIM-54A Mk60"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "phoenix",
+      "active",
+      "fox3",
+      "missile",
+      "aa",
+      "radar",
+      "aircraft"
+    ],
     "id": "aim54cmk47",
-    "name": "aim54cmk47"
+    "name": "AIM-54C Mk47"
   },
   {
     "category": "aam",
@@ -239,15 +266,31 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "aircraft"
+    ],
     "id": "aim9p",
-    "name": "aim9p"
+    "name": "AIM-9P"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "aa",
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "infrared",
+      "aircraft"
+    ],
     "id": "aim9p5",
-    "name": "aim9p5"
+    "name": "AIM-9P5"
   },
   {
     "category": "aam",
@@ -279,9 +322,12 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "training",
+      "acmi"
+    ],
     "id": "anasqt50tcts",
-    "name": "anasqt50tcts"
+    "name": "AN/ASQ-T50 TCTS"
   },
   {
     "category": "pod",
@@ -407,13 +453,13 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel300gal",
-    "name": "fuel300gal"
+    "name": "Fuel Tank 300 gallons"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel610gal",
-    "name": "fuel610gal"
+    "name": "Fuel Tank 610 gallons"
   },
   {
     "category": "fuel",
@@ -647,9 +693,16 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "tgp",
+      "targeting",
+      "infrared",
+      "lantern",
+      "flir",
+      "tpod"
+    ],
     "id": "lantirn",
-    "name": "lantirn"
+    "name": "AN/AAQ-14 LANTIRN"
   },
   {
     "category": "rocket",
@@ -706,9 +759,15 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "tank",
+      "lightarmor",
+      "building",
+      "dumb",
+      "ag"
+    ],
     "id": "mk81",
-    "name": "mk81"
+    "name": "Mk-81"
   },
   {
     "category": "bomb",
@@ -724,9 +783,17 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "dumb",
+      "tank",
+      "building",
+      "retarded",
+      "highdrag",
+      "ag"
+    ],
     "id": "mk82air",
-    "name": "mk82air"
+    "name": "Mk-82 Air"
   },
   {
     "category": "bomb",
@@ -967,8 +1034,11 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "illumination",
+      "flare"
+    ],
     "id": "suu25",
-    "name": "suu25"
+    "name": "SUU-25"
   }
 ]

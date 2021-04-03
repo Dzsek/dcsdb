@@ -1,14 +1,12 @@
 {
   "id": "mk82air",
-  "name": "mk82air",
-  "description": "mk82air",
+  "name": "Mk-82 Air",
+  "description": "Standard Mk 82 General-Purpose bomb fitted with a parachute desgined to slow the forward progress of the bomb, allowing the delivery aircraft to safely pass over the target before the bomb explodes.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "High-drag General Purpose Bomb",
+    "Warhead": "500lb High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
   },
   "aircraft": [
     {

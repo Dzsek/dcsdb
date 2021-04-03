@@ -1,14 +1,13 @@
 {
   "id": "aim54amk47",
-  "name": "aim54amk47",
-  "description": "aim54amk47",
+  "name": "AIM-54A Mk47 Phoenix",
+  "description": "The AIM-54 Phoenix is a radar-guided, long-range air-to-air missile (AAM), carried in clusters of up to six missiles on the Grumman F-14 Tomcat, its only operational launch platform.\r\n\r\n",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Long",
+    "Guidance": "Active Radar",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "135lb High Explosive",
+    "Targets": "Aircraft"
   },
   "aircraft": [
     {

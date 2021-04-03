@@ -1,14 +1,12 @@
 {
   "id": "mk81",
-  "name": "mk81",
-  "description": "mk81",
+  "name": "Mk-81",
+  "description": "The Mark 81 is an unguided, low-drag general-purpose bomb, part of the United States Mark 80 series. The explosive filling is usually tritonal, though other compositions have sometimes been used.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "General Purpose Bomb",
+    "Warhead": "250lb High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
   },
   "aircraft": [
     {
