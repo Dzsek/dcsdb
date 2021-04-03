@@ -2,5 +2,216 @@
   "id": "su25t",
   "name": "Su-25T",
   "description": "su25t",
-  "weapons": []
+  "weapons": [
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "9a4172vikhr",
+      "name": "9a4172vikhr"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "betab500",
+      "name": "betab500"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "betab500shp",
+      "name": "betab500shp"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab100",
+      "name": "fab100"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab250",
+      "name": "fab250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab500m62",
+      "name": "fab500m62"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel800l",
+      "name": "fuel800l"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "kh25ml",
+      "name": "kh25ml"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "kh25mp",
+      "name": "kh25mp"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "kh25mpu",
+      "name": "kh25mpu"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "kh29l",
+      "name": "kh29l"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "kh29t",
+      "name": "kh29t"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "kh58u",
+      "name": "kh58u"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "kmgu2ao25rt",
+      "name": "kmgu2ao25rt"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "kmgu2ptab25ko",
+      "name": "kmgu2ptab25ko"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "l081elint",
+      "name": "l081elint"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "mercurylltv",
+      "name": "mercurylltv"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "mps410",
+      "name": "mps410"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r60m",
+      "name": "r60m"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r73",
+      "name": "r73"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk250275ao1sch",
+      "name": "rbk250275ao1sch"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk250ptab25m",
+      "name": "rbk250ptab25m"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk500255ptab105",
+      "name": "rbk500255ptab105"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk500ptab1m",
+      "name": "rbk500ptab1m"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk500uoab25rt",
+      "name": "rbk500uoab25rt"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s13of",
+      "name": "s13of"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s24b",
+      "name": "s24b"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "s25l",
+      "name": "s25l"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s25ofm",
+      "name": "s25ofm"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s5ko",
+      "name": "s5ko"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8kom",
+      "name": "s8kom"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8ofp2",
+      "name": "s8ofp2"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8tsm",
+      "name": "s8tsm"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "sab100",
+      "name": "sab100"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sppu221",
+      "name": "sppu221"
+    }
+  ]
 }
