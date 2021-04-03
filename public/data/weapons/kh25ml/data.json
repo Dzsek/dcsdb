@@ -1,14 +1,13 @@
 {
   "id": "kh25ml",
-  "name": "kh25ml",
-  "description": "kh25ml",
+  "name": "Kh-25ML",
+  "description": "The Kh-25/Kh-25M (Russian: Х-25; NATO:AS-10 'Karen') is a family of Soviet lightweight air-to-ground missiles with a modular range of guidance systems.\r\n\r\nThe ML version is laser-guided and can penetrate 1 metre of concrete.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Medium",
+    "Guidance": "Laser",
+    "Type": "Air-to-ground Missile",
+    "Warhead": "High Explosive",
+    "Targets": "Tanks, Buildings"
   },
   "aircraft": [
     {

@@ -4,7 +4,7 @@
   "description": "The AGM-88 HARM is a tactical, air-to-surface anti-radiation missile designed to home in on electronic transmissions coming from surface-to-air radar systems. \r\n\r\nIt was originally developed by Texas Instruments as a replacement for the AGM-45 Shrike and AGM-78 Standard ARM system. ",
   "data": {
     "Range": "Long",
-    "Guidance": "Passive radar, Home on Jam, GPS",
+    "Guidance": "Passive Radar",
     "Type": "Anti-Radiation Missile",
     "Warhead": "146 lb blast-fragmentation",
     "Targets": "SAM sites"

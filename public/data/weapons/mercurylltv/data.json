@@ -1,14 +1,9 @@
 {
   "id": "mercurylltv",
-  "name": "mercurylltv",
-  "description": "mercurylltv",
+  "name": "Mercury LLTV Pod",
+  "description": "Low-Light TV pod that adds night capability to the SU-25T.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Targeting Pod"
   },
   "aircraft": [
     {

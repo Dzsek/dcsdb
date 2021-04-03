@@ -1,14 +1,12 @@
 {
   "id": "fab500m62",
-  "name": "fab500m62",
-  "description": "fab500m62",
+  "name": "FAB-500 M-62",
+  "description": "The FAB-500 M-62 high-explosive bomb is designed to destroy military industrial facilities, railway junctions, light armored and soft-skin targets, manpower, military field fortifications",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "General Purpose Bomb",
+    "Warhead": "High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
   },
   "aircraft": [
     {

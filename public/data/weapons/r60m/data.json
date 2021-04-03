@@ -1,14 +1,13 @@
 {
   "id": "r60m",
-  "name": "r60m",
-  "description": "r60m",
+  "name": "R-60M",
+  "description": "The Molniya (now Vympel) R-60 (NATO reporting name: AA-8 \"Aphid\") is a short-range lightweight infrared homing air-to-air missile designed for use by Soviet fighter aircraft.\r\n\r\nThe M variant is an upgraded version using a nitrogen-cooled seeker with an expanded view angle.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Infrared",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "3kg expanding rod",
+    "Targets": "Aircraft"
   },
   "aircraft": [
     {
