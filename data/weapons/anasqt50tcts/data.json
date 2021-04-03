@@ -1,0 +1,30 @@
+{
+  "id": "anasqt50tcts",
+  "name": "AN/ASQ-T50 TCTS",
+  "description": "ACMI pod\r\n\r\nAir Combat Maneuvering Instrumentation (ACMI) systems record an aircraft's in-flight data. They are often used by the military for aerial combat training and analysis.",
+  "data": {
+    "Type": "Data recorder"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f14b",
+      "name": "F-14B"
+    },
+    {
+      "instructions": [],
+      "id": "f15c",
+      "name": "F-15C"
+    },
+    {
+      "instructions": [],
+      "id": "fa18c",
+      "name": "F/A-18C"
+    },
+    {
+      "instructions": [],
+      "id": "f14a135gr",
+      "name": "F-14A-135-GR"
+    }
+  ]
+}

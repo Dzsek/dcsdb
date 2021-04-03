@@ -1,0 +1,20 @@
+{
+  "id": "fuel300gal",
+  "name": "Fuel Tank 300 gallons",
+  "description": "External Fuel Tank 300 gallons",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f14b",
+      "name": "F-14B"
+    },
+    {
+      "instructions": [],
+      "id": "f14a135gr",
+      "name": "F-14A-135-GR"
+    }
+  ]
+}

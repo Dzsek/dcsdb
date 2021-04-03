@@ -1,0 +1,15 @@
+{
+  "id": "fuel610gal",
+  "name": "Fuel Tank 610 gallons",
+  "description": "External Fuel Tank 610 gallons",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f15c",
+      "name": "F-15C"
+    }
+  ]
+}

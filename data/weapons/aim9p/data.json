@@ -1,0 +1,19 @@
+{
+  "id": "aim9p",
+  "name": "AIM-9P Sidewinder",
+  "description": "The AIM-9 Sidewinder is a short-range air-to-air missile which entered service with the US Navy in 1956 and subsequently was adopted by the US Air Force in 1964. \r\n\r\nSince then the Sidewinder has proved to be an enduring international success, and its latest variants are still standard equipment in most western-aligned air forces.\r\n\r\nThe P variant is version of the J/N variant created for use in less demanding situations and for export to US allies.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Infrared",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "Annular blast-fragmentation",
+    "Targets": "Aircraft"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f15c",
+      "name": "F-15C"
+    }
+  ]
+}

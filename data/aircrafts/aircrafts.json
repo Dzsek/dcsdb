@@ -7,7 +7,22 @@
       "aa",
       "a2a",
       "coldwar",
-      "topgun"
+      "topgun",
+      "blue"
+    ],
+    "id": "f14a135gr",
+    "name": "F-14A-135-GR"
+  },
+  {
+    "tags": [
+      "tomcat",
+      "navy",
+      "fighter",
+      "aa",
+      "a2a",
+      "coldwar",
+      "topgun",
+      "blue"
     ],
     "id": "f14b",
     "name": "F-14B"
@@ -19,7 +34,8 @@
       "fighter",
       "aa",
       "a2a",
-      "modern"
+      "modern",
+      "blue"
     ],
     "id": "f15c",
     "name": "F-15C"
@@ -36,7 +52,8 @@
       "ag",
       "a2g",
       "modern",
-      "f18"
+      "f18",
+      "blue"
     ],
     "id": "fa18c",
     "name": "F/A-18C"
@@ -50,7 +67,8 @@
       "a2g",
       "grach",
       "rook",
-      "frogfoot"
+      "frogfoot",
+      "red"
     ],
     "id": "su25t",
     "name": "Su-25T"

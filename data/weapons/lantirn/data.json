@@ -1,0 +1,20 @@
+{
+  "id": "lantirn",
+  "name": "AN/AAQ-14 LANTIRN",
+  "description": "Low Altitude Navigation and Targeting Infrared for Night, or LANTIRN, is a combined navigation and targeting pod system for use on the United States Air Force fighter aircraft.\r\n\r\nLANTIRN significantly increases the combat effectiveness of these aircraft, allowing them to fly at low altitudes, at night and under-the-weather to attack ground targets with a variety of precision-guided weapons.",
+  "data": {
+    "Type": "Targeting Pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f14b",
+      "name": "F-14B"
+    },
+    {
+      "instructions": [],
+      "id": "f14a135gr",
+      "name": "F-14A-135-GR"
+    }
+  ]
+}

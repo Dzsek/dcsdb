@@ -1,6 +1,6 @@
 {
   "id": "fpu8a",
-  "name": "FPU-8A Fuel Tank 330 gallons",
+  "name": "FPU-8A",
   "description": "External fuel tank, used to increase range of aircraft",
   "data": {
     "Type": "Fuel Tank"

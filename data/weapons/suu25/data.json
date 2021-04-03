@@ -1,0 +1,21 @@
+{
+  "id": "suu25",
+  "name": "SUU-25",
+  "description": "The SUU-25 is a flare dispenser that holds 8 illumination rounds (two per tube). It is primarily used by the U.S. Air Force. It utilizes LUU-2 pyrotechnic illuminating flares.",
+  "data": {
+    "Type": "Illumination Flares",
+    "Warhead": "LUU-2 Illumination Flares"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f14b",
+      "name": "F-14B"
+    },
+    {
+      "instructions": [],
+      "id": "f14a135gr",
+      "name": "F-14A-135-GR"
+    }
+  ]
+}

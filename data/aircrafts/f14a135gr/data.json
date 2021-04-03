@@ -1,0 +1,169 @@
+{
+  "id": "f14a135gr",
+  "name": "Grumman F-14A-135-GR Tomcat",
+  "description": "The Grumman F-14 Tomcat is an American supersonic, twin-engine, two-seat, twin-tail, variable-sweep wing fighter aircraft. \r\n\r\nThe TF30 engines of the A are prone to compressor stalls at high angles of attack.",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "cap9m",
+      "name": "CAP-9M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9l",
+      "name": "AIM-9L"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9m",
+      "name": "AIM-9M"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "anasqt50tcts",
+      "name": "AN/ASQ-T50 TCTS"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim54amk47",
+      "name": "AIM-54A Mk47"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim54amk60",
+      "name": "AIM-54A Mk60"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim54cmk47",
+      "name": "AIM-54C Mk47"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7f",
+      "name": "AIM-7F"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7m",
+      "name": "AIM-7M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7mh",
+      "name": "AIM-7MH"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk20",
+      "name": "Mk-20"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk81",
+      "name": "Mk-81"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82",
+      "name": "Mk-82"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82se",
+      "name": "Mk-82 SnakeEye"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82air",
+      "name": "Mk-82 Air"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk83",
+      "name": "Mk-83"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu33",
+      "name": "BDU-33"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "lantirn",
+      "name": "AN/AAQ-14 LANTIRN"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk71zuni",
+      "name": "ZUNI MK 71"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel300gal",
+      "name": "Fuel Tank 300 gallons"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "adm141a",
+      "name": "ADM-141 TALD"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu10",
+      "name": "GBU-10"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu12",
+      "name": "GBU-12"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu16",
+      "name": "GBU-16"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk84",
+      "name": "Mk-84"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu24",
+      "name": "GBU-24"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "suu25",
+      "name": "SUU-25"
+    }
+  ]
+}
