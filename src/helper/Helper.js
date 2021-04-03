@@ -10,6 +10,11 @@ export function OptimizeWeaponTags(weapon)
     weapon.tags.push(weaponname);
     weapon.tags.push(weapon.category.toLowerCase());
 
+    if(weapon.tags.includes('ir'))
+    {
+        weapon.tags.push("infrared");
+    }
+
     if(weapon.category==="aam")
     {
         weapon.tags.push("airtoair")
@@ -71,6 +76,6 @@ export function FilterByTags(filtertext, object)
     return allwordsfound;
 }
 
-export const WeaponSearchTerms = ["Air-to-Ground", "Air-to-Air", "Bomb", "Rocket", "Pod", "Fuel", "GPS", "Radar", "Laser"]
+export const WeaponSearchTerms = ["Air-to-Ground", "Air-to-Air", "Bomb", "Rocket", "Pod", "Fuel", "GPS", "Radar", "Laser", "Infrared", "TV", "Dumb", "Cluster", "Tank", "Light Armor", "Building", "Fortification", "SAM"]
 
 export const AircraftSearchTerms = ["Modern", "Cold War", "Multirole", "Blue", "Red"]
