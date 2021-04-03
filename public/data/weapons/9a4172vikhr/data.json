@@ -1,14 +1,13 @@
 {
   "id": "9a4172vikhr",
-  "name": "9a4172vikhr",
-  "description": "9a4172vikhr",
+  "name": "9A4172 Vikhr",
+  "description": "The 9A4172 Vikhr is a Russian laser guided anti-tank missile.\r\n\r\nIt was first shown publicly at the 1992 Farnborough Airshow.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Medium",
+    "Guidance": "Laser",
+    "Type": "Air-to-Ground Missile",
+    "Warhead": "High Explosive Anti Tank",
+    "Targets": "Tanks"
   },
   "aircraft": [
     {

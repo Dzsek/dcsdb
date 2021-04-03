@@ -1,14 +1,9 @@
 {
   "id": "l081elint",
-  "name": "l081elint",
-  "description": "l081elint",
+  "name": "L-081 Fantasmagoria ELINT pod",
+  "description": "Electronic Ingelligence pod use for targeting anti-radiation missiles",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "ELINT Pod"
   },
   "aircraft": [
     {
