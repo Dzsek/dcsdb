@@ -1,20 +1,15 @@
 {
   "id": "jf17spj",
-  "name": "jf17spj",
-  "description": "jf17spj",
+  "name": "SPJ pod",
+  "description": "ECM pod that provides radar jamming capability as well as ranging emiters.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "ECM Pod"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "jf17",
-      "name": "jf17"
+      "name": "JF-17"
     }
   ]
 }

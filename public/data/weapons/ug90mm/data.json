@@ -1,20 +1,18 @@
 {
   "id": "ug90mm",
-  "name": "ug90mm",
-  "description": "ug90mm",
+  "name": "UG 90mm",
+  "description": "90mm unguided rocket",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "jf17",
-      "name": "jf17"
+      "name": "JF-17"
     }
   ]
 }

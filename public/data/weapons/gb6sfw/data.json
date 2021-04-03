@@ -1,20 +1,19 @@
 {
   "id": "gb6sfw",
-  "name": "gb6sfw",
-  "description": "gb6sfw",
+  "name": "GB-6SFW",
+  "description": "GPS guided glide bomb that deploys a series of smart bomblets that target nearby vehicles.\r\n\r\nSFW stands for sensor fused weapon.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Long",
+    "Guidance": "GPS",
+    "Type": "Glide Bomb",
+    "Warhead": "Sensor fused weapon bomblets",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "jf17",
-      "name": "jf17"
+      "name": "JF-17"
     }
   ]
 }

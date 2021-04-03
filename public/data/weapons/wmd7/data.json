@@ -1,20 +1,15 @@
 {
   "id": "wmd7",
-  "name": "wmd7",
-  "description": "wmd7",
+  "name": "WMD7",
+  "description": "The WMD7 pod is an airborne targeting pod designed to provide aircraft with all weather / night attack capabilities.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Targeting Pod"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "jf17",
-      "name": "jf17"
+      "name": "JF-17"
     }
   ]
 }

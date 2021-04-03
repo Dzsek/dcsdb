@@ -1,20 +1,15 @@
 {
   "id": "jf17fuel800l",
-  "name": "jf17fuel800l",
-  "description": "jf17fuel800l",
+  "name": "Fuel Tank 800 Liters",
+  "description": "External fuel tank 800 Liters",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "jf17",
-      "name": "jf17"
+      "name": "JF-17"
     }
   ]
 }

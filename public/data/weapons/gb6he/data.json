@@ -1,20 +1,19 @@
 {
   "id": "gb6he",
-  "name": "gb6he",
-  "description": "gb6he",
+  "name": "GB-6HE",
+  "description": "GPS guided glide bomb with a High Explosive warhead.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Long",
+    "Guidance": "GPS",
+    "Type": "Glide Bomb",
+    "Warhead": "High Explosive",
+    "Targets": "Tanks, Buildings"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "jf17",
-      "name": "jf17"
+      "name": "JF-17"
     }
   ]
 }

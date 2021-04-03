@@ -1,20 +1,19 @@
 {
   "id": "cm802akg",
-  "name": "cm802akg",
-  "description": "cm802akg",
+  "name": "CM-802AKG",
+  "description": "CM-802AKG is a variant of the C-802AK that includes man-in-the-loop guidance through datalink, and an infrared imaging seeker for terminal guidance.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Very Long",
+    "Guidance": "GPS, Datalink",
+    "Type": "Cruise Missile",
+    "Warhead": "190kg High Explosive Fragmentation",
+    "Targets": "Tanks, Ships, Buildings"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "jf17",
-      "name": "jf17"
+      "name": "JF-17"
     }
   ]
 }

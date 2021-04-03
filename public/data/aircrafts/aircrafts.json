@@ -59,9 +59,22 @@
     "name": "F/A-18C"
   },
   {
-    "tags": [],
+    "tags": [
+      "thunder",
+      "jeff",
+      "xiaolong",
+      "fiercedragon",
+      "multirole",
+      "fighter",
+      "a2a",
+      "aa",
+      "ag",
+      "a2g",
+      "modern",
+      "red"
+    ],
     "id": "jf17",
-    "name": "jf17"
+    "name": "JF-17"
   },
   {
     "tags": [

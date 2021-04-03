@@ -1,20 +1,19 @@
 {
   "id": "gb6",
-  "name": "gb6",
-  "description": "gb6",
+  "name": "GB-6",
+  "description": "GPS guided glide bomb that deploys a series of bomblets once it reaches its target.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Long",
+    "Guidance": "GPS",
+    "Type": "Glide Bomb",
+    "Warhead": "Cluster",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "jf17",
-      "name": "jf17"
+      "name": "JF-17"
     }
   ]
 }

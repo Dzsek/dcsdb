@@ -12,7 +12,8 @@
     "category": "agm",
     "tags": [
       "sead",
-      "decoy"
+      "decoy",
+      "glide"
     ],
     "id": "adm141a",
     "name": "ADM-141 TALD"
@@ -23,7 +24,9 @@
       "jsow",
       "tank",
       "lightarmor",
-      "gps"
+      "gps",
+      "glide",
+      "cluster"
     ],
     "id": "agm154a",
     "name": "AGM-154A JSOW"
@@ -34,7 +37,8 @@
       "jsow",
       "building",
       "fortification",
-      "gps"
+      "gps",
+      "glide"
     ],
     "id": "agm154c",
     "name": "AGM-154C JSOW"
@@ -389,27 +393,44 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "laser",
+      "lightarmor",
+      "tank"
+    ],
     "id": "brm19mm",
-    "name": "brm19mm"
+    "name": "BRM1 90mm"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "infrared",
+      "tank",
+      "lightarmor"
+    ],
     "id": "c701ir",
-    "name": "c701ir"
+    "name": "C-701IR"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "tv",
+      "lightarmor",
+      "tank"
+    ],
     "id": "c701t",
-    "name": "c701t"
+    "name": "C-701T"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "antiship",
+      "ship",
+      "cruise",
+      "gps"
+    ],
     "id": "c802ak",
-    "name": "c802ak"
+    "name": "C-802AK"
   },
   {
     "category": "aam",
@@ -433,9 +454,17 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "tank",
+      "ship",
+      "building",
+      "cruise",
+      "mitl",
+      "gps",
+      "infrared"
+    ],
     "id": "cm802akg",
-    "name": "cm802akg"
+    "name": "CM-802AKG"
   },
   {
     "category": "bomb",
@@ -499,21 +528,38 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "glide",
+      "gps",
+      "cluster",
+      "lightarmor"
+    ],
     "id": "gb6",
-    "name": "gb6"
+    "name": "GB-6"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "tank",
+      "building",
+      "glide",
+      "gps"
+    ],
     "id": "gb6he",
-    "name": "gb6he"
+    "name": "GB-6 HE"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "glide",
+      "gps",
+      "sfw",
+      "cluster",
+      "tank",
+      "lightarmor"
+    ],
     "id": "gb6sfw",
-    "name": "gb6sfw"
+    "name": "GB-6 SFW"
   },
   {
     "category": "bomb",
@@ -645,27 +691,33 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "datalink",
+      "mitl"
+    ],
     "id": "jf17datalink",
-    "name": "jf17datalink"
+    "name": "Datalink Pod"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "jf17fuel1100l",
-    "name": "jf17fuel1100l"
+    "name": "Fuel Tank 1100L"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "jf17fuel800l",
-    "name": "jf17fuel800l"
+    "name": "Fuel Tank 800L"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "spj",
+      "ecm"
+    ],
     "id": "jf17spj",
-    "name": "jf17spj"
+    "name": "SPJ pod"
   },
   {
     "category": "agm",
@@ -778,15 +830,26 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "sead",
+      "dead",
+      "sam",
+      "antiradiation"
+    ],
     "id": "ld10",
-    "name": "ld10"
+    "name": "LD-10"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "tank",
+      "building",
+      "jsow",
+      "glide",
+      "gps"
+    ],
     "id": "ls6500",
-    "name": "ls6500"
+    "name": "LS-6-500"
   },
   {
     "category": "rocket",
@@ -942,9 +1005,15 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "missile",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "aircraft"
+    ],
     "id": "pl5ii",
-    "name": "pl5ii"
+    "name": "PL-5EII"
   },
   {
     "category": "aam",
@@ -1114,9 +1183,15 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "active",
+      "fox3",
+      "missile",
+      "aircraft",
+      "radar"
+    ],
     "id": "sd10",
-    "name": "sd10"
+    "name": "SD-10"
   },
   {
     "category": "pod",
@@ -1139,20 +1214,32 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "runway",
+      "dumb"
+    ],
     "id": "type200a",
-    "name": "type200a"
+    "name": "Type-200A"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "dumb"
+    ],
     "id": "ug90mm",
-    "name": "ug90mm"
+    "name": "UG 90mm"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "tgp",
+      "tpod",
+      "targeting",
+      "flir",
+      "infrared"
+    ],
     "id": "wmd7",
-    "name": "wmd7"
+    "name": "WMD7"
   }
 ]
