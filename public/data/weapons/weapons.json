@@ -3,7 +3,9 @@
     "category": "rocket",
     "tags": [
       "hydra",
-      "ag"
+      "ag",
+      "lightarmor",
+      "dumb"
     ],
     "id": "m151he",
     "name": "2.75' rocket M151 (HE)"
@@ -12,7 +14,10 @@
     "category": "rocket",
     "tags": [
       "ag",
-      "hydra"
+      "hydra",
+      "lightarmor",
+      "tank",
+      "dumb"
     ],
     "id": "mk5he",
     "name": "2.75' rocket MK5 (HE)"
@@ -20,7 +25,10 @@
   {
     "category": "agm",
     "tags": [
-      "jsow"
+      "jsow",
+      "tank",
+      "lightarmor",
+      "gps"
     ],
     "id": "agm154a",
     "name": "AGM-154A JSOW"
@@ -28,7 +36,10 @@
   {
     "category": "agm",
     "tags": [
-      "jsow"
+      "jsow",
+      "building",
+      "fortification",
+      "gps"
     ],
     "id": "agm154c",
     "name": "AGM-154C JSOW"
@@ -37,7 +48,11 @@
     "category": "bomb",
     "tags": [
       "walleye",
-      "tv"
+      "tv",
+      "ship",
+      "building",
+      "datalink",
+      "mitl"
     ],
     "id": "agm62",
     "name": "AGM-62 Walleye II"
@@ -46,7 +61,10 @@
     "category": "agm",
     "tags": [
       "laser",
-      "maverick"
+      "maverick",
+      "tank",
+      "building",
+      "fortification"
     ],
     "id": "agm65e",
     "name": "AGM-65E Maverick"
@@ -55,7 +73,10 @@
     "category": "agm",
     "tags": [
       "maverick",
-      "infrared"
+      "infrared",
+      "ship",
+      "tank",
+      "ir"
     ],
     "id": "agm65f",
     "name": "AGM-65F Maverick"
@@ -63,7 +84,12 @@
   {
     "category": "agm",
     "tags": [
-      "antiship"
+      "antiship",
+      "ship",
+      "gps",
+      "ins",
+      "activeradar",
+      "cruise"
     ],
     "id": "agm84d",
     "name": "AGM-84D Harpoon"
@@ -72,7 +98,12 @@
     "category": "agm",
     "tags": [
       "slam",
-      "cruise"
+      "cruise",
+      "mitl",
+      "datalink",
+      "tank",
+      "ship",
+      "building"
     ],
     "id": "agm84e",
     "name": "AGM-84E SLAM"
@@ -82,7 +113,9 @@
     "tags": [
       "sead",
       "harm",
-      "antiradiation"
+      "antiradiation",
+      "dead",
+      "sam"
     ],
     "id": "agm88c",
     "name": "AGM-88C HARM"
@@ -94,7 +127,9 @@
       "active",
       "fox3",
       "aa",
-      "missile"
+      "missile",
+      "aircraft",
+      "radar"
     ],
     "id": "aim120b",
     "name": "AIM-120B"
@@ -106,7 +141,9 @@
       "active",
       "fox3",
       "missile",
-      "aa"
+      "aa",
+      "radar",
+      "aircraft"
     ],
     "id": "aim120c",
     "name": "AIM-120C"
@@ -119,7 +156,10 @@
       "fox1",
       "semiactive",
       "aa",
-      "missile"
+      "missile",
+      "aircraft",
+      "radar",
+      "passive"
     ],
     "id": "aim7f",
     "name": "AIM-7F"
@@ -132,7 +172,10 @@
       "fox1",
       "semiactive",
       "aa",
-      "missile"
+      "missile",
+      "passive",
+      "radar",
+      "aircraft"
     ],
     "id": "aim7m",
     "name": "AIM-7M"
@@ -145,7 +188,10 @@
       "semiactive",
       "fox1",
       "aa",
-      "missile"
+      "missile",
+      "aircraft",
+      "radar",
+      "passive"
     ],
     "id": "aim7mh",
     "name": "AIM-7MH"
@@ -159,7 +205,8 @@
       "fox2",
       "heatseaker",
       "ir",
-      "infrared"
+      "infrared",
+      "aircraft"
     ],
     "id": "aim9l",
     "name": "AIM-9L"
@@ -173,7 +220,8 @@
       "fox2",
       "heatseaker",
       "ir",
-      "infrared"
+      "infrared",
+      "aircraft"
     ],
     "id": "aim9m",
     "name": "AIM-9M"
@@ -187,7 +235,8 @@
       "fox2",
       "heatseaker",
       "ir",
-      "infrared"
+      "infrared",
+      "aircraft"
     ],
     "id": "aim9x",
     "name": "AIM-9X"
@@ -199,7 +248,8 @@
       "lightning",
       "tgp",
       "tpod",
-      "targeting"
+      "targeting",
+      "flir"
     ],
     "id": "anaaq28",
     "name": "AN/AAQ-28 LITENING"
@@ -251,7 +301,9 @@
   {
     "category": "bomb",
     "tags": [
-      "cluster"
+      "cluster",
+      "lightarmor",
+      "tank"
     ],
     "id": "cbu99",
     "name": "CBU-99"
@@ -264,19 +316,37 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "laser",
+      "paveway",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
     "id": "gbu10",
     "name": "GBU-10"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "laser",
+      "paveway",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
     "id": "gbu12",
     "name": "GBU-12"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "building",
+      "laser",
+      "tank",
+      "lightarmor",
+      "paveway"
+    ],
     "id": "gbu16",
     "name": "GBU-16"
   },

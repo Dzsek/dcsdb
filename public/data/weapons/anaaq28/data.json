@@ -3,7 +3,6 @@
   "name": "AN/AAQ-28 LITENING",
   "description": "The AN/AAQ-28(V) LITENING targeting pod is an advanced precision targeting pod system currently operational with a wide variety of aircraft worldwide.\r\n\r\nLITENING significantly increases the combat effectiveness of the aircraft during day, night and under-the-weather conditions in the attack of ground and air targets with a variety of standoff weapons",
   "data": {
-    "Weight": "208 kg",
     "Type": "Targeting pod"
   },
   "aircraft": [

@@ -1,14 +1,12 @@
 {
   "id": "gbu12",
-  "name": "gbu12",
-  "description": "gbu12",
+  "name": "GBU-12 Paveway II",
+  "description": "The GBU-12 Paveway II is an American aerial laser-guided bomb, based on the Mk 82 500-pound (227 kg) general-purpose bomb, but with the addition of a nose-mounted laser seeker and fins for guidance. ",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Laser",
+    "Type": "Guided Bomb",
+    "Warhead": "500lb High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
   },
   "aircraft": [
     {

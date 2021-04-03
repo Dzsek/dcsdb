@@ -1,14 +1,12 @@
 {
   "id": "cbu99",
   "name": "CBU-99",
-  "description": "500 lb anti tank cluster",
+  "description": "The CBU-99 is an American cluster bomb which is employed primarily in an anti-tank mode.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Cluster Bomb",
+    "Warhead": "247 x Mk 118 Mod 1 bomblet",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

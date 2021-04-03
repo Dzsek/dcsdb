@@ -1,14 +1,12 @@
 {
   "id": "gbu10",
-  "name": "gbu10",
-  "description": "gbu10",
+  "name": "GBU-10 Paveway II",
+  "description": "The GBU-10 Paveway II is an American Paveway-series laser-guided bomb, based on the Mk 84 general-purpose bomb, but with laser seeker and wings for guidance.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Laser",
+    "Type": "Guided Bomb",
+    "Warhead": "2000lb High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
   },
   "aircraft": [
     {
