@@ -1,0 +1,19 @@
+{
+  "id": "s25ofm",
+  "name": "S-25-OFM",
+  "description": "The Russian 266mm S-25-OFM is a high-explosive (HE) fragmentation, tube-launched, fin stabilised, air-to-surface rocket with a warhead measuring 340mm in diameter.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "High Explosive Fragmentation",
+    "Targets": "Runways, Buildings"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}

@@ -3,7 +3,6 @@
   "name": "BDU-45",
   "description": "Training bomb",
   "data": {
-    "Weight": "239 kg",
     "Guidance": "Unguided",
     "Type": "Training bomb",
     "Warhead": "None"

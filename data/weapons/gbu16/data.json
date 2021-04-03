@@ -1,14 +1,12 @@
 {
   "id": "gbu16",
-  "name": "gbu16",
-  "description": "gbu16",
+  "name": "GBU-16 Paveway II",
+  "description": "The GBU-16 Paveway II is an American Paveway-series laser-guided bomb, based on the Mk 83 general-purpose bomb, but with laser seeker and wings for guidance.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Laser",
+    "Type": "Guided Bomb",
+    "Warhead": "1000lb High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
   },
   "aircraft": [
     {

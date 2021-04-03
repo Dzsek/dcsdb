@@ -1,0 +1,19 @@
+{
+  "id": "s8ofp2",
+  "name": "S-8OFP2",
+  "description": "The Russian 80mm S-8-OFP2 is a high-explosive (HE), fragmentation, air-to-surface, fin stabilised rocket with a cross-cut diamond pattern fragmentation sleeve.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "High Explosive",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}

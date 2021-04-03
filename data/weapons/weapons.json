@@ -1,26 +1,20 @@
 [
   {
-    "category": "rocket",
+    "category": "agm",
     "tags": [
-      "hydra",
-      "ag"
+      "laser",
+      "tank"
     ],
-    "id": "m151he",
-    "name": "2.75' rocket M151 (HE)"
-  },
-  {
-    "category": "rocket",
-    "tags": [
-      "ag",
-      "hydra"
-    ],
-    "id": "mk5he",
-    "name": "2.75' rocket MK5 (HE)"
+    "id": "9a4172vikhr",
+    "name": "9A4172 Vikhr"
   },
   {
     "category": "agm",
     "tags": [
-      "jsow"
+      "jsow",
+      "tank",
+      "lightarmor",
+      "gps"
     ],
     "id": "agm154a",
     "name": "AGM-154A JSOW"
@@ -28,7 +22,10 @@
   {
     "category": "agm",
     "tags": [
-      "jsow"
+      "jsow",
+      "building",
+      "fortification",
+      "gps"
     ],
     "id": "agm154c",
     "name": "AGM-154C JSOW"
@@ -37,7 +34,11 @@
     "category": "bomb",
     "tags": [
       "walleye",
-      "tv"
+      "tv",
+      "ship",
+      "building",
+      "datalink",
+      "mitl"
     ],
     "id": "agm62",
     "name": "AGM-62 Walleye II"
@@ -46,7 +47,10 @@
     "category": "agm",
     "tags": [
       "laser",
-      "maverick"
+      "maverick",
+      "tank",
+      "building",
+      "fortification"
     ],
     "id": "agm65e",
     "name": "AGM-65E Maverick"
@@ -55,7 +59,10 @@
     "category": "agm",
     "tags": [
       "maverick",
-      "infrared"
+      "infrared",
+      "ship",
+      "tank",
+      "ir"
     ],
     "id": "agm65f",
     "name": "AGM-65F Maverick"
@@ -63,7 +70,12 @@
   {
     "category": "agm",
     "tags": [
-      "antiship"
+      "antiship",
+      "ship",
+      "gps",
+      "ins",
+      "activeradar",
+      "cruise"
     ],
     "id": "agm84d",
     "name": "AGM-84D Harpoon"
@@ -72,7 +84,13 @@
     "category": "agm",
     "tags": [
       "slam",
-      "cruise"
+      "cruise",
+      "mitl",
+      "datalink",
+      "tank",
+      "ship",
+      "building",
+      "ir"
     ],
     "id": "agm84e",
     "name": "AGM-84E SLAM"
@@ -82,7 +100,9 @@
     "tags": [
       "sead",
       "harm",
-      "antiradiation"
+      "antiradiation",
+      "dead",
+      "sam"
     ],
     "id": "agm88c",
     "name": "AGM-88C HARM"
@@ -94,7 +114,9 @@
       "active",
       "fox3",
       "aa",
-      "missile"
+      "missile",
+      "aircraft",
+      "radar"
     ],
     "id": "aim120b",
     "name": "AIM-120B"
@@ -106,7 +128,9 @@
       "active",
       "fox3",
       "missile",
-      "aa"
+      "aa",
+      "radar",
+      "aircraft"
     ],
     "id": "aim120c",
     "name": "AIM-120C"
@@ -119,7 +143,10 @@
       "fox1",
       "semiactive",
       "aa",
-      "missile"
+      "missile",
+      "aircraft",
+      "radar",
+      "passive"
     ],
     "id": "aim7f",
     "name": "AIM-7F"
@@ -132,7 +159,10 @@
       "fox1",
       "semiactive",
       "aa",
-      "missile"
+      "missile",
+      "passive",
+      "radar",
+      "aircraft"
     ],
     "id": "aim7m",
     "name": "AIM-7M"
@@ -145,7 +175,10 @@
       "semiactive",
       "fox1",
       "aa",
-      "missile"
+      "missile",
+      "aircraft",
+      "radar",
+      "passive"
     ],
     "id": "aim7mh",
     "name": "AIM-7MH"
@@ -159,7 +192,8 @@
       "fox2",
       "heatseaker",
       "ir",
-      "infrared"
+      "infrared",
+      "aircraft"
     ],
     "id": "aim9l",
     "name": "AIM-9L"
@@ -173,7 +207,8 @@
       "fox2",
       "heatseaker",
       "ir",
-      "infrared"
+      "infrared",
+      "aircraft"
     ],
     "id": "aim9m",
     "name": "AIM-9M"
@@ -187,7 +222,8 @@
       "fox2",
       "heatseaker",
       "ir",
-      "infrared"
+      "infrared",
+      "aircraft"
     ],
     "id": "aim9x",
     "name": "AIM-9X"
@@ -199,7 +235,8 @@
       "lightning",
       "tgp",
       "tpod",
-      "targeting"
+      "targeting",
+      "flir"
     ],
     "id": "anaaq28",
     "name": "AN/AAQ-28 LITENING"
@@ -240,6 +277,29 @@
     "name": "BDU-45B"
   },
   {
+    "category": "bomb",
+    "tags": [
+      "ag",
+      "dumb",
+      "runway",
+      "fortification"
+    ],
+    "id": "betab500",
+    "name": "BetAB-500"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "ag",
+      "dumb",
+      "highdrag",
+      "runway",
+      "fortification"
+    ],
+    "id": "betab500shp",
+    "name": "BetAB-500 Shp"
+  },
+  {
     "category": "aam",
     "tags": [
       "training",
@@ -251,10 +311,49 @@
   {
     "category": "bomb",
     "tags": [
-      "cluster"
+      "cluster",
+      "lightarmor",
+      "tank",
+      "ag"
     ],
     "id": "cbu99",
     "name": "CBU-99"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "dumb",
+      "ag",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
+    "id": "fab100",
+    "name": "FAB-100"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "ag",
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
+    "id": "fab250",
+    "name": "FAB-250"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "building",
+      "lightarmor",
+      "dumb",
+      "ag",
+      "tank"
+    ],
+    "id": "fab500m62",
+    "name": "FAB-500 M-62"
   },
   {
     "category": "fuel",
@@ -263,105 +362,535 @@
     "name": "FPU-8A Fuel Tank 330 gallons"
   },
   {
-    "category": "bomb",
+    "category": "fuel",
     "tags": [],
+    "id": "fuel800l",
+    "name": "Fuel Tank 800L"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "laser",
+      "paveway",
+      "lightarmor",
+      "tank",
+      "building",
+      "ag"
+    ],
     "id": "gbu10",
     "name": "GBU-10"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "laser",
+      "paveway",
+      "lightarmor",
+      "tank",
+      "building",
+      "ag"
+    ],
     "id": "gbu12",
     "name": "GBU-12"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "building",
+      "laser",
+      "tank",
+      "lightarmor",
+      "paveway",
+      "ag"
+    ],
     "id": "gbu16",
     "name": "GBU-16"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "paveway",
+      "laser",
+      "lightarmor",
+      "tank",
+      "building",
+      "ag"
+    ],
     "id": "gbu24",
     "name": "GBU-24"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "tank",
+      "building",
+      "gps",
+      "jdam",
+      "ag"
+    ],
     "id": "gbu31v1b",
     "name": "GBU-31(V)1/B"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "jdam",
+      "tank",
+      "building",
+      "lightarmor",
+      "gps",
+      "ag"
+    ],
     "id": "gbu31v2b",
     "name": "GBU-31(V)2/B"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "building",
+      "jdam",
+      "gps",
+      "fortification",
+      "ag"
+    ],
     "id": "gbu31v3b",
     "name": "GBU-31(V)3/B"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "fortification",
+      "jdam",
+      "gps",
+      "building",
+      "ag"
+    ],
     "id": "gbu31v4b",
     "name": "GBU-31(V)4/B"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "building",
+      "tank",
+      "lightarmor",
+      "gps",
+      "jdam",
+      "ag"
+    ],
     "id": "gbu32v2b",
     "name": "GBU-32(V)2/B"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "jdam",
+      "gps",
+      "lightarmor",
+      "tank",
+      "building",
+      "ag"
+    ],
     "id": "gbu38",
     "name": "GBU-38"
   },
   {
+    "category": "agm",
+    "tags": [
+      "laser",
+      "tank",
+      "building"
+    ],
+    "id": "kh25ml",
+    "name": "Kh-25ML"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "sead",
+      "dead",
+      "antiradiation",
+      "sam"
+    ],
+    "id": "kh25mp",
+    "name": "Kh-25MP"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "sead",
+      "dead",
+      "antiradiation",
+      "sam"
+    ],
+    "id": "kh25mpu",
+    "name": "Kh-25MPU"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "tank",
+      "ship",
+      "building",
+      "laser"
+    ],
+    "id": "kh29l",
+    "name": "Kh-29L"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "tv",
+      "tank",
+      "ship",
+      "building"
+    ],
+    "id": "kh29t",
+    "name": "Kh-29T"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "sead",
+      "dead",
+      "antiradiation",
+      "sam"
+    ],
+    "id": "kh58u",
+    "name": "Kh-58U"
+  },
+  {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dispenser",
+      "lightarmor"
+    ],
+    "id": "kmgu2ao25rt",
+    "name": "KMGU-2 AO-2.5RT"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "dispenser",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "kmgu2ptab25ko",
+    "name": "KMGU-2 PTAB-2.5KO"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "sead",
+      "dead",
+      "elint",
+      "antiradiation",
+      "sam"
+    ],
+    "id": "l081elint",
+    "name": "L-081 Fantasmagoria"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "hydra",
+      "ag",
+      "lightarmor",
+      "dumb"
+    ],
+    "id": "m151he",
+    "name": "2.75' rocket M151 (HE)"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "tgp",
+      "lltv"
+    ],
+    "id": "mercurylltv",
+    "name": "Mercury LLTV Pod"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "cluster",
+      "lightarmor",
+      "tank",
+      "ag"
+    ],
     "id": "mk20",
     "name": "Mk-20"
   },
   {
+    "category": "rocket",
+    "tags": [
+      "ag",
+      "hydra",
+      "lightarmor",
+      "tank",
+      "dumb"
+    ],
+    "id": "mk5he",
+    "name": "2.75' rocket MK5 (HE)"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "ag",
+      "lightarmor",
+      "dumb"
+    ],
+    "id": "mk71zuni",
+    "name": "ZUNI MK 71"
+  },
+  {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "tank",
+      "lightarmor",
+      "building",
+      "dumb",
+      "ag"
+    ],
     "id": "mk82",
     "name": "Mk-82"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "retarded",
+      "tank",
+      "building",
+      "lightarmor",
+      "highdrag",
+      "ag"
+    ],
     "id": "mk82se",
     "name": "Mk-82 SnakeEye"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "dumb",
+      "tank",
+      "building",
+      "retarded",
+      "highdrag",
+      "ag"
+    ],
     "id": "mk82y",
     "name": "Mk-82Y"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "tank",
+      "lightarmor",
+      "building",
+      "dumb",
+      "ag"
+    ],
     "id": "mk83",
     "name": "Mk-83"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building",
+      "ag"
+    ],
     "id": "mk84",
     "name": "Mk-84"
   },
   {
+    "category": "pod",
+    "tags": [
+      "ecm",
+      "jam"
+    ],
+    "id": "mps410",
+    "name": "MPS-410"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "missile",
+      "fox2",
+      "heatseaker",
+      "infrared",
+      "aircraft",
+      "aphid"
+    ],
+    "id": "r60m",
+    "name": "R-60M"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "archer",
+      "fox2",
+      "missile",
+      "infrared",
+      "aircraft",
+      "heatseaker"
+    ],
+    "id": "r73",
+    "name": "R-73"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "dumb",
+      "cluster",
+      "lightarmor"
+    ],
+    "id": "rbk250275ao1sch",
+    "name": "RBK-250-275 AO-1SCh"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "lightarmor",
+      "dumb",
+      "cluster",
+      "tank"
+    ],
+    "id": "rbk250ptab25m",
+    "name": "RBK-250 PTAB-2.5M"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "tank",
+      "lightarmor",
+      "cluster",
+      "dumb"
+    ],
+    "id": "rbk500255ptab105",
+    "name": "RBK-500-255 PTAB-10.5"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "dumb",
+      "cluster",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "rbk500ptab1m",
+    "name": "RBK-500 PTAB-1M"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "lightarmor",
+      "cluster",
+      "dumb",
+      "highdrag"
+    ],
+    "id": "rbk500uoab25rt",
+    "name": "RBK-500U OAB-2.5 RT"
+  },
+  {
     "category": "rocket",
-    "tags": [],
-    "id": "mk71zuni",
-    "name": "ZUNI MK 71"
+    "tags": [
+      "dumb",
+      "lightarmor"
+    ],
+    "id": "s13of",
+    "name": "S-13 OF"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "lightarmor",
+      "dumb"
+    ],
+    "id": "s24b",
+    "name": "S-24B"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "laser",
+      "lightarmor",
+      "tank",
+      "ship"
+    ],
+    "id": "s25l",
+    "name": "S-25L"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "runway",
+      "building",
+      "dumb"
+    ],
+    "id": "s25ofm",
+    "name": "S-25 OFM"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "lightarmor",
+      "tank",
+      "dumb"
+    ],
+    "id": "s5ko",
+    "name": "S-5KO"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "s8kom",
+    "name": "S-8KOM"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "lightarmor",
+      "dumb"
+    ],
+    "id": "s8ofp2",
+    "name": "S-8OFP2"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "dumb",
+      "smoke"
+    ],
+    "id": "s8tsm",
+    "name": "S-8TsM"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "illumination",
+      "flare"
+    ],
+    "id": "sab100",
+    "name": "SAB-100"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "gun",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "sppu221",
+    "name": "SPPU-22-1"
   }
 ]

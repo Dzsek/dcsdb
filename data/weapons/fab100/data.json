@@ -1,0 +1,18 @@
+{
+  "id": "fab100",
+  "name": "FAB-100",
+  "description": "The FAB-100 high-explosive bomb is designed to destroy military industrial facilities, railway junctions, light armored and soft-skin targets, manpower, military field fortifications",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "General Purpose Bomb",
+    "Warhead": "High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kh25mp",
+  "name": "Kh-25MP",
+  "description": "The Kh-25 (Russian: Х-25; NATO:AS-10 'Karen') is a family of Soviet lightweight air-to-ground missiles with a modular range of guidance systems.\r\n\r\nThe MP version is an anti-radiation missile used against SAM sites.",
+  "data": {
+    "Range": "Medium",
+    "Guidance": "Passive Radar",
+    "Type": "Anti-Radiation Missile",
+    "Warhead": "High Explosive",
+    "Targets": "SAM sites"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}

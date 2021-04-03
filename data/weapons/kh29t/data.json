@@ -1,0 +1,19 @@
+{
+  "id": "kh29t",
+  "name": "Kh-29T",
+  "description": "The Kh-29 (Russian: Х-29; NATO: AS-14 'Kedge'; GRAU: 9M721) is a Soviet air-to-surface missile.\r\n\r\nIt has a large warhead of 320 kg, has a choice of laser, infrared, active radar or TV guidance, and is typically carried by tactical aircraft.\r\n\r\nThe T version uses TV guidance.",
+  "data": {
+    "Range": "Medium",
+    "Guidance": "TV",
+    "Type": "Air-to-ground Missile",
+    "Warhead": "High Explosive Armour-piercing",
+    "Targets": "Tanks, Buildings, Ships"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}

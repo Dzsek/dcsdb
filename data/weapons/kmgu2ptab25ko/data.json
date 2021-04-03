@@ -1,0 +1,18 @@
+{
+  "id": "kmgu2ptab25ko",
+  "name": "KMGU-2 PTAB-2.5KO",
+  "description": "KMGU-2 is a russian munitions dispenser with a cylindrical aluminum fuselage, divided into 8 sections, each with its own pneumatically opened door.\r\n\r\nThis version is loaded with PTAB 2.5KO fragmentation bomblets, used by Russian forces as anti tank/personal high explosive frag bombs",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "Munition Dispenser",
+    "Warhead": "96 x PTAB 2.5KO fragmentation bomblets",
+    "Targets": "Light Armor, Tank"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}

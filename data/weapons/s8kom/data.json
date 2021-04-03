@@ -1,0 +1,19 @@
+{
+  "id": "s8kom",
+  "name": "S-8KOM",
+  "description": "The Russian 80mm S-8-KOM (C-8-KOM) is a high-explosive anti-tank (HEAT) with fragmentation, air-to-surface, fin stabilised rocket with a Point Initiating Base Detonating (PIBD) fuze with an impact back-up element.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "High Explosive Anti Tank",
+    "Targets": "Light Armor, Tanks"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}

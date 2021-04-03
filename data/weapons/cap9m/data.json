@@ -3,7 +3,6 @@
   "name": "CAP-9M",
   "description": "The CAP-9M is an inert training missile, that simulates the weight and size of an AIM-9M Sidewinder.\r\n\r\nCan not be launched.",
   "data": {
-    "Weight": "86",
     "Guidance": "Infrared",
     "Type": "Training Air-to-Air Missile",
     "Warhead": "None"

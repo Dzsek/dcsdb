@@ -1,0 +1,16 @@
+{
+  "id": "sab100",
+  "name": "SAB-100",
+  "description": "A thin cased base ejection carrier aircraft bomb, designed to dispense a payload of several parachute flares over a target area to illuminate it at night.",
+  "data": {
+    "Type": "Illumination Flare dispenser",
+    "Warhead": "LUU-2 Flares"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}

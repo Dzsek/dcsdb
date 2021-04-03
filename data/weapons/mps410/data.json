@@ -1,0 +1,15 @@
+{
+  "id": "mps410",
+  "name": "MPS-410 ECM Pod",
+  "description": "ECM pod that provides some radar jamming capability",
+  "data": {
+    "Type": "ECM pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}

@@ -1,14 +1,12 @@
 {
   "id": "mk82",
-  "name": "mk82",
-  "description": "mk82",
+  "name": "Mk-82",
+  "description": "The Mark 82 is an unguided, low-drag general-purpose bomb, part of the United States Mark 80 series. The explosive filling is usually tritonal, though other compositions have sometimes been used.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "General Purpose Bomb",
+    "Warhead": "500lb High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
   },
   "aircraft": [
     {

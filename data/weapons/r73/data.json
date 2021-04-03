@@ -1,0 +1,19 @@
+{
+  "id": "r73",
+  "name": "R-73",
+  "description": "The R-73 (NATO reporting name AA-11 Archer) is a short-range air-to-air missile developed by Vympel NPO that entered service in 1984.\r\n\r\nIt was developed to replace the earlier R-60.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Infrared",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "7.4kg",
+    "Targets": "Aircraft"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}

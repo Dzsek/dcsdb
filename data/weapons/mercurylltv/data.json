@@ -1,0 +1,15 @@
+{
+  "id": "mercurylltv",
+  "name": "Mercury LLTV Pod",
+  "description": "Low-Light TV pod that adds night capability to the SU-25T.",
+  "data": {
+    "Type": "Targeting Pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}

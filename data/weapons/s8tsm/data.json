@@ -1,0 +1,18 @@
+{
+  "id": "s8tsm",
+  "name": "S-8TsM",
+  "description": "The Russian 80mm S-8-TsM is a smoke deploying, air-to-surface, fin stabilised rocket, used to mark targets/routes.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "Smoke Marker"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}
