@@ -109,7 +109,8 @@
       "datalink",
       "tank",
       "ship",
-      "building"
+      "building",
+      "ir"
     ],
     "id": "agm84e",
     "name": "AGM-84E SLAM"

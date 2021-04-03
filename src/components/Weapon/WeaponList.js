@@ -39,6 +39,7 @@ class WeaponList extends React.Component{
                             return FilterByTags(this.props.filter, f);
                         })
                         .sort((a,b)=>a.name-b.name)
+                        //.slice(0,30)
                         .map(weapon=>
                         (
                             <WeaponCard key={weapon.id}  weapon={weapon}/>
