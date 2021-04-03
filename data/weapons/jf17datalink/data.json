@@ -1,0 +1,15 @@
+{
+  "id": "jf17datalink",
+  "name": "Datalink Pod",
+  "description": "Datalink Pod for the JF-17 that allows man-in-the-loop guidance for the CM-802AKG missile.",
+  "data": {
+    "Type": "Datalink Pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "jf17",
+      "name": "JF-17"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "type200a",
+  "name": "Type-200A Anti-Runway bomb",
+  "description": "Anti-runway bomb based on the french Matra Durandal.\r\n\r\nThe bombs fall is slowed by a parachute. When the bomb has reached a 40° angle due to the parachute's drag, it fires a rocket booster that accelerates it into the runway surface.",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "Anti Runway Bomb",
+    "Warhead": "100kg primary and 15kg secondary charge",
+    "Targets": "Runways"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "jf17",
+      "name": "JF-17"
+    }
+  ]
+}

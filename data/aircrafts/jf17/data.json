@@ -1,0 +1,175 @@
+{
+  "id": "jf17",
+  "name": "CAC/PAC JF-17 Thunder",
+  "description": "The PAC JF-17 Thunder, or CAC FC-1 Xiaolong, is a lightweight, single-engine, fourth-generation multi-role combat aircraft developed jointly by the Pakistan Aeronautical Complex (PAC) and the Chengdu Aircraft Corporation (CAC) of China.\r\n\r\nIt was designed to replace the A-5C, F-7P/PG, Mirage III, and Mirage V combat aircraft in the Pakistan Air Force (PAF). \r\n\r\nThe JF-17 can be used for multiple roles, including interception, ground attack, anti-ship, and aerial reconnaissance. \r\n\r\nIts designation \"JF-17\" by Pakistan is short for \"Joint Fighter-17\", while the designation and name \"FC-1 Xiaolong\" by China means \"Fighter China-1 Fierce Dragon\".",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "pl5ii",
+      "name": "PL-5EII"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "sd10",
+      "name": "SD-10"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "c701ir",
+      "name": "C-701IR"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "c701t",
+      "name": "C-701T"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "ld10",
+      "name": "LD-10"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "ls6500",
+      "name": "LS-6-500"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "c802ak",
+      "name": "C-802AK"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "cm802akg",
+      "name": "CM-802AKG"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "gb6",
+      "name": "GB-6"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "gb6he",
+      "name": "GB-6 HE"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "gb6sfw",
+      "name": "GB-6 SFW"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu10",
+      "name": "GBU-10"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu12",
+      "name": "GBU-12"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu16",
+      "name": "GBU-16"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk20",
+      "name": "Mk-20"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82",
+      "name": "Mk-82"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82se",
+      "name": "Mk-82 SnakeEye"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk83",
+      "name": "Mk-83"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk84",
+      "name": "Mk-84"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "type200a",
+      "name": "Type-200A"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "jf17fuel800l",
+      "name": "Fuel Tank 800L"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "jf17fuel1100l",
+      "name": "Fuel Tank 1100L"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "jf17spj",
+      "name": "SPJ pod"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "jf17datalink",
+      "name": "Datalink Pod"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "wmd7",
+      "name": "WMD7"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "brm19mm",
+      "name": "BRM1 90mm"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "ug90mm",
+      "name": "UG 90mm"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk5he",
+      "name": "2.75' rocket MK5 (HE)"
+    }
+  ]
+}

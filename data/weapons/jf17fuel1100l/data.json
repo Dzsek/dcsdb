@@ -1,0 +1,15 @@
+{
+  "id": "jf17fuel1100l",
+  "name": "Fuel Tank 1100 Liters",
+  "description": "External fuel tank 1100 Liters",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "jf17",
+      "name": "JF-17"
+    }
+  ]
+}

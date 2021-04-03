@@ -1,0 +1,18 @@
+{
+  "id": "brm19mm",
+  "name": "BRM1 90mm",
+  "description": "Laser-guided rocket",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Laser",
+    "Type": "Rocket",
+    "Targets": "Light Armor, Tanks"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "jf17",
+      "name": "JF-17"
+    }
+  ]
+}

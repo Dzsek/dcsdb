@@ -4,7 +4,7 @@
   "description": "The Harpoon is an all-weather, over-the-horizon, anti-ship missile, developed and manufactured by McDonnell Douglas.\r\n\r\nIt uses active radar homing and flies just above the water to evade defenses.",
   "data": {
     "Range": "Very Long",
-    "Guidance": "GPS, INS, Active radar",
+    "Guidance": "GPS, Active radar",
     "Type": "Anti-ship missile",
     "Warhead": "488 lb high-explosive/penetrator",
     "Targets": "Ships"

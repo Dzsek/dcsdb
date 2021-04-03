@@ -1,0 +1,19 @@
+{
+  "id": "c701t",
+  "name": "C-701T",
+  "description": "The C-701 is a Chinese air-to-ground missile that is roughly comparable to the American AGM-65 Maverick. The C-701 is smaller and has less than half the weight of the AGM-65.\r\n\r\nThe T version uses TV to lock on and guide.",
+  "data": {
+    "Range": "Medium",
+    "Guidance": "TV",
+    "Type": "Air-to-Ground Missile",
+    "Warhead": "29kg armour-piercing high explosive",
+    "Targets": "Light Armor, Tanks"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "jf17",
+      "name": "JF-17"
+    }
+  ]
+}
