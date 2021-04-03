@@ -1,0 +1,14 @@
+{
+  "id": "sab100",
+  "name": "sab100",
+  "description": "sab100",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": []
+}

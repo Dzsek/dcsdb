@@ -1,0 +1,14 @@
+{
+  "id": "mps410",
+  "name": "mps410",
+  "description": "mps410",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fab100",
+  "name": "fab100",
+  "description": "fab100",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fuel800l",
+  "name": "fuel800l",
+  "description": "fuel800l",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": []
+}
