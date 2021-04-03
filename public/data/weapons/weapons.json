@@ -736,16 +736,6 @@
   {
     "category": "bomb",
     "tags": [
-      "dumb",
-      "cluster",
-      "lightarmor"
-    ],
-    "id": "rbk250275ao1sch",
-    "name": "RBK-250-275 AO-1SCh"
-  },
-  {
-    "category": "bomb",
-    "tags": [
       "lightarmor",
       "dumb",
       "cluster",
@@ -757,13 +747,12 @@
   {
     "category": "bomb",
     "tags": [
-      "tank",
-      "lightarmor",
+      "dumb",
       "cluster",
-      "dumb"
+      "lightarmor"
     ],
-    "id": "rbk500255ptab105",
-    "name": "RBK-500-255 PTAB-10.5"
+    "id": "rbk250275ao1sch",
+    "name": "RBK-250-275 AO-1SCh"
   },
   {
     "category": "bomb",
@@ -775,6 +764,17 @@
     ],
     "id": "rbk500ptab1m",
     "name": "RBK-500 PTAB-1M"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "tank",
+      "lightarmor",
+      "cluster",
+      "dumb"
+    ],
+    "id": "rbk500255ptab105",
+    "name": "RBK-500-255 PTAB-10.5"
   },
   {
     "category": "bomb",
@@ -806,6 +806,16 @@
     "name": "S-24B"
   },
   {
+    "category": "rocket",
+    "tags": [
+      "runway",
+      "building",
+      "dumb"
+    ],
+    "id": "s25ofm",
+    "name": "S-25 OFM"
+  },
+  {
     "category": "agm",
     "tags": [
       "laser",
@@ -815,16 +825,6 @@
     ],
     "id": "s25l",
     "name": "S-25L"
-  },
-  {
-    "category": "rocket",
-    "tags": [
-      "runway",
-      "building",
-      "dumb"
-    ],
-    "id": "s25ofm",
-    "name": "S-25 OFM"
   },
   {
     "category": "rocket",

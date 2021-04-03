@@ -42,7 +42,16 @@
     "name": "F-15C"
   },
   {
-    "tags": [],
+    "tags": [
+      "cas",
+      "sead",
+      "dead",
+      "ag",
+      "a2g",
+      "grach",
+      "rook",
+      "frogfoot"
+    ],
     "id": "su25t",
     "name": "Su-25T"
   }
