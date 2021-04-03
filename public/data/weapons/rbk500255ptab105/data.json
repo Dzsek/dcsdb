@@ -1,14 +1,12 @@
 {
   "id": "rbk500255ptab105",
-  "name": "rbk500255ptab105",
-  "description": "rbk500255ptab105",
+  "name": "RBK-500-255 PTAB-10.5",
+  "description": "The Russian RBK-500-255, is a development of the basic RBK-500 cluster bomb.\r\n\r\nThis version is loaded with PTAB 10.5 High Explosive Anti Tank bomblets",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Cluster bomb",
+    "Warhead": "PTAB 10.5 High Explosive Anti Tank bomblets",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

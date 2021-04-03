@@ -1,14 +1,13 @@
 {
   "id": "s13of",
-  "name": "s13of",
-  "description": "s13of",
+  "name": "S-13-OF",
+  "description": "The Russian 122mm S-13-OF is a high-explosive (HE) fragmentation, fin stabilised, air-to-surface, electrically initiated rocket designed mainly to attack airfields and hardened targets.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "High Explosive Fragmentation",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {

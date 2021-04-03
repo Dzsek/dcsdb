@@ -1,14 +1,12 @@
 {
   "id": "rbk250275ao1sch",
-  "name": "rbk250275ao1sch",
-  "description": "rbk250275ao1sch",
+  "name": "RBK-250-275 AO-1SCh",
+  "description": "The Russian RBK 250-275 is a thin cased, base ejection, cluster bomb, designed to dispense a payload of submunitions over a target area.\r\n\r\nThis version is loaded with AO-1SCh High Explosive fragmentation bomblets.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Cluster Bomb",
+    "Warhead": "AO-1SCh High Explosive bomblets",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {

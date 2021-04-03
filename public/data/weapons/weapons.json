@@ -735,93 +735,153 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "cluster",
+      "lightarmor"
+    ],
     "id": "rbk250275ao1sch",
-    "name": "rbk250275ao1sch"
+    "name": "RBK-250-275 AO-1SCh"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "dumb",
+      "cluster",
+      "tank"
+    ],
     "id": "rbk250ptab25m",
-    "name": "rbk250ptab25m"
+    "name": "RBK-250 PTAB-2.5M"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "tank",
+      "lightarmor",
+      "cluster",
+      "dumb"
+    ],
     "id": "rbk500255ptab105",
-    "name": "rbk500255ptab105"
+    "name": "RBK-500-255 PTAB-10.5"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "cluster",
+      "lightarmor",
+      "tank"
+    ],
     "id": "rbk500ptab1m",
-    "name": "rbk500ptab1m"
+    "name": "RBK-500 PTAB-1M"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "cluster",
+      "dumb",
+      "highdrag"
+    ],
     "id": "rbk500uoab25rt",
-    "name": "rbk500uoab25rt"
+    "name": "RBK-500U OAB-2.5 RT"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor"
+    ],
     "id": "s13of",
-    "name": "s13of"
+    "name": "S-13 OF"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "dumb"
+    ],
     "id": "s24b",
-    "name": "s24b"
+    "name": "S-24B"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "laser",
+      "lightarmor",
+      "tank",
+      "ship"
+    ],
     "id": "s25l",
-    "name": "s25l"
+    "name": "S-25L"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "runway",
+      "building",
+      "dumb"
+    ],
     "id": "s25ofm",
-    "name": "s25ofm"
+    "name": "S-25 OFM"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "tank",
+      "dumb"
+    ],
     "id": "s5ko",
-    "name": "s5ko"
+    "name": "S-5KO"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
     "id": "s8kom",
-    "name": "s8kom"
+    "name": "S-8KOM"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "dumb"
+    ],
     "id": "s8ofp2",
-    "name": "s8ofp2"
+    "name": "S-8OFP2"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "smoke"
+    ],
     "id": "s8tsm",
-    "name": "s8tsm"
+    "name": "S-8TsM"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "illumination",
+      "flare"
+    ],
     "id": "sab100",
-    "name": "sab100"
+    "name": "SAB-100"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "gun",
+      "lightarmor",
+      "tank"
+    ],
     "id": "sppu221",
-    "name": "sppu221"
+    "name": "SPPU-22-1"
   },
   {
     "category": "rocket",

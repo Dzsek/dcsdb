@@ -1,14 +1,13 @@
 {
   "id": "s5ko",
-  "name": "s5ko",
-  "description": "s5ko",
+  "name": "S-5KO",
+  "description": "The Russian 57mm S-5KO (C-5KO) is a high-explosive anti-tank (HEAT), fin stabilised rocket with an added fragmentation warhead with 10 notched steel rings creating 220 fragments weighing 2g each.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "High Explosive Anti Tank",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

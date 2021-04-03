@@ -1,14 +1,13 @@
 {
   "id": "s24b",
-  "name": "s24b",
-  "description": "s24b",
+  "name": "S-24B",
+  "description": "The Russian S-24B is a 240mm high-explosive (HE), fragmentation, fin and spin stabilised rocket.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "123kg High Explosive Fragmentation",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {
