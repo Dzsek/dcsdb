@@ -61,7 +61,7 @@ class SearchBar extends React.Component
                 <div className="SearchBar-root-chips">
                     {
                         chips ? chips.map(c=>(
-                                <div className={text.includes(c)? "chip-active":""} onClick={(e)=>this.chipClicked(c)}>
+                                <div key={c} className={text.includes(c)? "chip-active":""} onClick={(e)=>this.chipClicked(c)}>
                                     <span>{c}</span>
                                     <span className="material-icons" onClick={this.clear}>close</span>
                                 </div>

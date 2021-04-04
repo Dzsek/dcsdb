@@ -95,7 +95,7 @@ class WeaponView extends React.Component
                                 return (
                                     <div className="WeaponView-table">
                                         {
-                                            weapon.data ? Object.keys(weapon.data).map(key=> (<DataRow name={key} data={weapon.data[key]}/>)) : ""
+                                            weapon.data ? Object.keys(weapon.data).map(key=> (<DataRow key={key} name={key} data={weapon.data[key]}/>)) : ""
                                         }
                                     </div>
                                 );
@@ -115,7 +115,7 @@ class WeaponView extends React.Component
                                 <select value={selectedInstructionAircraft.id} onChange={this.selectedAircraftChanged}>
                                     {
                                         weapon.aircraft.map(plane=>(
-                                            <option value={plane.id}>{plane.name}</option>
+                                            <option key={plane.id} value={plane.id}>{plane.name}</option>
                                         ))
                                     }
                                 </select>
@@ -146,8 +146,8 @@ function DataRow(props){
     if(props.data)
     {
         return([
-                <span style={{fontWeight:"bold"}}>{props.name}</span>,
-                <span>{props.data}</span>
+                <span key={props.name} style={{fontWeight:"bold"}}>{props.name}</span>,
+                <span key={props.data}>{props.data}</span>
         ]);
     }
     else
