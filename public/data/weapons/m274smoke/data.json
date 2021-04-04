@@ -1,0 +1,20 @@
+{
+  "id": "m274smoke",
+  "name": "m274smoke",
+  "description": "m274smoke",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "av8b"
+    }
+  ]
+}

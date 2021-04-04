@@ -1,0 +1,20 @@
+{
+  "id": "gau12",
+  "name": "gau12",
+  "description": "gau12",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "av8b"
+    }
+  ]
+}

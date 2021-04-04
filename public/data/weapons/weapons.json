@@ -19,6 +19,18 @@
     "name": "ADM-141 TALD"
   },
   {
+    "category": "fuel",
+    "tags": [],
+    "id": "aero1d300fuel",
+    "name": "aero1d300fuel"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "agm122",
+    "name": "agm122"
+  },
+  {
     "category": "agm",
     "tags": [
       "jsow",
@@ -326,12 +338,30 @@
   },
   {
     "category": "pod",
+    "tags": [],
+    "id": "analq164decm",
+    "name": "analq164decm"
+  },
+  {
+    "category": "pod",
     "tags": [
       "training",
       "acmi"
     ],
     "id": "anasqt50tcts",
     "name": "AN/ASQ-T50 TCTS"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "apkwshe",
+    "name": "apkwshe"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "apkwsmpp",
+    "name": "apkwsmpp"
   },
   {
     "category": "pod",
@@ -527,6 +557,12 @@
     "name": "Fuel Tank 800L"
   },
   {
+    "category": "pod",
+    "tags": [],
+    "id": "gau12",
+    "name": "gau12"
+  },
+  {
     "category": "agm",
     "tags": [
       "glide",
@@ -688,6 +724,12 @@
     ],
     "id": "gbu38",
     "name": "GBU-38"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "gbu54v1b",
+    "name": "gbu54v1b"
   },
   {
     "category": "pod",
@@ -861,6 +903,24 @@
     ],
     "id": "m151he",
     "name": "2.75' rocket M151 (HE)"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "m156wp",
+    "name": "m156wp"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "m257illum",
+    "name": "m257illum"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "m274smoke",
+    "name": "m274smoke"
   },
   {
     "category": "pod",
@@ -1241,5 +1301,11 @@
     ],
     "id": "wmd7",
     "name": "WMD7"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "wtu1b",
+    "name": "wtu1b"
   }
 ]

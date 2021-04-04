@@ -1,0 +1,20 @@
+{
+  "id": "agm122",
+  "name": "agm122",
+  "description": "agm122",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "av8b"
+    }
+  ]
+}

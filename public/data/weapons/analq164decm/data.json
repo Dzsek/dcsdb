@@ -1,0 +1,20 @@
+{
+  "id": "analq164decm",
+  "name": "analq164decm",
+  "description": "analq164decm",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "av8b"
+    }
+  ]
+}

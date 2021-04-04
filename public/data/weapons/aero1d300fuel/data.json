@@ -1,0 +1,20 @@
+{
+  "id": "aero1d300fuel",
+  "name": "aero1d300fuel",
+  "description": "aero1d300fuel",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "av8b"
+    }
+  ]
+}

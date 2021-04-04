@@ -1,0 +1,20 @@
+{
+  "id": "gbu54v1b",
+  "name": "gbu54v1b",
+  "description": "gbu54v1b",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "av8b"
+    }
+  ]
+}

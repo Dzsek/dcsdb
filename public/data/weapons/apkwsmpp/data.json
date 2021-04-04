@@ -1,0 +1,20 @@
+{
+  "id": "apkwsmpp",
+  "name": "apkwsmpp",
+  "description": "apkwsmpp",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "av8b"
+    }
+  ]
+}
