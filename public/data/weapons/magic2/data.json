@@ -1,0 +1,20 @@
+{
+  "id": "magic2",
+  "name": "magic2",
+  "description": "magic2",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "m2000c",
+      "name": "m2000c"
+    }
+  ]
+}

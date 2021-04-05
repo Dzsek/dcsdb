@@ -19,6 +19,11 @@
       "instructions": [],
       "id": "f15c",
       "name": "F-15C"
+    },
+    {
+      "instructions": [],
+      "id": "f16cm",
+      "name": "f16cm"
     }
   ]
 }

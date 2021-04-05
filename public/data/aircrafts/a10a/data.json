@@ -1,0 +1,175 @@
+{
+  "id": "a10a",
+  "name": "a10a",
+  "description": "a10a",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9l",
+      "name": "AIM-9L"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9m",
+      "name": "AIM-9M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9p",
+      "name": "AIM-9P"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9p5",
+      "name": "AIM-9P5"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu50hd",
+      "name": "bdu50hd"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu50ld",
+      "name": "bdu50ld"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "cbu87",
+      "name": "cbu87"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "cbu97",
+      "name": "cbu97"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82",
+      "name": "Mk-82"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82air",
+      "name": "Mk-82 Air"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "alq131",
+      "name": "alq131"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "alq184",
+      "name": "alq184"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "anasqt50tcts",
+      "name": "AN/ASQ-T50 TCTS"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "suu25",
+      "name": "SUU-25"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m151he",
+      "name": "2.75' rocket M151 (HE)"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m156wp",
+      "name": "m156wp"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m257illum",
+      "name": "m257illum"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk5he",
+      "name": "2.75' rocket MK5 (HE)"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk61practice",
+      "name": "mk61practice"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk1practice",
+      "name": "mk1practice"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "wtu1b",
+      "name": "wtu1b"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm65d",
+      "name": "agm65d"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm65g",
+      "name": "agm65g"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm65h",
+      "name": "agm65h"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm65k",
+      "name": "agm65k"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu33",
+      "name": "BDU-33"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk84",
+      "name": "Mk-84"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "ft600",
+      "name": "ft600"
+    }
+  ]
+}

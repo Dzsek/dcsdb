@@ -1,0 +1,25 @@
+{
+  "id": "tgm65g",
+  "name": "tgm65g",
+  "description": "tgm65g",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a10c2",
+      "name": "a10c2"
+    },
+    {
+      "instructions": [],
+      "id": "a10c",
+      "name": "a10c"
+    }
+  ]
+}

@@ -1,6 +1,31 @@
 [
   {
     "tags": [],
+    "id": "a10a",
+    "name": "a10a"
+  },
+  {
+    "tags": [],
+    "id": "a10c",
+    "name": "a10c"
+  },
+  {
+    "tags": [],
+    "id": "a10c2",
+    "name": "a10c2"
+  },
+  {
+    "tags": [],
+    "id": "a4ec",
+    "name": "a4ec"
+  },
+  {
+    "tags": [],
+    "id": "ajs37",
+    "name": "ajs37"
+  },
+  {
+    "tags": [],
     "id": "av8b",
     "name": "av8b"
   },
@@ -46,6 +71,11 @@
     "name": "F-15C"
   },
   {
+    "tags": [],
+    "id": "f16cm",
+    "name": "f16cm"
+  },
+  {
     "tags": [
       "hornet",
       "navy",
@@ -82,6 +112,21 @@
     "name": "JF-17"
   },
   {
+    "tags": [],
+    "id": "m2000c",
+    "name": "m2000c"
+  },
+  {
+    "tags": [],
+    "id": "mb339pan",
+    "name": "mb339pan"
+  },
+  {
+    "tags": [],
+    "id": "mig21bis",
+    "name": "mig21bis"
+  },
+  {
     "tags": [
       "cas",
       "sead",
@@ -95,5 +140,10 @@
     ],
     "id": "su25t",
     "name": "Su-25T"
+  },
+  {
+    "tags": [],
+    "id": "su33",
+    "name": "su33"
   }
 ]

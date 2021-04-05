@@ -1,0 +1,79 @@
+{
+  "id": "m2000c",
+  "name": "m2000c",
+  "description": "m2000c",
+  "weapons": [
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "eclair",
+      "name": "eclair"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "magic2",
+      "name": "magic2"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "matratype155",
+      "name": "matratype155"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "super530d",
+      "name": "super530d"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "blg66ac",
+      "name": "blg66ac"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82",
+      "name": "Mk-82"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82se",
+      "name": "Mk-82 SnakeEye"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "rpl541",
+      "name": "rpl541"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu12",
+      "name": "GBU-12"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu16",
+      "name": "GBU-16"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu24",
+      "name": "GBU-24"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "rpl522",
+      "name": "rpl522"
+    }
+  ]
+}

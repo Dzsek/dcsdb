@@ -1,0 +1,20 @@
+{
+  "id": "blg66ac",
+  "name": "blg66ac",
+  "description": "blg66ac",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "m2000c",
+      "name": "m2000c"
+    }
+  ]
+}

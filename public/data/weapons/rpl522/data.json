@@ -1,0 +1,20 @@
+{
+  "id": "rpl522",
+  "name": "rpl522",
+  "description": "rpl522",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "m2000c",
+      "name": "m2000c"
+    }
+  ]
+}

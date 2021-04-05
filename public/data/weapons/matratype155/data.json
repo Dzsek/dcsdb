@@ -1,0 +1,20 @@
+{
+  "id": "matratype155",
+  "name": "matratype155",
+  "description": "matratype155",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "m2000c",
+      "name": "m2000c"
+    }
+  ]
+}

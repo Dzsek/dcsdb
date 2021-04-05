@@ -70,6 +70,12 @@
   },
   {
     "category": "agm",
+    "tags": [],
+    "id": "agm65d",
+    "name": "agm65d"
+  },
+  {
+    "category": "agm",
     "tags": [
       "laser",
       "maverick",
@@ -91,6 +97,30 @@
     ],
     "id": "agm65f",
     "name": "AGM-65F Maverick"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "agm65g",
+    "name": "agm65g"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "agm65h",
+    "name": "agm65h"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "agm65k",
+    "name": "agm65k"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "agm65l",
+    "name": "agm65l"
   },
   {
     "category": "agm",
@@ -325,6 +355,18 @@
   },
   {
     "category": "pod",
+    "tags": [],
+    "id": "alq131",
+    "name": "alq131"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "alq184",
+    "name": "alq184"
+  },
+  {
+    "category": "pod",
     "tags": [
       "litening",
       "lightning",
@@ -400,6 +442,24 @@
   },
   {
     "category": "bomb",
+    "tags": [],
+    "id": "bdu50hd",
+    "name": "bdu50hd"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "bdu50ld",
+    "name": "bdu50ld"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "bdu50lgb",
+    "name": "bdu50lgb"
+  },
+  {
+    "category": "bomb",
     "tags": [
       "ag",
       "dumb",
@@ -422,6 +482,12 @@
     "name": "BetAB-500 Shp"
   },
   {
+    "category": "bomb",
+    "tags": [],
+    "id": "blg66ac",
+    "name": "blg66ac"
+  },
+  {
     "category": "rocket",
     "tags": [
       "laser",
@@ -430,6 +496,12 @@
     ],
     "id": "brm19mm",
     "name": "BRM1 90mm"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "bru42ls",
+    "name": "bru42ls"
   },
   {
     "category": "agm",
@@ -472,6 +544,36 @@
     "name": "CAP-9M"
   },
   {
+    "category": "agm",
+    "tags": [],
+    "id": "catm65k",
+    "name": "catm65k"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "cbu103",
+    "name": "cbu103"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "cbu105",
+    "name": "cbu105"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "cbu87",
+    "name": "cbu87"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "cbu97",
+    "name": "cbu97"
+  },
+  {
     "category": "bomb",
     "tags": [
       "cluster",
@@ -495,6 +597,12 @@
     ],
     "id": "cm802akg",
     "name": "CM-802AKG"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "eclair",
+    "name": "eclair"
   },
   {
     "category": "bomb",
@@ -541,8 +649,20 @@
   {
     "category": "fuel",
     "tags": [],
+    "id": "ft600",
+    "name": "ft600"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
     "id": "fuel300gal",
     "name": "Fuel Tank 300 gallons"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel370gal",
+    "name": "fuel370gal"
   },
   {
     "category": "fuel",
@@ -871,6 +991,12 @@
     "name": "AN/AAQ-14 LANTIRN"
   },
   {
+    "category": "pod",
+    "tags": [],
+    "id": "lau105",
+    "name": "lau105"
+  },
+  {
     "category": "agm",
     "tags": [
       "sead",
@@ -923,6 +1049,18 @@
     "name": "m274smoke"
   },
   {
+    "category": "aam",
+    "tags": [],
+    "id": "magic2",
+    "name": "magic2"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "matratype155",
+    "name": "matratype155"
+  },
+  {
     "category": "pod",
     "tags": [
       "tgp",
@@ -930,6 +1068,12 @@
     ],
     "id": "mercurylltv",
     "name": "Mercury LLTV Pod"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "mk1practice",
+    "name": "mk1practice"
   },
   {
     "category": "bomb",
@@ -953,6 +1097,12 @@
     ],
     "id": "mk5he",
     "name": "2.75' rocket MK5 (HE)"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "mk61practice",
+    "name": "mk61practice"
   },
   {
     "category": "rocket",
@@ -1064,6 +1214,12 @@
     "name": "MPS-410"
   },
   {
+    "category": "pod",
+    "tags": [],
+    "id": "mxu648",
+    "name": "mxu648"
+  },
+  {
     "category": "aam",
     "tags": [
       "missile",
@@ -1154,6 +1310,18 @@
     ],
     "id": "rbk500uoab25rt",
     "name": "RBK-500U OAB-2.5 RT"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "rpl522",
+    "name": "rpl522"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "rpl541",
+    "name": "rpl541"
   },
   {
     "category": "rocket",
@@ -1264,6 +1432,12 @@
     "name": "SPPU-22-1"
   },
   {
+    "category": "aam",
+    "tags": [],
+    "id": "super530d",
+    "name": "super530d"
+  },
+  {
     "category": "bomb",
     "tags": [
       "illumination",
@@ -1271,6 +1445,24 @@
     ],
     "id": "suu25",
     "name": "SUU-25"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "tgm65d",
+    "name": "tgm65d"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "tgm65g",
+    "name": "tgm65g"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "tgm65h",
+    "name": "tgm65h"
   },
   {
     "category": "bomb",

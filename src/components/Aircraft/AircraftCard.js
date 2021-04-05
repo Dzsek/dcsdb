@@ -9,7 +9,7 @@ class AircraftCard extends React.Component{
 
         return(
             <Link to={"/aircraft/" + plane.id + (weaponid ? "?from="+weaponid: "")}>
-                <div className="AircraftCard-root">
+                <div className={"AircraftCard-root" + (plane.id===plane.name ? " AircraftCard-root-wip" : "")}>
                     <img alt={plane.name} src={process.env.PUBLIC_URL+"/data/aircrafts/"+plane.id+"/thumbnail.jpg"}></img>
                     <span>{plane.name}</span>
                 </div>

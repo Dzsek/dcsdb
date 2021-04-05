@@ -1,0 +1,20 @@
+{
+  "id": "agm65l",
+  "name": "agm65l",
+  "description": "agm65l",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a10c2",
+      "name": "a10c2"
+    }
+  ]
+}
