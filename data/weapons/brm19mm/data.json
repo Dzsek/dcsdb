@@ -1,7 +1,7 @@
 {
   "id": "brm19mm",
   "name": "BRM1 90mm",
-  "description": "Laser-guided rocket",
+  "description": "The BRM1 is a guided version of the heavy 90mm helicopter rockets, used to attack structures, infantry and light vehicles. In salvos, they can prove dangerous to even well protected tanks.",
   "data": {
     "Range": "Short",
     "Guidance": "Laser",
