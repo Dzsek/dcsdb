@@ -1,14 +1,9 @@
 {
   "id": "alq184",
-  "name": "alq184",
-  "description": "alq184",
+  "name": "AN/ALQ-184",
+  "description": "The AN/ALQ-184 is a self-protect electronic countermeasures (ECM) electronic warfare (EW) pod used on U.S. Air Force aircraft. ",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "ECM pod"
   },
   "aircraft": [
     {

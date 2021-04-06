@@ -1,14 +1,9 @@
 {
   "id": "alq131",
-  "name": "alq131",
-  "description": "alq131",
+  "name": "AN/ALQ-131",
+  "description": "The AN/ALQ-131 is an advanced electronic countermeasures (ECM) pod designed to provide an aircraft self-protection against radar threats. \r\n\r\nThe AN/ALQ-131 accomplishes this by responding with a combination of noise, repeater or transponder electronic jamming techniques.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "ECM pod"
   },
   "aircraft": [
     {

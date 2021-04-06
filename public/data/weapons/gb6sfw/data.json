@@ -1,7 +1,7 @@
 {
   "id": "gb6sfw",
   "name": "GB-6SFW",
-  "description": "The NORINCO GB-6 is a stealthy glide bomb comparable to the American AGM-154 JSOW.\n\nThe SFW version disperses a series of smart cluster munitions that detect target vehicles in their vicinity and fire an explosively-formed penetrator towards them.",
+  "description": "GPS guided glide bomb that deploys a series of smart bomblets that target nearby vehicles.\r\n\r\nSFW stands for sensor fused weapon.",
   "data": {
     "Range": "Long",
     "Guidance": "GPS",

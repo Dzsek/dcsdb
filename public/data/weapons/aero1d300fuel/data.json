@@ -1,14 +1,9 @@
 {
   "id": "aero1d300fuel",
-  "name": "aero1d300fuel",
-  "description": "aero1d300fuel",
+  "name": "Aero 1D Fuel Tank 300 Gallons",
+  "description": "Aero 1D External Fuel Tank 300 Gallons",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {

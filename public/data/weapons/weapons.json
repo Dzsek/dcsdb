@@ -22,13 +22,19 @@
     "category": "fuel",
     "tags": [],
     "id": "aero1d300fuel",
-    "name": "aero1d300fuel"
+    "name": "Aero 1D 300 Gallons"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "sidearm",
+      "sam",
+      "antiradiation",
+      "sead",
+      "dead"
+    ],
     "id": "agm122",
-    "name": "agm122"
+    "name": "AGM-122 Sidearm"
   },
   {
     "category": "agm",
@@ -70,9 +76,14 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "infrared",
+      "maverick",
+      "tank",
+      "lightarmor"
+    ],
     "id": "agm65d",
-    "name": "agm65d"
+    "name": "AGM-65D Maverick"
   },
   {
     "category": "agm",
@@ -100,27 +111,49 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "maverick",
+      "tank",
+      "infrared",
+      "building",
+      "fortification"
+    ],
     "id": "agm65g",
-    "name": "agm65g"
+    "name": "AGM-65G Maverick"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "tank",
+      "tv",
+      "maverick"
+    ],
     "id": "agm65h",
-    "name": "agm65h"
+    "name": "AGM-65H Maverick"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "maverick",
+      "tank",
+      "building",
+      "tv",
+      "fortification"
+    ],
     "id": "agm65k",
-    "name": "agm65k"
+    "name": "AGM-65K Maverick"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "maverick",
+      "laser",
+      "lightarmor",
+      "tank"
+    ],
     "id": "agm65l",
-    "name": "agm65l"
+    "name": "AGM-65L Maverick"
   },
   {
     "category": "agm",
@@ -355,15 +388,23 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "spj",
+      "jammer",
+      "ecm"
+    ],
     "id": "alq131",
-    "name": "alq131"
+    "name": "AN/ALQ-131"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "spj",
+      "ecm",
+      "jammer"
+    ],
     "id": "alq184",
-    "name": "alq184"
+    "name": "AN/ALQ-184"
   },
   {
     "category": "pod",
@@ -380,9 +421,14 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "ecm",
+      "spj",
+      "jammer",
+      "decm"
+    ],
     "id": "analq164decm",
-    "name": "analq164decm"
+    "name": "AN/ALQ-164"
   },
   {
     "category": "pod",
