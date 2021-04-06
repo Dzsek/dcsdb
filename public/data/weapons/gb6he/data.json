@@ -1,7 +1,7 @@
 {
   "id": "gb6he",
   "name": "GB-6HE",
-  "description": "GPS guided glide bomb with a High Explosive warhead.",
+  "description": "The NORINCO GB-6 is a stealthy glide bomb comparable to the American AGM-154 JSOW.\n\nThe HE version is fitted with a single high explosive warhead.",
   "data": {
     "Range": "Long",
     "Guidance": "GPS",
