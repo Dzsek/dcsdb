@@ -25,19 +25,19 @@
       "category": "bomb",
       "tags": [],
       "id": "bdu50hd",
-      "name": "bdu50hd"
+      "name": "BDU-50 HD"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "bdu50ld",
-      "name": "bdu50ld"
+      "name": "BDU-50 LD"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "bdu50lgb",
-      "name": "bdu50lgb"
+      "name": "BDU-50 LGB"
     },
     {
       "category": "bomb",
@@ -85,7 +85,7 @@
       "category": "pod",
       "tags": [],
       "id": "lau105",
-      "name": "lau105"
+      "name": "LAU-105"
     },
     {
       "category": "pod",
@@ -97,13 +97,13 @@
       "category": "agm",
       "tags": [],
       "id": "apkwshe",
-      "name": "apkwshe"
+      "name": "APKWS HE"
     },
     {
       "category": "agm",
       "tags": [],
       "id": "apkwsmpp",
-      "name": "apkwsmpp"
+      "name": "APKWS MPP"
     },
     {
       "category": "bomb",
@@ -199,25 +199,25 @@
       "category": "agm",
       "tags": [],
       "id": "catm65k",
-      "name": "catm65k"
+      "name": "CATM-65K"
     },
     {
       "category": "agm",
       "tags": [],
       "id": "tgm65d",
-      "name": "tgm65d"
+      "name": "TGM-65D Maverick"
     },
     {
       "category": "agm",
       "tags": [],
       "id": "tgm65g",
-      "name": "tgm65g"
+      "name": "TGM-65G Maverick"
     },
     {
       "category": "agm",
       "tags": [],
       "id": "tgm65h",
-      "name": "tgm65h"
+      "name": "TGM-65H Maverick"
     },
     {
       "category": "bomb",
@@ -277,19 +277,19 @@
       "category": "pod",
       "tags": [],
       "id": "bru42ls",
-      "name": "bru42ls"
+      "name": "BRU-42 LS"
     },
     {
       "category": "pod",
       "tags": [],
       "id": "mxu648",
-      "name": "mxu648"
+      "name": "MXU-648"
     },
     {
       "category": "fuel",
       "tags": [],
       "id": "ft600",
-      "name": "ft600"
+      "name": "Fuel Tank FT600"
     }
   ]
 }

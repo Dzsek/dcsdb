@@ -1,14 +1,11 @@
 {
   "id": "bdu50lgb",
-  "name": "bdu50lgb",
-  "description": "bdu50lgb",
+  "name": "BDU-50 LGB",
+  "description": "Training bomb. Laser guided version.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Laser",
+    "Type": "Training Bomb",
+    "Warhead": "None"
   },
   "aircraft": [
     {

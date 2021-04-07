@@ -1,14 +1,9 @@
 {
   "id": "rpl541",
-  "name": "rpl541",
-  "description": "rpl541",
+  "name": "RPL 541 Fuel Tank 2000 Liters",
+  "description": "External Fuel Tank 2000 Liters",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {

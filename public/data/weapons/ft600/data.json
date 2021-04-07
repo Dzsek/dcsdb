@@ -1,14 +1,9 @@
 {
   "id": "ft600",
-  "name": "ft600",
-  "description": "ft600",
+  "name": "Fuel Tank FT600",
+  "description": "External Fuel Tank 600 gallons",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {

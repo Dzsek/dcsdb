@@ -1,14 +1,11 @@
 {
   "id": "bdu50ld",
-  "name": "bdu50ld",
-  "description": "bdu50ld",
+  "name": "BDU-50 LD",
+  "description": "Training bomb. Low drag version.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Training Bomb",
+    "Warhead": "None"
   },
   "aircraft": [
     {

@@ -1,14 +1,9 @@
 {
   "id": "rpl522",
-  "name": "rpl522",
-  "description": "rpl522",
+  "name": "RPL 522 Fuel Tank 1300 Liters",
+  "description": "External Fuel Tank 1300 Liters",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {

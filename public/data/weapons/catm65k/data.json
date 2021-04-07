@@ -1,14 +1,11 @@
 {
   "id": "catm65k",
-  "name": "catm65k",
-  "description": "catm65k",
+  "name": "CATM-65K",
+  "description": "The CATM-65K is a captive-carry training versions of the AGM-65K Maverick.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "TV",
+    "Type": "Training Missile",
+    "Warhead": "None"
   },
   "aircraft": [
     {

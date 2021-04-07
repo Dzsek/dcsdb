@@ -1,14 +1,12 @@
 {
   "id": "blg66ac",
-  "name": "blg66ac",
-  "description": "blg66ac",
+  "name": "BLG-66-AC Belouga",
+  "description": "Developed by Matra for the French air force, the Belouga bomb is a free-fall weapon that dispenses a large number of submunitions, deployable from aircraft undergoing high-g maneuvers in the battlespace.\r\n\r\nThe AC designation means \"anti-char\", or \"anti-tank\" in English.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Cluster Bomb",
+    "Warhead": "151 Anti-Tank bomblets",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

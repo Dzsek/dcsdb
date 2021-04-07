@@ -31,13 +31,13 @@
       "category": "bomb",
       "tags": [],
       "id": "bdu50hd",
-      "name": "bdu50hd"
+      "name": "BDU-50 HD"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "bdu50ld",
-      "name": "bdu50ld"
+      "name": "BDU-50 LD"
     },
     {
       "category": "bomb",
@@ -169,7 +169,7 @@
       "category": "fuel",
       "tags": [],
       "id": "ft600",
-      "name": "ft600"
+      "name": "Fuel Tank FT600"
     }
   ]
 }

@@ -1,14 +1,9 @@
 {
   "id": "fuel370gal",
-  "name": "fuel370gal",
-  "description": "fuel370gal",
+  "name": "Fuel Tank 610 gallons",
+  "description": "External fuel tank 370 gallons",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {

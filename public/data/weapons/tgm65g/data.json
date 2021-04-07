@@ -1,14 +1,11 @@
 {
   "id": "tgm65g",
-  "name": "tgm65g",
-  "description": "tgm65g",
+  "name": "TGM-65G Maverick",
+  "description": "Training version of the AGM-65G Maverick.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Infrared Imaging",
+    "Type": "Training Missile",
+    "Warhead": "None"
   },
   "aircraft": [
     {

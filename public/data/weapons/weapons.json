@@ -441,15 +441,24 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "rocket",
+      "laser",
+      "lightarmor"
+    ],
     "id": "apkwshe",
-    "name": "apkwshe"
+    "name": "APKWS HE"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "laser",
+      "rocket",
+      "lightarmor",
+      "tank"
+    ],
     "id": "apkwsmpp",
-    "name": "apkwsmpp"
+    "name": "APKWS MPP"
   },
   {
     "category": "pod",
@@ -488,21 +497,33 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "training",
+      "practice",
+      "highdrag",
+      "retarded"
+    ],
     "id": "bdu50hd",
-    "name": "bdu50hd"
+    "name": "BDU-50 HD"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "practice",
+      "training"
+    ],
     "id": "bdu50ld",
-    "name": "bdu50ld"
+    "name": "BDU-50 LD"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "laser",
+      "practice",
+      "training"
+    ],
     "id": "bdu50lgb",
-    "name": "bdu50lgb"
+    "name": "BDU-50 LGB"
   },
   {
     "category": "bomb",
@@ -529,9 +550,14 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "cluster",
+      "belouga",
+      "lightarmor",
+      "tank"
+    ],
     "id": "blg66ac",
-    "name": "blg66ac"
+    "name": "BLG-66-AC"
   },
   {
     "category": "rocket",
@@ -545,9 +571,13 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "ter",
+      "rack",
+      "cosmetic"
+    ],
     "id": "bru42ls",
-    "name": "bru42ls"
+    "name": "BRU-42 LS"
   },
   {
     "category": "agm",
@@ -591,9 +621,14 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "training",
+      "practice",
+      "maverick",
+      "tv"
+    ],
     "id": "catm65k",
-    "name": "catm65k"
+    "name": "CATM-65K"
   },
   {
     "category": "bomb",
@@ -696,7 +731,7 @@
     "category": "fuel",
     "tags": [],
     "id": "ft600",
-    "name": "ft600"
+    "name": "Fuel Tank FT600"
   },
   {
     "category": "fuel",
@@ -708,7 +743,7 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel370gal",
-    "name": "fuel370gal"
+    "name": "Fuel Tank 610 gallons"
   },
   {
     "category": "fuel",
@@ -1038,9 +1073,11 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "rack"
+    ],
     "id": "lau105",
-    "name": "lau105"
+    "name": "LAU-105"
   },
   {
     "category": "agm",
@@ -1261,9 +1298,12 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "travel",
+      "cargo"
+    ],
     "id": "mxu648",
-    "name": "mxu648"
+    "name": "MXU-648"
   },
   {
     "category": "aam",
@@ -1361,13 +1401,13 @@
     "category": "fuel",
     "tags": [],
     "id": "rpl522",
-    "name": "rpl522"
+    "name": "RPL 522 Fuel Tank 1300L"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "rpl541",
-    "name": "rpl541"
+    "name": "RPL 541 Fuel Tank 2000L"
   },
   {
     "category": "rocket",
@@ -1494,21 +1534,36 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "maverick",
+      "training",
+      "practice",
+      "infrared"
+    ],
     "id": "tgm65d",
-    "name": "tgm65d"
+    "name": "TGM-65D Maverick"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "maverick",
+      "infrared",
+      "training",
+      "practice"
+    ],
     "id": "tgm65g",
-    "name": "tgm65g"
+    "name": "TGM-65G Maverick"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "training",
+      "tv",
+      "practice",
+      "maverick"
+    ],
     "id": "tgm65h",
-    "name": "tgm65h"
+    "name": "TGM-65H Maverick"
   },
   {
     "category": "bomb",

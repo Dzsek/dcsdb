@@ -31,7 +31,7 @@
       "category": "bomb",
       "tags": [],
       "id": "blg66ac",
-      "name": "blg66ac"
+      "name": "BLG-66-AC"
     },
     {
       "category": "bomb",
@@ -49,7 +49,7 @@
       "category": "fuel",
       "tags": [],
       "id": "rpl541",
-      "name": "rpl541"
+      "name": "RPL 541 Fuel Tank 2000L"
     },
     {
       "category": "bomb",
@@ -73,7 +73,7 @@
       "category": "fuel",
       "tags": [],
       "id": "rpl522",
-      "name": "rpl522"
+      "name": "RPL 522 Fuel Tank 1300L"
     }
   ]
 }
