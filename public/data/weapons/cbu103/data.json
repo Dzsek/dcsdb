@@ -1,14 +1,12 @@
 {
   "id": "cbu103",
-  "name": "cbu103",
-  "description": "cbu103",
+  "name": "CBU-103",
+  "description": "CBU-87 outfitted with a Wind Corrected Munitions Dispenser guidance tail kit to convert it into a precision guided weapon.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "GPS",
+    "Type": "Guided Cluster Bomb",
+    "Warhead": "202 BLU-97/B Combined Effects Bomblets",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {

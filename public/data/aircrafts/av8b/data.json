@@ -103,7 +103,7 @@
       "category": "bomb",
       "tags": [],
       "id": "gbu54v1b",
-      "name": "gbu54v1b"
+      "name": "GBU-54(V)1/B"
     },
     {
       "category": "bomb",
@@ -151,19 +151,19 @@
       "category": "rocket",
       "tags": [],
       "id": "m156wp",
-      "name": "m156wp"
+      "name": "2.75' rocket M156 (WP)"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "m257illum",
-      "name": "m257illum"
+      "name": "2.75' rocket M257 Illumination"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "m274smoke",
-      "name": "m274smoke"
+      "name": "2.75' rocket M274 Smoke"
     },
     {
       "category": "rocket",
@@ -175,7 +175,7 @@
       "category": "rocket",
       "tags": [],
       "id": "wtu1b",
-      "name": "wtu1b"
+      "name": "2.75' rocket WTU-1/B"
     },
     {
       "category": "pod",
@@ -193,7 +193,7 @@
       "category": "pod",
       "tags": [],
       "id": "gau12",
-      "name": "gau12"
+      "name": "GAU-12 Equalizer"
     }
   ]
 }

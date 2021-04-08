@@ -1,14 +1,12 @@
 {
   "id": "m156wp",
-  "name": "m156wp",
-  "description": "m156wp",
+  "name": "Hydra 70 M156 (WP)",
+  "description": "The Hydra 70 rocket is a 2.75-inch (70 mm) diameter fin-stabilized unguided rocket used primarily in the air-to-ground role.\r\n\r\nIt can be equipped with a variety of warheads, this particular version using the M156 White Phosphorus warhead, that is used for marking targets with smoke.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "M156 White Phosphorus (Smoke)"
   },
   "aircraft": [
     {

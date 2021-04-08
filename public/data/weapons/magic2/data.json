@@ -1,14 +1,13 @@
 {
   "id": "magic2",
-  "name": "magic2",
-  "description": "magic2",
+  "name": "Matra Magic II",
+  "description": "The Matra Magic II is a short-range air-to-air missile designed in 1968 by French company Matra to compete with the American AIM-9 Sidewinder, and it was made backwards compatible with the Sidewinder launch hardware.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Infrared",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "13 kg fragmentation",
+    "Targets": "Aircraft"
   },
   "aircraft": [
     {

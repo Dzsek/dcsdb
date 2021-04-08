@@ -1,14 +1,12 @@
 {
   "id": "mk61practice",
-  "name": "mk61practice",
-  "description": "mk61practice",
+  "name": "Hydra 70 Mk61 Practice",
+  "description": "The Hydra 70 rocket is a 2.75-inch (70 mm) diameter fin-stabilized unguided rocket used primarily in the air-to-ground role.\r\n\r\nIt can be equipped with a variety of warheads, this particular version using the Mk61 training warhead.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "Mk61 Practice"
   },
   "aircraft": [
     {

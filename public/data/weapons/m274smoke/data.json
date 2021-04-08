@@ -1,14 +1,12 @@
 {
   "id": "m274smoke",
-  "name": "m274smoke",
-  "description": "m274smoke",
+  "name": "Hydra 70 M274 Smoke",
+  "description": "The Hydra 70 rocket is a 2.75-inch (70 mm) diameter fin-stabilized unguided rocket used primarily in the air-to-ground role.\r\n\r\nIt can be equipped with a variety of warheads, this particular version using the M274 Smoke warhead, used for training purposes.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Practice Rocket",
+    "Warhead": "M274 Smoke"
   },
   "aircraft": [
     {

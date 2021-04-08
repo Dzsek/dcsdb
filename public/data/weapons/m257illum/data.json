@@ -1,14 +1,12 @@
 {
   "id": "m257illum",
-  "name": "m257illum",
-  "description": "m257illum",
+  "name": "2.75' rocket M257 Parachute Illumination",
+  "description": "The Hydra 70 rocket is a 2.75-inch (70 mm) diameter fin-stabilized unguided rocket used primarily in the air-to-ground role.\r\n\r\nIt can be equipped with a variety of warheads, this particular version using the M257 Illumination warhead, together with a parachute, to illuminate areas at night.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Illumination Rocket",
+    "Warhead": "M257 Parachute Illumination"
   },
   "aircraft": [
     {

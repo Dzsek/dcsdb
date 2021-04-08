@@ -43,13 +43,13 @@
       "category": "bomb",
       "tags": [],
       "id": "cbu87",
-      "name": "cbu87"
+      "name": "CBU-87"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "cbu97",
-      "name": "cbu97"
+      "name": "CBU-97"
     },
     {
       "category": "bomb",
@@ -127,19 +127,19 @@
       "category": "rocket",
       "tags": [],
       "id": "m156wp",
-      "name": "m156wp"
+      "name": "2.75' rocket M156 (WP)"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "m257illum",
-      "name": "m257illum"
+      "name": "2.75' rocket M257 Illumination"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "m274smoke",
-      "name": "m274smoke"
+      "name": "2.75' rocket M274 Smoke"
     },
     {
       "category": "rocket",
@@ -151,19 +151,19 @@
       "category": "rocket",
       "tags": [],
       "id": "mk61practice",
-      "name": "mk61practice"
+      "name": "2.75' rocket Mk61 Practice"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "mk1practice",
-      "name": "mk1practice"
+      "name": "2.75' rocket Mk1 Practice"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "wtu1b",
-      "name": "wtu1b"
+      "name": "2.75' rocket WTU-1/B"
     },
     {
       "category": "agm",
@@ -229,13 +229,13 @@
       "category": "bomb",
       "tags": [],
       "id": "cbu103",
-      "name": "cbu103"
+      "name": "CBU-103"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "cbu105",
-      "name": "cbu105"
+      "name": "CBU-105"
     },
     {
       "category": "bomb",
@@ -265,7 +265,7 @@
       "category": "bomb",
       "tags": [],
       "id": "gbu54v1b",
-      "name": "gbu54v1b"
+      "name": "GBU-54(V)1/B"
     },
     {
       "category": "bomb",

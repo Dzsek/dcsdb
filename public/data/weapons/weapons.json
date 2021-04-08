@@ -632,27 +632,49 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "cluster",
+      "lightarmor",
+      "gps"
+    ],
     "id": "cbu103",
-    "name": "cbu103"
+    "name": "CBU-103"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "sfw",
+      "sensorfuzedweapon",
+      "lightarmor",
+      "tank",
+      "cluster",
+      "gps",
+      "wcmd"
+    ],
     "id": "cbu105",
-    "name": "cbu105"
+    "name": "CBU-105"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "cluster",
+      "lightarmor",
+      "dumb"
+    ],
     "id": "cbu87",
-    "name": "cbu87"
+    "name": "CBU-87"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "sfw",
+      "sensorfuzedweapon",
+      "cluster",
+      "lightarmor",
+      "tank"
+    ],
     "id": "cbu97",
-    "name": "cbu97"
+    "name": "CBU-97"
   },
   {
     "category": "bomb",
@@ -681,9 +703,13 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "countermeasure",
+      "chaff",
+      "flare"
+    ],
     "id": "eclair",
-    "name": "eclair"
+    "name": "Eclair"
   },
   {
     "category": "bomb",
@@ -759,9 +785,13 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "gun",
+      "lightarmor",
+      "tank"
+    ],
     "id": "gau12",
-    "name": "gau12"
+    "name": "GAU-12 Equalizer"
   },
   {
     "category": "agm",
@@ -928,9 +958,16 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "tank",
+      "gps",
+      "laser",
+      "jdam",
+      "ljdam"
+    ],
     "id": "gbu54v1b",
-    "name": "gbu54v1b"
+    "name": "GBU-54(V)1/B"
   },
   {
     "category": "pod",
@@ -1115,33 +1152,58 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "hydra",
+      "dumb",
+      "smoke"
+    ],
     "id": "m156wp",
-    "name": "m156wp"
+    "name": "2.75' rocket M156 (WP)"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "hydra",
+      "dumb",
+      "illumination",
+      "flare"
+    ],
     "id": "m257illum",
-    "name": "m257illum"
+    "name": "2.75' rocket M257 Illumination"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "hydra",
+      "dumb",
+      "smoke",
+      "practice"
+    ],
     "id": "m274smoke",
-    "name": "m274smoke"
+    "name": "2.75' rocket M274 Smoke"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "missile",
+      "fox2",
+      "heatseaker",
+      "infrared",
+      "aircraft"
+    ],
     "id": "magic2",
-    "name": "magic2"
+    "name": "Matra Magic II"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "matra",
+      "type155",
+      "dumb",
+      "lightarmor"
+    ],
     "id": "matratype155",
-    "name": "matratype155"
+    "name": "SNEB 68mm (Matra Type 155)"
   },
   {
     "category": "pod",
@@ -1154,9 +1216,14 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "training",
+      "practice",
+      "hydra",
+      "smoke"
+    ],
     "id": "mk1practice",
-    "name": "mk1practice"
+    "name": "2.75' rocket Mk1 Practice"
   },
   {
     "category": "bomb",
@@ -1183,9 +1250,14 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "training",
+      "practice",
+      "smoke",
+      "hydra"
+    ],
     "id": "mk61practice",
-    "name": "mk61practice"
+    "name": "2.75' rocket Mk61 Practice"
   },
   {
     "category": "rocket",
@@ -1519,9 +1591,17 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "semiactive",
+      "radar",
+      "sahr",
+      "fox1",
+      "missile",
+      "passive",
+      "aircraft"
+    ],
     "id": "super530d",
-    "name": "super530d"
+    "name": "Super 530D"
   },
   {
     "category": "bomb",
@@ -1597,8 +1677,12 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "practice",
+      "training",
+      "hydra"
+    ],
     "id": "wtu1b",
-    "name": "wtu1b"
+    "name": "2.75' rocket WTU-1/B"
   }
 ]
