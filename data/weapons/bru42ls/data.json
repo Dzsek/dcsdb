@@ -1,0 +1,20 @@
+{
+  "id": "bru42ls",
+  "name": "BRU-42 LS",
+  "description": "The BRU-42 is a Triple Ejector Rack (TER), a weapon suspension unit that attaches to an aircraft's main pylons, and that can carry up to three weapons.\r\n\r\nThe racks in DCS are automatically mounted when needed for the selected loadout option.\r\n\r\nChoosing this for a pylon will result in only the empty rack being mounted, for cosmetic and weight/drag simulation purposes.",
+  "data": {
+    "Type": "Ejector Rack"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a10c2",
+      "name": "A-10C II "
+    },
+    {
+      "instructions": [],
+      "id": "a10c",
+      "name": "A-10C"
+    }
+  ]
+}

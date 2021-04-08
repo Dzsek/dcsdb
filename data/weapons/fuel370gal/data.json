@@ -1,0 +1,15 @@
+{
+  "id": "fuel370gal",
+  "name": "Fuel Tank 610 gallons",
+  "description": "External fuel tank 370 gallons",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f16cm",
+      "name": "F-16CM bl.50"
+    }
+  ]
+}

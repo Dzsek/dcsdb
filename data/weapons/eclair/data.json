@@ -1,0 +1,15 @@
+{
+  "id": "eclair",
+  "name": "Eclair",
+  "description": "Countermeasure dispenser that replaces the drag chute on the Mirage and provides an extended number of flares and chaff.",
+  "data": {
+    "Type": "Countermeasure dispenser"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "m2000c",
+      "name": "M-2000C"
+    }
+  ]
+}

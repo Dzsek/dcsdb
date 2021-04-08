@@ -1,6 +1,85 @@
 [
   {
     "tags": [
+      "cas",
+      "ag",
+      "a2g",
+      "blue",
+      "modern",
+      "warthog",
+      "brrrt",
+      "lowfidelity"
+    ],
+    "id": "a10a",
+    "name": "A-10A"
+  },
+  {
+    "tags": [
+      "cas",
+      "ag",
+      "a2g",
+      "blue",
+      "modern",
+      "warthog",
+      "brrrt"
+    ],
+    "id": "a10c",
+    "name": "A-10C"
+  },
+  {
+    "tags": [
+      "cas",
+      "ag",
+      "a2g",
+      "blue",
+      "modern",
+      "warthog",
+      "brrrt"
+    ],
+    "id": "a10c2",
+    "name": "A-10C II "
+  },
+  {
+    "tags": [
+      "free",
+      "mod",
+      "community",
+      "heclak",
+      "carrier",
+      "navy",
+      "blue",
+      "attack"
+    ],
+    "id": "a4ec",
+    "name": "a4ec"
+  },
+  {
+    "tags": [
+      "viggen",
+      "attack",
+      "strike",
+      "blue",
+      "coldwar",
+      "swedish"
+    ],
+    "id": "ajs37",
+    "name": "ajs37"
+  },
+  {
+    "tags": [
+      "vtol",
+      "hover",
+      "jumpjet",
+      "harrier",
+      "blue",
+      "modern",
+      "cas"
+    ],
+    "id": "av8b",
+    "name": "AV-8B N/A"
+  },
+  {
+    "tags": [
       "tomcat",
       "navy",
       "fighter",
@@ -35,10 +114,24 @@
       "aa",
       "a2a",
       "modern",
-      "blue"
+      "blue",
+      "lowfidelity"
     ],
     "id": "f15c",
     "name": "F-15C"
+  },
+  {
+    "tags": [
+      "multirole",
+      "fighter",
+      "modern",
+      "blue",
+      "viper",
+      "twoweeks",
+      "falcon"
+    ],
+    "id": "f16cm",
+    "name": "F-16CM bl.50"
   },
   {
     "tags": [
@@ -78,6 +171,30 @@
   },
   {
     "tags": [
+      "mirage",
+      "baguette",
+      "blue",
+      "french",
+      "interceptor",
+      "fighter",
+      "blue",
+      "modern"
+    ],
+    "id": "m2000c",
+    "name": "M-2000C"
+  },
+  {
+    "tags": [],
+    "id": "mb339pan",
+    "name": "mb339pan"
+  },
+  {
+    "tags": [],
+    "id": "mig21bis",
+    "name": "mig21bis"
+  },
+  {
+    "tags": [
       "cas",
       "sead",
       "dead",
@@ -86,9 +203,15 @@
       "grach",
       "rook",
       "frogfoot",
-      "red"
+      "red",
+      "lowfidelity"
     ],
     "id": "su25t",
     "name": "Su-25T"
+  },
+  {
+    "tags": [],
+    "id": "su33",
+    "name": "su33"
   }
 ]

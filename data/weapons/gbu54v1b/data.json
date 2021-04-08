@@ -1,0 +1,23 @@
+{
+  "id": "gbu54v1b",
+  "name": "GBU-54(V)1/B",
+  "description": "The GBU-54 is a standard Mk-82 bomb upgraded with a Laser JDAM kit.\r\n\r\nThe Laser JDAM (LJDAM), as this upgrade is known, adds a laser seeker to the nose of a JDAM-equipped bomb, giving the ability to engage moving targets to the JDAM.",
+  "data": {
+    "Guidance": "GPS, Laser",
+    "Type": "Guided Bomb",
+    "Warhead": "500lb High Explosive",
+    "Targets": "Light Armor, Tanks"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "AV-8B N/A"
+    },
+    {
+      "instructions": [],
+      "id": "a10c2",
+      "name": "A-10C II "
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "analq164decm",
+  "name": "AN/ALQ-164 DECM",
+  "description": "The ALQ-164 RF jammer pod uses the ALQ-126B to counter pulse threats and uses the ALQ-162 to counter CW threats. \r\n\r\nThe ALQ-164 Pod serves as host for one ALQ-126B and one ALQ-162 and is currently the DECM for the Marine AV-8B aircraft.",
+  "data": {
+    "Type": "ECM pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "AV-8B N/A"
+    }
+  ]
+}

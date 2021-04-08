@@ -1,0 +1,33 @@
+{
+  "id": "cbu97",
+  "name": "CBU-97",
+  "description": "The CBU-97 Sensor Fuzed Weapon is a United States Air Force 1,000-pound freefall Cluster Bomb Unit.\r\n\r\nThe CBU-97 consists of an SUU-66/B tactical munition dispenser that contains 10 BLU-108 submunitions. Each submunition contains four hockey-puck-shaped sensor-fused projectiles called Skeets. These detect target vehicles, such as tanks, armored personnel carriers, trucks and other support vehicles, and fire an explosively-formed penetrator downwards at them.",
+  "data": {
+    "Guidance": "Unguided (Guided submunitions)",
+    "Type": "Cluster Bomb",
+    "Warhead": "Smart bomblets with eplosively-formed penetrator",
+    "Targets": "Light Armor, Tanks"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a10c2",
+      "name": "A-10C II "
+    },
+    {
+      "instructions": [],
+      "id": "a10c",
+      "name": "A-10C"
+    },
+    {
+      "instructions": [],
+      "id": "a10a",
+      "name": "A-10A"
+    },
+    {
+      "instructions": [],
+      "id": "f16cm",
+      "name": "F-16CM bl.50"
+    }
+  ]
+}

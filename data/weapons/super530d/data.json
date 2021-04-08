@@ -1,0 +1,19 @@
+{
+  "id": "super530d",
+  "name": "Matra Super 530D",
+  "description": "The Matra Super 530 is a French short to medium-range, semi-active, air-to-air missile.",
+  "data": {
+    "Range": "Medium",
+    "Guidance": "Semi Active Radar",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "30 kg high-explosive fragmentation",
+    "Targets": "Aircraft"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "m2000c",
+      "name": "M-2000C"
+    }
+  ]
+}

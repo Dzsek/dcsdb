@@ -1,0 +1,22 @@
+{
+  "id": "tgm65h",
+  "name": "TGM-65H Maverick",
+  "description": "Training version of the AGM-65H Maverick.",
+  "data": {
+    "Guidance": "TV",
+    "Type": "Training Missile",
+    "Warhead": "None"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a10c2",
+      "name": "A-10C II "
+    },
+    {
+      "instructions": [],
+      "id": "a10c",
+      "name": "A-10C"
+    }
+  ]
+}

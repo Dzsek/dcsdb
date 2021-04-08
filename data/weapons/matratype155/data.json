@@ -1,0 +1,19 @@
+{
+  "id": "matratype155",
+  "name": "SNEB 68mm rocket (Matra Type 155)",
+  "description": "The SNEB rocket is an unguided air-to-ground 68 mm rocket projectile manufactured by the French company TDA Armements, designed for launch by combat aircraft and helicopters. \r\n\r\nIt is also known as the SNEB rocket pod, and sometimes as the Matra rocket, due to it commonly being carried in pod-like launchers built by Matra.\r\n\r\nCommonly launched from the Matra Type 155 rocket launcher",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "High Explosive",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "m2000c",
+      "name": "M-2000C"
+    }
+  ]
+}

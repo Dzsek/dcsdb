@@ -1,0 +1,33 @@
+{
+  "id": "cbu87",
+  "name": "CBU-87",
+  "description": "The CBU-87 Combined Effects Munition (CEM) is a cluster bomb used by the United States Air Force.",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "Cluster Bomb",
+    "Warhead": "202 BLU-97/B Combined Effects Bomblets",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a10c2",
+      "name": "A-10C II "
+    },
+    {
+      "instructions": [],
+      "id": "a10c",
+      "name": "A-10C"
+    },
+    {
+      "instructions": [],
+      "id": "a10a",
+      "name": "A-10A"
+    },
+    {
+      "instructions": [],
+      "id": "f16cm",
+      "name": "F-16CM bl.50"
+    }
+  ]
+}

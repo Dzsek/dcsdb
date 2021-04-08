@@ -1,0 +1,15 @@
+{
+  "id": "rpl541",
+  "name": "RPL 541 Fuel Tank 2000 Liters",
+  "description": "External Fuel Tank 2000 Liters",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "m2000c",
+      "name": "M-2000C"
+    }
+  ]
+}

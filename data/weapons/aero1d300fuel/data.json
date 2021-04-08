@@ -1,0 +1,15 @@
+{
+  "id": "aero1d300fuel",
+  "name": "Aero 1D Fuel Tank 300 Gallons",
+  "description": "Aero 1D External Fuel Tank 300 Gallons",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "AV-8B N/A"
+    }
+  ]
+}

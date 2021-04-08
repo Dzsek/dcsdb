@@ -1,0 +1,18 @@
+{
+  "id": "gau12",
+  "name": "GAU-12 Equalizer",
+  "description": "The General Dynamics GAU-12/U Equalizer is a five-barrel 25 mm Gatling-type rotary cannon.\r\n\r\nWhen mounted on the Harrier it is supplied by a bleed air driven pneumatic system, meaning it will not fire unless the engine generates at least 60 PSI of bleed air.\r\n\r\nConsider keeping the throttle above ~80% during attack runs.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gunpod",
+    "Targets": "Light Armor, Tanks"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "AV-8B N/A"
+    }
+  ]
+}

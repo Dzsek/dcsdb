@@ -22,6 +22,26 @@
       "instructions": [],
       "id": "f14a135gr",
       "name": "F-14A-135-GR"
+    },
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "AV-8B N/A"
+    },
+    {
+      "instructions": [],
+      "id": "a10c2",
+      "name": "A-10C II "
+    },
+    {
+      "instructions": [],
+      "id": "a10c",
+      "name": "A-10C"
+    },
+    {
+      "instructions": [],
+      "id": "f16cm",
+      "name": "F-16CM bl.50"
     }
   ]
 }

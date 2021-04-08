@@ -1,0 +1,25 @@
+{
+  "id": "ft600",
+  "name": "Fuel Tank FT600",
+  "description": "External Fuel Tank 600 gallons",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a10c2",
+      "name": "A-10C II "
+    },
+    {
+      "instructions": [],
+      "id": "a10c",
+      "name": "A-10C"
+    },
+    {
+      "instructions": [],
+      "id": "a10a",
+      "name": "A-10A"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "apkwshe",
+  "name": "APKWS HE",
+  "description": "The Advanced Precision Kill Weapon System (APKWS) is a design conversion of Hydra 70 unguided rockets with a laser guidance kit to turn them into precision-guided munitions. \r\n\r\nAPKWS has a lower yield more suitable for avoiding collateral damage, and takes one quarter of the time for ordnance personnel to load and unload.\r\n\r\nThe HE version uses an M151 High explosive warhead.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Laser",
+    "Type": "Rocket",
+    "Warhead": "High Explosive",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "av8b",
+      "name": "AV-8B N/A"
+    },
+    {
+      "instructions": [],
+      "id": "a10c2",
+      "name": "A-10C II "
+    }
+  ]
+}
