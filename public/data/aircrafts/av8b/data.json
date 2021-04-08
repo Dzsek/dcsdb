@@ -1,7 +1,7 @@
 {
   "id": "av8b",
-  "name": "av8b",
-  "description": "av8b",
+  "name": "McDonnell Douglas AV-8B N/A Harrier II",
+  "description": "The McDonnell Douglas (now Boeing) AV-8B Harrier II is a single-engine ground-attack aircraft that constitutes the second generation of the Harrier Jump Jet family, capable of vertical or short takeoff and landing.\r\n\r\nThe Night Attack version has FLIR, an upgraded cockpit with night-vision goggle compatibility, and the more powerful Rolls Royce Pegasus 11 engine.",
   "weapons": [
     {
       "category": "aam",
