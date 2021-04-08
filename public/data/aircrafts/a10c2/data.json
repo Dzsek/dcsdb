@@ -1,7 +1,7 @@
 {
   "id": "a10c2",
-  "name": "a10c2",
-  "description": "a10c2",
+  "name": "Fairchild Republic A-10C II Thunderbolt",
+  "description": "The Fairchild Republic A-10 Thunderbolt II is a single-seat, twin turbofan engine, straight wing jet aircraft developed by Fairchild-Republic.\r\n\r\nIt is commonly referred to by the nicknames \"Warthog\" or \"Hog\", although the A-10's official name comes from the Republic P-47 Thunderbolt, a World War II fighter-bomber effective at attacking ground targets.\r\n\r\nThe C II further upgrades on the C by adding support for the Scorpion HMD. Also has access to laser guided rockets.",
   "weapons": [
     {
       "category": "aam",
@@ -199,7 +199,7 @@
       "category": "agm",
       "tags": [],
       "id": "catm65k",
-      "name": "CATM-65K"
+      "name": "CATM-65K Maverick"
     },
     {
       "category": "agm",

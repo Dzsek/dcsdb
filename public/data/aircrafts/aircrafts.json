@@ -1,33 +1,82 @@
 [
   {
-    "tags": [],
+    "tags": [
+      "cas",
+      "ag",
+      "a2g",
+      "blue",
+      "modern",
+      "warthog",
+      "brrrt",
+      "lowfidelity"
+    ],
     "id": "a10a",
-    "name": "a10a"
+    "name": "A-10A"
   },
   {
-    "tags": [],
+    "tags": [
+      "cas",
+      "ag",
+      "a2g",
+      "blue",
+      "modern",
+      "warthog",
+      "brrrt"
+    ],
     "id": "a10c",
-    "name": "a10c"
+    "name": "A-10C"
   },
   {
-    "tags": [],
+    "tags": [
+      "cas",
+      "ag",
+      "a2g",
+      "blue",
+      "modern",
+      "warthog",
+      "brrrt"
+    ],
     "id": "a10c2",
-    "name": "a10c2"
+    "name": "A-10C II "
   },
   {
-    "tags": [],
+    "tags": [
+      "free",
+      "mod",
+      "community",
+      "heclak",
+      "carrier",
+      "navy",
+      "blue",
+      "attack"
+    ],
     "id": "a4ec",
-    "name": "a4ec"
+    "name": "A-4E-C"
   },
   {
-    "tags": [],
+    "tags": [
+      "viggen",
+      "attack",
+      "strike",
+      "blue",
+      "coldwar",
+      "swedish"
+    ],
     "id": "ajs37",
-    "name": "ajs37"
+    "name": "AJS 37"
   },
   {
-    "tags": [],
+    "tags": [
+      "vtol",
+      "hover",
+      "jumpjet",
+      "harrier",
+      "blue",
+      "modern",
+      "cas"
+    ],
     "id": "av8b",
-    "name": "av8b"
+    "name": "AV-8B N/A"
   },
   {
     "tags": [
@@ -65,15 +114,24 @@
       "aa",
       "a2a",
       "modern",
-      "blue"
+      "blue",
+      "lowfidelity"
     ],
     "id": "f15c",
     "name": "F-15C"
   },
   {
-    "tags": [],
+    "tags": [
+      "multirole",
+      "fighter",
+      "modern",
+      "blue",
+      "viper",
+      "twoweeks",
+      "falcon"
+    ],
     "id": "f16cm",
-    "name": "f16cm"
+    "name": "F-16CM bl.50"
   },
   {
     "tags": [
@@ -112,9 +170,18 @@
     "name": "JF-17"
   },
   {
-    "tags": [],
+    "tags": [
+      "mirage",
+      "baguette",
+      "blue",
+      "french",
+      "interceptor",
+      "fighter",
+      "blue",
+      "modern"
+    ],
     "id": "m2000c",
-    "name": "m2000c"
+    "name": "M-2000C"
   },
   {
     "tags": [],
@@ -136,7 +203,8 @@
       "grach",
       "rook",
       "frogfoot",
-      "red"
+      "red",
+      "lowfidelity"
     ],
     "id": "su25t",
     "name": "Su-25T"

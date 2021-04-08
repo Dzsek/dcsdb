@@ -1,7 +1,7 @@
 {
   "id": "m2000c",
-  "name": "m2000c",
-  "description": "m2000c",
+  "name": "Dassault Mirage 2000C",
+  "description": "The Dassault Mirage 2000 is a French multirole, single-engine fourth-generation jet fighter manufactured by Dassault Aviation.\r\n\r\nThe C version was upgraded with the addition of the Non-Cooperative Target Recognition (NCTR) mode to the RDI Radar to allow identification of airborne targets not responding on identification friend or foe (IFF), and the ability to carry air-to-ground stores such as rocket pods, iron bombs and cluster bombs.",
   "weapons": [
     {
       "category": "pod",
