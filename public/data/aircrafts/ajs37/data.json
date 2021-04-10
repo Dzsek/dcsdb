@@ -2,5 +2,138 @@
   "id": "ajs37",
   "name": "Saab AJS 37 Viggen",
   "description": "The Saab 37 Viggen is a retired Swedish single-seat, single-engine, short-medium range combat aircraft. ",
-  "weapons": []
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "rb24",
+      "name": "rb24"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "rb24j",
+      "name": "rb24j"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "rb74",
+      "name": "rb74"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "rb04e",
+      "name": "rb04e"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "rb15f",
+      "name": "rb15f"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "bk90mj1",
+      "name": "bk90mj1"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "bk90mj1mj2",
+      "name": "bk90mj1mj2"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "bk90mj2",
+      "name": "bk90mj2"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "rb75a",
+      "name": "rb75a"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "rb75b",
+      "name": "rb75b"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "rb75t",
+      "name": "rb75t"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "m71he",
+      "name": "m71he"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "m71hechute",
+      "name": "m71hechute"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "lysbomb",
+      "name": "lysbomb"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "akan",
+      "name": "akan"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "kbfcdisp",
+      "name": "kbfcdisp"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "u22",
+      "name": "u22"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "u22a",
+      "name": "u22a"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "arakm70bap",
+      "name": "arakm70bap"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "arakm70bhe",
+      "name": "arakm70bhe"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "rb05a",
+      "name": "rb05a"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "ajsxtank",
+      "name": "ajsxtank"
+    }
+  ]
 }

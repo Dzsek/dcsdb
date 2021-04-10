@@ -1,0 +1,20 @@
+{
+  "id": "mk76arf8mrtp",
+  "name": "mk76arf8mrtp",
+  "description": "mk76arf8mrtp",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339pan",
+      "name": "mb339pan"
+    }
+  ]
+}

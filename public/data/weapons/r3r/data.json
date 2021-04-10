@@ -1,0 +1,20 @@
+{
+  "id": "r3r",
+  "name": "r3r",
+  "description": "r3r",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig21bis",
+      "name": "mig21bis"
+    }
+  ]
+}

@@ -1,6 +1,223 @@
 {
   "id": "a4ec",
   "name": "Douglas A-4E-C Skyhawk",
-  "description": "The Douglas A-4 Skyhawk is a single-seat subsonic carrier-capable light attack aircraft developed for the United States Navy and United States Marine Corps in the early 1950s.\r\n\r\nThe aircraft's five hardpoints support a variety of missiles, bombs, and other munitions. It is capable of carrying a bomb load equivalent to that of a World War II–era Boeing B-17 bomber.\r\n\r\nIn DCS it is a free community made mod, not an official module.\r\n\r\nMore information can be found at: https://github.com/heclak/community-a4e-c",
-  "weapons": []
+  "description": "The Douglas A-4 Skyhawk is a single-seat subsonic carrier-capable light attack aircraft developed for the United States Navy and United States Marine Corps in the early 1950s.\r\n\r\nThe aircraft's five hardpoints support a variety of missiles, bombs, and other munitions. It is capable of carrying a bomb load equivalent to that of a World War II–era Boeing B-17 bomber.\r\n\r\nIn DCS it is a free community made mod.\r\n\r\nMore information can be found at: https://github.com/heclak/community-a4e-c",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9p",
+      "name": "AIM-9P"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9p5",
+      "name": "AIM-9P5"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "gar8",
+      "name": "gar8"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm45a",
+      "name": "agm45a"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "anm30a1",
+      "name": "anm30a1"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "anm57",
+      "name": "anm57"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "anm64",
+      "name": "anm64"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "anm81",
+      "name": "anm81"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "anm88",
+      "name": "anm88"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk20",
+      "name": "Mk-20"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk77mod1",
+      "name": "mk77mod1"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk81",
+      "name": "Mk-81"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82",
+      "name": "Mk-82"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82se",
+      "name": "Mk-82 SnakeEye"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "suu25",
+      "name": "SUU-25"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk81se",
+      "name": "mk81se"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk71zuni",
+      "name": "ZUNI MK 71"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "ffar156",
+      "name": "ffar156"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "ffarmk1",
+      "name": "ffarmk1"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "ffarmk5",
+      "name": "ffarmk5"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m257illum",
+      "name": "2.75' rocket M257 Illumination"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "anm65",
+      "name": "anm65"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "m117",
+      "name": "m117"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk77mod0",
+      "name": "mk77mod0"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk83",
+      "name": "Mk-83"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk84",
+      "name": "Mk-84"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel300gal",
+      "name": "Fuel Tank 300 gallons"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel150gal",
+      "name": "fuel150gal"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "cbu1a",
+      "name": "cbu1a"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "cbu2ba",
+      "name": "cbu2ba"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "cbu2a",
+      "name": "cbu2a"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "mk4hipeg",
+      "name": "mk4hipeg"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "agm62old",
+      "name": "agm62old"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "anm66a2",
+      "name": "anm66a2"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel400gal",
+      "name": "fuel400gal"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk5he",
+      "name": "2.75' rocket MK5 (HE)"
+    }
+  ]
 }

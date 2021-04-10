@@ -1,0 +1,20 @@
+{
+  "id": "fab250m54tu",
+  "name": "fab250m54tu",
+  "description": "fab250m54tu",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig21bis",
+      "name": "mig21bis"
+    }
+  ]
+}

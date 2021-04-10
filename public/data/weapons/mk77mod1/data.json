@@ -1,0 +1,20 @@
+{
+  "id": "mk77mod1",
+  "name": "mk77mod1",
+  "description": "mk77mod1",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a4ec",
+      "name": "a4ec"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "defa553",
+  "name": "defa553",
+  "description": "defa553",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339pan",
+      "name": "mb339pan"
+    }
+  ]
+}

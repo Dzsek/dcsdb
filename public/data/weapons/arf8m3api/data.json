@@ -1,0 +1,20 @@
+{
+  "id": "arf8m3api",
+  "name": "arf8m3api",
+  "description": "arf8m3api",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339pan",
+      "name": "mb339pan"
+    }
+  ]
+}

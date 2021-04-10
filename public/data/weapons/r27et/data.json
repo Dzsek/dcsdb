@@ -1,0 +1,20 @@
+{
+  "id": "r27et",
+  "name": "r27et",
+  "description": "r27et",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su33",
+      "name": "su33"
+    }
+  ]
+}

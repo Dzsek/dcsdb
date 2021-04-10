@@ -1,0 +1,20 @@
+{
+  "id": "arf8m3hei",
+  "name": "arf8m3hei",
+  "description": "arf8m3hei",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339pan",
+      "name": "mb339pan"
+    }
+  ]
+}

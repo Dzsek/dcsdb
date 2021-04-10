@@ -1,0 +1,20 @@
+{
+  "id": "cbu2ba",
+  "name": "cbu2ba",
+  "description": "cbu2ba",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a4ec",
+      "name": "a4ec"
+    }
+  ]
+}

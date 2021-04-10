@@ -1,0 +1,20 @@
+{
+  "id": "ffarmk5",
+  "name": "ffarmk5",
+  "description": "ffarmk5",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a4ec",
+      "name": "a4ec"
+    }
+  ]
+}

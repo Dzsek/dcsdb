@@ -1,0 +1,20 @@
+{
+  "id": "l005ecm",
+  "name": "l005ecm",
+  "description": "l005ecm",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su33",
+      "name": "su33"
+    }
+  ]
+}

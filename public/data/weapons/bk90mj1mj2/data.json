@@ -1,0 +1,20 @@
+{
+  "id": "bk90mj1mj2",
+  "name": "bk90mj1mj2",
+  "description": "bk90mj1mj2",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ajs37",
+      "name": "ajs37"
+    }
+  ]
+}
