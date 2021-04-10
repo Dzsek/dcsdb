@@ -81,12 +81,6 @@
     "name": "AGM-62 Walleye II"
   },
   {
-    "category": "bomb",
-    "tags": [],
-    "id": "agm62old",
-    "name": "agm62old"
-  },
-  {
     "category": "agm",
     "tags": [
       "infrared",

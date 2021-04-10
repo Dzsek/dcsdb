@@ -198,12 +198,6 @@
     {
       "category": "bomb",
       "tags": [],
-      "id": "agm62old",
-      "name": "agm62old"
-    },
-    {
-      "category": "bomb",
-      "tags": [],
       "id": "anm66a2",
       "name": "anm66a2"
     },
@@ -218,6 +212,12 @@
       "tags": [],
       "id": "mk5he",
       "name": "2.75' rocket MK5 (HE)"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "agm62",
+      "name": "AGM-62 Walleye II"
     }
   ]
 }
