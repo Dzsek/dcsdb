@@ -1,14 +1,12 @@
 {
   "id": "anm30a1",
-  "name": "anm30a1",
-  "description": "anm30a1",
+  "name": "AN-M30A1",
+  "description": "The AN-M30A1 is an American general-purpose high explosive bomb.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Bomb",
+    "Warhead": "100lb High Explosive",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

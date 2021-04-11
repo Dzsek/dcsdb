@@ -1,14 +1,12 @@
 {
   "id": "anm64",
-  "name": "anm64",
-  "description": "anm64",
+  "name": "AN-M64",
+  "description": "The AN-M64 is an American general-purpose high explosive bomb.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Bomb",
+    "Warhead": "500lb High Explosive",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

@@ -1,14 +1,13 @@
 {
   "id": "arf8m3api",
-  "name": "arf8m3api",
-  "description": "arf8m3api",
+  "name": "ARF/8M3 API",
+  "description": "Rocket with armor piercing incendiary warhead.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "Armor Piercing Incendiery",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

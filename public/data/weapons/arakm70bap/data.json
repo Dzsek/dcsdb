@@ -1,14 +1,13 @@
 {
   "id": "arakm70bap",
-  "name": "arakm70bap",
-  "description": "arakm70bap",
+  "name": "ARAK M70B AP",
+  "description": "70mm rocket, armor piercing",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "Armor Piercing",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

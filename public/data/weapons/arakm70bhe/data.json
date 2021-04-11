@@ -1,14 +1,13 @@
 {
   "id": "arakm70bhe",
-  "name": "arakm70bhe",
-  "description": "arakm70bhe",
+  "name": "ARAK M70B HE",
+  "description": "70mm rocket, high explosive",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "High Explosive",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {

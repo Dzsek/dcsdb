@@ -1,14 +1,12 @@
 {
   "id": "anm57",
-  "name": "anm57",
-  "description": "anm57",
+  "name": "AN-M57",
+  "description": "The AN-M57 is an American general-purpose high explosive bomb.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Bomb",
+    "Warhead": "250lb High Explosive",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

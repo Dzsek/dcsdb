@@ -1,14 +1,9 @@
 {
   "id": "aso2",
-  "name": "aso2",
-  "description": "aso2",
+  "name": "ASO-2",
+  "description": "Countermeasure dispenser",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Countermeasure dispenser"
   },
   "aircraft": [
     {

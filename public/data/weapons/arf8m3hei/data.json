@@ -1,14 +1,13 @@
 {
   "id": "arf8m3hei",
-  "name": "arf8m3hei",
-  "description": "arf8m3hei",
+  "name": "ARF/8M3 HEI",
+  "description": "Rocket with high explosive incendiary warhead.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "High Explosive Incendiary",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {

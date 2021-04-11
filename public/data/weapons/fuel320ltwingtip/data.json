@@ -1,14 +1,9 @@
 {
   "id": "fuel320ltwingtip",
-  "name": "fuel320ltwingtip",
-  "description": "fuel320ltwingtip",
+  "name": "Fuel Tank 320 Liters",
+  "description": "External Fuel Tank 320 Liters",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {

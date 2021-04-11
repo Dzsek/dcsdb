@@ -1,14 +1,9 @@
 {
   "id": "fuel400gal",
-  "name": "fuel400gal",
-  "description": "fuel400gal",
+  "name": "Fuel Tank 400 gallons",
+  "description": "External Fuel Tank 400 gallons",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {

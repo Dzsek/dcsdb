@@ -1,14 +1,12 @@
 {
   "id": "bl755",
-  "name": "bl755",
-  "description": "bl755",
+  "name": "BL755",
+  "description": "BL755 is a cluster bomb developed by Hunting Aircraft that contains 147 parachute-retarded high explosive anti-tank (HEAT) submunitions. Its primary targets are armoured vehicles and tanks with secondary soft target (anti personnel) capabilities.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Cluster Bomb",
+    "Warhead": "High Explosive Anti Tank bomblets",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

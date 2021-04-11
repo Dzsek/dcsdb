@@ -63,9 +63,14 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "sead",
+      "shrike",
+      "dead",
+      "sam"
+    ],
     "id": "agm45a",
-    "name": "agm45a"
+    "name": "AGM-45 Shrike"
   },
   {
     "category": "bomb",
@@ -396,13 +401,17 @@
     "category": "fuel",
     "tags": [],
     "id": "ajsxtank",
-    "name": "ajsxtank"
+    "name": "Fuel Tank 1500L"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "gun",
+      "lightarmor",
+      "tank"
+    ],
     "id": "akan",
-    "name": "akan"
+    "name": "AKAN 30/55"
   },
   {
     "category": "pod",
@@ -459,51 +468,83 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "gun",
+      "browning"
+    ],
     "id": "anm3",
-    "name": "anm3"
+    "name": "AN/M3"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "tank",
+      "dumb"
+    ],
     "id": "anm30a1",
-    "name": "anm30a1"
+    "name": "AN-M30A1"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
     "id": "anm57",
-    "name": "anm57"
+    "name": "AN-M57"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
     "id": "anm64",
-    "name": "anm64"
+    "name": "AN-M64"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
     "id": "anm65",
-    "name": "anm65"
+    "name": "AN-M65"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "unguided",
+      "lightarmor",
+      "tank"
+    ],
     "id": "anm66a2",
-    "name": "anm66a2"
+    "name": "AN-M66A2"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "frag",
+      "dumb"
+    ],
     "id": "anm81",
-    "name": "anm81"
+    "name": "AN-M81"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "frag",
+      "dumb"
+    ],
     "id": "anm88",
-    "name": "anm88"
+    "name": "AN-M88"
   },
   {
     "category": "agm",
@@ -528,33 +569,51 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
     "id": "arakm70bap",
-    "name": "arakm70bap"
+    "name": "ARAK M70B AP"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor"
+    ],
     "id": "arakm70bhe",
-    "name": "arakm70bhe"
+    "name": "ARAK M70B HE"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
     "id": "arf8m3api",
-    "name": "arf8m3api"
+    "name": "ARF/8M3 API"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor"
+    ],
     "id": "arf8m3hei",
-    "name": "arf8m3hei"
+    "name": "ARF/8M3 HEI"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "flare",
+      "countermeasure",
+      "chaff"
+    ],
     "id": "aso2",
-    "name": "aso2"
+    "name": "ASO-2"
   },
   {
     "category": "pod",
@@ -646,27 +705,52 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "cluster",
+      "jsow",
+      "glide",
+      "lightarmor",
+      "gps"
+    ],
     "id": "bk90mj1",
-    "name": "bk90mj1"
+    "name": "BK90 Mj1"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "gps",
+      "jsow",
+      "lightarmor",
+      "tank",
+      "cluster",
+      "glide"
+    ],
     "id": "bk90mj1mj2",
-    "name": "bk90mj1mj2"
+    "name": "BK90 Mj1-Mj2"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "cluster",
+      "gps",
+      "jsow",
+      "lightarmor",
+      "tank",
+      "glide"
+    ],
     "id": "bk90mj2",
-    "name": "bk90mj2"
+    "name": "BK90 Mj2"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "tank",
+      "cluster",
+      "dumb"
+    ],
     "id": "bl755",
-    "name": "bl755"
+    "name": "BL755"
   },
   {
     "category": "bomb",
@@ -776,21 +860,33 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "dispenser",
+      "personnel"
+    ],
     "id": "cbu1a",
-    "name": "cbu1a"
+    "name": "CBU-1/A"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "dispenser",
+      "lightarmor",
+      "tank"
+    ],
     "id": "cbu2a",
-    "name": "cbu2a"
+    "name": "CBU-2/A"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "dispenser",
+      "lightarmor",
+      "tank"
+    ],
     "id": "cbu2ba",
-    "name": "cbu2ba"
+    "name": "CBU-2B/A "
   },
   {
     "category": "bomb",
@@ -841,9 +937,12 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "gun",
+      "lightarmor"
+    ],
     "id": "defa553",
-    "name": "defa553"
+    "name": "DEFA 553"
   },
   {
     "category": "pod",
@@ -881,9 +980,13 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
     "id": "fab250m54tu",
-    "name": "fab250m54tu"
+    "name": "FAB 250 M54 TU"
   },
   {
     "category": "bomb",
@@ -899,21 +1002,36 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "mighty",
+      "mouse",
+      "lightarmor",
+      "phosphorus",
+      "white"
+    ],
     "id": "ffar156",
-    "name": "ffar156"
+    "name": "FFAR M156 WP"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "mighty",
+      "mouse",
+      "lightarmor"
+    ],
     "id": "ffarmk1",
-    "name": "ffarmk1"
+    "name": "FFAR Mk1 HE"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "mighty",
+      "mouse",
+      "lightarmor",
+      "tank"
+    ],
     "id": "ffarmk5",
-    "name": "ffarmk5"
+    "name": "FFAR Mk5 HEAT"
   },
   {
     "category": "fuel",
@@ -931,7 +1049,7 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel150gal",
-    "name": "fuel150gal"
+    "name": "Fuel Tank 150 gallons"
   },
   {
     "category": "fuel",
@@ -943,13 +1061,13 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel320ltwingtip",
-    "name": "fuel320ltwingtip"
+    "name": "Fuel Tank 320 Liters"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel330lt",
-    "name": "fuel330lt"
+    "name": "Fuel Tank 330 Liters"
   },
   {
     "category": "fuel",
@@ -961,19 +1079,19 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel400gal",
-    "name": "fuel400gal"
+    "name": "Fuel Tank 400 gallons"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel490l",
-    "name": "fuel490l"
+    "name": "Fuel Tank 490 Liters"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel500ltwingtip",
-    "name": "fuel500ltwingtip"
+    "name": "Fuel Tank 500 Liters"
   },
   {
     "category": "fuel",

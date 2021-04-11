@@ -1,14 +1,9 @@
 {
   "id": "fuel490l",
-  "name": "fuel490l",
-  "description": "fuel490l",
+  "name": "Fuel Tank 490 Liters",
+  "description": "External Fuel Tank 490 Liters",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {

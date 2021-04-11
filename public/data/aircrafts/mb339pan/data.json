@@ -19,31 +19,31 @@
       "category": "rocket",
       "tags": [],
       "id": "arf8m3api",
-      "name": "arf8m3api"
+      "name": "ARF/8M3 API"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "arf8m3hei",
-      "name": "arf8m3hei"
+      "name": "ARF/8M3 HEI"
     },
     {
       "category": "fuel",
       "tags": [],
       "id": "fuel320ltwingtip",
-      "name": "fuel320ltwingtip"
+      "name": "Fuel Tank 320 Liters"
     },
     {
       "category": "fuel",
       "tags": [],
       "id": "fuel500ltwingtip",
-      "name": "fuel500ltwingtip"
+      "name": "Fuel Tank 500 Liters"
     },
     {
       "category": "fuel",
       "tags": [],
       "id": "fuel330lt",
-      "name": "fuel330lt"
+      "name": "Fuel Tank 330 Liters"
     },
     {
       "category": "rocket",
@@ -61,13 +61,13 @@
       "category": "pod",
       "tags": [],
       "id": "anm3",
-      "name": "anm3"
+      "name": "AN/M3"
     },
     {
       "category": "pod",
       "tags": [],
       "id": "defa553",
-      "name": "defa553"
+      "name": "DEFA 553"
     }
   ]
 }

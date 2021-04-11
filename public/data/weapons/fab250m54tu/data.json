@@ -1,14 +1,12 @@
 {
   "id": "fab250m54tu",
-  "name": "fab250m54tu",
-  "description": "fab250m54tu",
+  "name": "FAB 250 M54 TU",
+  "description": "The Russian FAB 250 M54 is a thin cased high explosive blast bomb designed to produce destructive effect through blast overpressure and some casualties at long distance by the fragmentation of the casing.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Bomb",
+    "Warhead": "High Explosive",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

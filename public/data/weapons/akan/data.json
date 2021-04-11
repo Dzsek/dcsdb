@@ -1,14 +1,13 @@
 {
   "id": "akan",
-  "name": "akan",
-  "description": "akan",
+  "name": "AKAN 30/55",
+  "description": "30 mm gun pod with 150 rounds.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gun Pod",
+    "Warhead": "30mm",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

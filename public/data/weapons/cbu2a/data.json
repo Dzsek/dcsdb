@@ -1,14 +1,12 @@
 {
   "id": "cbu2a",
-  "name": "cbu2a",
-  "description": "cbu2a",
+  "name": "CBU-2/A",
+  "description": "The CBU-2/A is an antimateriel munition dispenser.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Munition Dispenser",
+    "Warhead": "BLU-3/B antimateriel bomblets",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

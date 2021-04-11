@@ -1,14 +1,12 @@
 {
   "id": "cbu1a",
-  "name": "cbu1a",
-  "description": "cbu1a",
+  "name": "CBU-1/A",
+  "description": "The CBU-1/A is an antipersonnel munition dispenser.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Munition Dispenser",
+    "Warhead": "BLU-4/B antipersonnel bomblets",
+    "Targets": "Light Armor, Personnel"
   },
   "aircraft": [
     {

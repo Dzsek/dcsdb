@@ -1,14 +1,12 @@
 {
   "id": "anm88",
-  "name": "anm88",
-  "description": "anm88",
+  "name": "AN-M88",
+  "description": "The AN-M88 is an American fragmentation bomb.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Bomb",
+    "Warhead": "220lb Fragmentation",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {

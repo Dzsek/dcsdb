@@ -1,14 +1,13 @@
 {
   "id": "bk90mj1mj2",
-  "name": "bk90mj1mj2",
-  "description": "bk90mj1mj2",
+  "name": "BK90 Mj1-Mj2",
+  "description": "Bombkapsel 90 (BK90) is the Swedish Air Force's nomenclature for a gliding stand-off submunitions dispenser, or cluster bomb, with 72 submunitions.\r\n\r\nThis version is loaded with a mix of Mj1 High Explosive and Mj2 Armor Piercing bomblets.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Medium",
+    "Guidance": "GPS",
+    "Type": "Glide Bomb",
+    "Warhead": "High Explosive and Armor Piercing bomblets",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

@@ -25,37 +25,37 @@
       "category": "agm",
       "tags": [],
       "id": "agm45a",
-      "name": "agm45a"
+      "name": "AGM-45 Shrike"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "anm30a1",
-      "name": "anm30a1"
+      "name": "AN-M30A1"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "anm57",
-      "name": "anm57"
+      "name": "AN-M57"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "anm64",
-      "name": "anm64"
+      "name": "AN-M64"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "anm81",
-      "name": "anm81"
+      "name": "AN-M81"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "anm88",
-      "name": "anm88"
+      "name": "AN-M88"
     },
     {
       "category": "bomb",
@@ -109,19 +109,19 @@
       "category": "rocket",
       "tags": [],
       "id": "ffar156",
-      "name": "ffar156"
+      "name": "FFAR M156 WP"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "ffarmk1",
-      "name": "ffarmk1"
+      "name": "FFAR Mk1 HE"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "ffarmk5",
-      "name": "ffarmk5"
+      "name": "FFAR Mk5 HEAT"
     },
     {
       "category": "rocket",
@@ -133,7 +133,7 @@
       "category": "bomb",
       "tags": [],
       "id": "anm65",
-      "name": "anm65"
+      "name": "AN-M65"
     },
     {
       "category": "bomb",
@@ -169,25 +169,25 @@
       "category": "fuel",
       "tags": [],
       "id": "fuel150gal",
-      "name": "fuel150gal"
+      "name": "Fuel Tank 150 gallons"
     },
     {
       "category": "pod",
       "tags": [],
       "id": "cbu1a",
-      "name": "cbu1a"
+      "name": "CBU-1/A"
     },
     {
       "category": "pod",
       "tags": [],
       "id": "cbu2ba",
-      "name": "cbu2ba"
+      "name": "CBU-2B/A "
     },
     {
       "category": "pod",
       "tags": [],
       "id": "cbu2a",
-      "name": "cbu2a"
+      "name": "CBU-2/A"
     },
     {
       "category": "pod",
@@ -199,13 +199,13 @@
       "category": "bomb",
       "tags": [],
       "id": "anm66a2",
-      "name": "anm66a2"
+      "name": "AN-M66A2"
     },
     {
       "category": "fuel",
       "tags": [],
       "id": "fuel400gal",
-      "name": "fuel400gal"
+      "name": "Fuel Tank 400 gallons"
     },
     {
       "category": "rocket",

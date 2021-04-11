@@ -1,14 +1,9 @@
 {
   "id": "ajsxtank",
-  "name": "ajsxtank",
-  "description": "ajsxtank",
+  "name": "Fuel Tank 1500 Liters",
+  "description": "External fuel tank 1500 Liters",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {
