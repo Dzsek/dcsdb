@@ -1,7 +1,7 @@
 {
-  "id": "upk23250",
-  "name": "upk23250",
-  "description": "upk23250",
+  "id": "9m114",
+  "name": "9m114",
+  "description": "9m114",
   "data": {
     "Weight": "-",
     "Range": "-",
@@ -11,11 +11,6 @@
     "Targets": "-"
   },
   "aircraft": [
-    {
-      "instructions": [],
-      "id": "mig21bis",
-      "name": "mig21bis"
-    },
     {
       "instructions": [],
       "id": "mi24p",

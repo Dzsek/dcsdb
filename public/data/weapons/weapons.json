@@ -10,6 +10,12 @@
   },
   {
     "category": "agm",
+    "tags": [],
+    "id": "9m114",
+    "name": "9m114"
+  },
+  {
+    "category": "agm",
     "tags": [
       "sead",
       "decoy",
@@ -2130,6 +2136,12 @@
     ],
     "id": "s8ofp2",
     "name": "S-8OFP2"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "s8om",
+    "name": "s8om"
   },
   {
     "category": "rocket",
