@@ -1,14 +1,13 @@
 {
   "id": "kh66",
-  "name": "kh66",
-  "description": "coremods/aircraft/mig-21bis/shapes/kh-66.edm",
+  "name": "Kh-66 Grom",
+  "description": "The Kh-66 was effectively a heavy-warhead, beam-riding version of the K-8 air-to-air missile rushed into service in Vietnam in 1968.\r\n",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Medium",
+    "Guidance": "Radar Beam Riding",
+    "Type": "Air-to-Ground Missile",
+    "Warhead": "111kg",
+    "Targets": "Tanks, Ships"
   },
   "aircraft": [
     {

@@ -1,14 +1,9 @@
 {
   "id": "kbfcdisp",
-  "name": "kbfcdisp",
-  "description": "coremods/aircraft/ajs37/shapes/kbpod.edm",
+  "name": "KB Flare/Chaff Dispenser",
+  "description": "The KB pod is a Swedish countermeasure dispenser",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Countermeasure dispenser"
   },
   "aircraft": [
     {

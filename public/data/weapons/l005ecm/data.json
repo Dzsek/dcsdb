@@ -1,14 +1,9 @@
 {
   "id": "l005ecm",
-  "name": "l005ecm",
-  "description": "l005ecm",
+  "name": "L005 Sorbtslya ECM pod",
+  "description": "Electronic countermeasures",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "ECM pod"
   },
   "aircraft": [
     {

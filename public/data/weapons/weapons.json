@@ -1107,9 +1107,17 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "infrared",
+      "aircraft"
+    ],
     "id": "gar8",
-    "name": "gar8"
+    "name": "GAR-8"
   },
   {
     "category": "pod",
@@ -1329,9 +1337,13 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "flare",
+      "chaff",
+      "countermeasure"
+    ],
     "id": "kbfcdisp",
-    "name": "kbfcdisp"
+    "name": "KB F/C Dispenser"
   },
   {
     "category": "agm",
@@ -1400,9 +1412,15 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "tank",
+      "ship",
+      "grom",
+      "beamriding",
+      "radar"
+    ],
     "id": "kh66",
-    "name": "kh66"
+    "name": "Kh-66 Grom"
   },
   {
     "category": "bomb",
@@ -1425,9 +1443,11 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "ecm"
+    ],
     "id": "l005ecm",
-    "name": "l005ecm"
+    "name": "L005 ECM"
   },
   {
     "category": "pod",
@@ -1487,15 +1507,22 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "illumination",
+      "flare"
+    ],
     "id": "lysbomb",
-    "name": "lysbomb"
+    "name": "LYSBOMB"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "building",
+      "demolition"
+    ],
     "id": "m117",
-    "name": "m117"
+    "name": "M117"
   },
   {
     "category": "rocket",
@@ -1542,15 +1569,26 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
     "id": "m71he",
-    "name": "m71he"
+    "name": "M/71 HE"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "retarded",
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
     "id": "m71hechute",
-    "name": "m71hechute"
+    "name": "M/71 HE w chute"
   },
   {
     "category": "aam",
