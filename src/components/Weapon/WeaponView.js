@@ -3,6 +3,7 @@ import {withRouter} from 'react-router-dom';
 import BackButton from '../Common/BackButton';
 import './WeaponView.scss';
 import AircraftCard from '../Aircraft/AircraftCard';
+import DataAccess from '../../dataaccess/DataAccess';
 
 class WeaponView extends React.Component
 {
@@ -25,9 +26,8 @@ class WeaponView extends React.Component
         const fromId = query.get('from');
         const {params} = this.props.match;
         this.setState({id:params.id});
-
-        fetch(process.env.PUBLIC_URL+"/data/weapons/"+params.id+"/data.json")
-        .then(res=>res.json())
+        const da = new DataAccess();
+        da.getWeapon(params.id)
         .then(
             (result)=>{
                 this.setState({

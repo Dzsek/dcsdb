@@ -5,6 +5,7 @@ import BackButton from '../Common/BackButton';
 import WeaponCard from '../Weapon/WeaponCard';
 import SearchBar from '../Common/SearchBar';
 import {OptimizeWeaponTags, FilterByTags, WeaponSearchTerms} from "../../helper/Helper";
+import DataAccess from '../../dataaccess/DataAccess';
 
 class AircraftView extends React.Component
 {
@@ -24,14 +25,14 @@ class AircraftView extends React.Component
 
     componentDidMount()
     {
+        const da = new DataAccess();
         let {params} = this.props.match;
         this.setState({id:params.id});
 
-        fetch(process.env.PUBLIC_URL+"/data/aircrafts/"+params.id+"/data.json")
-        .then(res=>res.json())
+        da.getAircraft(params.id)
         .then(
             (aircraftdata)=>{
-                fetch(process.env.PUBLIC_URL+"/data/weapons/weapons.json").then(res=>res.json()).then((weaponlist)=>{
+                da.getWeaponList().then((weaponlist)=>{
                     aircraftdata.weapongroups = { "aam":[],"agm":[],"bomb":[],"fuel":[],"pod":[],"rocket":[] };
                     for(let w of aircraftdata.weapons)
                     {

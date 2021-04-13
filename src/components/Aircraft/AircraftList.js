@@ -2,6 +2,7 @@ import React from 'react';
 import AircraftCard from './AircraftCard';
 import './AircraftList.scss';
 import {FilterByTags} from '../../helper/Helper';
+import DataAccess from '../../dataaccess/DataAccess';
 
 class AircraftList extends React.Component{
     constructor(props){
@@ -12,8 +13,8 @@ class AircraftList extends React.Component{
     }
 
     componentDidMount(){
-        fetch(process.env.PUBLIC_URL+"/data/aircrafts/aircrafts.json")
-        .then(res=>res.json())
+        const da = new DataAccess();
+        da.getAircraftList()
         .then(
             (result)=>{
                 for(let a of result)

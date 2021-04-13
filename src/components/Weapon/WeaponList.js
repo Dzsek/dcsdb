@@ -2,6 +2,7 @@ import React from 'react';
 import WeaponCard from './WeaponCard';
 import './WeaponList.scss';
 import {OptimizeWeaponTags, FilterByTags} from '../../helper/Helper';
+import DataAccess from '../../dataaccess/DataAccess';
 
 class WeaponList extends React.Component{
     constructor(props){
@@ -12,8 +13,8 @@ class WeaponList extends React.Component{
     }
 
     componentDidMount(){
-        fetch(process.env.PUBLIC_URL+"/data/weapons/weapons.json")
-        .then(res=>res.json())
+        const da = new DataAccess();
+        da.getWeaponList()
         .then(
             (result)=>{
                 for(let w of result)
