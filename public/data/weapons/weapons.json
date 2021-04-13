@@ -989,7 +989,9 @@
     "tags": [
       "dumb",
       "lightarmor",
-      "tank"
+      "tank",
+      "highdrag",
+      "retarded"
     ],
     "id": "fab250m54tu",
     "name": "FAB 250 M54 TU"
@@ -1079,7 +1081,7 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel370gal",
-    "name": "Fuel Tank 610 gallons"
+    "name": "Fuel Tank 610 gallons (F-16)"
   },
   {
     "category": "fuel",
@@ -1103,13 +1105,13 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel610gal",
-    "name": "Fuel Tank 610 gallons"
+    "name": "Fuel Tank 610 gallons (F-15C)"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel800l",
-    "name": "Fuel Tank 800L"
+    "name": "Fuel Tank 800L (Su-25T)"
   },
   {
     "category": "aam",
@@ -1330,7 +1332,7 @@
     "category": "fuel",
     "tags": [],
     "id": "jf17fuel800l",
-    "name": "Fuel Tank 800L"
+    "name": "Fuel Tank 800L (JF-17)"
   },
   {
     "category": "pod",
@@ -1632,7 +1634,7 @@
     "category": "fuel",
     "tags": [],
     "id": "mig21fuel800l",
-    "name": "Fuel Tank 800L"
+    "name": "Fuel Tank 800L (Mig21Bis)"
   },
   {
     "category": "rocket",
