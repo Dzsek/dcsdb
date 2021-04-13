@@ -4,6 +4,7 @@ import BackButton from '../Common/BackButton';
 import './WeaponView.scss';
 import AircraftCard from '../Aircraft/AircraftCard';
 import DataAccess from '../../dataaccess/DataAccess';
+import {hideunfinished} from '../../helper/Helper';
 
 class WeaponView extends React.Component
 {
@@ -115,7 +116,8 @@ class WeaponView extends React.Component
                                 <span>Notes</span>
                                 <select value={selectedInstructionAircraft.id} onChange={this.selectedAircraftChanged}>
                                     {
-                                        weapon.aircraft.map(plane=>(
+                                        weapon.aircraft
+                                        .map(plane=>(
                                             <option key={plane.id} value={plane.id}>{plane.name}</option>
                                         ))
                                     }
@@ -134,7 +136,7 @@ class WeaponView extends React.Component
                     <span>Compatible platforms</span>
                     <div>
                         {
-                            weapon.aircraft ? weapon.aircraft.map(plane=><AircraftCard key={plane.id}  plane={plane} weaponid={id} />) : "Data unavailable"
+                            weapon.aircraft ? weapon.aircraft.filter(f=> hideunfinished ? f.id!==f.name : true).map(plane=><AircraftCard key={plane.id}  plane={plane} weaponid={id} />) : "Data unavailable"
                         }
                     </div>
                 </div>
