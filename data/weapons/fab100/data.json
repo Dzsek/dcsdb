@@ -13,6 +13,21 @@
       "instructions": [],
       "id": "su25t",
       "name": "Su-25T"
+    },
+    {
+      "instructions": [],
+      "id": "mig21bis",
+      "name": "mig21bis"
+    },
+    {
+      "instructions": [],
+      "id": "su33",
+      "name": "su33"
+    },
+    {
+      "instructions": [],
+      "id": "mi24p",
+      "name": "mi24p"
     }
   ]
 }

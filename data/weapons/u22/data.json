@@ -1,0 +1,20 @@
+{
+  "id": "u22",
+  "name": "u22",
+  "description": "u22",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ajs37",
+      "name": "ajs37"
+    }
+  ]
+}

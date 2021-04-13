@@ -2,5 +2,186 @@
   "id": "mig21bis",
   "name": "mig21bis",
   "description": "mig21bis",
-  "weapons": []
+  "weapons": [
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "aso2",
+      "name": "ASO-2"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sprd99",
+      "name": "sprd99"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r13m",
+      "name": "r13m"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r13m1",
+      "name": "r13m1"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r3r",
+      "name": "r3r"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r3s",
+      "name": "r3s"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r60m",
+      "name": "R-60M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r60",
+      "name": "r60"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "rs2us",
+      "name": "rs2us"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab100",
+      "name": "FAB-100"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab250",
+      "name": "FAB-250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab250m54tu",
+      "name": "FAB 250 M54 TU"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk250ptab25m",
+      "name": "RBK-250 PTAB-2.5M"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "sab100",
+      "name": "SAB-100"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel490l",
+      "name": "Fuel Tank 490 Liters"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s24b",
+      "name": "S-24B"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s24a",
+      "name": "s24a"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s5m",
+      "name": "s5m"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r55",
+      "name": "r55"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "kh66",
+      "name": "Kh-66 Grom"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "betab500",
+      "name": "BetAB-500"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "betab500shp",
+      "name": "BetAB-500 Shp"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bl755",
+      "name": "BL755"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab500m62",
+      "name": "FAB-500 M-62"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk500255ptab105",
+      "name": "RBK-500-255 PTAB-10.5"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "upk23250",
+      "name": "upk23250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rn24",
+      "name": "rn24"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rn28",
+      "name": "rn28"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sps141100",
+      "name": "sps141100"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "mig21fuel800l",
+      "name": "Fuel Tank 800L (Mig21Bis)"
+    }
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "id": "mk4hipeg",
+  "name": "mk4hipeg",
+  "description": "mk4hipeg",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a4ec",
+      "name": "a4ec"
+    }
+  ]
+}

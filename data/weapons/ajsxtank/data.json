@@ -1,0 +1,15 @@
+{
+  "id": "ajsxtank",
+  "name": "Fuel Tank 1500 Liters",
+  "description": "External fuel tank 1500 Liters",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ajs37",
+      "name": "ajs37"
+    }
+  ]
+}

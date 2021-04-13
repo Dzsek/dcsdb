@@ -1,0 +1,15 @@
+{
+  "id": "aso2",
+  "name": "ASO-2",
+  "description": "Countermeasure dispenser",
+  "data": {
+    "Type": "Countermeasure dispenser"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig21bis",
+      "name": "mig21bis"
+    }
+  ]
+}

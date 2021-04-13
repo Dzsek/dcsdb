@@ -1,0 +1,19 @@
+{
+  "id": "anm3",
+  "name": "AN/M3",
+  "description": "Gun Pod housing a Browning .50 caliber machine gun.\r\n\r\nDuring World War II, a faster-firing Browning was developed for aircraft use. The AN/M3 increased the rate of fire to around 1,200 rounds per minute, while firing the same round with minimal change in weight or size.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gun Pod",
+    "Warhead": ".50 cal",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339pan",
+      "name": "mb339pan"
+    }
+  ]
+}

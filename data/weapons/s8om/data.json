@@ -1,0 +1,20 @@
+{
+  "id": "s8om",
+  "name": "s8om",
+  "description": "s8om",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mi24p",
+      "name": "mi24p"
+    }
+  ]
+}

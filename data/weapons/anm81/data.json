@@ -1,0 +1,18 @@
+{
+  "id": "anm81",
+  "name": "AN-M81",
+  "description": "The AN-M81 is an American fragmentation bomb.",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "Bomb",
+    "Warhead": "260lb Fragmentation",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a4ec",
+      "name": "a4ec"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ffarmk1",
+  "name": "FFAR Mk1 HE",
+  "description": "The Mk 4 Folding-Fin Aerial Rocket (FFAR), also known as Mighty Mouse, was an unguided rocket used by United States military aircraft.\r\n\r\nIt was designed as an air-to-air weapon for interceptor aircraft to shoot down enemy bombers, but primarily saw service as an air-to-surface weapon.\r\n\r\nThe FFAR has been developed into the modern Hydra 70 series, which is still in service.\r\n\r\nMk1 has a High Explosive warhead.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "High Explosive",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a4ec",
+      "name": "a4ec"
+    }
+  ]
+}

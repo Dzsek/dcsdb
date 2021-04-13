@@ -1,0 +1,18 @@
+{
+  "id": "m117",
+  "name": "M117",
+  "description": "The M117 is an air-dropped demolition bomb[1] used by United States military forces. The weapon dates back to the Korean War of the early 1950s.\r\n\r\n\r\n",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "Bomb",
+    "Warhead": "175kg Tritonal",
+    "Targets": "Buildings"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a4ec",
+      "name": "a4ec"
+    }
+  ]
+}

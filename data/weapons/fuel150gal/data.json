@@ -1,0 +1,15 @@
+{
+  "id": "fuel150gal",
+  "name": "Fuel Tank 150 gallons",
+  "description": "External Fuel Tank 150 gallons",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a4ec",
+      "name": "a4ec"
+    }
+  ]
+}

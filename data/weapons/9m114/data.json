@@ -1,0 +1,20 @@
+{
+  "id": "9m114",
+  "name": "9m114",
+  "description": "9m114",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mi24p",
+      "name": "mi24p"
+    }
+  ]
+}

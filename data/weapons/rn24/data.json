@@ -1,0 +1,20 @@
+{
+  "id": "rn24",
+  "name": "rn24",
+  "description": "rn24",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig21bis",
+      "name": "mig21bis"
+    }
+  ]
+}

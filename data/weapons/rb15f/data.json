@@ -1,0 +1,20 @@
+{
+  "id": "rb15f",
+  "name": "rb15f",
+  "description": "rb15f",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ajs37",
+      "name": "ajs37"
+    }
+  ]
+}

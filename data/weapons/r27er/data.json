@@ -1,0 +1,20 @@
+{
+  "id": "r27er",
+  "name": "r27er",
+  "description": "r27er",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su33",
+      "name": "su33"
+    }
+  ]
+}

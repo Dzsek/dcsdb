@@ -1,0 +1,15 @@
+{
+  "id": "l005ecm",
+  "name": "L005 Sorbtslya ECM pod",
+  "description": "Electronic countermeasures",
+  "data": {
+    "Type": "ECM pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su33",
+      "name": "su33"
+    }
+  ]
+}

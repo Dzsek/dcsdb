@@ -1,0 +1,15 @@
+{
+  "id": "fuel490l",
+  "name": "Fuel Tank 490 Liters",
+  "description": "External Fuel Tank 490 Liters",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig21bis",
+      "name": "mig21bis"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rb24j",
+  "name": "rb24j",
+  "description": "rb24j",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ajs37",
+      "name": "ajs37"
+    }
+  ]
+}

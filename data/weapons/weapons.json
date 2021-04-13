@@ -10,6 +10,12 @@
   },
   {
     "category": "agm",
+    "tags": [],
+    "id": "9m114",
+    "name": "9m114"
+  },
+  {
+    "category": "agm",
     "tags": [
       "sead",
       "decoy",
@@ -60,6 +66,17 @@
     ],
     "id": "agm154c",
     "name": "AGM-154C JSOW"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "sead",
+      "shrike",
+      "dead",
+      "sam"
+    ],
+    "id": "agm45a",
+    "name": "AGM-45 Shrike"
   },
   {
     "category": "bomb",
@@ -387,6 +404,22 @@
     "name": "AIM-9X"
   },
   {
+    "category": "fuel",
+    "tags": [],
+    "id": "ajsxtank",
+    "name": "Fuel Tank 1500L"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "gun",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "akan",
+    "name": "AKAN 30/55"
+  },
+  {
     "category": "pod",
     "tags": [
       "spj",
@@ -440,6 +473,86 @@
     "name": "AN/ASQ-T50 TCTS"
   },
   {
+    "category": "pod",
+    "tags": [
+      "lightarmor",
+      "gun",
+      "browning"
+    ],
+    "id": "anm3",
+    "name": "AN/M3"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "lightarmor",
+      "tank",
+      "dumb"
+    ],
+    "id": "anm30a1",
+    "name": "AN-M30A1"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "anm57",
+    "name": "AN-M57"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "anm64",
+    "name": "AN-M64"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "anm65",
+    "name": "AN-M65"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "unguided",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "anm66a2",
+    "name": "AN-M66A2"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "lightarmor",
+      "frag",
+      "dumb"
+    ],
+    "id": "anm81",
+    "name": "AN-M81"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "lightarmor",
+      "frag",
+      "dumb"
+    ],
+    "id": "anm88",
+    "name": "AN-M88"
+  },
+  {
     "category": "agm",
     "tags": [
       "rocket",
@@ -459,6 +572,54 @@
     ],
     "id": "apkwsmpp",
     "name": "APKWS MPP"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "arakm70bap",
+    "name": "ARAK M70B AP"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "dumb",
+      "lightarmor"
+    ],
+    "id": "arakm70bhe",
+    "name": "ARAK M70B HE"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "arf8m3api",
+    "name": "ARF/8M3 API"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "dumb",
+      "lightarmor"
+    ],
+    "id": "arf8m3hei",
+    "name": "ARF/8M3 HEI"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "flare",
+      "countermeasure",
+      "chaff"
+    ],
+    "id": "aso2",
+    "name": "ASO-2"
   },
   {
     "category": "pod",
@@ -547,6 +708,55 @@
     ],
     "id": "betab500shp",
     "name": "BetAB-500 Shp"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "cluster",
+      "jsow",
+      "glide",
+      "lightarmor",
+      "gps"
+    ],
+    "id": "bk90mj1",
+    "name": "BK90 Mj1"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "gps",
+      "jsow",
+      "lightarmor",
+      "tank",
+      "cluster",
+      "glide"
+    ],
+    "id": "bk90mj1mj2",
+    "name": "BK90 Mj1-Mj2"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "cluster",
+      "gps",
+      "jsow",
+      "lightarmor",
+      "tank",
+      "glide"
+    ],
+    "id": "bk90mj2",
+    "name": "BK90 Mj2"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "lightarmor",
+      "tank",
+      "cluster",
+      "dumb"
+    ],
+    "id": "bl755",
+    "name": "BL755"
   },
   {
     "category": "bomb",
@@ -655,6 +865,36 @@
     "name": "CBU-105"
   },
   {
+    "category": "pod",
+    "tags": [
+      "lightarmor",
+      "dispenser",
+      "personnel"
+    ],
+    "id": "cbu1a",
+    "name": "CBU-1/A"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "dispenser",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "cbu2a",
+    "name": "CBU-2/A"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "dispenser",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "cbu2ba",
+    "name": "CBU-2B/A "
+  },
+  {
     "category": "bomb",
     "tags": [
       "cluster",
@@ -704,6 +944,15 @@
   {
     "category": "pod",
     "tags": [
+      "gun",
+      "lightarmor"
+    ],
+    "id": "defa553",
+    "name": "DEFA 553"
+  },
+  {
+    "category": "pod",
+    "tags": [
       "countermeasure",
       "chaff",
       "flare"
@@ -738,6 +987,18 @@
   {
     "category": "bomb",
     "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "highdrag",
+      "retarded"
+    ],
+    "id": "fab250m54tu",
+    "name": "FAB 250 M54 TU"
+  },
+  {
+    "category": "bomb",
+    "tags": [
       "building",
       "lightarmor",
       "dumb",
@@ -746,6 +1007,39 @@
     ],
     "id": "fab500m62",
     "name": "FAB-500 M-62"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "mighty",
+      "mouse",
+      "lightarmor",
+      "phosphorus",
+      "white"
+    ],
+    "id": "ffar156",
+    "name": "FFAR M156 WP"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "mighty",
+      "mouse",
+      "lightarmor"
+    ],
+    "id": "ffarmk1",
+    "name": "FFAR Mk1 HE"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "mighty",
+      "mouse",
+      "lightarmor",
+      "tank"
+    ],
+    "id": "ffarmk5",
+    "name": "FFAR Mk5 HEAT"
   },
   {
     "category": "fuel",
@@ -762,26 +1056,76 @@
   {
     "category": "fuel",
     "tags": [],
+    "id": "fuel150gal",
+    "name": "Fuel Tank 150 gallons"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
     "id": "fuel300gal",
     "name": "Fuel Tank 300 gallons"
   },
   {
     "category": "fuel",
     "tags": [],
+    "id": "fuel320ltwingtip",
+    "name": "Fuel Tank 320 Liters"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel330lt",
+    "name": "Fuel Tank 330 Liters"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
     "id": "fuel370gal",
-    "name": "Fuel Tank 610 gallons"
+    "name": "Fuel Tank 610 gallons (F-16)"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel400gal",
+    "name": "Fuel Tank 400 gallons"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel490l",
+    "name": "Fuel Tank 490 Liters"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel500ltwingtip",
+    "name": "Fuel Tank 500 Liters"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel610gal",
-    "name": "Fuel Tank 610 gallons"
+    "name": "Fuel Tank 610 gallons (F-15C)"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel800l",
-    "name": "Fuel Tank 800L"
+    "name": "Fuel Tank 800L (Su-25T)"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "infrared",
+      "aircraft"
+    ],
+    "id": "gar8",
+    "name": "GAR-8"
   },
   {
     "category": "pod",
@@ -988,7 +1332,7 @@
     "category": "fuel",
     "tags": [],
     "id": "jf17fuel800l",
-    "name": "Fuel Tank 800L"
+    "name": "Fuel Tank 800L (JF-17)"
   },
   {
     "category": "pod",
@@ -998,6 +1342,16 @@
     ],
     "id": "jf17spj",
     "name": "SPJ pod"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "flare",
+      "chaff",
+      "countermeasure"
+    ],
+    "id": "kbfcdisp",
+    "name": "KB F/C Dispenser"
   },
   {
     "category": "agm",
@@ -1065,6 +1419,18 @@
     "name": "Kh-58U"
   },
   {
+    "category": "agm",
+    "tags": [
+      "tank",
+      "ship",
+      "grom",
+      "beamriding",
+      "radar"
+    ],
+    "id": "kh66",
+    "name": "Kh-66 Grom"
+  },
+  {
     "category": "bomb",
     "tags": [
       "dispenser",
@@ -1082,6 +1448,14 @@
     ],
     "id": "kmgu2ptab25ko",
     "name": "KMGU-2 PTAB-2.5KO"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "ecm"
+    ],
+    "id": "l005ecm",
+    "name": "L005 ECM"
   },
   {
     "category": "pod",
@@ -1140,6 +1514,25 @@
     "name": "LS-6-500"
   },
   {
+    "category": "bomb",
+    "tags": [
+      "illumination",
+      "flare"
+    ],
+    "id": "lysbomb",
+    "name": "LYSBOMB"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "dumb",
+      "building",
+      "demolition"
+    ],
+    "id": "m117",
+    "name": "M117"
+  },
+  {
     "category": "rocket",
     "tags": [
       "hydra",
@@ -1183,6 +1576,29 @@
     "name": "2.75' rocket M274 Smoke"
   },
   {
+    "category": "bomb",
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
+    "id": "m71he",
+    "name": "M/71 HE"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "retarded",
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
+    "id": "m71hechute",
+    "name": "M/71 HE w chute"
+  },
+  {
     "category": "aam",
     "tags": [
       "missile",
@@ -1215,6 +1631,12 @@
     "name": "Mercury LLTV Pod"
   },
   {
+    "category": "fuel",
+    "tags": [],
+    "id": "mig21fuel800l",
+    "name": "Fuel Tank 800L (Mig21Bis)"
+  },
+  {
     "category": "rocket",
     "tags": [
       "training",
@@ -1235,6 +1657,12 @@
     ],
     "id": "mk20",
     "name": "Mk-20"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "mk4hipeg",
+    "name": "mk4hipeg"
   },
   {
     "category": "rocket",
@@ -1270,6 +1698,24 @@
     "name": "ZUNI MK 71"
   },
   {
+    "category": "rocket",
+    "tags": [],
+    "id": "mk76",
+    "name": "mk76"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "mk77mod0",
+    "name": "mk77mod0"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "mk77mod1",
+    "name": "mk77mod1"
+  },
+  {
     "category": "bomb",
     "tags": [
       "tank",
@@ -1280,6 +1726,12 @@
     ],
     "id": "mk81",
     "name": "Mk-81"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "mk81se",
+    "name": "mk81se"
   },
   {
     "category": "bomb",
@@ -1391,6 +1843,66 @@
   },
   {
     "category": "aam",
+    "tags": [],
+    "id": "r13m",
+    "name": "r13m"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "r13m1",
+    "name": "r13m1"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "r27er",
+    "name": "r27er"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "r27et",
+    "name": "r27et"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "r27r",
+    "name": "r27r"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "r27t",
+    "name": "r27t"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "r3r",
+    "name": "r3r"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "r3s",
+    "name": "r3s"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "r55",
+    "name": "r55"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "r60",
+    "name": "r60"
+  },
+  {
+    "category": "aam",
     "tags": [
       "missile",
       "fox2",
@@ -1414,6 +1926,60 @@
     ],
     "id": "r73",
     "name": "R-73"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "rb04e",
+    "name": "rb04e"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "rb05a",
+    "name": "rb05a"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "rb15f",
+    "name": "rb15f"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "rb24",
+    "name": "rb24"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "rb24j",
+    "name": "rb24j"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "rb74",
+    "name": "rb74"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "rb75a",
+    "name": "rb75a"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "rb75b",
+    "name": "rb75b"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "rb75t",
+    "name": "rb75t"
   },
   {
     "category": "bomb",
@@ -1470,6 +2036,18 @@
     "name": "RBK-500U OAB-2.5 RT"
   },
   {
+    "category": "bomb",
+    "tags": [],
+    "id": "rn24",
+    "name": "rn24"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "rn28",
+    "name": "rn28"
+  },
+  {
     "category": "fuel",
     "tags": [],
     "id": "rpl522",
@@ -1482,6 +2060,12 @@
     "name": "RPL 541 Fuel Tank 2000L"
   },
   {
+    "category": "aam",
+    "tags": [],
+    "id": "rs2us",
+    "name": "rs2us"
+  },
+  {
     "category": "rocket",
     "tags": [
       "dumb",
@@ -1489,6 +2073,12 @@
     ],
     "id": "s13of",
     "name": "S-13 OF"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "s24a",
+    "name": "s24a"
   },
   {
     "category": "rocket",
@@ -1532,6 +2122,12 @@
   },
   {
     "category": "rocket",
+    "tags": [],
+    "id": "s5m",
+    "name": "s5m"
+  },
+  {
+    "category": "rocket",
     "tags": [
       "dumb",
       "lightarmor",
@@ -1548,6 +2144,12 @@
     ],
     "id": "s8ofp2",
     "name": "S-8OFP2"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "s8om",
+    "name": "s8om"
   },
   {
     "category": "rocket",
@@ -1588,6 +2190,18 @@
     ],
     "id": "sppu221",
     "name": "SPPU-22-1"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "sprd99",
+    "name": "sprd99"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "sps141100",
+    "name": "sps141100"
   },
   {
     "category": "aam",
@@ -1655,6 +2269,18 @@
     "name": "Type-200A"
   },
   {
+    "category": "pod",
+    "tags": [],
+    "id": "u22",
+    "name": "u22"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "u22a",
+    "name": "u22a"
+  },
+  {
     "category": "rocket",
     "tags": [
       "lightarmor",
@@ -1662,6 +2288,12 @@
     ],
     "id": "ug90mm",
     "name": "UG 90mm"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "upk23250",
+    "name": "upk23250"
   },
   {
     "category": "pod",
