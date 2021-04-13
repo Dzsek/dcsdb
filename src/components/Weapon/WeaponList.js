@@ -1,7 +1,7 @@
 import React from 'react';
 import WeaponCard from './WeaponCard';
 import './WeaponList.scss';
-import {OptimizeWeaponTags, FilterByTags} from '../../helper/Helper';
+import {OptimizeWeaponTags, FilterByTags, hideunfinished} from '../../helper/Helper';
 import DataAccess from '../../dataaccess/DataAccess';
 
 class WeaponList extends React.Component{
@@ -39,6 +39,7 @@ class WeaponList extends React.Component{
                         .filter(f=> {
                             return FilterByTags(this.props.filter, f);
                         })
+                        .filter(f=> hideunfinished ? f.id!==f.name : true)
                         .sort((a,b)=>a.name-b.name)
                         //.slice(0,30)
                         .map(weapon=>

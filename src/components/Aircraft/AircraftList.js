@@ -1,7 +1,7 @@
 import React from 'react';
 import AircraftCard from './AircraftCard';
 import './AircraftList.scss';
-import {FilterByTags} from '../../helper/Helper';
+import {FilterByTags, hideunfinished} from '../../helper/Helper';
 import DataAccess from '../../dataaccess/DataAccess';
 
 class AircraftList extends React.Component{
@@ -46,6 +46,7 @@ class AircraftList extends React.Component{
                         .filter(f=> {
                             return FilterByTags(this.props.filter, f);
                         })
+                        .filter(f=> hideunfinished ? f.id!==f.name : true)
                         .sort((a,b)=>a.name-b.name)
                         .map(plane=>
                         (
