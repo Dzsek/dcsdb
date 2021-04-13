@@ -17,6 +17,10 @@ class WeaponPage extends React.Component
         this.handleSearchTextChanged = this.handleSearchTextChanged.bind(this);
     }
 
+    componentDidMount(){
+        document.title = "DCSDB - Weapons";
+    }
+
     handleSearchTextChanged(value)
     {
         this.setState({searchText: value});

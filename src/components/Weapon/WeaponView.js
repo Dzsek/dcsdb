@@ -30,10 +30,11 @@ class WeaponView extends React.Component
         da.getWeapon(params.id)
         .then(
             (result)=>{
+                document.title = "DCSDB - "+result.name;
                 this.setState({
                     weapon: result
                 })
-
+                
                 if(result.aircraft)
                 {
                     let plane = result.aircraft.find(x=>x.id===fromId);

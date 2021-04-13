@@ -2,6 +2,11 @@ import React from 'react';
 import './AboutPage.scss';
 
 class AboutPage extends React.Component{
+
+    componentDidMount(){
+        document.title = "DCSDB - About";
+    }
+
     render()
     {
         return (

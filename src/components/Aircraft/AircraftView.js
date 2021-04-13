@@ -32,6 +32,8 @@ class AircraftView extends React.Component
         da.getAircraft(params.id)
         .then(
             (aircraftdata)=>{
+                document.title = "DCSDB - "+aircraftdata.name;
+
                 da.getWeaponList().then((weaponlist)=>{
                     aircraftdata.weapongroups = { "aam":[],"agm":[],"bomb":[],"fuel":[],"pod":[],"rocket":[] };
                     for(let w of aircraftdata.weapons)

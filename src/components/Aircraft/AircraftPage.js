@@ -17,6 +17,10 @@ class AircraftPage extends React.Component
         this.handleSearchTextChanged = this.handleSearchTextChanged.bind(this);
     }
 
+    componentDidMount(){
+        document.title = "DCSDB - Aircraft";
+    }
+
     handleSearchTextChanged(value)
     {
         this.setState({searchText: value});
