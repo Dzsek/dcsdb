@@ -1629,6 +1629,12 @@
     "name": "Mercury LLTV Pod"
   },
   {
+    "category": "fuel",
+    "tags": [],
+    "id": "mig21fuel800l",
+    "name": "Fuel Tank 800L"
+  },
+  {
     "category": "rocket",
     "tags": [
       "training",

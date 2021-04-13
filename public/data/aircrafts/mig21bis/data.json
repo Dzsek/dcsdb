@@ -172,16 +172,16 @@
       "name": "rn28"
     },
     {
-      "category": "fuel",
-      "tags": [],
-      "id": "fuel800l",
-      "name": "Fuel Tank 800L"
-    },
-    {
       "category": "pod",
       "tags": [],
       "id": "sps141100",
       "name": "sps141100"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "mig21fuel800l",
+      "name": "Fuel Tank 800L"
     }
   ]
 }
