@@ -1660,9 +1660,12 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "gun"
+    ],
     "id": "mk4hipeg",
-    "name": "mk4hipeg"
+    "name": "Mk4 HIPEG"
   },
   {
     "category": "rocket",
@@ -1699,21 +1702,34 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "smoke",
+      "bomb",
+      "training",
+      "practice"
+    ],
     "id": "mk76",
-    "name": "mk76"
+    "name": "Mk 76"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "personnel",
+      "incendiary"
+    ],
     "id": "mk77mod0",
-    "name": "mk77mod0"
+    "name": "Mk 77 Mod 0"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "incendiary",
+      "personnel"
+    ],
     "id": "mk77mod1",
-    "name": "mk77mod1"
+    "name": "Mk 77 Mod 1"
   },
   {
     "category": "bomb",
@@ -1729,9 +1745,17 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "tank",
+      "lightarmor",
+      "tank",
+      "building",
+      "dumb",
+      "retarded",
+      "highdrag"
+    ],
     "id": "mk81se",
-    "name": "mk81se"
+    "name": "Mk-81 SnakeEye"
   },
   {
     "category": "bomb",
@@ -1843,51 +1867,106 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "infrared",
+      "vympel",
+      "atoll",
+      "heatseaker",
+      "fox2",
+      "aircraft"
+    ],
     "id": "r13m",
-    "name": "r13m"
+    "name": "R-13M"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "infrared",
+      "vympel",
+      "atoll",
+      "heatseaker",
+      "fox2",
+      "aircraft"
+    ],
     "id": "r13m1",
-    "name": "r13m1"
+    "name": "R-13M1"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "fox1",
+      "alamo",
+      "vympel",
+      "aircraft",
+      "semiactive",
+      "radar"
+    ],
     "id": "r27er",
-    "name": "r27er"
+    "name": "R-27ER"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "fox2",
+      "alamo",
+      "vympel",
+      "infrared",
+      "aircraft",
+      "heatseaker"
+    ],
     "id": "r27et",
-    "name": "r27et"
+    "name": "R-27ET"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "fox1",
+      "alamo",
+      "vympel",
+      "semiactive",
+      "radar"
+    ],
     "id": "r27r",
-    "name": "r27r"
+    "name": "R-27R"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "fox2",
+      "alamo",
+      "vympel",
+      "infrared",
+      "aircraft",
+      "heatseaker"
+    ],
     "id": "r27t",
-    "name": "r27t"
+    "name": "R-27T"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "semiactive",
+      "fox1",
+      "atoll",
+      "vympel",
+      "aircraft",
+      "radar"
+    ],
     "id": "r3r",
-    "name": "r3r"
+    "name": "R-3R"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "infrared",
+      "vympel",
+      "atoll",
+      "heatseaker",
+      "fox2",
+      "aircraft"
+    ],
     "id": "r3s",
-    "name": "r3s"
+    "name": "R-3S"
   },
   {
     "category": "aam",

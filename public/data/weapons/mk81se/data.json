@@ -1,14 +1,12 @@
 {
   "id": "mk81se",
-  "name": "mk81se",
-  "description": "mk81se",
+  "name": "Mk-81 SnakeEye",
+  "description": "The Mark 81 is an unguided, general-purpose bomb, part of the United States Mark 80 series. The explosive filling is usually tritonal, though other compositions have sometimes been used.\r\n\r\nThis is the high drag variant",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "High Drag Bomb",
+    "Warhead": "250lb High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
   },
   "aircraft": [
     {

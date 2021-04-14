@@ -1,14 +1,13 @@
 {
   "id": "r27et",
-  "name": "r27et",
-  "description": "r27et",
+  "name": "R-27ET",
+  "description": "The Vympel R-27 (NATO reporting name AA-10 Alamo) is a family of air-to-air missile developed by the Soviet Union.\r\n\r\nThe ET version has an extended range over the T version.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Medium",
+    "Guidance": "Infrared",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "Blast Fragmentation",
+    "Targets": "Aircraft"
   },
   "aircraft": [
     {

@@ -1,14 +1,12 @@
 {
   "id": "mk77mod1",
-  "name": "mk77mod1",
-  "description": "mk77mod1",
+  "name": "Mk 77 Mod 1",
+  "description": "The Mark 77 Mod 1 bomb is a United States 500-pound (230 kg) air-dropped incendiary bomb carrying 75 U.S. gallons of petroleum oil.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Incendiary Bomb",
+    "Warhead": "74 gal Petroleum Oil",
+    "Targets": "Light Armor, Personnel"
   },
   "aircraft": [
     {
