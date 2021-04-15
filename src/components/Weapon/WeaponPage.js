@@ -2,7 +2,7 @@ import React from 'react';
 import './WeaponPage.scss';
 import WeaponList from './WeaponList';
 import SearchBar from '../Common/SearchBar';
-import {WeaponSearchTerms} from '../../helper/Helper';
+import {WeaponSearchTerms, RegisterPage} from '../../helper/Helper';
 
 class WeaponPage extends React.Component
 {
@@ -19,6 +19,7 @@ class WeaponPage extends React.Component
 
     componentDidMount(){
         document.title = "DCSDB - Weapons";
+        RegisterPage();
     }
 
     handleSearchTextChanged(value)

@@ -76,8 +76,18 @@ export function FilterByTags(filtertext, object)
     return allwordsfound;
 }
 
+export function RegisterPage()
+{
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+        event: 'page_view',
+        pagePath: window.location.href,
+        pageTitle: document.title
+    });
+}
+
 export const WeaponSearchTerms = ["Air-to-Ground", "Air-to-Air", "Bomb", "Rocket", "Pod", "Fuel", "GPS", "Radar", "Laser", "Infrared", "TV", "Dumb", "Cluster", "Tank", "Light Armor", "Building", "Fortification", "SAM"];
 
 export const AircraftSearchTerms = ["Modern", "Cold War", "Multirole", "Fighter", "CAS", "Blue", "Red"];
 
-export const hideunfinished = false;
+export const hideunfinished = true;

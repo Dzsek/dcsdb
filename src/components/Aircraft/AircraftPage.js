@@ -2,7 +2,7 @@ import React from 'react';
 import './AircraftPage.scss';
 import AircraftList from './AircraftList';
 import SearchBar from '../Common/SearchBar';
-import {AircraftSearchTerms} from '../../helper/Helper';
+import {AircraftSearchTerms, RegisterPage} from '../../helper/Helper';
 
 class AircraftPage extends React.Component
 {
@@ -19,6 +19,7 @@ class AircraftPage extends React.Component
 
     componentDidMount(){
         document.title = "DCSDB - Aircraft";
+        RegisterPage();
     }
 
     handleSearchTextChanged(value)

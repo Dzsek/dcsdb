@@ -4,7 +4,7 @@ import BackButton from '../Common/BackButton';
 import './WeaponView.scss';
 import AircraftCard from '../Aircraft/AircraftCard';
 import DataAccess from '../../dataaccess/DataAccess';
-import {hideunfinished} from '../../helper/Helper';
+import {hideunfinished, RegisterPage} from '../../helper/Helper';
 
 class WeaponView extends React.Component
 {
@@ -32,6 +32,7 @@ class WeaponView extends React.Component
         .then(
             (result)=>{
                 document.title = "DCSDB - "+result.name;
+                RegisterPage();
                 this.setState({
                     weapon: result
                 })

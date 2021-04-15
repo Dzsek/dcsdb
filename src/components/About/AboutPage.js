@@ -1,10 +1,12 @@
 import React from 'react';
 import './AboutPage.scss';
+import {RegisterPage} from '../../helper/Helper';
 
 class AboutPage extends React.Component{
 
     componentDidMount(){
         document.title = "DCSDB - About";
+        RegisterPage();
     }
 
     render()

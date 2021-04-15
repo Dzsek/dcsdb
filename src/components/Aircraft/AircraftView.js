@@ -4,7 +4,7 @@ import './AircraftView.scss';
 import BackButton from '../Common/BackButton';
 import WeaponCard from '../Weapon/WeaponCard';
 import SearchBar from '../Common/SearchBar';
-import {OptimizeWeaponTags, FilterByTags, WeaponSearchTerms} from "../../helper/Helper";
+import {OptimizeWeaponTags, FilterByTags, WeaponSearchTerms, RegisterPage} from "../../helper/Helper";
 import DataAccess from '../../dataaccess/DataAccess';
 
 class AircraftView extends React.Component
@@ -33,6 +33,7 @@ class AircraftView extends React.Component
         .then(
             (aircraftdata)=>{
                 document.title = "DCSDB - "+aircraftdata.name;
+                RegisterPage();
 
                 da.getWeaponList().then((weaponlist)=>{
                     aircraftdata.weapongroups = { "aam":[],"agm":[],"bomb":[],"fuel":[],"pod":[],"rocket":[] };
