@@ -1,14 +1,11 @@
 {
   "id": "mk76",
-  "name": "mk76",
-  "description": "mk76",
+  "name": "Mk 76",
+  "description": "The Mk 76 is a 11.3 kg practice bomb used for training purposes.\r\n\r\nDefined as rocket because it is under the rocket section in the DCS loadout menu.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Practice bomb",
+    "Warhead": "Smoke"
   },
   "aircraft": [
     {

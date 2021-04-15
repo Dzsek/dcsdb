@@ -1,14 +1,13 @@
 {
   "id": "mk4hipeg",
-  "name": "mk4hipeg",
-  "description": "mk4hipeg",
+  "name": "Mk4 HIPEG Gunpod",
+  "description": "The HIPEG system is a gunpod containing a 20mm Mk11 cannon with 750 rounds of ammunition.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gun pod",
+    "Warhead": "20mm",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {
