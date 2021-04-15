@@ -1,3 +1,5 @@
+import { waitFor } from "@testing-library/dom";
+
 export function OptimizeWeaponTags(weapon)
 {
     let weaponname = weapon.name.replaceAll(' ','').replaceAll('-','').replaceAll('/','').replaceAll('.','').toLowerCase();
@@ -78,12 +80,14 @@ export function FilterByTags(filtertext, object)
 
 export function RegisterPage()
 {
-    window.dataLayer = window.dataLayer || [];
-    window.dataLayer.push({
-        event: 'page_view',
-        pagePath: window.location.href,
-        pageTitle: document.title
-    });
+    if(window.gtag)
+    {
+        window.gtag('event', 'page_view', {
+            page_location:window.location.origin, 
+            page_path: window.location.pathname+window.location.hash, 
+            page_title: document.title
+        });
+    }
 }
 
 export const WeaponSearchTerms = ["Air-to-Ground", "Air-to-Air", "Bomb", "Rocket", "Pod", "Fuel", "GPS", "Radar", "Laser", "Infrared", "TV", "Dumb", "Cluster", "Tank", "Light Armor", "Building", "Fortification", "SAM"];
