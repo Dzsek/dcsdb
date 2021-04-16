@@ -1,0 +1,31 @@
+{
+  "id": "sa342l",
+  "name": "sa342l",
+  "description": "sa342l",
+  "weapons": [
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sa342irdeflector",
+      "name": "sa342irdeflector"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sa342sandfilter",
+      "name": "sa342sandfilter"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "sneb68eap",
+      "name": "sneb68eap"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "sneb68wp",
+      "name": "sneb68wp"
+    }
+  ]
+}

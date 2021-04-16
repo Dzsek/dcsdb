@@ -1,0 +1,20 @@
+{
+  "id": "guv8700w127w762",
+  "name": "guv8700w127w762",
+  "description": "guv8700w127w762",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mi8mtv2",
+      "name": "mi8mtv2"
+    }
+  ]
+}

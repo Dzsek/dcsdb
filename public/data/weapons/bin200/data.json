@@ -1,0 +1,20 @@
+{
+  "id": "bin200",
+  "name": "bin200",
+  "description": "bin200",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "c101cc",
+      "name": "c101cc"
+    }
+  ]
+}

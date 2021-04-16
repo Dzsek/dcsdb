@@ -1,0 +1,73 @@
+{
+  "id": "l39za",
+  "name": "l39za",
+  "description": "l39za",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r60m",
+      "name": "R-60M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r3s",
+      "name": "R-3S"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab100",
+      "name": "FAB-100"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab250",
+      "name": "FAB-250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "p50t",
+      "name": "p50t"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "sab100",
+      "name": "SAB-100"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "ofab100",
+      "name": "ofab100"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "pk3",
+      "name": "pk3"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s5ko",
+      "name": "S-5KO"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel150l39",
+      "name": "fuel150l39"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel350l39",
+      "name": "fuel350l39"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "m60",
+  "name": "m60",
+  "description": "m60",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "uh1h",
+      "name": "uh1h"
+    }
+  ]
+}

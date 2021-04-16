@@ -1,0 +1,20 @@
+{
+  "id": "kord127",
+  "name": "kord127",
+  "description": "kord127",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mi8mtv2",
+      "name": "mi8mtv2"
+    }
+  ]
+}

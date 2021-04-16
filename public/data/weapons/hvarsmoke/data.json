@@ -1,0 +1,20 @@
+{
+  "id": "hvarsmoke",
+  "name": "hvarsmoke",
+  "description": "hvarsmoke",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f86f",
+      "name": "f86f"
+    }
+  ]
+}

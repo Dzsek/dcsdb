@@ -1,0 +1,20 @@
+{
+  "id": "rkl609",
+  "name": "rkl609",
+  "description": "rkl609",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "j11a",
+      "name": "j11a"
+    }
+  ]
+}

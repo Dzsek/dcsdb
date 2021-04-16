@@ -1,0 +1,25 @@
+{
+  "id": "sa342mistral",
+  "name": "sa342mistral",
+  "description": "sa342mistral",
+  "weapons": [
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sa342irdeflector",
+      "name": "sa342irdeflector"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sa342sandfilter",
+      "name": "sa342sandfilter"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "mistral",
+      "name": "mistral"
+    }
+  ]
+}

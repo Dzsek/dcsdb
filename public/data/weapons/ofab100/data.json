@@ -1,0 +1,20 @@
+{
+  "id": "ofab100",
+  "name": "ofab100",
+  "description": "ofab100",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "l39za",
+      "name": "l39za"
+    }
+  ]
+}

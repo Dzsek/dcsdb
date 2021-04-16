@@ -1,0 +1,20 @@
+{
+  "id": "hot3",
+  "name": "hot3",
+  "description": "hot3",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "sa342m",
+      "name": "sa342m"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "fuelka50",
+  "name": "fuelka50",
+  "description": "fuelka50",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ka50",
+      "name": "ka50"
+    }
+  ]
+}

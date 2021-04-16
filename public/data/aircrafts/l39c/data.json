@@ -1,0 +1,43 @@
+{
+  "id": "l39c",
+  "name": "l39c",
+  "description": "l39c",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r3s",
+      "name": "R-3S"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab100",
+      "name": "FAB-100"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "sab100",
+      "name": "SAB-100"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "p50t",
+      "name": "p50t"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel150l39",
+      "name": "fuel150l39"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s5ko",
+      "name": "S-5KO"
+    }
+  ]
+}

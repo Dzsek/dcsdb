@@ -1,0 +1,31 @@
+{
+  "id": "ah6j",
+  "name": "ah6j",
+  "description": "ah6j",
+  "weapons": [
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "m134",
+      "name": "m134"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "gau19",
+      "name": "gau19"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m151he",
+      "name": "2.75' rocket M151 (HE)"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m156wp",
+      "name": "2.75' rocket M156 (WP)"
+    }
+  ]
+}

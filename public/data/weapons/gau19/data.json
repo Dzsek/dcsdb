@@ -1,0 +1,20 @@
+{
+  "id": "gau19",
+  "name": "gau19",
+  "description": "gau19",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ah6j",
+      "name": "ah6j"
+    }
+  ]
+}

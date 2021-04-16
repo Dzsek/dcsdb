@@ -40,6 +40,11 @@
     "name": "A-10C II "
   },
   {
+    "tags": [],
+    "id": "a29b",
+    "name": "a29b"
+  },
+  {
     "tags": [
       "free",
       "mod",
@@ -52,6 +57,11 @@
     ],
     "id": "a4ec",
     "name": "A-4E-C"
+  },
+  {
+    "tags": [],
+    "id": "ah6j",
+    "name": "ah6j"
   },
   {
     "tags": [
@@ -77,6 +87,11 @@
     ],
     "id": "av8b",
     "name": "AV-8B N/A"
+  },
+  {
+    "tags": [],
+    "id": "c101cc",
+    "name": "c101cc"
   },
   {
     "tags": [
@@ -134,6 +149,16 @@
     "name": "F-16CM bl.50"
   },
   {
+    "tags": [],
+    "id": "f5e3",
+    "name": "f5e3"
+  },
+  {
+    "tags": [],
+    "id": "f86f",
+    "name": "f86f"
+  },
+  {
     "tags": [
       "hornet",
       "navy",
@@ -152,6 +177,11 @@
     "name": "F/A-18C"
   },
   {
+    "tags": [],
+    "id": "j11a",
+    "name": "j11a"
+  },
+  {
     "tags": [
       "thunder",
       "jeff",
@@ -168,6 +198,21 @@
     ],
     "id": "jf17",
     "name": "JF-17"
+  },
+  {
+    "tags": [],
+    "id": "ka50",
+    "name": "ka50"
+  },
+  {
+    "tags": [],
+    "id": "l39c",
+    "name": "l39c"
+  },
+  {
+    "tags": [],
+    "id": "l39za",
+    "name": "l39za"
   },
   {
     "tags": [
@@ -189,6 +234,21 @@
     "name": "mi24p"
   },
   {
+    "tags": [],
+    "id": "mi8mtv2",
+    "name": "mi8mtv2"
+  },
+  {
+    "tags": [],
+    "id": "mig15bis",
+    "name": "mig15bis"
+  },
+  {
+    "tags": [],
+    "id": "mig19p",
+    "name": "mig19p"
+  },
+  {
     "tags": [
       "fishbed",
       "balalaika",
@@ -202,6 +262,46 @@
     ],
     "id": "mig21bis",
     "name": "MiG-21bis"
+  },
+  {
+    "tags": [],
+    "id": "mig29a",
+    "name": "mig29a"
+  },
+  {
+    "tags": [],
+    "id": "mig29g",
+    "name": "mig29g"
+  },
+  {
+    "tags": [],
+    "id": "mig29s",
+    "name": "mig29s"
+  },
+  {
+    "tags": [],
+    "id": "sa342l",
+    "name": "sa342l"
+  },
+  {
+    "tags": [],
+    "id": "sa342m",
+    "name": "sa342m"
+  },
+  {
+    "tags": [],
+    "id": "sa342minigun",
+    "name": "sa342minigun"
+  },
+  {
+    "tags": [],
+    "id": "sa342mistral",
+    "name": "sa342mistral"
+  },
+  {
+    "tags": [],
+    "id": "su25",
+    "name": "su25"
   },
   {
     "tags": [
@@ -220,6 +320,11 @@
     "name": "Su-25T"
   },
   {
+    "tags": [],
+    "id": "su27",
+    "name": "su27"
+  },
+  {
     "tags": [
       "carrier",
       "flanker",
@@ -229,5 +334,10 @@
     ],
     "id": "su33",
     "name": "Su-33"
+  },
+  {
+    "tags": [],
+    "id": "uh1h",
+    "name": "uh1h"
   }
 ]

@@ -1,0 +1,25 @@
+{
+  "id": "m134",
+  "name": "m134",
+  "description": "m134",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ah6j",
+      "name": "ah6j"
+    },
+    {
+      "instructions": [],
+      "id": "uh1h",
+      "name": "uh1h"
+    }
+  ]
+}

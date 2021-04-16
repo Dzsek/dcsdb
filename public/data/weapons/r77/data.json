@@ -1,0 +1,25 @@
+{
+  "id": "r77",
+  "name": "r77",
+  "description": "r77",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig29s",
+      "name": "mig29s"
+    },
+    {
+      "instructions": [],
+      "id": "j11a",
+      "name": "j11a"
+    }
+  ]
+}

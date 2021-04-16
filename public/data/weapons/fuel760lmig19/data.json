@@ -1,0 +1,20 @@
+{
+  "id": "fuel760lmig19",
+  "name": "fuel760lmig19",
+  "description": "fuel760lmig19",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig19p",
+      "name": "mig19p"
+    }
+  ]
+}

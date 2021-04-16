@@ -1,0 +1,20 @@
+{
+  "id": "cbu52b",
+  "name": "cbu52b",
+  "description": "cbu52b",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f5e3",
+      "name": "f5e3"
+    }
+  ]
+}

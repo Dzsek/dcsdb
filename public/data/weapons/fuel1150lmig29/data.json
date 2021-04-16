@@ -1,0 +1,30 @@
+{
+  "id": "fuel1150lmig29",
+  "name": "fuel1150lmig29",
+  "description": "fuel1150lmig29",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig29a",
+      "name": "mig29a"
+    },
+    {
+      "instructions": [],
+      "id": "mig29s",
+      "name": "mig29s"
+    },
+    {
+      "instructions": [],
+      "id": "mig29g",
+      "name": "mig29g"
+    }
+  ]
+}

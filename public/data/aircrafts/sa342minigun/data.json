@@ -1,0 +1,19 @@
+{
+  "id": "sa342minigun",
+  "name": "sa342minigun",
+  "description": "sa342minigun",
+  "weapons": [
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sa342irdeflector",
+      "name": "sa342irdeflector"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sa342sandfilter",
+      "name": "sa342sandfilter"
+    }
+  ]
+}

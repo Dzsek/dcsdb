@@ -1,0 +1,55 @@
+{
+  "id": "uh1h",
+  "name": "uh1h",
+  "description": "uh1h",
+  "weapons": [
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "m134",
+      "name": "m134"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m151he",
+      "name": "2.75' rocket M151 (HE)"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m156wp",
+      "name": "2.75' rocket M156 (WP)"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m257illum",
+      "name": "2.75' rocket M257 Illumination"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m274smoke",
+      "name": "2.75' rocket M274 Smoke"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk1practice",
+      "name": "2.75' rocket Mk1 Practice"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk5he",
+      "name": "2.75' rocket MK5 (HE)"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "m60",
+      "name": "m60"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "sa342m",
+  "name": "sa342m",
+  "description": "sa342m",
+  "weapons": [
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sa342irdeflector",
+      "name": "sa342irdeflector"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sa342sandfilter",
+      "name": "sa342sandfilter"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "hot3",
+      "name": "hot3"
+    }
+  ]
+}

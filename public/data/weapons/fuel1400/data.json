@@ -1,0 +1,30 @@
+{
+  "id": "fuel1400",
+  "name": "fuel1400",
+  "description": "fuel1400",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig29a",
+      "name": "mig29a"
+    },
+    {
+      "instructions": [],
+      "id": "mig29s",
+      "name": "mig29s"
+    },
+    {
+      "instructions": [],
+      "id": "mig29g",
+      "name": "mig29g"
+    }
+  ]
+}

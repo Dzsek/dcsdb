@@ -1,0 +1,25 @@
+{
+  "id": "fuel150l39",
+  "name": "fuel150l39",
+  "description": "fuel150l39",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "l39c",
+      "name": "l39c"
+    },
+    {
+      "instructions": [],
+      "id": "l39za",
+      "name": "l39za"
+    }
+  ]
+}

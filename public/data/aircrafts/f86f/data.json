@@ -1,0 +1,49 @@
+{
+  "id": "f86f",
+  "name": "f86f",
+  "description": "f86f",
+  "weapons": [
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel120galf86",
+      "name": "fuel120galf86"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel200galf86",
+      "name": "fuel200galf86"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "hvarsmoke",
+      "name": "hvarsmoke"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "hvar",
+      "name": "hvar"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "anm64",
+      "name": "AN-M64"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "m117",
+      "name": "M117"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9b",
+      "name": "aim9b"
+    }
+  ]
+}

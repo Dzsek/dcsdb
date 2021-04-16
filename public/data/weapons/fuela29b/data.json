@@ -1,0 +1,20 @@
+{
+  "id": "fuela29b",
+  "name": "fuela29b",
+  "description": "fuela29b",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "a29b",
+      "name": "a29b"
+    }
+  ]
+}

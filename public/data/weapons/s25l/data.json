@@ -14,6 +14,11 @@
       "instructions": [],
       "id": "su25t",
       "name": "Su-25T"
+    },
+    {
+      "instructions": [],
+      "id": "su25",
+      "name": "su25"
     }
   ]
 }

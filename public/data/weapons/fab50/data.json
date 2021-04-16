@@ -1,0 +1,25 @@
+{
+  "id": "fab50",
+  "name": "fab50",
+  "description": "fab50",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig19p",
+      "name": "mig19p"
+    },
+    {
+      "instructions": [],
+      "id": "mig15bis",
+      "name": "mig15bis"
+    }
+  ]
+}

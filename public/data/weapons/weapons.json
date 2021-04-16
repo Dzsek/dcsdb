@@ -336,6 +336,12 @@
   },
   {
     "category": "aam",
+    "tags": [],
+    "id": "aim9b",
+    "name": "aim9b"
+  },
+  {
+    "category": "aam",
     "tags": [
       "aa",
       "missile",
@@ -486,6 +492,17 @@
     ],
     "id": "anasqt50tcts",
     "name": "AN/ASQ-T50 TCTS"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "lightarmor",
+      "browning",
+      "50cal",
+      "gun"
+    ],
+    "id": "anm3",
+    "name": "AN/M3"
   },
   {
     "category": "bomb",
@@ -696,6 +713,12 @@
     "name": "BetAB-500 Shp"
   },
   {
+    "category": "bomb",
+    "tags": [],
+    "id": "bin200",
+    "name": "bin200"
+  },
+  {
     "category": "agm",
     "tags": [
       "cluster",
@@ -754,6 +777,18 @@
     ],
     "id": "blg66ac",
     "name": "BLG-66-AC"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "br250",
+    "name": "br250"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "br500",
+    "name": "br500"
   },
   {
     "category": "rocket",
@@ -882,6 +917,12 @@
   },
   {
     "category": "bomb",
+    "tags": [],
+    "id": "cbu52b",
+    "name": "cbu52b"
+  },
+  {
+    "category": "bomb",
     "tags": [
       "cluster",
       "lightarmor",
@@ -930,6 +971,15 @@
   {
     "category": "pod",
     "tags": [
+      "gun",
+      "lightarmor"
+    ],
+    "id": "defa553",
+    "name": "DEFA 553"
+  },
+  {
+    "category": "pod",
+    "tags": [
       "countermeasure",
       "chaff",
       "flare"
@@ -948,6 +998,12 @@
     ],
     "id": "fab100",
     "name": "FAB-100"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "fab100m",
+    "name": "fab100m"
   },
   {
     "category": "bomb",
@@ -972,6 +1028,12 @@
     ],
     "id": "fab250m54tu",
     "name": "FAB 250 M54 TU"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "fab50",
+    "name": "fab50"
   },
   {
     "category": "bomb",
@@ -1033,14 +1095,68 @@
   {
     "category": "fuel",
     "tags": [],
+    "id": "fuel1150lmig29",
+    "name": "fuel1150lmig29"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel120galf86",
+    "name": "fuel120galf86"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel1400",
+    "name": "fuel1400"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
     "id": "fuel150gal",
     "name": "Fuel Tank 150 gallons"
   },
   {
     "category": "fuel",
     "tags": [],
+    "id": "fuel150galf5",
+    "name": "fuel150galf5"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel150l39",
+    "name": "fuel150l39"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel200galf86",
+    "name": "fuel200galf86"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel275galf5",
+    "name": "fuel275galf5"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
     "id": "fuel300gal",
     "name": "Fuel Tank 300 gallons"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel300lmig15",
+    "name": "fuel300lmig15"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel350l39",
+    "name": "fuel350l39"
   },
   {
     "category": "fuel",
@@ -1057,8 +1173,20 @@
   {
     "category": "fuel",
     "tags": [],
+    "id": "fuel400lmig15",
+    "name": "fuel400lmig15"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
     "id": "fuel490l",
     "name": "Fuel Tank 490 Liters"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel600lmig15",
+    "name": "fuel600lmig15"
   },
   {
     "category": "fuel",
@@ -1069,8 +1197,26 @@
   {
     "category": "fuel",
     "tags": [],
+    "id": "fuel760lmig19",
+    "name": "fuel760lmig19"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
     "id": "fuel800l",
-    "name": "Fuel Tank 800L (Su-25T)"
+    "name": "Fuel Tank 800L (Su-25)"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuela29b",
+    "name": "fuela29b"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuelka50",
+    "name": "fuelka50"
   },
   {
     "category": "aam",
@@ -1095,6 +1241,12 @@
     ],
     "id": "gau12",
     "name": "GAU-12 Equalizer"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "gau19",
+    "name": "gau19"
   },
   {
     "category": "agm",
@@ -1274,6 +1426,36 @@
   },
   {
     "category": "pod",
+    "tags": [],
+    "id": "guv8700w127w762",
+    "name": "guv8700w127w762"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "guv8700wap30",
+    "name": "guv8700wap30"
+  },
+  {
+    "category": "agm",
+    "tags": [],
+    "id": "hot3",
+    "name": "hot3"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "hvar",
+    "name": "hvar"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "hvarsmoke",
+    "name": "hvarsmoke"
+  },
+  {
+    "category": "pod",
     "tags": [
       "datalink",
       "mitl"
@@ -1301,6 +1483,12 @@
     ],
     "id": "jf17spj",
     "name": "SPJ pod"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "k13a",
+    "name": "k13a"
   },
   {
     "category": "pod",
@@ -1410,6 +1598,12 @@
   },
   {
     "category": "pod",
+    "tags": [],
+    "id": "kord127",
+    "name": "kord127"
+  },
+  {
+    "category": "pod",
     "tags": [
       "ecm"
     ],
@@ -1492,6 +1686,12 @@
     "name": "M117"
   },
   {
+    "category": "pod",
+    "tags": [],
+    "id": "m134",
+    "name": "m134"
+  },
+  {
     "category": "rocket",
     "tags": [
       "hydra",
@@ -1533,6 +1733,12 @@
     ],
     "id": "m274smoke",
     "name": "2.75' rocket M274 Smoke"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "m60",
+    "name": "m60"
   },
   {
     "category": "bomb",
@@ -1594,6 +1800,12 @@
     "tags": [],
     "id": "mig21fuel800l",
     "name": "Fuel Tank 800L (Mig21Bis)"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "mistral",
+    "name": "mistral"
   },
   {
     "category": "rocket",
@@ -1802,6 +2014,30 @@
     "name": "MXU-648"
   },
   {
+    "category": "bomb",
+    "tags": [],
+    "id": "ofab100",
+    "name": "ofab100"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "p50t",
+    "name": "p50t"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "pk3",
+    "name": "pk3"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "pkt762",
+    "name": "pkt762"
+  },
+  {
     "category": "aam",
     "tags": [
       "missile",
@@ -1968,6 +2204,12 @@
     "name": "R-73"
   },
   {
+    "category": "aam",
+    "tags": [],
+    "id": "r77",
+    "name": "r77"
+  },
+  {
     "category": "agm",
     "tags": [
       "asm",
@@ -2131,6 +2373,12 @@
     "name": "RBK-500U OAB-2.5 RT"
   },
   {
+    "category": "pod",
+    "tags": [],
+    "id": "rkl609",
+    "name": "rkl609"
+  },
+  {
     "category": "bomb",
     "tags": [
       "nuclear"
@@ -2276,6 +2524,18 @@
     "name": "S-8TsM"
   },
   {
+    "category": "pod",
+    "tags": [],
+    "id": "sa342irdeflector",
+    "name": "sa342irdeflector"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "sa342sandfilter",
+    "name": "sa342sandfilter"
+  },
+  {
     "category": "bomb",
     "tags": [
       "illumination",
@@ -2297,6 +2557,24 @@
     "name": "SD-10"
   },
   {
+    "category": "agm",
+    "tags": [],
+    "id": "seaeagle",
+    "name": "seaeagle"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "sneb68eap",
+    "name": "sneb68eap"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "sneb68wp",
+    "name": "sneb68wp"
+  },
+  {
     "category": "pod",
     "tags": [
       "gun",
@@ -2314,6 +2592,12 @@
     ],
     "id": "sprd99",
     "name": "SPRD-99"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "sps141",
+    "name": "sps141"
   },
   {
     "category": "pod",

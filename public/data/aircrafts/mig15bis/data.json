@@ -1,0 +1,37 @@
+{
+  "id": "mig15bis",
+  "name": "mig15bis",
+  "description": "mig15bis",
+  "weapons": [
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab100m",
+      "name": "fab100m"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab50",
+      "name": "fab50"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel300lmig15",
+      "name": "fuel300lmig15"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel400lmig15",
+      "name": "fuel400lmig15"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel600lmig15",
+      "name": "fuel600lmig15"
+    }
+  ]
+}

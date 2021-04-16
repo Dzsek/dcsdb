@@ -1,0 +1,20 @@
+{
+  "id": "sps141",
+  "name": "sps141",
+  "description": "sps141",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25",
+      "name": "su25"
+    }
+  ]
+}

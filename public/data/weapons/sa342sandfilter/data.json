@@ -1,0 +1,35 @@
+{
+  "id": "sa342sandfilter",
+  "name": "sa342sandfilter",
+  "description": "sa342sandfilter",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "sa342l",
+      "name": "sa342l"
+    },
+    {
+      "instructions": [],
+      "id": "sa342m",
+      "name": "sa342m"
+    },
+    {
+      "instructions": [],
+      "id": "sa342minigun",
+      "name": "sa342minigun"
+    },
+    {
+      "instructions": [],
+      "id": "sa342mistral",
+      "name": "sa342mistral"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "fuel400lmig15",
+  "name": "fuel400lmig15",
+  "description": "fuel400lmig15",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig15bis",
+      "name": "mig15bis"
+    }
+  ]
+}

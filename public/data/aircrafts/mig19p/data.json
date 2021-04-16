@@ -1,0 +1,43 @@
+{
+  "id": "mig19p",
+  "name": "mig19p",
+  "description": "mig19p",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "k13a",
+      "name": "k13a"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab250",
+      "name": "FAB-250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab100m",
+      "name": "fab100m"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab50",
+      "name": "fab50"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel760lmig19",
+      "name": "fuel760lmig19"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s5m",
+      "name": "S-5M"
+    }
+  ]
+}

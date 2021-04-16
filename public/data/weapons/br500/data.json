@@ -1,0 +1,20 @@
+{
+  "id": "br500",
+  "name": "br500",
+  "description": "br500",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "c101cc",
+      "name": "c101cc"
+    }
+  ]
+}

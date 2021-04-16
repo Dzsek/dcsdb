@@ -1,0 +1,20 @@
+{
+  "id": "k13a",
+  "name": "k13a",
+  "description": "k13a",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig19p",
+      "name": "mig19p"
+    }
+  ]
+}

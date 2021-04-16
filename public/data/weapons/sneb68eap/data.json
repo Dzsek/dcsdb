@@ -1,0 +1,20 @@
+{
+  "id": "sneb68eap",
+  "name": "sneb68eap",
+  "description": "sneb68eap",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "sa342l",
+      "name": "sa342l"
+    }
+  ]
+}

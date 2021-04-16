@@ -1,0 +1,20 @@
+{
+  "id": "fuel150galf5",
+  "name": "fuel150galf5",
+  "description": "fuel150galf5",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f5e3",
+      "name": "f5e3"
+    }
+  ]
+}

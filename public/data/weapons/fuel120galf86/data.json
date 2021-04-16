@@ -1,0 +1,20 @@
+{
+  "id": "fuel120galf86",
+  "name": "fuel120galf86",
+  "description": "fuel120galf86",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f86f",
+      "name": "f86f"
+    }
+  ]
+}
