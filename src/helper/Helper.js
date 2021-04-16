@@ -17,6 +17,11 @@ export function OptimizeWeaponTags(weapon)
         weapon.tags.push("infrared");
     }
 
+    if(weapon.tags.includes('infrared'))
+    {
+        weapon.tags.push("ir");
+    }
+
     if(weapon.category==="aam")
     {
         weapon.tags.push("airtoair")
@@ -50,8 +55,13 @@ export function OptimizeWeaponTags(weapon)
     }
 }
 
-export function FilterByTags(filtertext, object)
+export function FilterByTags(filtertext, object, type)
 {
+    if(!filtertext)
+    {
+        return true;
+    }
+
     let filter = filtertext.replaceAll('-','').toLowerCase();
     let filters = filter.split(' ');
     
@@ -61,10 +71,29 @@ export function FilterByTags(filtertext, object)
         let wordvalid = false;
         for(let tag of object.tags)
         {
-            if(tag.includes(word))
+            switch(type)
             {
-                wordvalid = true;
-                break;
+                case 'exact':
+                    if(tag === word)
+                    {
+                        wordvalid = true;
+                        break;
+                    }
+                    break;
+                case 'starts':
+                    if(tag.startsWith(word))
+                    {
+                        wordvalid = true;
+                        break;
+                    }
+                    break;
+                case 'includes':
+                    if(tag.includes(word))
+                    {
+                        wordvalid = true;
+                        break;
+                    }
+                    break;
             }
         }
 

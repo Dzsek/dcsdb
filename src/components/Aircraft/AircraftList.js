@@ -39,13 +39,21 @@ class AircraftList extends React.Component{
     render(){
         const aircrafts = this.state.aircrafts;
 
+        let res = aircrafts.filter(f=> FilterByTags(this.props.filter, f, 'exact'));
+        if(!res.length)
+        {
+            res = aircrafts.filter(f=> FilterByTags(this.props.filter, f, 'starts'));
+        }
+
+        if(!res.length)
+        {
+            res = aircrafts.filter(f=> FilterByTags(this.props.filter, f, 'includes'));
+        }
+
         return(
             <div className="AircraftList-root">
                 {
-                    aircrafts
-                        .filter(f=> {
-                            return FilterByTags(this.props.filter, f);
-                        })
+                    res
                         .filter(f=> hideunfinished ? f.id!==f.name : true)
                         .sort((a,b)=>a.name-b.name)
                         .map(plane=>

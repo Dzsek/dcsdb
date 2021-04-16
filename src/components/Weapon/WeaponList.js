@@ -32,13 +32,21 @@ class WeaponList extends React.Component{
     render(){
         const weapons = this.state.weapons;
 
+        let res = weapons.filter(f=> FilterByTags(this.props.filter, f, 'exact'));
+        if(!res.length)
+        {
+            res = weapons.filter(f=> FilterByTags(this.props.filter, f, 'starts'));
+        }
+
+        if(!res.length)
+        {
+            res = weapons.filter(f=> FilterByTags(this.props.filter, f, 'includes'));
+        }
+
         return(
             <div className="WeaponList-root">
                 {
-                    weapons
-                        .filter(f=> {
-                            return FilterByTags(this.props.filter, f);
-                        })
+                    res
                         .filter(f=> hideunfinished ? f.id!==f.name : true)
                         .sort((a,b)=>a.name-b.name)
                         //.slice(0,30)
