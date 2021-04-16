@@ -94,4 +94,4 @@ export const WeaponSearchTerms = ["Air-to-Ground", "Air-to-Air", "Bomb", "Rocket
 
 export const AircraftSearchTerms = ["Modern", "Cold War", "Multirole", "Fighter", "CAS", "Blue", "Red"];
 
-export const hideunfinished = true;
+export const hideunfinished = false;
