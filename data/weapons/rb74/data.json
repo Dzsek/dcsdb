@@ -1,20 +1,19 @@
 {
   "id": "rb74",
-  "name": "rb74",
-  "description": "rb74",
+  "name": "RB74",
+  "description": "Swedish, license built, version of the AIM-9L Sidewinder.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Infrared",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "21lb annular blast-fragmentation",
+    "Targets": "Aircraft"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "ajs37",
-      "name": "ajs37"
+      "name": "Saab AJS 37 Viggen"
     }
   ]
 }

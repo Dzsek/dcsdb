@@ -1,20 +1,19 @@
 {
   "id": "rs2us",
-  "name": "rs2us",
-  "description": "rs2us",
+  "name": "RS-2US",
+  "description": "The RS-2US is a semi active beam-riding air-to-air missile developed from the soviet K-5 missile.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Semi Active Radar Beam Riding",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "High Explosive",
+    "Targets": "Aircraft"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "mig21bis",
-      "name": "mig21bis"
+      "name": "MiG-21bis"
     }
   ]
 }

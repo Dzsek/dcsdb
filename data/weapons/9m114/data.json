@@ -1,14 +1,13 @@
 {
   "id": "9m114",
   "name": "9m114",
-  "description": "9m114",
+  "description": "The 9K114 Shturm is a radio guided anti-tank missile, developed by the Soviet Union.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
+    "Range": "Short",
+    "Guidance": "Radio Command",
+    "Type": "Air-to-Ground Missile",
     "Warhead": "-",
-    "Targets": "-"
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {

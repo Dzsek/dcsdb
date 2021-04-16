@@ -73,7 +73,7 @@
       "category": "aam",
       "tags": [],
       "id": "aim120c",
-      "name": "AIM-120C"
+      "name": "AIM-120C-5"
     },
     {
       "category": "aam",
@@ -145,7 +145,7 @@
       "category": "aam",
       "tags": [],
       "id": "cap9m",
-      "name": "CAP-9M"
+      "name": "Captive AIM-9M"
     },
     {
       "category": "bomb",
@@ -266,6 +266,12 @@
       "tags": [],
       "id": "anasqt50tcts",
       "name": "AN/ASQ-T50 TCTS"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "anasq228",
+      "name": "AN/ASQ-228 ATFLIR"
     }
   ]
 }

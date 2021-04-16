@@ -1,14 +1,12 @@
 {
   "id": "s8om",
-  "name": "s8om",
-  "description": "s8om",
+  "name": "S-8OM",
+  "description": "The Russian 80mm S-8-KOM (C-8-KOM) is an illumination, fin stabilised rocket.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "Illumination"
   },
   "aircraft": [
     {

@@ -1,7 +1,7 @@
 {
   "id": "mig21bis",
-  "name": "mig21bis",
-  "description": "mig21bis",
+  "name": "Mikoyan-Gurevich MiG-21bis",
+  "description": "The Mikoyan-Gurevich MiG-21 is a supersonic jet fighter and interceptor aircraft, designed by the Mikoyan-Gurevich Design Bureau in the Soviet Union.\r\n\r\nApproximately 60 countries over four continents have flown the MiG-21, and it still serves many nations six decades after its maiden flight. \r\n\r\nIt made aviation records, became the most-produced supersonic jet aircraft in aviation history, the most-produced combat aircraft since the Korean War.",
   "weapons": [
     {
       "category": "pod",
@@ -13,7 +13,7 @@
       "category": "pod",
       "tags": [],
       "id": "sprd99",
-      "name": "sprd99"
+      "name": "SPRD-99"
     },
     {
       "category": "aam",
@@ -49,13 +49,13 @@
       "category": "aam",
       "tags": [],
       "id": "r60",
-      "name": "r60"
+      "name": "R-60"
     },
     {
       "category": "aam",
       "tags": [],
       "id": "rs2us",
-      "name": "rs2us"
+      "name": "RS-2US"
     },
     {
       "category": "bomb",
@@ -103,19 +103,19 @@
       "category": "rocket",
       "tags": [],
       "id": "s24a",
-      "name": "s24a"
+      "name": "S-24A"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "s5m",
-      "name": "s5m"
+      "name": "S-5M"
     },
     {
       "category": "aam",
       "tags": [],
       "id": "r55",
-      "name": "r55"
+      "name": "R-55"
     },
     {
       "category": "agm",
@@ -157,25 +157,25 @@
       "category": "pod",
       "tags": [],
       "id": "upk23250",
-      "name": "upk23250"
+      "name": "UPK-23-250"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "rn24",
-      "name": "rn24"
+      "name": "RN-24"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "rn28",
-      "name": "rn28"
+      "name": "RN-28"
     },
     {
       "category": "pod",
       "tags": [],
       "id": "sps141100",
-      "name": "sps141100"
+      "name": "SPS-141-100"
     },
     {
       "category": "fuel",

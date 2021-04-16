@@ -1,20 +1,19 @@
 {
   "id": "rb75b",
-  "name": "rb75b",
-  "description": "rb75b",
+  "name": "RB-75B",
+  "description": "Swedish designation for the AGM-65B Maverick, which featured a zoomed in image for locking onto small or distant targets.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Medium",
+    "Guidance": "TV",
+    "Type": "Air-to-Ground Missile",
+    "Warhead": "126lb WDU-20/B shaped-charge",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "ajs37",
-      "name": "ajs37"
+      "name": "Saab AJS 37 Viggen"
     }
   ]
 }

@@ -51,7 +51,7 @@
       "attack"
     ],
     "id": "a4ec",
-    "name": "a4ec"
+    "name": "A-4E-C"
   },
   {
     "tags": [
@@ -63,7 +63,7 @@
       "swedish"
     ],
     "id": "ajs37",
-    "name": "ajs37"
+    "name": "Saab AJS 37 Viggen"
   },
   {
     "tags": [
@@ -185,18 +185,23 @@
   },
   {
     "tags": [],
-    "id": "mb339pan",
-    "name": "mb339pan"
-  },
-  {
-    "tags": [],
     "id": "mi24p",
     "name": "mi24p"
   },
   {
-    "tags": [],
+    "tags": [
+      "fishbed",
+      "balalaika",
+      "fighter",
+      "interceptor",
+      "coldwar",
+      "pencil",
+      "red",
+      "mikoyan",
+      "gurevich"
+    ],
     "id": "mig21bis",
-    "name": "mig21bis"
+    "name": "MiG-21bis"
   },
   {
     "tags": [
@@ -215,8 +220,14 @@
     "name": "Su-25T"
   },
   {
-    "tags": [],
+    "tags": [
+      "carrier",
+      "flanker",
+      "sukhoi",
+      "fighter",
+      "red"
+    ],
     "id": "su33",
-    "name": "su33"
+    "name": "Su-33"
   }
 ]
