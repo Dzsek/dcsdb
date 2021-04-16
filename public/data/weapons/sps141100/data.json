@@ -1,20 +1,15 @@
 {
   "id": "sps141100",
-  "name": "sps141100",
-  "description": "sps141100",
+  "name": "SPS-141-100",
+  "description": "ECM pod that provides radar jamming capability while also including countermeasure dispensers.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "ECM Pod"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "mig21bis",
-      "name": "mig21bis"
+      "name": "MiG-21bis"
     }
   ]
 }

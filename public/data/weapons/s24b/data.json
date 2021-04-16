@@ -1,7 +1,7 @@
 {
   "id": "s24b",
   "name": "S-24B",
-  "description": "The Russian S-24B is a 240mm high-explosive (HE), fragmentation, fin and spin stabilised rocket.",
+  "description": "The Russian S-24 is a 240mm high-explosive (HE), fragmentation, fin and spin stabilised rocket.\r\n\r\nThe B version changes the fuel used to a low smoke powder.",
   "data": {
     "Range": "Short",
     "Guidance": "Unguided",
@@ -18,7 +18,7 @@
     {
       "instructions": [],
       "id": "mig21bis",
-      "name": "mig21bis"
+      "name": "MiG-21bis"
     },
     {
       "instructions": [],

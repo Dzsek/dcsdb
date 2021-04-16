@@ -10,7 +10,11 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "shturm",
+      "lightarmor",
+      "tank"
+    ],
     "id": "9m114",
     "name": "9m114"
   },
@@ -238,7 +242,7 @@
       "aircraft"
     ],
     "id": "aim120c",
-    "name": "AIM-120C"
+    "name": "AIM-120C-5"
   },
   {
     "category": "aam",
@@ -466,21 +470,22 @@
   {
     "category": "pod",
     "tags": [
+      "tpod",
+      "tgp",
+      "targeting",
+      "flir"
+    ],
+    "id": "anasq228",
+    "name": "AN/ASQ-228 ATFLIR"
+  },
+  {
+    "category": "pod",
+    "tags": [
       "training",
       "acmi"
     ],
     "id": "anasqt50tcts",
     "name": "AN/ASQ-T50 TCTS"
-  },
-  {
-    "category": "pod",
-    "tags": [
-      "lightarmor",
-      "gun",
-      "browning"
-    ],
-    "id": "anm3",
-    "name": "AN/M3"
   },
   {
     "category": "bomb",
@@ -591,25 +596,6 @@
     ],
     "id": "arakm70bhe",
     "name": "ARAK M70B HE"
-  },
-  {
-    "category": "rocket",
-    "tags": [
-      "dumb",
-      "lightarmor",
-      "tank"
-    ],
-    "id": "arf8m3api",
-    "name": "ARF/8M3 API"
-  },
-  {
-    "category": "rocket",
-    "tags": [
-      "dumb",
-      "lightarmor"
-    ],
-    "id": "arf8m3hei",
-    "name": "ARF/8M3 HEI"
   },
   {
     "category": "pod",
@@ -827,7 +813,7 @@
       "practice"
     ],
     "id": "cap9m",
-    "name": "CAP-9M"
+    "name": "Captive AIM-9M"
   },
   {
     "category": "agm",
@@ -940,15 +926,6 @@
     ],
     "id": "cm802akg",
     "name": "CM-802AKG"
-  },
-  {
-    "category": "pod",
-    "tags": [
-      "gun",
-      "lightarmor"
-    ],
-    "id": "defa553",
-    "name": "DEFA 553"
   },
   {
     "category": "pod",
@@ -1068,18 +1045,6 @@
   {
     "category": "fuel",
     "tags": [],
-    "id": "fuel320ltwingtip",
-    "name": "Fuel Tank 320 Liters"
-  },
-  {
-    "category": "fuel",
-    "tags": [],
-    "id": "fuel330lt",
-    "name": "Fuel Tank 330 Liters"
-  },
-  {
-    "category": "fuel",
-    "tags": [],
     "id": "fuel370gal",
     "name": "Fuel Tank 610 gallons (F-16)"
   },
@@ -1094,12 +1059,6 @@
     "tags": [],
     "id": "fuel490l",
     "name": "Fuel Tank 490 Liters"
-  },
-  {
-    "category": "fuel",
-    "tags": [],
-    "id": "fuel500ltwingtip",
-    "name": "Fuel Tank 500 Liters"
   },
   {
     "category": "fuel",
@@ -1701,17 +1660,6 @@
     "name": "ZUNI MK 71"
   },
   {
-    "category": "rocket",
-    "tags": [
-      "smoke",
-      "bomb",
-      "training",
-      "practice"
-    ],
-    "id": "mk76",
-    "name": "Mk 76"
-  },
-  {
     "category": "bomb",
     "tags": [
       "lightarmor",
@@ -1970,15 +1918,28 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "infrared",
+      "alkali",
+      "fox2",
+      "aircraft",
+      "heatseaker"
+    ],
     "id": "r55",
-    "name": "r55"
+    "name": "R-55"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "missile",
+      "fox2",
+      "heatseaker",
+      "infrared",
+      "aircraft",
+      "aphid"
+    ],
     "id": "r60",
-    "name": "r60"
+    "name": "R-60"
   },
   {
     "category": "aam",
@@ -2008,57 +1969,112 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "asm",
+      "antiship",
+      "ship",
+      "cruise"
+    ],
     "id": "rb04e",
-    "name": "rb04e"
+    "name": "RB-04E"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "tank",
+      "ship",
+      "aircraft",
+      "radio"
+    ],
     "id": "rb05a",
-    "name": "rb05a"
+    "name": "RB-05A"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "asm",
+      "ship",
+      "antiship"
+    ],
     "id": "rb15f",
-    "name": "rb15f"
+    "name": "RB-15F"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "infrared",
+      "aircraft"
+    ],
     "id": "rb24",
-    "name": "rb24"
+    "name": "RB24"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "aircraft"
+    ],
     "id": "rb24j",
-    "name": "rb24j"
+    "name": "RB24J"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "aa",
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "infrared",
+      "aircraft"
+    ],
     "id": "rb74",
-    "name": "rb74"
+    "name": "RB74"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "maverick",
+      "lightarmor",
+      "tank",
+      "tv"
+    ],
     "id": "rb75a",
-    "name": "rb75a"
+    "name": "RB-75A"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "tv",
+      "maverick",
+      "lightarmor",
+      "tank"
+    ],
     "id": "rb75b",
-    "name": "rb75b"
+    "name": "RB-75B"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "tank",
+      "ship",
+      "maverick",
+      "tv"
+    ],
     "id": "rb75t",
-    "name": "rb75t"
+    "name": "RB-75T"
   },
   {
     "category": "bomb",
@@ -2116,15 +2132,19 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "nuclear"
+    ],
     "id": "rn24",
-    "name": "rn24"
+    "name": "RN-24"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "nuclear"
+    ],
     "id": "rn28",
-    "name": "rn28"
+    "name": "RN-28"
   },
   {
     "category": "fuel",
@@ -2140,9 +2160,15 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "alkali",
+      "semiactive",
+      "radar",
+      "fox1",
+      "aircraft"
+    ],
     "id": "rs2us",
-    "name": "rs2us"
+    "name": "RS-2US"
   },
   {
     "category": "rocket",
@@ -2155,9 +2181,12 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor"
+    ],
     "id": "s24a",
-    "name": "s24a"
+    "name": "S-24A"
   },
   {
     "category": "rocket",
@@ -2201,9 +2230,12 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "dumb"
+    ],
     "id": "s5m",
-    "name": "s5m"
+    "name": "S-5M"
   },
   {
     "category": "rocket",
@@ -2226,9 +2258,13 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "illumination",
+      "flare"
+    ],
     "id": "s8om",
-    "name": "s8om"
+    "name": "S-8OM"
   },
   {
     "category": "rocket",
@@ -2272,15 +2308,21 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "rato",
+      "jato"
+    ],
     "id": "sprd99",
-    "name": "sprd99"
+    "name": "SPRD-99"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "ecm",
+      "countermeasure"
+    ],
     "id": "sps141100",
-    "name": "sps141100"
+    "name": "SPS-141-100"
   },
   {
     "category": "aam",
@@ -2349,15 +2391,23 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "elint",
+      "ecm",
+      "countermeasure"
+    ],
     "id": "u22",
-    "name": "u22"
+    "name": "U22"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "countermeasure",
+      "ecm",
+      "elint"
+    ],
     "id": "u22a",
-    "name": "u22a"
+    "name": "U22/A"
   },
   {
     "category": "rocket",
@@ -2370,9 +2420,12 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "gun"
+    ],
     "id": "upk23250",
-    "name": "upk23250"
+    "name": "UPK-23-250"
   },
   {
     "category": "pod",

@@ -1,20 +1,19 @@
 {
   "id": "upk23250",
-  "name": "upk23250",
-  "description": "upk23250",
+  "name": "UPK-23-250 Gun pod",
+  "description": "The UPK-23 is a late Cold War era gun pod of Soviet origin.\r\n\r\nThe 23 denotes it 23mm caliber and the 250 is it's ammunition capacity.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Shoer",
+    "Guidance": "Unguided",
+    "Type": "Gun Pod",
+    "Caliber": "23mm",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "mig21bis",
-      "name": "mig21bis"
+      "name": "MiG-21bis"
     },
     {
       "instructions": [],

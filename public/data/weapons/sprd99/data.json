@@ -1,20 +1,15 @@
 {
   "id": "sprd99",
-  "name": "sprd99",
-  "description": "sprd99",
+  "name": "SPRD-99",
+  "description": "A pair of solid fuel rocket engines that can be used for Rocked-Assisted Take-Off.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "RATO"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "mig21bis",
-      "name": "mig21bis"
+      "name": "MiG-21bis"
     }
   ]
 }

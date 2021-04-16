@@ -1,20 +1,19 @@
 {
   "id": "s5m",
-  "name": "s5m",
-  "description": "s5m",
+  "name": "S-5M",
+  "description": "The Russian 57mm S-5M (C-5M) is a high-explosive (HE), fin stabilised rocket which produces 75 fragments upon impact.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "High explosive",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "mig21bis",
-      "name": "mig21bis"
+      "name": "MiG-21bis"
     }
   ]
 }

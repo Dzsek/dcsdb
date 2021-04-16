@@ -1,20 +1,19 @@
 {
   "id": "s24a",
-  "name": "s24a",
-  "description": "s24a",
+  "name": "S-24A",
+  "description": "The Russian S-24 is a 240mm high-explosive (HE), fragmentation, fin and spin stabilised rocket.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "123kg High Explosive Fragmentation",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "mig21bis",
-      "name": "mig21bis"
+      "name": "MiG-21bis"
     }
   ]
 }

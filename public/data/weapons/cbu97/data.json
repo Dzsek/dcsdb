@@ -5,7 +5,7 @@
   "data": {
     "Guidance": "Unguided (Guided submunitions)",
     "Type": "Cluster Bomb",
-    "Warhead": "Smart bomblets with eplosively-formed penetrator",
+    "Warhead": "Smart bomblets with explosively-formed penetrator",
     "Targets": "Light Armor, Tanks"
   },
   "aircraft": [

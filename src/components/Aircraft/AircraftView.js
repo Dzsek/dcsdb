@@ -107,7 +107,7 @@ class AircraftView extends React.Component
                         })()}
                 </div>
                 <div className="AircraftView-root-extra">
-                    <p>{aircraft.description}</p>
+                    <p dangerouslySetInnerHTML={{ __html: aircraft.description }}></p>
                 </div>
             </div>
         );
