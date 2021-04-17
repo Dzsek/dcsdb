@@ -46,7 +46,9 @@
       "tucano",
       "alx",
       "turboprop",
-      "blue"
+      "blue",
+      "mod",
+      "free"
     ],
     "id": "a29b",
     "name": "A-29B"
@@ -209,6 +211,7 @@
       "flanker",
       "sukhoi",
       "red",
+      "lowfidelity",
       "aa",
       "a2a",
       "fighter"
@@ -350,6 +353,7 @@
       "red",
       "fulcrum",
       "coldwar",
+      "lowfidelity",
       "aa",
       "a2a"
     ],
@@ -365,6 +369,7 @@
       "aa",
       "a2a",
       "fulcrum",
+      "lowfidelity",
       "modern"
     ],
     "id": "mig29g",
@@ -379,6 +384,7 @@
       "red",
       "mikoyan",
       "gurevich",
+      "lowfidelity",
       "modern"
     ],
     "id": "mig29s",
@@ -447,7 +453,8 @@
       "rook",
       "frogfoot",
       "red",
-      "lowfidelity"
+      "lowfidelity",
+      "free"
     ],
     "id": "su25t",
     "name": "Su-25T"
@@ -460,6 +467,7 @@
       "modern",
       "red",
       "aa",
+      "lowfidelity",
       "a2a"
     ],
     "id": "su27",
@@ -471,6 +479,7 @@
       "flanker",
       "sukhoi",
       "fighter",
+      "lowfidelity",
       "red"
     ],
     "id": "su33",
