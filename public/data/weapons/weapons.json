@@ -1253,20 +1253,6 @@
     "name": "Fuel Tank (KA-50)"
   },
   {
-    "category": "aam",
-    "tags": [
-      "missile",
-      "sidewinder",
-      "fox2",
-      "heatseaker",
-      "ir",
-      "infrared",
-      "aircraft"
-    ],
-    "id": "gar8",
-    "name": "GAR-8"
-  },
-  {
     "category": "pod",
     "tags": [
       "gun",
