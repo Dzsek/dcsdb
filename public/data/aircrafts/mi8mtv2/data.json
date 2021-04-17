@@ -1,7 +1,7 @@
 {
   "id": "mi8mtv2",
-  "name": "mi8mtv2",
-  "description": "mi8mtv2",
+  "name": "Mil Mi-8 MTV2",
+  "description": "The Mil Mi-8 is a medium twin-turbine helicopter, originally designed by the Soviet Union, and now produced by Russia.\r\n\r\nIn addition to its most common role as a transport helicopter, the Mi-8 is also used as an airborne command post, armed gunship, and reconnaissance platform.",
   "weapons": [
     {
       "category": "pod",

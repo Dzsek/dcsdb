@@ -1,7 +1,7 @@
 {
   "id": "l39za",
-  "name": "l39za",
-  "description": "l39za",
+  "name": "Aero L-39ZA Albatros",
+  "description": "The Aero L-39 Albatros is a high-performance jet trainer developed in Czechoslovakia by Aero Vodochody.\r\n\r\nIt was designed during the 1960s as a replacement for the Aero L-29 Delfín as a principal training aircraft. It was the first trainer aircraft to be equipped with a turbofan powerplant. \r\n\r\nThe type was exported to a wide range of countries as a military trainer.\r\n\r\nThe L39ZA is a significantly upgraded L-39ZO for armed training and light attack, employing sturdier landing gear, a higher payload, 4 pylons, and notably provision for a GSh-23L 23-millimeter twin-barreled cannon attached in a conformal pod under the pilots' compartment.",
   "weapons": [
     {
       "category": "aam",

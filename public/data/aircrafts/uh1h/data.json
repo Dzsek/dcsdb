@@ -1,7 +1,7 @@
 {
   "id": "uh1h",
-  "name": "uh1h",
-  "description": "uh1h",
+  "name": "Bell UH-1H Iroquois",
+  "description": "The Bell UH-1 Iroquois (nicknamed \"Huey\") is a utility military helicopter powered by a single turboshaft engine, with two-bladed main and tail rotors.\r\n\r\nThe UH-1H variant had an improved Lycoming T53-L-13 engine of 1,400 shp (1,000 kW).",
   "weapons": [
     {
       "category": "pod",

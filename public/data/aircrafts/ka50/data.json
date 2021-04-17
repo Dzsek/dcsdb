@@ -1,7 +1,7 @@
 {
   "id": "ka50",
-  "name": "ka50",
-  "description": "ka50",
+  "name": "Kamov Ka-50",
+  "description": "The Kamov Ka-50 \"Black Shark\" is a Russian single-seat attack helicopter with the distinctive coaxial rotor system of the Kamov design bureau. \r\n\r\nIt was designed in the 1980s and adopted for service in the Russian army in 1995. It is manufactured by the Progress company in Arsenyev. It is used as a heavily armed scout helicopter.",
   "weapons": [
     {
       "category": "agm",

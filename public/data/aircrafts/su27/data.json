@@ -1,7 +1,7 @@
 {
   "id": "su27",
-  "name": "su27",
-  "description": "su27",
+  "name": "Sukhoi Su-27",
+  "description": "The Sukhoi Su-27 is a Soviet-origin twin-engine supermaneuverable fighter aircraft designed by Sukhoi.\r\n\r\nIt was intended as a direct competitor for the large United States fourth-generation fighters such as the Grumman F-14 Tomcat and F-15 Eagle.\r\n\r\nThe Su-27 was designed for air superiority missions, and subsequent variants are able to perform almost all aerial warfare operations. It was designed with the Mikoyan MiG-29 as its complement.\r\n\r\nIn DCS it is a low fidelity module (non clickable), and it is included in the FC3 pack.\r\n",
   "weapons": [
     {
       "category": "aam",

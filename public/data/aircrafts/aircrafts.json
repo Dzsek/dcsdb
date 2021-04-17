@@ -203,9 +203,18 @@
     "name": "F/A-18C"
   },
   {
-    "tags": [],
+    "tags": [
+      "modern",
+      "shenyang",
+      "flanker",
+      "sukhoi",
+      "red",
+      "aa",
+      "a2a",
+      "fighter"
+    ],
     "id": "j11a",
-    "name": "j11a"
+    "name": "J-11A"
   },
   {
     "tags": [
@@ -226,19 +235,37 @@
     "name": "JF-17"
   },
   {
-    "tags": [],
+    "tags": [
+      "blackshark",
+      "akula",
+      "hokum",
+      "alligator",
+      "helicopter",
+      "red",
+      "modern"
+    ],
     "id": "ka50",
-    "name": "ka50"
+    "name": "Ka-50"
   },
   {
-    "tags": [],
+    "tags": [
+      "albatros",
+      "trainer",
+      "red"
+    ],
     "id": "l39c",
-    "name": "l39c"
+    "name": "L-39C"
   },
   {
-    "tags": [],
+    "tags": [
+      "trainer",
+      "ag",
+      "a2g",
+      "albatros",
+      "red"
+    ],
     "id": "l39za",
-    "name": "l39za"
+    "name": "L-39ZA"
   },
   {
     "tags": [
@@ -260,9 +287,15 @@
     "name": "mi24p"
   },
   {
-    "tags": [],
+    "tags": [
+      "hip",
+      "transport",
+      "red",
+      "mil",
+      "helicopter"
+    ],
     "id": "mi8mtv2",
-    "name": "mi8mtv2"
+    "name": "Mi-8 MTV2"
   },
   {
     "tags": [
@@ -420,9 +453,17 @@
     "name": "Su-25T"
   },
   {
-    "tags": [],
+    "tags": [
+      "flanker",
+      "sukhoi",
+      "fighter",
+      "modern",
+      "red",
+      "aa",
+      "a2a"
+    ],
     "id": "su27",
-    "name": "su27"
+    "name": "Su-27"
   },
   {
     "tags": [
@@ -436,8 +477,14 @@
     "name": "Su-33"
   },
   {
-    "tags": [],
+    "tags": [
+      "huey",
+      "iroquois",
+      "fortunateson",
+      "vietnam",
+      "blue"
+    ],
     "id": "uh1h",
-    "name": "uh1h"
+    "name": "UH-1H"
   }
 ]
