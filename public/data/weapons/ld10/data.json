@@ -3,7 +3,7 @@
   "name": "LD-10",
   "description": "LD-10 is an anti-radiation missile developed from PL-12/SD-10, first revealed to public in the 9th Zhuhai Airshow held in November 2012.\r\n\r\nLD-10 is similar to AGM-88 HARM in terms of usage, but its size and range are less.",
   "data": {
-    "Range": "Medium",
+    "Range": "Long",
     "Guidance": "Passive Radar",
     "Type": "Anti-Radiation Missile",
     "Targets": "SAM sites"

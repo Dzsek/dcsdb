@@ -91,10 +91,20 @@ class AircraftView extends React.Component
                                 for(let groupid in aircraft.weapongroups)
                                 {
                                     let group = aircraft.weapongroups[groupid];
-                                    group = group.filter(f=> FilterByTags(searchText, f));
-                                    if(group && group.length)
+                                    let res = group.filter(f=> FilterByTags(searchText, f, 'exact'));
+                                    if(!res.length)
                                     {
-                                        results.push(<WeaponGroup key={groupid} id={groupid} group={group} aircraftid={id}/>);
+                                        res = group.filter(f=> FilterByTags(searchText, f, 'starts'));
+                                    }
+
+                                    if(!res.length)
+                                    {
+                                        res = group.filter(f=> FilterByTags(searchText, f, 'includes'));
+                                    }
+                                    
+                                    if(res && res.length)
+                                    {
+                                        results.push(<WeaponGroup key={groupid} id={groupid} group={res} aircraftid={id}/>);
                                     }
                                 }
 
