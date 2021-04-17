@@ -1,20 +1,15 @@
 {
   "id": "fuel275galf5",
-  "name": "fuel275galf5",
-  "description": "fuel275galf5",
+  "name": "Fuel Tank 275 gallons (F-5E-3)",
+  "description": "External Fuel Tank 275 gallons",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "f5e3",
-      "name": "f5e3"
+      "name": "F-5E-3"
     }
   ]
 }

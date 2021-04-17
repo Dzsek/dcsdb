@@ -1,20 +1,18 @@
 {
   "id": "cbu52b",
-  "name": "cbu52b",
-  "description": "cbu52b",
+  "name": "CBU-52B",
+  "description": "The CBU-52B is a cluster bomb used by the United States Air Force.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Cluster bomb",
+    "Warhead": "High Explosive bomblets",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "f5e3",
-      "name": "f5e3"
+      "name": "F-5E-3"
     }
   ]
 }

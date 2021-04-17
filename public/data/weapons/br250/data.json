@@ -1,20 +1,18 @@
 {
   "id": "br250",
-  "name": "br250",
-  "description": "br250",
+  "name": "BR-250",
+  "description": "Spanish bomb, similar to the Mk-80 series.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Bomb",
+    "Warhead": "250kb High Explosive",
+    "Targets": "Light Armor, Tanks"
   },
   "aircraft": [
     {
       "instructions": [],
       "id": "c101cc",
-      "name": "c101cc"
+      "name": "C-101CC"
     }
   ]
 }

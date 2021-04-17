@@ -19,7 +19,7 @@
       "category": "aam",
       "tags": [],
       "id": "r77",
-      "name": "r77"
+      "name": "R-77"
     },
     {
       "category": "bomb",
@@ -133,13 +133,13 @@
       "category": "fuel",
       "tags": [],
       "id": "fuel1150lmig29",
-      "name": "fuel1150lmig29"
+      "name": "Fuel Tank 1150L (MiG-29)"
     },
     {
       "category": "fuel",
       "tags": [],
       "id": "fuel1400",
-      "name": "fuel1400"
+      "name": "Fuel Tank 1400L"
     }
   ]
 }

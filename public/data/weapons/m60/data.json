@@ -1,14 +1,13 @@
 {
   "id": "m60",
-  "name": "m60",
-  "description": "m60",
+  "name": "M60",
+  "description": "The M60, officially the Machine Gun, Caliber 7.62 mm, M60, is a family of American general-purpose machine guns firing 7.62×51mm NATO cartridges from a disintegrating belt of M13 links.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gun",
+    "Caliber": "7.62mm",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {

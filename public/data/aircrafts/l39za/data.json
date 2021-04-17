@@ -31,7 +31,7 @@
       "category": "bomb",
       "tags": [],
       "id": "p50t",
-      "name": "p50t"
+      "name": "P-50T"
     },
     {
       "category": "bomb",
@@ -43,13 +43,13 @@
       "category": "bomb",
       "tags": [],
       "id": "ofab100",
-      "name": "ofab100"
+      "name": "OFAB-100"
     },
     {
       "category": "pod",
       "tags": [],
       "id": "pk3",
-      "name": "pk3"
+      "name": "PK-3"
     },
     {
       "category": "rocket",
@@ -61,13 +61,13 @@
       "category": "fuel",
       "tags": [],
       "id": "fuel150l39",
-      "name": "fuel150l39"
+      "name": "Fuel Tank 150L (L-39)"
     },
     {
       "category": "fuel",
       "tags": [],
       "id": "fuel350l39",
-      "name": "fuel350l39"
+      "name": "Fuel Tank 350L (L-39)"
     }
   ]
 }

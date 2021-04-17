@@ -1,14 +1,9 @@
 {
   "id": "fuel350l39",
-  "name": "fuel350l39",
-  "description": "fuel350l39",
+  "name": "Fuel Tank 350 liters (L-39)",
+  "description": "External Fuel Tank 350 liters",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {

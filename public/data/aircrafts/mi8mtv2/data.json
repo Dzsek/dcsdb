@@ -7,13 +7,13 @@
       "category": "pod",
       "tags": [],
       "id": "pkt762",
-      "name": "pkt762"
+      "name": "PKT 7.62mm"
     },
     {
       "category": "pod",
       "tags": [],
       "id": "kord127",
-      "name": "kord127"
+      "name": "Kord 12.7mm"
     },
     {
       "category": "bomb",
@@ -37,7 +37,7 @@
       "category": "pod",
       "tags": [],
       "id": "guv8700wap30",
-      "name": "guv8700wap30"
+      "name": "GUV-8700 (AP30)"
     },
     {
       "category": "rocket",
@@ -73,7 +73,7 @@
       "category": "pod",
       "tags": [],
       "id": "guv8700w127w762",
-      "name": "guv8700w127w762"
+      "name": "GUV-8700 (2x7.62mm + 1x12.7mm)"
     },
     {
       "category": "pod",

@@ -1,14 +1,13 @@
 {
   "id": "pk3",
-  "name": "pk3",
-  "description": "pk3",
+  "name": "PK-3",
+  "description": "The PK is a 7.62×54mmR general-purpose machine gun designed in the Soviet Union.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gun Pod",
+    "Caliber": "7.62mm",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {
