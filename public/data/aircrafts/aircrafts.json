@@ -270,7 +270,9 @@
       "fagot",
       "coldwar",
       "fighter",
-      "vietnam"
+      "vietnam",
+      "aa",
+      "a2a"
     ],
     "id": "mig15bis",
     "name": "MiG-15Bis"
@@ -283,7 +285,9 @@
       "farmer",
       "fighter",
       "coldwar",
-      "red"
+      "red",
+      "aa",
+      "a2a"
     ],
     "id": "mig19p",
     "name": "MiG-19P"
@@ -298,25 +302,54 @@
       "pencil",
       "red",
       "mikoyan",
-      "gurevich"
+      "gurevich",
+      "aa",
+      "a2a"
     ],
     "id": "mig21bis",
     "name": "MiG-21bis"
   },
   {
-    "tags": [],
+    "tags": [
+      "fighter",
+      "mikoyan",
+      "gurevich",
+      "red",
+      "fulcrum",
+      "coldwar",
+      "aa",
+      "a2a"
+    ],
     "id": "mig29a",
-    "name": "mig29a"
+    "name": "MiG-29A"
   },
   {
-    "tags": [],
+    "tags": [
+      "red",
+      "mikoyan",
+      "gurevich",
+      "fighter",
+      "aa",
+      "a2a",
+      "fulcrum",
+      "modern"
+    ],
     "id": "mig29g",
-    "name": "mig29g"
+    "name": "MiG-29G"
   },
   {
-    "tags": [],
+    "tags": [
+      "a2a",
+      "aa",
+      "fulcrum",
+      "fighter",
+      "red",
+      "mikoyan",
+      "gurevich",
+      "modern"
+    ],
     "id": "mig29s",
-    "name": "mig29s"
+    "name": "MiG-29S"
   },
   {
     "tags": [
@@ -358,9 +391,17 @@
     "name": "SA324 Mistral"
   },
   {
-    "tags": [],
+    "tags": [
+      "cas",
+      "grach",
+      "rook",
+      "frogfoot",
+      "red",
+      "lowfidelity",
+      "ag"
+    ],
     "id": "su25",
-    "name": "su25"
+    "name": "Su-25"
   },
   {
     "tags": [
