@@ -1,14 +1,10 @@
 {
   "id": "p50t",
-  "name": "p50t",
-  "description": "p50t",
+  "name": "P-50T",
+  "description": "Practice bomb",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Practice Bomb"
   },
   "aircraft": [
     {

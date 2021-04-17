@@ -937,9 +937,13 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "cluster",
+      "lightarmor",
+      "dumb"
+    ],
     "id": "cbu52b",
-    "name": "cbu52b"
+    "name": "CBU-52B"
   },
   {
     "category": "bomb",
@@ -1274,9 +1278,12 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "gun",
+      "lightarmor"
+    ],
     "id": "gau19",
-    "name": "gau19"
+    "name": "GAU-19"
   },
   {
     "category": "agm",
@@ -1456,33 +1463,51 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "gun"
+    ],
     "id": "guv8700w127w762",
-    "name": "guv8700w127w762"
+    "name": "GUV-8700 (2x7.62mm + 1x12.7mm)"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "gun",
+      "grenade",
+      "lightarmor"
+    ],
     "id": "guv8700wap30",
-    "name": "guv8700wap30"
+    "name": "GUV-8700 (AP30)"
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "tank",
+      "wire"
+    ],
     "id": "hot3",
-    "name": "hot3"
+    "name": "HOT3"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "holymoses"
+    ],
     "id": "hvar",
-    "name": "hvar"
+    "name": "HVAR"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "smoke",
+      "holymoses"
+    ],
     "id": "hvarsmoke",
-    "name": "hvarsmoke"
+    "name": "HVAR (SMOKE)"
   },
   {
     "category": "pod",
@@ -1516,9 +1541,15 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "ir",
+      "atoll",
+      "vympel",
+      "aircraft",
+      "fox2"
+    ],
     "id": "k13a",
-    "name": "k13a"
+    "name": "K-13A"
   },
   {
     "category": "pod",
@@ -1628,9 +1659,12 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "gun"
+    ],
     "id": "kord127",
-    "name": "kord127"
+    "name": "Kord 12.7mm"
   },
   {
     "category": "pod",
@@ -1717,9 +1751,12 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "gun",
+      "lightarmor"
+    ],
     "id": "m134",
-    "name": "m134"
+    "name": "M134"
   },
   {
     "category": "rocket",
@@ -1766,9 +1803,12 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "gun"
+    ],
     "id": "m60",
-    "name": "m60"
+    "name": "M60"
   },
   {
     "category": "bomb",
@@ -1833,9 +1873,13 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "ir",
+      "aircraft",
+      "fox2"
+    ],
     "id": "mistral",
-    "name": "mistral"
+    "name": "Mistral"
   },
   {
     "category": "rocket",
@@ -2045,27 +2089,39 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "dumb"
+    ],
     "id": "ofab100",
-    "name": "ofab100"
+    "name": "OFAB-100"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "practice",
+      "training"
+    ],
     "id": "p50t",
-    "name": "p50t"
+    "name": "P-50T"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "gun"
+    ],
     "id": "pk3",
-    "name": "pk3"
+    "name": "PK-3"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "gun",
+      "lightarmor"
+    ],
     "id": "pkt762",
-    "name": "pkt762"
+    "name": "PKT 7.62mm"
   },
   {
     "category": "aam",
@@ -2603,9 +2659,14 @@
   },
   {
     "category": "agm",
-    "tags": [],
+    "tags": [
+      "ship",
+      "asm",
+      "antiship",
+      "radar"
+    ],
     "id": "seaeagle",
-    "name": "seaeagle"
+    "name": "Sea Eagle"
   },
   {
     "category": "rocket",

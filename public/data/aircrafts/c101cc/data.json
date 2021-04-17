@@ -1,7 +1,7 @@
 {
   "id": "c101cc",
-  "name": "c101cc",
-  "description": "c101cc",
+  "name": "CASA C-101CC Aviojet",
+  "description": "The CASA C-101 Aviojet is a low-wing single engine jet-powered advanced trainer and light attack aircraft designed and manufactured by Spanish aircraft company Construcciones Aeronáuticas SA (CASA).",
   "weapons": [
     {
       "category": "aam",
@@ -25,7 +25,7 @@
       "category": "agm",
       "tags": [],
       "id": "seaeagle",
-      "name": "seaeagle"
+      "name": "Sea Eagle"
     },
     {
       "category": "bomb",

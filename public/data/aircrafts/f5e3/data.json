@@ -1,7 +1,7 @@
 {
   "id": "f5e3",
-  "name": "f5e3",
-  "description": "f5e3",
+  "name": "Northrop F-5E-3 Tiger II",
+  "description": "The Northrop F-5 is a family of supersonic light fighter aircraft initially designed as a privately funded project in the late 1950s by Northrop Corporation. \r\n\r\nThere are two main models, the original F-5A and F-5B Freedom Fighter variants and the extensively updated F-5E and F-5F Tiger II variants.",
   "weapons": [
     {
       "category": "aam",
@@ -91,7 +91,7 @@
       "category": "bomb",
       "tags": [],
       "id": "cbu52b",
-      "name": "cbu52b"
+      "name": "CBU-52B"
     },
     {
       "category": "rocket",

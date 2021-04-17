@@ -1,14 +1,13 @@
 {
   "id": "guv8700w127w762",
-  "name": "guv8700w127w762",
-  "description": "guv8700w127w762",
+  "name": "GUV-8700 (2x7.62mm + 1x12.7mm)",
+  "description": "GUV-8700 Gun Pod with 2x GShG 7.62mm and 1x Yak-B 12.7mm",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gun Pod",
+    "Caliber": "7.62mm and 12.7mm",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {

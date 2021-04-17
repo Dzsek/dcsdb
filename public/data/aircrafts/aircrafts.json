@@ -40,9 +40,16 @@
     "name": "A-10C II "
   },
   {
-    "tags": [],
+    "tags": [
+      "modern",
+      "super",
+      "tucano",
+      "alx",
+      "turboprop",
+      "blue"
+    ],
     "id": "a29b",
-    "name": "a29b"
+    "name": "A-29B"
   },
   {
     "tags": [
@@ -60,9 +67,15 @@
     "name": "A-4E-C"
   },
   {
-    "tags": [],
+    "tags": [
+      "littlebird",
+      "free",
+      "mod",
+      "helicopter",
+      "modern"
+    ],
     "id": "ah6j",
-    "name": "ah6j"
+    "name": "AH-6J"
   },
   {
     "tags": [
@@ -90,9 +103,12 @@
     "name": "AV-8B N/A"
   },
   {
-    "tags": [],
+    "tags": [
+      "trainer",
+      "aviojet"
+    ],
     "id": "c101cc",
-    "name": "c101cc"
+    "name": "C-101CC"
   },
   {
     "tags": [
@@ -150,14 +166,23 @@
     "name": "F-16CM bl.50"
   },
   {
-    "tags": [],
+    "tags": [
+      "coldwar",
+      "fighter",
+      "blue"
+    ],
     "id": "f5e3",
-    "name": "f5e3"
+    "name": "F-5E-3"
   },
   {
-    "tags": [],
+    "tags": [
+      "vietnam",
+      "coldwar",
+      "blue",
+      "fighter"
+    ],
     "id": "f86f",
-    "name": "f86f"
+    "name": "F-86F"
   },
   {
     "tags": [
@@ -240,9 +265,15 @@
     "name": "mi8mtv2"
   },
   {
-    "tags": [],
+    "tags": [
+      "red",
+      "fagot",
+      "coldwar",
+      "fighter",
+      "vietnam"
+    ],
     "id": "mig15bis",
-    "name": "mig15bis"
+    "name": "MiG-15Bis"
   },
   {
     "tags": [],

@@ -1,14 +1,13 @@
 {
   "id": "guv8700wap30",
-  "name": "guv8700wap30",
-  "description": "guv8700wap30",
+  "name": "GUV-8700 (AP30)",
+  "description": "GUV-8700 Gun Pod with an AGS-17 30mm automatic grenade launcher.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gun Pod",
+    "Warhead": "30mm High Explosive Grenades",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {
