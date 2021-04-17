@@ -1,0 +1,15 @@
+{
+  "id": "rkl609",
+  "name": "RKL609 ECM",
+  "description": "Electronic countermeasures",
+  "data": {
+    "Type": "ECM Pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "j11a",
+      "name": "J-11A"
+    }
+  ]
+}

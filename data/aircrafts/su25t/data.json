@@ -1,7 +1,7 @@
 {
   "id": "su25t",
   "name": "Sukhoi Su-25T Grach",
-  "description": "The Sukhoi Su-25 Grach is a single-seat, twin-engine jet aircraft developed in the Soviet Union by Sukhoi. It was designed to provide close air support for the Soviet Ground Forces.\r\n\r\nThe Su-25T (Tankovy) is a dedicated antitank version, which has been combat-tested with notable success in Chechnya. It has all-weather and night attack capability. In addition to the full arsenal of weapons of the standard Su-25, the Su-25T can employ the KAB-500Kr TV-guided bomb, the semi-active laser-guided Kh-25ML as well as several anti-radiation missiles.\r\n\r\nIn DCS it is a low fidelity module (non clickable), and it is included in the FC3 pack.",
+  "description": "The Sukhoi Su-25 Grach is a single-seat, twin-engine jet aircraft developed in the Soviet Union by Sukhoi. It was designed to provide close air support for the Soviet Ground Forces.\r\n\r\nThe Su-25T (Tankovy) is a dedicated antitank version, which has been combat-tested with notable success in Chechnya. It has all-weather and night attack capability. In addition to the full arsenal of weapons of the standard Su-25, the Su-25T can employ the KAB-500Kr TV-guided bomb, the semi-active laser-guided Kh-25ML as well as several anti-radiation missiles.\r\n\r\nIn DCS it is a low fidelity module (non clickable), and is free for everyone.",
   "weapons": [
     {
       "category": "agm",
@@ -43,7 +43,7 @@
       "category": "fuel",
       "tags": [],
       "id": "fuel800l",
-      "name": "Fuel Tank 800L (Su-25T)"
+      "name": "Fuel Tank 800L (Su-25)"
     },
     {
       "category": "agm",

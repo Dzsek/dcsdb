@@ -14,6 +14,31 @@
       "instructions": [],
       "id": "su33",
       "name": "Su-33"
+    },
+    {
+      "instructions": [],
+      "id": "mig29a",
+      "name": "MiG-29A"
+    },
+    {
+      "instructions": [],
+      "id": "mig29s",
+      "name": "MiG-29S"
+    },
+    {
+      "instructions": [],
+      "id": "mig29g",
+      "name": "MiG-29G"
+    },
+    {
+      "instructions": [],
+      "id": "su27",
+      "name": "Su-27"
+    },
+    {
+      "instructions": [],
+      "id": "j11a",
+      "name": "J-11A"
     }
   ]
 }

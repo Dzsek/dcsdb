@@ -1,0 +1,25 @@
+{
+  "id": "fuel1150lmig29",
+  "name": "Fuel Tank 1150 liters (MiG-29)",
+  "description": "External Fuel Tank 1150 liters",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig29a",
+      "name": "MiG-29A"
+    },
+    {
+      "instructions": [],
+      "id": "mig29s",
+      "name": "MiG-29S"
+    },
+    {
+      "instructions": [],
+      "id": "mig29g",
+      "name": "MiG-29G"
+    }
+  ]
+}

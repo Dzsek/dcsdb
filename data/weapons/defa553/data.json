@@ -1,0 +1,19 @@
+{
+  "id": "defa553",
+  "name": "DEFA 553",
+  "description": "The DEFA cannon (Direction des Études et Fabrications d'Armement) is a family of widely used French-made aircraft revolver cannon firing standard 30 mm caliber NATO rounds.\r\n\r\nThe DEFA 553 is a gas-operated five-chamber revolver cannon using pyrotechnic cocking and electrical ignition. It fires a range of 30 mm ammunition of various types, and is capable of continuous fire or 0.5-second or 1-second bursts.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gun Pod",
+    "Warhead": "30mm NATO",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "c101cc",
+      "name": "C-101CC"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "seaeagle",
+  "name": "Sea Eagle",
+  "description": "The BAe Sea Eagle is a medium weight sea-skimming anti-ship missile designed and built by BAe Dynamics",
+  "data": {
+    "Range": "Long",
+    "Guidance": "INS, Active Radar",
+    "Type": "Anti-Ship Missile",
+    "Warhead": "230kg",
+    "Targets": "Ships"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "c101cc",
+      "name": "C-101CC"
+    }
+  ]
+}

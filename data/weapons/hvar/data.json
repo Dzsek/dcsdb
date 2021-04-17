@@ -1,0 +1,19 @@
+{
+  "id": "hvar",
+  "name": "HVAR",
+  "description": "The High Velocity Aircraft Rocket, or HVAR, also known by the nickname Holy Moses, was an American unguided rocket developed during World War II to attack targets on the ground from aircraft.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "7.5lb of TNT",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f86f",
+      "name": "F-86F"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "l39za",
+  "name": "Aero L-39ZA Albatros",
+  "description": "The Aero L-39 Albatros is a high-performance jet trainer developed in Czechoslovakia by Aero Vodochody.\r\n\r\nIt was designed during the 1960s as a replacement for the Aero L-29 Delfín as a principal training aircraft. It was the first trainer aircraft to be equipped with a turbofan powerplant. \r\n\r\nThe type was exported to a wide range of countries as a military trainer.\r\n\r\nThe L39ZA is a significantly upgraded L-39ZO for armed training and light attack, employing sturdier landing gear, a higher payload, 4 pylons, and notably provision for a GSh-23L 23-millimeter twin-barreled cannon attached in a conformal pod under the pilots' compartment.",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r60m",
+      "name": "R-60M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r3s",
+      "name": "R-3S"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab100",
+      "name": "FAB-100"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab250",
+      "name": "FAB-250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "p50t",
+      "name": "P-50T"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "sab100",
+      "name": "SAB-100"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "ofab100",
+      "name": "OFAB-100"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "pk3",
+      "name": "PK-3"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s5ko",
+      "name": "S-5KO"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel150l39",
+      "name": "Fuel Tank 150L (L-39)"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel350l39",
+      "name": "Fuel Tank 350L (L-39)"
+    }
+  ]
+}

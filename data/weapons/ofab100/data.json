@@ -1,0 +1,18 @@
+{
+  "id": "ofab100",
+  "name": "OFAB-100",
+  "description": "The OFAB-100 is a small bomb designed to engage lightly armored materiel and military industrial facilities, as well as manpower.",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "General Purpose Bomb",
+    "Warhead": "High Explosive",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "l39za",
+      "name": "L-39ZA"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "r77",
+  "name": "R-77",
+  "description": "The Vympel NPO R-77 missile (NATO reporting name: AA-12 Adder) is a Russian active radar homing beyond-visual-range air-to-air missile.\r\n\r\nIt is also known by its export designation RVV-AE. It is the Russian counterpart to the American AIM-120 AMRAAM missile.",
+  "data": {
+    "Range": "Medium",
+    "Guidance": "Active Radar",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "22.5kg High Explosive fragmentation",
+    "Targets": "Aircraft"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig29s",
+      "name": "MiG-29S"
+    },
+    {
+      "instructions": [],
+      "id": "j11a",
+      "name": "J-11A"
+    }
+  ]
+}

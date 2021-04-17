@@ -41,6 +41,18 @@
   },
   {
     "tags": [
+      "modern",
+      "super",
+      "tucano",
+      "alx",
+      "turboprop",
+      "blue"
+    ],
+    "id": "a29b",
+    "name": "A-29B"
+  },
+  {
+    "tags": [
       "free",
       "mod",
       "community",
@@ -48,10 +60,22 @@
       "carrier",
       "navy",
       "blue",
-      "attack"
+      "attack",
+      "coldwar"
     ],
     "id": "a4ec",
     "name": "A-4E-C"
+  },
+  {
+    "tags": [
+      "littlebird",
+      "free",
+      "mod",
+      "helicopter",
+      "modern"
+    ],
+    "id": "ah6j",
+    "name": "AH-6J"
   },
   {
     "tags": [
@@ -77,6 +101,14 @@
     ],
     "id": "av8b",
     "name": "AV-8B N/A"
+  },
+  {
+    "tags": [
+      "trainer",
+      "aviojet"
+    ],
+    "id": "c101cc",
+    "name": "C-101CC"
   },
   {
     "tags": [
@@ -135,6 +167,25 @@
   },
   {
     "tags": [
+      "coldwar",
+      "fighter",
+      "blue"
+    ],
+    "id": "f5e3",
+    "name": "F-5E-3"
+  },
+  {
+    "tags": [
+      "vietnam",
+      "coldwar",
+      "blue",
+      "fighter"
+    ],
+    "id": "f86f",
+    "name": "F-86F"
+  },
+  {
+    "tags": [
       "hornet",
       "navy",
       "carrier",
@@ -153,6 +204,20 @@
   },
   {
     "tags": [
+      "modern",
+      "shenyang",
+      "flanker",
+      "sukhoi",
+      "red",
+      "aa",
+      "a2a",
+      "fighter"
+    ],
+    "id": "j11a",
+    "name": "J-11A"
+  },
+  {
+    "tags": [
       "thunder",
       "jeff",
       "xiaolong",
@@ -168,6 +233,39 @@
     ],
     "id": "jf17",
     "name": "JF-17"
+  },
+  {
+    "tags": [
+      "blackshark",
+      "akula",
+      "hokum",
+      "alligator",
+      "helicopter",
+      "red",
+      "modern"
+    ],
+    "id": "ka50",
+    "name": "Ka-50"
+  },
+  {
+    "tags": [
+      "albatros",
+      "trainer",
+      "red"
+    ],
+    "id": "l39c",
+    "name": "L-39C"
+  },
+  {
+    "tags": [
+      "trainer",
+      "ag",
+      "a2g",
+      "albatros",
+      "red"
+    ],
+    "id": "l39za",
+    "name": "L-39ZA"
   },
   {
     "tags": [
@@ -190,6 +288,45 @@
   },
   {
     "tags": [
+      "hip",
+      "transport",
+      "red",
+      "mil",
+      "helicopter"
+    ],
+    "id": "mi8mtv2",
+    "name": "Mi-8 MTV2"
+  },
+  {
+    "tags": [
+      "red",
+      "fagot",
+      "coldwar",
+      "fighter",
+      "vietnam",
+      "aa",
+      "a2a"
+    ],
+    "id": "mig15bis",
+    "name": "MiG-15Bis"
+  },
+  {
+    "tags": [
+      "coldwar",
+      "mikoyan",
+      "gurevich",
+      "farmer",
+      "fighter",
+      "coldwar",
+      "red",
+      "aa",
+      "a2a"
+    ],
+    "id": "mig19p",
+    "name": "MiG-19P"
+  },
+  {
+    "tags": [
       "fishbed",
       "balalaika",
       "fighter",
@@ -198,10 +335,106 @@
       "pencil",
       "red",
       "mikoyan",
-      "gurevich"
+      "gurevich",
+      "aa",
+      "a2a"
     ],
     "id": "mig21bis",
     "name": "MiG-21bis"
+  },
+  {
+    "tags": [
+      "fighter",
+      "mikoyan",
+      "gurevich",
+      "red",
+      "fulcrum",
+      "coldwar",
+      "aa",
+      "a2a"
+    ],
+    "id": "mig29a",
+    "name": "MiG-29A"
+  },
+  {
+    "tags": [
+      "red",
+      "mikoyan",
+      "gurevich",
+      "fighter",
+      "aa",
+      "a2a",
+      "fulcrum",
+      "modern"
+    ],
+    "id": "mig29g",
+    "name": "MiG-29G"
+  },
+  {
+    "tags": [
+      "a2a",
+      "aa",
+      "fulcrum",
+      "fighter",
+      "red",
+      "mikoyan",
+      "gurevich",
+      "modern"
+    ],
+    "id": "mig29s",
+    "name": "MiG-29S"
+  },
+  {
+    "tags": [
+      "helicopter",
+      "gazelle",
+      "scout"
+    ],
+    "id": "sa342l",
+    "name": "SA324L"
+  },
+  {
+    "tags": [
+      "helicopter",
+      "gazelle",
+      "antitank",
+      "scout"
+    ],
+    "id": "sa342m",
+    "name": "SA324M"
+  },
+  {
+    "tags": [
+      "helicopter",
+      "gazelle",
+      "minigun",
+      "scout"
+    ],
+    "id": "sa342minigun",
+    "name": "SA324 Minigun"
+  },
+  {
+    "tags": [
+      "helicopter",
+      "scout",
+      "gazelle",
+      "antiair"
+    ],
+    "id": "sa342mistral",
+    "name": "SA324 Mistral"
+  },
+  {
+    "tags": [
+      "cas",
+      "grach",
+      "rook",
+      "frogfoot",
+      "red",
+      "lowfidelity",
+      "ag"
+    ],
+    "id": "su25",
+    "name": "Su-25"
   },
   {
     "tags": [
@@ -221,6 +454,19 @@
   },
   {
     "tags": [
+      "flanker",
+      "sukhoi",
+      "fighter",
+      "modern",
+      "red",
+      "aa",
+      "a2a"
+    ],
+    "id": "su27",
+    "name": "Su-27"
+  },
+  {
+    "tags": [
       "carrier",
       "flanker",
       "sukhoi",
@@ -229,5 +475,16 @@
     ],
     "id": "su33",
     "name": "Su-33"
+  },
+  {
+    "tags": [
+      "huey",
+      "iroquois",
+      "fortunateson",
+      "vietnam",
+      "blue"
+    ],
+    "id": "uh1h",
+    "name": "UH-1H"
   }
 ]

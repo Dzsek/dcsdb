@@ -1,0 +1,85 @@
+{
+  "id": "mi8mtv2",
+  "name": "Mil Mi-8 MTV2",
+  "description": "The Mil Mi-8 is a medium twin-turbine helicopter, originally designed by the Soviet Union, and now produced by Russia.\r\n\r\nIn addition to its most common role as a transport helicopter, the Mi-8 is also used as an airborne command post, armed gunship, and reconnaissance platform.",
+  "weapons": [
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "pkt762",
+      "name": "PKT 7.62mm"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "kord127",
+      "name": "Kord 12.7mm"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab100",
+      "name": "FAB-100"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab250",
+      "name": "FAB-250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "sab100",
+      "name": "SAB-100"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "guv8700wap30",
+      "name": "GUV-8700 (AP30)"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8kom",
+      "name": "S-8KOM"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8ofp2",
+      "name": "S-8OFP2"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8om",
+      "name": "S-8OM"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8tsm",
+      "name": "S-8TsM"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab500m62",
+      "name": "FAB-500 M-62"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "guv8700w127w762",
+      "name": "GUV-8700 (2x7.62mm + 1x12.7mm)"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "upk23250",
+      "name": "UPK-23-250"
+    }
+  ]
+}

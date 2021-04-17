@@ -1,0 +1,37 @@
+{
+  "id": "mig15bis",
+  "name": "Mikoyan-Gurevich MiG-15Bis",
+  "description": "The Mikoyan-Gurevich MiG-15 is a jet fighter aircraft developed by Mikoyan-Gurevich for the Soviet Union. \r\n\r\nThe MiG-15 was one of the first successful jet fighters to incorporate swept wings to achieve high transonic speeds.\r\n\r\nMiG-15bis is an improved single-seat fighter version.",
+  "weapons": [
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab100m",
+      "name": "FAB-100M"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab50",
+      "name": "FAB-50"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel300lmig15",
+      "name": "Fuel Tank 300L (MiG-15)"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel400lmig15",
+      "name": "Fuel Tank 400L (MiG-15)"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel600lmig15",
+      "name": "Fuel Tank 600L (MiG-15)"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fab50",
+  "name": "FAB-50",
+  "description": "The FAB-50 high-explosive bomb is designed to destroy military industrial facilities, railway junctions, light armored and soft-skin targets, manpower, military field fortifications",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "General Purpose Bomb",
+    "Warhead": "High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig19p",
+      "name": "MiG-19P"
+    },
+    {
+      "instructions": [],
+      "id": "mig15bis",
+      "name": "MiG-15Bis"
+    }
+  ]
+}

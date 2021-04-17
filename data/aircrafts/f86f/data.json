@@ -1,0 +1,49 @@
+{
+  "id": "f86f",
+  "name": "North American Aviation F-86F Sabre",
+  "description": "The North American F-86 Sabre, sometimes called the Sabrejet, is a transonic jet fighter aircraft. \r\n\r\nProduced by North American Aviation, the Sabre is best known as the United States' first swept-wing fighter that could counter the swept-wing Soviet MiG-15 in high-speed dogfights in the skies of the Korean War.",
+  "weapons": [
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel120galf86",
+      "name": "Fuel Tank 120 gallons (F-86F)"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel200galf86",
+      "name": "Fuel Tank 200 gallons (F-86F)"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "hvarsmoke",
+      "name": "HVAR (SMOKE)"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "hvar",
+      "name": "HVAR"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "anm64",
+      "name": "AN-M64"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "m117",
+      "name": "M117"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9b",
+      "name": "AIM-9B"
+    }
+  ]
+}

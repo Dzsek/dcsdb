@@ -1,0 +1,24 @@
+{
+  "id": "m134",
+  "name": "M134 Minigun",
+  "description": "The M134 Minigun is an American 7.62×51mm NATO six-barrel rotary machine gun with a high rate of fire.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gun",
+    "Caliber": "7.62mm",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ah6j",
+      "name": "AH-6J"
+    },
+    {
+      "instructions": [],
+      "id": "uh1h",
+      "name": "UH-1H"
+    }
+  ]
+}

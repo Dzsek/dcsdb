@@ -1,0 +1,15 @@
+{
+  "id": "fuel150galf5",
+  "name": "Fuel Tank 150 gallons (F-5E-3)",
+  "description": "External Fuel Tank 150 gallons",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f5e3",
+      "name": "F-5E-3"
+    }
+  ]
+}

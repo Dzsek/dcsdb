@@ -14,6 +14,16 @@
       "instructions": [],
       "id": "mig21bis",
       "name": "MiG-21bis"
+    },
+    {
+      "instructions": [],
+      "id": "l39c",
+      "name": "L-39C"
+    },
+    {
+      "instructions": [],
+      "id": "l39za",
+      "name": "L-39ZA"
     }
   ]
 }

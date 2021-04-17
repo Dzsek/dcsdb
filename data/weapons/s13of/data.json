@@ -24,6 +24,26 @@
       "instructions": [],
       "id": "mi24p",
       "name": "mi24p"
+    },
+    {
+      "instructions": [],
+      "id": "ka50",
+      "name": "Ka-50"
+    },
+    {
+      "instructions": [],
+      "id": "su27",
+      "name": "Su-27"
+    },
+    {
+      "instructions": [],
+      "id": "su25",
+      "name": "Su-25"
+    },
+    {
+      "instructions": [],
+      "id": "j11a",
+      "name": "J-11A"
     }
   ]
 }

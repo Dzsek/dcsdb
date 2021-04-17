@@ -1,0 +1,25 @@
+{
+  "id": "sa342mistral",
+  "name": "Aérospatiale SA324 Mistral Gazelle",
+  "description": "The Aérospatiale Gazelle is a French five-seat helicopter, commonly used for light transport, scouting and light attack duties.\r\n\r\nThe Mistral version is equipped with anti-air missile launchers.",
+  "weapons": [
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sa342irdeflector",
+      "name": "IR Deflector (SA342)"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "sa342sandfilter",
+      "name": "Sand Filter (SA342)"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "mistral",
+      "name": "Mistral"
+    }
+  ]
+}

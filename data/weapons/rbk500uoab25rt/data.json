@@ -18,6 +18,21 @@
       "instructions": [],
       "id": "su33",
       "name": "Su-33"
+    },
+    {
+      "instructions": [],
+      "id": "su27",
+      "name": "Su-27"
+    },
+    {
+      "instructions": [],
+      "id": "su25",
+      "name": "Su-25"
+    },
+    {
+      "instructions": [],
+      "id": "j11a",
+      "name": "J-11A"
     }
   ]
 }

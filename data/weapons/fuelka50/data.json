@@ -1,0 +1,15 @@
+{
+  "id": "fuelka50",
+  "name": "Fuel Tank (KA-50)",
+  "description": "External Fuel Tank",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ka50",
+      "name": "Ka-50"
+    }
+  ]
+}

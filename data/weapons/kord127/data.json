@@ -1,0 +1,19 @@
+{
+  "id": "kord127",
+  "name": "Kord 12.7mm",
+  "description": "The Kord-12.7 mm heavy machine gun is a Russian design that entered service in 1998",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gun",
+    "Caliber": "12.7mm",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mi8mtv2",
+      "name": "Mi-8 MTV2"
+    }
+  ]
+}

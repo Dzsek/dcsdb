@@ -1,0 +1,85 @@
+{
+  "id": "ka50",
+  "name": "Kamov Ka-50",
+  "description": "The Kamov Ka-50 \"Black Shark\" is a Russian single-seat attack helicopter with the distinctive coaxial rotor system of the Kamov design bureau. \r\n\r\nIt was designed in the 1980s and adopted for service in the Russian army in 1995. It is manufactured by the Progress company in Arsenyev. It is used as a heavily armed scout helicopter.",
+  "weapons": [
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "9a4172vikhr",
+      "name": "9A4172 Vikhr"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "kh25ml",
+      "name": "Kh-25ML"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab250",
+      "name": "FAB-250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab500m62",
+      "name": "FAB-500 M-62"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "kmgu2ao25rt",
+      "name": "KMGU-2 AO-2.5RT"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "kmgu2ptab25ko",
+      "name": "KMGU-2 PTAB-2.5KO"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuelka50",
+      "name": "Fuel Tank (KA-50)"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "upk23250",
+      "name": "UPK-23-250"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s13of",
+      "name": "S-13 OF"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8kom",
+      "name": "S-8KOM"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8ofp2",
+      "name": "S-8OFP2"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8om",
+      "name": "S-8OM"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8tsm",
+      "name": "S-8TsM"
+    }
+  ]
+}

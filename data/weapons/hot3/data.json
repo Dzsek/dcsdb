@@ -1,0 +1,19 @@
+{
+  "id": "hot3",
+  "name": "HOT3",
+  "description": "The HOT is a long-range anti-tank missile system developed originally as an effort to meet a joint German-French Army requirement.\r\n\r\nThe HOT3 variant has a slightly larger warhead with better armor penetration than the earlier versions.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Wire",
+    "Type": "Air-to-Ground Missile",
+    "Warhead": "7kg tandem High Explosive Anti Tank",
+    "Targets": "Light Armor, Tanks"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "sa342m",
+      "name": "SA324M"
+    }
+  ]
+}

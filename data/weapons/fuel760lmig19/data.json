@@ -1,0 +1,15 @@
+{
+  "id": "fuel760lmig19",
+  "name": "Fuel Tank 760 liters (MiG-19)",
+  "description": "External Fuel Tank 760 liters",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mig19p",
+      "name": "MiG-19P"
+    }
+  ]
+}

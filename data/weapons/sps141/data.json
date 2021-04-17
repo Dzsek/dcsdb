@@ -1,0 +1,15 @@
+{
+  "id": "sps141",
+  "name": "SPS-141",
+  "description": "ECM pod that provides radar jamming capability.",
+  "data": {
+    "Type": "ECM Pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25",
+      "name": "Su-25"
+    }
+  ]
+}

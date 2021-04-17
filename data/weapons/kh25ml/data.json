@@ -14,6 +14,16 @@
       "instructions": [],
       "id": "su25t",
       "name": "Su-25T"
+    },
+    {
+      "instructions": [],
+      "id": "ka50",
+      "name": "Ka-50"
+    },
+    {
+      "instructions": [],
+      "id": "su25",
+      "name": "Su-25"
     }
   ]
 }

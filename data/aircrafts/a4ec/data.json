@@ -16,12 +16,6 @@
       "name": "AIM-9P5"
     },
     {
-      "category": "aam",
-      "tags": [],
-      "id": "gar8",
-      "name": "GAR-8"
-    },
-    {
       "category": "agm",
       "tags": [],
       "id": "agm45a",
@@ -218,6 +212,12 @@
       "tags": [],
       "id": "agm62",
       "name": "AGM-62 Walleye II"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9b",
+      "name": "AIM-9B"
     }
   ]
 }

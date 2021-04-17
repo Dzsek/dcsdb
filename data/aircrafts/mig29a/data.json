@@ -1,0 +1,139 @@
+{
+  "id": "mig29a",
+  "name": "Mikoyan MiG-29A",
+  "description": "The Mikoyan MiG-29 is a twin-engine jet fighter aircraft designed in the Soviet Union. \r\n\r\nDeveloped by the Mikoyan design bureau as an air superiority fighter during the 1970s, the MiG-29, along with the larger Sukhoi Su-27, was developed to counter new U.S. fighters such as the McDonnell Douglas F-15 Eagle and the General Dynamics F-16 Fighting Falcon.\r\n\r\nThe MiG-29A is the initial production version.\r\n\r\nIn DCS it is a low fidelity module (non clickable), and it is included in the FC3 pack.",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r60m",
+      "name": "R-60M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r73",
+      "name": "R-73"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "betab500",
+      "name": "BetAB-500"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "betab500shp",
+      "name": "BetAB-500 Shp"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab250",
+      "name": "FAB-250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "fab500m62",
+      "name": "FAB-500 M-62"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "kmgu2ao25rt",
+      "name": "KMGU-2 AO-2.5RT"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "kmgu2ptab25ko",
+      "name": "KMGU-2 PTAB-2.5KO"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk250ptab25m",
+      "name": "RBK-250 PTAB-2.5M"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk250275ao1sch",
+      "name": "RBK-250-275 AO-1SCh"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk500ptab1m",
+      "name": "RBK-500 PTAB-1M"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk500255ptab105",
+      "name": "RBK-500-255 PTAB-10.5"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8kom",
+      "name": "S-8KOM"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8ofp2",
+      "name": "S-8OFP2"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s8tsm",
+      "name": "S-8TsM"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "s24b",
+      "name": "S-24B"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r27er",
+      "name": "R-27ER"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r27et",
+      "name": "R-27ET"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r27r",
+      "name": "R-27R"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r27t",
+      "name": "R-27T"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel1150lmig29",
+      "name": "Fuel Tank 1150L (MiG-29)"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel1400",
+      "name": "Fuel Tank 1400L"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "uh1h",
+  "name": "Bell UH-1H Iroquois",
+  "description": "The Bell UH-1 Iroquois (nicknamed \"Huey\") is a utility military helicopter powered by a single turboshaft engine, with two-bladed main and tail rotors.\r\n\r\nThe UH-1H variant had an improved Lycoming T53-L-13 engine of 1,400 shp (1,000 kW).",
+  "weapons": [
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "m134",
+      "name": "M134"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m151he",
+      "name": "2.75' rocket M151 (HE)"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m156wp",
+      "name": "2.75' rocket M156 (WP)"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m257illum",
+      "name": "2.75' rocket M257 Illumination"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m274smoke",
+      "name": "2.75' rocket M274 Smoke"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk1practice",
+      "name": "2.75' rocket Mk1 Practice"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk5he",
+      "name": "2.75' rocket MK5 (HE)"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "m60",
+      "name": "M60"
+    }
+  ]
+}
