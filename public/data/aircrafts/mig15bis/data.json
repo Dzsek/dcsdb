@@ -7,31 +7,31 @@
       "category": "bomb",
       "tags": [],
       "id": "fab100m",
-      "name": "fab100m"
+      "name": "FAB-100M"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "fab50",
-      "name": "fab50"
+      "name": "FAB-50"
     },
     {
       "category": "fuel",
       "tags": [],
       "id": "fuel300lmig15",
-      "name": "fuel300lmig15"
+      "name": "Fuel Tank 300L (MiG-15)"
     },
     {
       "category": "fuel",
       "tags": [],
       "id": "fuel400lmig15",
-      "name": "fuel400lmig15"
+      "name": "Fuel Tank 400L (MiG-15)"
     },
     {
       "category": "fuel",
       "tags": [],
       "id": "fuel600lmig15",
-      "name": "fuel600lmig15"
+      "name": "Fuel Tank 600L (MiG-15)"
     }
   ]
 }

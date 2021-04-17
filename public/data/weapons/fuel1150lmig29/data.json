@@ -1,14 +1,9 @@
 {
   "id": "fuel1150lmig29",
-  "name": "fuel1150lmig29",
-  "description": "fuel1150lmig29",
+  "name": "Fuel Tank 1150 liters (MiG-29)",
+  "description": "External Fuel Tank 1150 liters",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {

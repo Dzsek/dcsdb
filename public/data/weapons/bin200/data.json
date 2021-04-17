@@ -1,14 +1,12 @@
 {
   "id": "bin200",
-  "name": "bin200",
-  "description": "bin200",
+  "name": "BIN-200",
+  "description": "Spanish incendiary bomb",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Incendiary Bomb",
+    "Warhead": "Incendiary",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {

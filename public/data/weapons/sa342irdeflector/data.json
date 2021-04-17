@@ -1,14 +1,9 @@
 {
   "id": "sa342irdeflector",
-  "name": "sa342irdeflector",
-  "description": "sa342irdeflector",
+  "name": "IR Deflector (SA342)",
+  "description": "Used to reduce the IR signature of the engine exaust.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Equipment"
   },
   "aircraft": [
     {

@@ -25,7 +25,7 @@
       "category": "aam",
       "tags": [],
       "id": "aim9b",
-      "name": "aim9b"
+      "name": "AIM-9B"
     },
     {
       "category": "pod",
@@ -169,13 +169,13 @@
       "category": "fuel",
       "tags": [],
       "id": "fuel150galf5",
-      "name": "fuel150galf5"
+      "name": "Fuel Tank 150 gallons (F-5E-3)"
     },
     {
       "category": "fuel",
       "tags": [],
       "id": "fuel275galf5",
-      "name": "fuel275galf5"
+      "name": "Fuel Tank 275 gallons (F-5E-3)"
     },
     {
       "category": "pod",

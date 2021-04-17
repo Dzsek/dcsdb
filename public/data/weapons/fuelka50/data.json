@@ -1,14 +1,9 @@
 {
   "id": "fuelka50",
-  "name": "fuelka50",
-  "description": "fuelka50",
+  "name": "Fuel Tank (KA-50)",
+  "description": "External Fuel Tank",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {

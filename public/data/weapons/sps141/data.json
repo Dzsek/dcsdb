@@ -1,14 +1,9 @@
 {
   "id": "sps141",
-  "name": "sps141",
-  "description": "sps141",
+  "name": "SPS-141",
+  "description": "ECM pod that provides radar jamming capability.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "ECM Pod"
   },
   "aircraft": [
     {

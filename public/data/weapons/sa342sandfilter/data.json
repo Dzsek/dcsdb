@@ -1,14 +1,9 @@
 {
   "id": "sa342sandfilter",
-  "name": "sa342sandfilter",
-  "description": "sa342sandfilter",
+  "name": "Sand Filter (SA342)",
+  "description": "Sand filter for the engine air intake",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Equipment"
   },
   "aircraft": [
     {

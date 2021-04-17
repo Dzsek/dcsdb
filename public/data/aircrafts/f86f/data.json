@@ -7,13 +7,13 @@
       "category": "fuel",
       "tags": [],
       "id": "fuel120galf86",
-      "name": "fuel120galf86"
+      "name": "Fuel Tank 120 gallons (F-86F)"
     },
     {
       "category": "fuel",
       "tags": [],
       "id": "fuel200galf86",
-      "name": "fuel200galf86"
+      "name": "Fuel Tank 200 gallons (F-86F)"
     },
     {
       "category": "pod",
@@ -43,7 +43,7 @@
       "category": "aam",
       "tags": [],
       "id": "aim9b",
-      "name": "aim9b"
+      "name": "AIM-9B"
     }
   ]
 }

@@ -336,9 +336,17 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "infrared",
+      "aircraft"
+    ],
     "id": "aim9b",
-    "name": "aim9b"
+    "name": "AIM-9B"
   },
   {
     "category": "aam",
@@ -714,9 +722,13 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "incendiary",
+      "dumb",
+      "lightarmor"
+    ],
     "id": "bin200",
-    "name": "bin200"
+    "name": "BIN-200"
   },
   {
     "category": "agm",
@@ -780,15 +792,23 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "tank",
+      "dumb"
+    ],
     "id": "br250",
-    "name": "br250"
+    "name": "BR-250"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "lightarmor",
+      "tank",
+      "dumb"
+    ],
     "id": "br500",
-    "name": "br500"
+    "name": "BR-500"
   },
   {
     "category": "rocket",
@@ -1001,9 +1021,14 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
     "id": "fab100m",
-    "name": "fab100m"
+    "name": "FAB-100M"
   },
   {
     "category": "bomb",
@@ -1031,9 +1056,14 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
     "id": "fab50",
-    "name": "fab50"
+    "name": "FAB-50"
   },
   {
     "category": "bomb",
@@ -1096,19 +1126,19 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel1150lmig29",
-    "name": "fuel1150lmig29"
+    "name": "Fuel Tank 1150L (MiG-29)"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel120galf86",
-    "name": "fuel120galf86"
+    "name": "Fuel Tank 120 gallons (F-86F)"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel1400",
-    "name": "fuel1400"
+    "name": "Fuel Tank 1400L"
   },
   {
     "category": "fuel",
@@ -1120,25 +1150,25 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel150galf5",
-    "name": "fuel150galf5"
+    "name": "Fuel Tank 150 gallons (F-5E-3)"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel150l39",
-    "name": "fuel150l39"
+    "name": "Fuel Tank 150L (L-39)"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel200galf86",
-    "name": "fuel200galf86"
+    "name": "Fuel Tank 200 gallons (F-86F)"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel275galf5",
-    "name": "fuel275galf5"
+    "name": "Fuel Tank 275 gallons (F-5E-3)"
   },
   {
     "category": "fuel",
@@ -1150,13 +1180,13 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel300lmig15",
-    "name": "fuel300lmig15"
+    "name": "Fuel Tank 300L (MiG-15)"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuel350l39",
-    "name": "fuel350l39"
+    "name": "Fuel Tank 350L (L-39)"
   },
   {
     "category": "fuel",
@@ -1174,7 +1204,7 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel400lmig15",
-    "name": "fuel400lmig15"
+    "name": "Fuel Tank 400L (MiG-15)"
   },
   {
     "category": "fuel",
@@ -1186,7 +1216,7 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel600lmig15",
-    "name": "fuel600lmig15"
+    "name": "Fuel Tank 600L (MiG-15)"
   },
   {
     "category": "fuel",
@@ -1198,7 +1228,7 @@
     "category": "fuel",
     "tags": [],
     "id": "fuel760lmig19",
-    "name": "fuel760lmig19"
+    "name": "Fuel Tank 760L (MiG-19)"
   },
   {
     "category": "fuel",
@@ -1210,13 +1240,13 @@
     "category": "fuel",
     "tags": [],
     "id": "fuela29b",
-    "name": "fuela29b"
+    "name": "Fuel Tank (A-29B)"
   },
   {
     "category": "fuel",
     "tags": [],
     "id": "fuelka50",
-    "name": "fuelka50"
+    "name": "Fuel Tank (KA-50)"
   },
   {
     "category": "aam",
@@ -2205,9 +2235,16 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "active",
+      "radar",
+      "fox3",
+      "vympel",
+      "adder",
+      "aircraft"
+    ],
     "id": "r77",
-    "name": "r77"
+    "name": "R-77"
   },
   {
     "category": "agm",
@@ -2374,9 +2411,12 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "electronic",
+      "countermeasure"
+    ],
     "id": "rkl609",
-    "name": "rkl609"
+    "name": "RKL609 ECM"
   },
   {
     "category": "bomb",
@@ -2525,15 +2565,20 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "deflector"
+    ],
     "id": "sa342irdeflector",
-    "name": "sa342irdeflector"
+    "name": "IR Deflector (SA342)"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "sand",
+      "filter"
+    ],
     "id": "sa342sandfilter",
-    "name": "sa342sandfilter"
+    "name": "Sand Filter (SA342)"
   },
   {
     "category": "bomb",
@@ -2564,15 +2609,23 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank"
+    ],
     "id": "sneb68eap",
-    "name": "sneb68eap"
+    "name": "SNEB 68mm EAP"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "smoke",
+      "practice",
+      "dumb"
+    ],
     "id": "sneb68wp",
-    "name": "sneb68wp"
+    "name": "SNEB 68mm WP"
   },
   {
     "category": "pod",
@@ -2595,9 +2648,11 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "ecm"
+    ],
     "id": "sps141",
-    "name": "sps141"
+    "name": "SPS-141"
   },
   {
     "category": "pod",

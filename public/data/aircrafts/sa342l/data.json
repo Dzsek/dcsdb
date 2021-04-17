@@ -7,25 +7,25 @@
       "category": "pod",
       "tags": [],
       "id": "sa342irdeflector",
-      "name": "sa342irdeflector"
+      "name": "IR Deflector (SA342)"
     },
     {
       "category": "pod",
       "tags": [],
       "id": "sa342sandfilter",
-      "name": "sa342sandfilter"
+      "name": "Sand Filter (SA342)"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "sneb68eap",
-      "name": "sneb68eap"
+      "name": "SNEB 68mm EAP"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "sneb68wp",
-      "name": "sneb68wp"
+      "name": "SNEB 68mm WP"
     }
   ]
 }

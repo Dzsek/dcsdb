@@ -1,14 +1,9 @@
 {
   "id": "fuel120galf86",
-  "name": "fuel120galf86",
-  "description": "fuel120galf86",
+  "name": "Fuel Tank 120 gallons (F-86F)",
+  "description": "External Fuel Tank 120 gallons",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {

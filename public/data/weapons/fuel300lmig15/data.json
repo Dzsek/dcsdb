@@ -1,14 +1,9 @@
 {
   "id": "fuel300lmig15",
-  "name": "fuel300lmig15",
-  "description": "fuel300lmig15",
+  "name": "Fuel Tank 300 liters (MiG-15)",
+  "description": "External Fuel Tank 300 liters",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "Fuel"
   },
   "aircraft": [
     {
