@@ -1,7 +1,7 @@
 {
   "id": "sa342minigun",
-  "name": "sa342minigun",
-  "description": "sa342minigun",
+  "name": "Aérospatiale SA324 Minigun Gazelle",
+  "description": "The Aérospatiale Gazelle is a French five-seat helicopter, commonly used for light transport, scouting and light attack duties.\r\n\r\nThe Minigun version has a gunner sitting in the back.",
   "weapons": [
     {
       "category": "pod",

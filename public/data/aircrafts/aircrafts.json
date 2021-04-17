@@ -276,9 +276,17 @@
     "name": "MiG-15Bis"
   },
   {
-    "tags": [],
+    "tags": [
+      "coldwar",
+      "mikoyan",
+      "gurevich",
+      "farmer",
+      "fighter",
+      "coldwar",
+      "red"
+    ],
     "id": "mig19p",
-    "name": "mig19p"
+    "name": "MiG-19P"
   },
   {
     "tags": [
@@ -311,24 +319,43 @@
     "name": "mig29s"
   },
   {
-    "tags": [],
+    "tags": [
+      "helicopter",
+      "gazelle",
+      "scout"
+    ],
     "id": "sa342l",
-    "name": "sa342l"
+    "name": "SA324L"
   },
   {
-    "tags": [],
+    "tags": [
+      "helicopter",
+      "gazelle",
+      "antitank",
+      "scout"
+    ],
     "id": "sa342m",
-    "name": "sa342m"
+    "name": "SA324M"
   },
   {
-    "tags": [],
+    "tags": [
+      "helicopter",
+      "gazelle",
+      "minigun",
+      "scout"
+    ],
     "id": "sa342minigun",
-    "name": "sa342minigun"
+    "name": "SA324 Minigun"
   },
   {
-    "tags": [],
+    "tags": [
+      "helicopter",
+      "scout",
+      "gazelle",
+      "antiair"
+    ],
     "id": "sa342mistral",
-    "name": "sa342mistral"
+    "name": "SA324 Mistral"
   },
   {
     "tags": [],

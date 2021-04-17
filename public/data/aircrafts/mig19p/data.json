@@ -1,7 +1,7 @@
 {
   "id": "mig19p",
-  "name": "mig19p",
-  "description": "mig19p",
+  "name": "Mikoyan-Gurevich MiG-19P",
+  "description": "The Mikoyan-Gurevich MiG-19 is a Soviet second generation, single-seat, twinjet fighter aircraft, the world's first mass-produced supersonic aircraft. \r\n\r\nIt was the first Soviet production aircraft capable of supersonic speeds in level flight.\r\n\r\nThe P version equipped with RP-1 Izumrud radar in the nose and armed with two 23 mm NR-23 cannons in the wings.",
   "weapons": [
     {
       "category": "aam",

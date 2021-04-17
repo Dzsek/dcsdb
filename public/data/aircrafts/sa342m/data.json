@@ -1,7 +1,7 @@
 {
   "id": "sa342m",
-  "name": "sa342m",
-  "description": "sa342m",
+  "name": "Aérospatiale SA324M Gazelle",
+  "description": "The Aérospatiale Gazelle is a French five-seat helicopter, commonly used for light transport, scouting and light attack duties.\r\n\r\nThe M version is equipped with 4 HOT3 anti-tank missiles.",
   "weapons": [
     {
       "category": "pod",
