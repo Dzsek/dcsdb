@@ -3,9 +3,12 @@ import './WeaponPage.scss';
 import WeaponList from './WeaponList';
 import SearchBar from '../Common/SearchBar';
 import {WeaponSearchTerms, RegisterPage} from '../../helper/Helper';
+import History from '../../helper/History';
 
 class WeaponPage extends React.Component
 {
+    _history = new History();
+    
     constructor(props)
     {
         super(props);
@@ -20,6 +23,16 @@ class WeaponPage extends React.Component
     componentDidMount(){
         document.title = "DCSDB - Weapons";
         RegisterPage();
+
+        const last = this._history.getLast();
+        if(last)
+        {
+            if(last.url === window.location.hash)
+            {
+                const lastHist = this._history.popHistory();
+                this.setState({searchText: lastHist.obj.search});
+            }
+        }
     }
 
     handleSearchTextChanged(value)

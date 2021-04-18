@@ -8,6 +8,7 @@ import {hideunfinished, RegisterPage} from '../../helper/Helper';
 
 class WeaponView extends React.Component
 {
+
     constructor(props)
     {
         super(props);
@@ -137,7 +138,7 @@ class WeaponView extends React.Component
                     <span>Compatible platforms</span>
                     <div>
                         {
-                            weapon.aircraft ? weapon.aircraft.filter(f=> hideunfinished ? f.id!==f.name : true).map(plane=><AircraftCard key={plane.id}  plane={plane} weaponid={id} />) : "Data unavailable"
+                            weapon.aircraft ? weapon.aircraft.filter(f=> hideunfinished ? f.id!==f.name : true).map(plane=><AircraftCard key={plane.id}  plane={plane} weaponid={id}/>) : "Data unavailable"
                         }
                     </div>
                 </div>

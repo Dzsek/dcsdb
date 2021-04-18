@@ -3,9 +3,12 @@ import './AircraftPage.scss';
 import AircraftList from './AircraftList';
 import SearchBar from '../Common/SearchBar';
 import {AircraftSearchTerms, RegisterPage} from '../../helper/Helper';
+import History from '../../helper/History';
 
 class AircraftPage extends React.Component
 {
+    _history = new History();
+
     constructor(props)
     {
         super(props);
@@ -20,6 +23,16 @@ class AircraftPage extends React.Component
     componentDidMount(){
         document.title = "DCSDB - Aircraft";
         RegisterPage();
+        
+        const last = this._history.getLast();
+        if(last)
+        {
+            if(last.url === window.location.hash)
+            {
+                const lastHist = this._history.popHistory();
+                this.setState({searchText: lastHist.obj.search});
+            }
+        }
     }
 
     handleSearchTextChanged(value)

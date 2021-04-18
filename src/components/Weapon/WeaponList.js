@@ -3,13 +3,19 @@ import WeaponCard from './WeaponCard';
 import './WeaponList.scss';
 import {OptimizeWeaponTags, FilterByTags, hideunfinished} from '../../helper/Helper';
 import DataAccess from '../../dataaccess/DataAccess';
+import History from '../../helper/History';
 
 class WeaponList extends React.Component{
+
+    _history = new History();
+    
     constructor(props){
         super(props);
         this.state={
             weapons:[]
         };
+
+        this.cardClicked = this.cardClicked.bind(this);
     }
 
     componentDidMount(){
@@ -27,6 +33,11 @@ class WeaponList extends React.Component{
                 })
             }
         )
+    }
+    
+    cardClicked(weaponid)
+    {
+        this._history.pushHistory(window.location.hash, {search: this.props.filter});
     }
 
     render(){
@@ -52,7 +63,7 @@ class WeaponList extends React.Component{
                         //.slice(0,30)
                         .map(weapon=>
                         (
-                            <WeaponCard key={weapon.id}  weapon={weapon}/>
+                            <WeaponCard key={weapon.id}  weapon={weapon} clickCallback={this.cardClicked}/>
                         )
                     )
                 }

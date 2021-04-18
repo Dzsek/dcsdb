@@ -6,9 +6,12 @@ import WeaponCard from '../Weapon/WeaponCard';
 import SearchBar from '../Common/SearchBar';
 import {OptimizeWeaponTags, FilterByTags, WeaponSearchTerms, RegisterPage} from "../../helper/Helper";
 import DataAccess from '../../dataaccess/DataAccess';
+import History from '../../helper/History';
 
 class AircraftView extends React.Component
 {
+    _history = new History();
+
     constructor(props)
     {
         super(props);
@@ -21,10 +24,21 @@ class AircraftView extends React.Component
 
         this.loadAlternate = this.loadAlternate.bind(this);
         this.handleSearchTextChanged = this.handleSearchTextChanged.bind(this);
+        this.cardClicked = this.cardClicked.bind(this);
     }
 
     componentDidMount()
     {
+        const last = this._history.getLast();
+        if(last)
+        {
+            if(last.url === window.location.hash)
+            {
+                const lastHist = this._history.popHistory();
+                this.setState({searchText: lastHist.obj.search});
+            }
+        }
+
         const da = new DataAccess();
         let {params} = this.props.match;
         this.setState({id:params.id});
@@ -71,6 +85,11 @@ class AircraftView extends React.Component
         }
     }
 
+    cardClicked(weapon)
+    {
+        this._history.pushHistory(window.location.hash, {search: this.state.searchText});
+    }
+
     render()
     {
         const query = new URLSearchParams(this.props.location.search);
@@ -104,7 +123,7 @@ class AircraftView extends React.Component
                                     
                                     if(res && res.length)
                                     {
-                                        results.push(<WeaponGroup key={groupid} id={groupid} group={res} aircraftid={id}/>);
+                                        results.push(<WeaponGroup cardClicked={this.cardClicked} key={groupid} id={groupid} group={res} aircraftid={id}/>);
                                     }
                                 }
 
@@ -143,6 +162,11 @@ class WeaponGroup extends React.Component
         this.setState({isOpen: !isOpen});
     }
 
+    cardClicked(weapon)
+    {
+        this.props.cardClicked(weapon);
+    }
+
     render()
     {
         let {id, group, aircraftid} = this.props;
@@ -176,7 +200,7 @@ class WeaponGroup extends React.Component
                 <div className={"WeaponGroup-root-content " + (!isOpen ? "collapsed" : "")}>
                     {
                         isOpen ? group.sort((a,b)=> a.name-b.name).map(weapon=>(
-                            <WeaponCard key={weapon.id} weapon={weapon} aircraftid={aircraftid}/>
+                            <WeaponCard key={weapon.id} weapon={weapon} aircraftid={aircraftid} clickCallback={(x)=>this.cardClicked(x)}/>
                             ))
                             :
                             ""

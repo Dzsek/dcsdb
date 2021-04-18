@@ -3,13 +3,23 @@ import AircraftCard from './AircraftCard';
 import './AircraftList.scss';
 import {FilterByTags, hideunfinished} from '../../helper/Helper';
 import DataAccess from '../../dataaccess/DataAccess';
+import History from '../../helper/History';
 
 class AircraftList extends React.Component{
+    _history = new History();
+
     constructor(props){
         super(props);
         this.state={
             aircrafts:[]
         };
+
+        this.cardClicked = this.cardClicked.bind(this);
+    }
+
+    cardClicked(planeid)
+    {
+        this._history.pushHistory(window.location.hash, {search: this.props.filter});
     }
 
     componentDidMount(){
@@ -58,7 +68,7 @@ class AircraftList extends React.Component{
                         .sort((a,b)=>a.name-b.name)
                         .map(plane=>
                         (
-                            <AircraftCard key={plane.id}  plane={plane}/>
+                            <AircraftCard key={plane.id}  plane={plane} clickCallback={this.cardClicked}/>
                         )
                     )
                 }
