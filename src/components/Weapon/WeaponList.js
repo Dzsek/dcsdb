@@ -33,11 +33,20 @@ class WeaponList extends React.Component{
                 })
             }
         )
+        .then(()=>
+            {
+                if(window.scrollToThis)
+                {
+                    window.scrollTo(0,window.scrollToThis);
+                    delete(window.scrollToThis);
+                }
+            }
+        )
     }
     
     cardClicked(weaponid)
     {
-        this._history.pushHistory(window.location.hash, {search: this.props.filter});
+        this._history.pushHistory(window.location.hash, {search: this.props.filter, scroll: window.scrollY});
     }
 
     render(){

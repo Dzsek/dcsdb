@@ -8,10 +8,10 @@ class BackButton extends React.Component
     {
         let {returnTo, className} = this.props;
         return (
-            <div className={className}>
-                <Link to={returnTo}>
+            <div className={className} onClick={(ev)=> window.history.back()}>
+                {/* <Link to={returnTo}> */}
                     <span className="material-icons backButton">keyboard_arrow_left</span>
-                </Link>
+                {/* </Link> */}
             </div>
         )
     }

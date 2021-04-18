@@ -31,6 +31,7 @@ class WeaponPage extends React.Component
             {
                 const lastHist = this._history.popHistory();
                 this.setState({searchText: lastHist.obj.search});
+                window.scrollToThis = lastHist.obj.scroll;
             }
         }
     }

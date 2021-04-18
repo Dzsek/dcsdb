@@ -36,6 +36,7 @@ class AircraftView extends React.Component
             {
                 const lastHist = this._history.popHistory();
                 this.setState({searchText: lastHist.obj.search});
+                window.scrollToThis = lastHist.obj.scroll;
             }
         }
 
@@ -67,6 +68,13 @@ class AircraftView extends React.Component
                     this.setState({
                         aircraft: aircraftdata
                     })
+                })
+                .then(()=>{
+                    if(window.scrollToThis)
+                    {
+                        window.scrollTo(0,window.scrollToThis);
+                        delete(window.scrollToThis);
+                    }
                 });
             }
         )
@@ -87,7 +95,7 @@ class AircraftView extends React.Component
 
     cardClicked(weapon)
     {
-        this._history.pushHistory(window.location.hash, {search: this.state.searchText});
+        this._history.pushHistory(window.location.hash, {search: this.state.searchText, scroll: window.scrollY});
     }
 
     render()
