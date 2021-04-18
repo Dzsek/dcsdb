@@ -394,7 +394,8 @@
     "tags": [
       "helicopter",
       "gazelle",
-      "scout"
+      "scout",
+      "blue"
     ],
     "id": "sa342l",
     "name": "SA324L"
@@ -404,7 +405,8 @@
       "helicopter",
       "gazelle",
       "antitank",
-      "scout"
+      "scout",
+      "blue"
     ],
     "id": "sa342m",
     "name": "SA324M"
@@ -414,7 +416,8 @@
       "helicopter",
       "gazelle",
       "minigun",
-      "scout"
+      "scout",
+      "blue"
     ],
     "id": "sa342minigun",
     "name": "SA324 Minigun"
@@ -424,7 +427,8 @@
       "helicopter",
       "scout",
       "gazelle",
-      "antiair"
+      "antiair",
+      "blue"
     ],
     "id": "sa342mistral",
     "name": "SA324 Mistral"
@@ -491,7 +495,8 @@
       "iroquois",
       "fortunateson",
       "vietnam",
-      "blue"
+      "blue",
+      "helicopter"
     ],
     "id": "uh1h",
     "name": "UH-1H"
