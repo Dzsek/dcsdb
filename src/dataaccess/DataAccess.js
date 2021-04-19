@@ -13,8 +13,32 @@ class DataAccess
         this.weapons = null;
         this.aircraftdata = {};
         this.weapondata = {};
+        this.tutorials = {};
 
         return instance;
+    }
+
+    getTutorial(planeid, tutorialid)
+    {
+        if(this.tutorials[planeid] && this.tutorials[planeid][tutorialid])
+        {
+            return new Promise((resolve, reject)=>{
+                setTimeout(() => {
+                    resolve(this.tutorials[planeid][tutorialid]);
+                  }, 10);
+            });
+        }
+        else
+        {
+            return fetch(process.env.PUBLIC_URL+"/data/aircrafts/"+planeid+"/tutorials/"+tutorialid+".json")
+                    .then(res=>res.json())
+                    .then(
+                        (res)=>{
+                            this.tutorials[planeid] = this.tutorials[planeid] || {};
+                            this.tutorials[planeid][tutorialid] = res;
+                            return this.tutorials[planeid][tutorialid];
+                        });
+        }
     }
 
     getAircraftList(){

@@ -1,0 +1,16 @@
+{
+	"title": "main tutorial title 2",
+	"subtitle": "subtitle 2",
+	"steps": [
+		{
+			"step": "1",
+			"image": "step1a.img",
+			"instructions": "so, do this, and that, and some other things"
+		},
+		{
+			"step": "2",
+			"image": "step2a.img",
+			"instructions": "so, do this other thing, and than do these things"
+		}
+	]
+}
