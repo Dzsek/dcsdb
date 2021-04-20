@@ -14,6 +14,7 @@ class DataAccess
         this.aircraftdata = {};
         this.weapondata = {};
         this.tutorials = {};
+        this.tutorialLists = {};
 
         return instance;
     }
@@ -37,6 +38,28 @@ class DataAccess
                             this.tutorials[planeid] = this.tutorials[planeid] || {};
                             this.tutorials[planeid][tutorialid] = res;
                             return this.tutorials[planeid][tutorialid];
+                        });
+        }
+    }
+
+    getTutorialList(planeid)
+    {
+        if(this.tutorialLists[planeid])
+        {
+            return new Promise((resolve, reject)=>{
+                setTimeout(() => {
+                    resolve(this.tutorialLists[planeid]);
+                  }, 10);
+            });
+        }
+        else
+        {
+            return fetch(process.env.PUBLIC_URL+"/data/aircrafts/"+planeid+"/tutorials.json")
+                    .then(res=>res.json())
+                    .then(
+                        (res)=>{
+                            this.tutorialLists[planeid] = res;
+                            return this.tutorialLists[planeid];
                         });
         }
     }

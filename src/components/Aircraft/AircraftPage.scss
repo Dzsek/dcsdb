@@ -1,3 +1,10 @@
 .AircraftPage-root{
     width:80%;
 }
+
+@media only screen and (max-width: 800px)
+{
+    .AircraftPage-root{
+        width:95%;
+    }
+}

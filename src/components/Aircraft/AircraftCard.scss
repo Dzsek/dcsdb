@@ -36,3 +36,11 @@
 .AircraftCard-root-wip{
     outline:red 2px dashed;
 }
+
+@media only screen and (max-width: 800px)
+{
+    .AircraftCard-root{
+        width: 170px;
+        height: 109px;
+    }
+}

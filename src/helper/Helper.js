@@ -1,4 +1,3 @@
-import { waitFor } from "@testing-library/dom";
 
 export function OptimizeWeaponTags(weapon)
 {
@@ -88,6 +87,13 @@ export function FilterByTags(filtertext, object, type)
                     }
                     break;
                 case 'includes':
+                    if(tag.includes(word))
+                    {
+                        wordvalid = true;
+                        break;
+                    }
+                    break;
+                default:
                     if(tag.includes(word))
                     {
                         wordvalid = true;

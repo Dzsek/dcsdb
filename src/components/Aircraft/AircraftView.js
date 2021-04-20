@@ -7,6 +7,7 @@ import SearchBar from '../Common/SearchBar';
 import {OptimizeWeaponTags, FilterByTags, WeaponSearchTerms, RegisterPage} from "../../helper/Helper";
 import DataAccess from '../../dataaccess/DataAccess';
 import History from '../../helper/History';
+import {Link} from 'react-router-dom';
 
 class AircraftView extends React.Component
 {
@@ -19,7 +20,8 @@ class AircraftView extends React.Component
             aircraft:{},
             id: "",
             searchText: "",
-            searchterms: WeaponSearchTerms
+            searchterms: WeaponSearchTerms,
+            tutorials: []
         }
 
         this.loadAlternate = this.loadAlternate.bind(this);
@@ -70,11 +72,17 @@ class AircraftView extends React.Component
                     })
                 })
                 .then(()=>{
-                    if(window.scrollToThis)
-                    {
-                        window.scrollTo(0,window.scrollToThis);
-                        delete(window.scrollToThis);
-                    }
+                    da.getTutorialList(params.id).then((res)=>{
+                        this.setState({
+                            tutorials: res
+                        });
+                    }).then(()=>{
+                        if(window.scrollToThis)
+                        {
+                            window.scrollTo(0,window.scrollToThis);
+                            delete(window.scrollToThis);
+                        }
+                    });
                 });
             }
         )
@@ -103,7 +111,7 @@ class AircraftView extends React.Component
         const query = new URLSearchParams(this.props.location.search);
         const fromId = query.get('from');
 
-        const {aircraft, id, searchText} = this.state;
+        const {aircraft, id, searchText, tutorials} = this.state;
         return (
             <div className="AircraftView-root">
                 <BackButton className="AircraftView-root-backbutton" returnTo={fromId ? "/weapon/"+fromId : "/aircraft"}/>
@@ -143,8 +151,20 @@ class AircraftView extends React.Component
                             }
                         })()}
                 </div>
-                <div className="AircraftView-root-extra">
-                    <p dangerouslySetInnerHTML={{ __html: aircraft.description }}></p>
+                <div className="AircraftView-root-info">
+                    <div className="AircraftView-root-extra">
+                        <p dangerouslySetInnerHTML={{ __html: aircraft.description }}></p>
+                    </div>
+                    { tutorials.length ? (<div className="AircraftView-root-tutorials">
+                        <h3>Guides</h3>
+                        <ul>
+                            {tutorials.map((t)=>(
+                                <Link onClick={(ev)=>this.cardClicked()} to={"/tutorial/" + id + "/" + t.id}>
+                                    <li>{t.name}</li>
+                                </Link>
+                            ))}
+                        </ul>
+                    </div>) :""}
                 </div>
             </div>
         );

@@ -1,0 +1,137 @@
+.Tutorial-root{
+    color:white;
+    margin: 10px;
+    width: 80%;
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+    
+    &> .Tutorial-title{
+        background: #777;
+        box-shadow: 0 0 5px black;
+        margin: 5px 0 5px 0;
+
+        &>h1, h2{
+            color:white;
+            text-align: center;
+        }
+    }
+
+    &> .Tutorial-instructionCard{
+        background: #777;
+        box-shadow: 0 0 5px black;
+        margin: 5px 0 5px 0;
+        display: flex;
+        flex-direction: row;
+
+        &>div:nth-child(1){
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            margin:0;
+            padding: 10px 5px 10px 5px;
+            background: #666;
+
+            &>span{
+                align-self: center;
+                font-weight: bold;
+                font-size: 1.5em;
+            }
+        }
+
+        &>div:nth-child(2){
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+
+            &>img{
+                width: 40%;
+                object-fit: contain;
+                align-self:center;
+                margin:5px;
+                background: #555;
+                cursor:pointer;
+            }
+
+            &>p{
+                margin:5px;
+            }
+        }
+    }
+}
+
+.Tutorial-fullscreenInstruction{
+    background: rgba(0,0,0,0.7);
+    position: absolute;
+    top:0px;
+    left:0px;
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    cursor:pointer;
+
+    &>img{
+        max-width: 98%;
+        max-height: 98%;
+        object-fit: scale-down;
+    }
+
+    &>p{
+        position: absolute;
+        bottom:0px;
+        padding: 5px 5px 20px 5px;
+        font-size: 1.5em;
+        background: rgba(0,0,0,0.6);
+        max-width: 98%;
+    }
+}
+
+@media only screen and (max-width: 800px)
+{
+    .Tutorial-root
+    {
+        margin: 10px;
+        width: 95%;
+        user-select: none;
+
+        &> .Tutorial-instructionCard{
+            user-select: none;
+
+            &>div:nth-child(2){
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+    
+                &>img{
+                    width: 95%;
+                    object-fit: contain;
+                    align-self:center;
+                    background: #555;
+                    cursor:default;
+                }
+    
+                &>p{
+                    margin:5px;
+                }
+            }
+        }
+    }
+
+    .Tutorial-fullscreenInstruction{
+        display: block;
+        cursor:pointer;
+        overflow-y: hidden;
+
+        &>img{
+            max-width: unset;
+            max-height: 100%;
+            object-fit: scale-down;
+        }
+
+        &>p{
+            display:none;
+        }
+    }
+}

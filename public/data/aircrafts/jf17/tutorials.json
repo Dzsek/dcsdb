@@ -1,4 +1,3 @@
 [
-	{ "id": "bombs" },
-	{ "id": "quickstart" }
+	{ "id": "faststart", "name": "Fast Startup" }
 ]

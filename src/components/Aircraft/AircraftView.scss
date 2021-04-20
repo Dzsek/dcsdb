@@ -70,9 +70,12 @@
     left:25px;
 }
 
-.AircraftView-root-extra{
+.AircraftView-root-info{
     grid-row-start:2;
     grid-row-end:3;
+}
+
+.AircraftView-root-extra{
     box-shadow: 0 0 5px black;
     background: #777;
     margin: 0px 5px 5px 5px;
@@ -81,6 +84,40 @@
     display:flex;
     align-self: flex-start;
     height:auto;
+}
+
+.AircraftView-root-tutorials{
+    box-shadow: 0 0 5px black;
+    background: #777;
+    margin: 0px 5px 5px 5px;
+    padding: 10px;
+    white-space: pre-wrap;
+    display:flex;
+    align-self: flex-start;
+    height:auto;
+    flex-direction: column;
+
+    &>ul{
+        list-style: none;
+        margin:0;
+        padding: 0;
+        &>a
+        {
+            text-decoration: none;
+            color: white;
+            &>li{
+                box-shadow: 0 0 5px black;
+                margin:5px;
+                padding: 10px;
+                cursor:pointer;
+                font-weight: bold;
+                background: #aaa;
+                &:hover{
+                    background: #999;
+                }
+            }
+        }
+    }
 }
 
 .WeaponGroup-root{
@@ -158,12 +195,12 @@
 
     .AircraftView-root-content{
         grid-column: 0/0;
-        grid-row: 2/3;
+        grid-row: 3/4;
         margin: 5px;
     }
 
-    .AircraftView-root-extra{
-        grid-row: 3/4;
+    .AircraftView-root-info{
+        grid-row: 2/3;
     }
 
     .AircraftView-root-backbutton{
