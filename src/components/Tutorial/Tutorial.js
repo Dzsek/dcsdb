@@ -24,6 +24,8 @@ class Tutorial extends React.Component
             fullscreenInstruction: instr,
             fullscreenVisible: true
         });
+
+        document.body.style.overflow = "hidden"
     }
 
     minimizeInstruction()
@@ -32,6 +34,8 @@ class Tutorial extends React.Component
             fullscreenInstruction: {},
             fullscreenVisible: false
         });
+
+        document.body.style.overflow = "auto"
     }
 
     componentDidMount()
@@ -57,7 +61,7 @@ class Tutorial extends React.Component
                         <h2>{tutorial.subtitle}</h2>
                     </div>
                     { 
-                        !fullscreenVisible && tutorial.steps ? tutorial.steps
+                         tutorial.steps ? tutorial.steps
                             .sort((a,b)=> a.step-b.step)
                             .map((item)=>(
                                 <div key={item.step} className="Tutorial-instructionCard" >
