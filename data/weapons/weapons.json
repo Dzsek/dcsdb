@@ -660,6 +660,15 @@
   {
     "category": "bomb",
     "tags": [
+      "runway",
+      "dumb"
+    ],
+    "id": "bap100",
+    "name": "BAP 100"
+  },
+  {
+    "category": "bomb",
+    "tags": [
       "training",
       "practice"
     ],

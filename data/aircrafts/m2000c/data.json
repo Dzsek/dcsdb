@@ -74,6 +74,18 @@
       "tags": [],
       "id": "rpl522",
       "name": "RPL 522 Fuel Tank 1300L"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82air",
+      "name": "Mk-82 Air"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bap100",
+      "name": "BAP 100"
     }
   ]
 }
