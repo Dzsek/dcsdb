@@ -1,0 +1,15 @@
+{
+  "id": "fuelptb450",
+  "name": "Fuel Tank PTB-450 (Mi-24P)",
+  "description": "External Fuel Tank",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mi24p",
+      "name": "Mi-24P"
+    }
+  ]
+}

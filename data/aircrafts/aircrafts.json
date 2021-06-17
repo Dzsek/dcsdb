@@ -285,9 +285,17 @@
     "name": "M-2000C"
   },
   {
-    "tags": [],
+    "tags": [
+      "hind",
+      "crocodile",
+      "galina",
+      "red",
+      "mil",
+      "helicopter",
+      "gunship"
+    ],
     "id": "mi24p",
-    "name": "mi24p"
+    "name": "Mi-24P"
   },
   {
     "tags": [

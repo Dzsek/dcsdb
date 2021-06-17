@@ -1,7 +1,7 @@
 {
   "id": "mi24p",
-  "name": "mi24p",
-  "description": "mi24p",
+  "name": "Mil Mi-24P",
+  "description": "The Mil Mi-24 is a large helicopter gunship, attack helicopter and low-capacity troop transport with room for eight passengers.\r\n\r\nIt is produced by Mil Moscow Helicopter Plant and has been operated since 1972 by the Soviet Air Force and its successors, along with 48 other nations.\r\n\r\nThe P variant is the gunship version, which replaced the 12.7mm machine-gun turret with a fixed side-mounted 30mm GSh-30-2K twin-barrel autocannon.",
   "weapons": [
     {
       "category": "rocket",
@@ -49,13 +49,7 @@
       "category": "agm",
       "tags": [],
       "id": "9m114",
-      "name": "9m114"
-    },
-    {
-      "category": "pod",
-      "tags": [],
-      "id": "upk23250",
-      "name": "UPK-23-250"
+      "name": "9M114 Shturm"
     },
     {
       "category": "bomb",
@@ -84,8 +78,50 @@
     {
       "category": "bomb",
       "tags": [],
-      "id": "kmgu2ptab25ko",
-      "name": "KMGU-2 PTAB-2.5KO"
+      "id": "rbk250ptab25m",
+      "name": "RBK-250 PTAB-2.5M"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk250275ao1sch",
+      "name": "RBK-250-275 AO-1SCh"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuelptb450",
+      "name": "Fuel Tank PTB-450 "
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "guv8700wap30",
+      "name": "GUV-8700 (AP30)"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk500ptab1m",
+      "name": "RBK-500 PTAB-1M"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk500255ptab105",
+      "name": "RBK-500-255 PTAB-10.5"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "rbk500uoab25rt",
+      "name": "RBK-500U OAB-2.5 RT"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "guv8700w127w762",
+      "name": "GUV-8700 (2x7.62mm + 1x12.7mm)"
     }
   ]
 }
