@@ -13,10 +13,12 @@
     "tags": [
       "shturm",
       "lightarmor",
-      "tank"
+      "tank",
+      "spiral",
+      "saclos"
     ],
     "id": "9m114",
-    "name": "9m114"
+    "name": "9M114 Shturm"
   },
   {
     "category": "agm",
@@ -203,6 +205,21 @@
     ],
     "id": "agm84e",
     "name": "AGM-84E SLAM"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "slamer",
+      "cruise",
+      "mitl",
+      "datalink",
+      "tank",
+      "ship",
+      "building",
+      "ir"
+    ],
+    "id": "agm84h",
+    "name": "AGM-84H SLAM"
   },
   {
     "category": "agm",
@@ -1251,6 +1268,12 @@
     "tags": [],
     "id": "fuelka50",
     "name": "Fuel Tank (KA-50)"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuelptb450",
+    "name": "Fuel Tank PTB-450 "
   },
   {
     "category": "pod",

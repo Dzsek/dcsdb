@@ -272,6 +272,12 @@
       "tags": [],
       "id": "anasq228",
       "name": "AN/ASQ-228 ATFLIR"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm84h",
+      "name": "AGM-84H SLAM"
     }
   ]
 }
