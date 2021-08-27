@@ -1,0 +1,18 @@
+{
+  "id": "kab500kr",
+  "name": "KAB-500KR",
+  "description": "The KAB-500KR is an electro-optical TV-guided fire and forget bomb developed by the Soviet Air Force in the 1980s.\r\n\r\nIt is based upon the standard FAB-500 general purpose bomb, adding a low-light television seeker and guidance fins, to turn it into an unpowered glide bomb.",
+  "data": {
+    "Guidance": "TV",
+    "Type": "Guided Bomb",
+    "Warhead": "380 kg armo-piercing",
+    "Targets": "Tanks, Fortifications"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "su25t",
+      "name": "Su-25T"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bap100",
+  "name": "BAP 100",
+  "description": "The BAP 100 is a French anti-runway cluster bomb developed in the mid-1970s. \r\n\r\nThe bomb consists of eighteen submunitions, arranged in a cluster. \r\n\r\nAccelerated by an internal propulsion system, the munitions are designed to ensure total runway destruction in a single pass by aircraft.",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "Anti Runway Bomb",
+    "Warhead": "High explosive penetrating",
+    "Targets": "Runways"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "m2000c",
+      "name": "M-2000C"
+    }
+  ]
+}

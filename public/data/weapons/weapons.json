@@ -176,7 +176,7 @@
       "tank"
     ],
     "id": "agm65l",
-    "name": "AGM-65L Maverick"
+    "name": "AGM-65E2/L Maverick"
   },
   {
     "category": "agm",
@@ -656,6 +656,15 @@
     ],
     "id": "aww13",
     "name": "AN/AWW-13 Datalink Pod"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "runway",
+      "dumb"
+    ],
+    "id": "bap100",
+    "name": "BAP 100"
   },
   {
     "category": "bomb",
@@ -1559,6 +1568,19 @@
     ],
     "id": "k13a",
     "name": "K-13A"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "tv",
+      "ag",
+      "bomb",
+      "fortification",
+      "tank",
+      "building"
+    ],
+    "id": "kab500kr",
+    "name": "KAB-500KR"
   },
   {
     "category": "pod",
