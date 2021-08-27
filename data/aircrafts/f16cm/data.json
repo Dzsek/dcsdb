@@ -200,6 +200,18 @@
       "tags": [],
       "id": "gbu38",
       "name": "GBU-38"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "cbu105",
+      "name": "CBU-105"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm154a",
+      "name": "AGM-154A JSOW"
     }
   ]
 }
