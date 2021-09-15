@@ -8,7 +8,7 @@
     "Type": "Air-to-Air Missile",
     "Warhead": "Annular blast-fragmentation",
     "Targets": "Aircraft",
-    "Aspect": "Rear with limited front aspect capability"
+    "Aspect": "All"
   },
   "aircraft": [
     {
