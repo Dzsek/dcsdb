@@ -1,7 +1,7 @@
 {
   "id": "rb74",
   "name": "RB74",
-  "description": "Swedish, license built, version of the AIM-9P5 Sidewinder. (aka. AIM-9L)",
+  "description": "Swedish, license built, version of the AIM-9L Sidewinder.",
   "data": {
     "Range": "Short",
     "Guidance": "Infrared",
