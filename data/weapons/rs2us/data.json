@@ -7,7 +7,8 @@
     "Guidance": "Semi Active Radar Beam Riding",
     "Type": "Air-to-Air Missile",
     "Warhead": "High Explosive",
-    "Targets": "Aircraft"
+    "Targets": "Aircraft",
+    "Aspect": "Rear"
   },
   "aircraft": [
     {

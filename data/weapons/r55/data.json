@@ -7,8 +7,7 @@
     "Guidance": "Infrared",
     "Type": "Air-to-Air Missile",
     "Warhead": "High Explosive",
-    "Targets": "Aircraft",
-    "Aspect": "Rear"
+    "Targets": "Aircraft"
   },
   "aircraft": [
     {
