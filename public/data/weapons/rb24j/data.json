@@ -1,7 +1,7 @@
 {
   "id": "rb24j",
   "name": "RB24J",
-  "description": "Swedish, license built, version of the AIM-9P3 Sidewinder. (aka. AIM-9J)",
+  "description": "Swedish, license built, version of the AIM-9J Sidewinder.",
   "data": {
     "Range": "Short",
     "Guidance": "Infrared",
