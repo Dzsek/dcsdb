@@ -212,6 +212,12 @@
       "tags": [],
       "id": "agm154a",
       "name": "AGM-154A JSOW"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "cbu103",
+      "name": "CBU-103"
     }
   ]
 }

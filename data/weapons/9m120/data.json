@@ -1,0 +1,19 @@
+{
+  "id": "9m120",
+  "name": "9M120 Ataka",
+  "description": "The 9M120 Ataka is an anti-tank guided missile (ATGM) originating from the Soviet Union. It is the next major generation in the 9K114 Shturm family. \r\n\r\nThis missile's primary variant was equiped with a tandem HEAT warhead and was designed to defeat tanks with composite armour and explosive reactive armor.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Radio Command",
+    "Type": "Air-to-Ground Missile",
+    "Warhead": "Tandem HEAT",
+    "Targets": "Light Armor, Tanks"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mi24p",
+      "name": "Mi-24P"
+    }
+  ]
+}

@@ -122,6 +122,24 @@
       "tags": [],
       "id": "guv8700w127w762",
       "name": "GUV-8700 (2x7.62mm + 1x12.7mm)"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "9m120",
+      "name": "9M120 Ataka"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "9m120f",
+      "name": "9M120F Ataka"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "9m120o",
+      "name": "9M120O Ataka"
     }
   ]
 }

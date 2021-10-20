@@ -23,6 +23,40 @@
   {
     "category": "agm",
     "tags": [
+      "ataka",
+      "spiral",
+      "tank",
+      "lightarmor",
+      "saclos"
+    ],
+    "id": "9m120",
+    "name": "9M120 Ataka"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "ataka",
+      "spiral",
+      "lightarmor",
+      "saclos"
+    ],
+    "id": "9m120f",
+    "name": "9M120F Ataka"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "ataka",
+      "spiral",
+      "helicopter",
+      "saclos"
+    ],
+    "id": "9m120o",
+    "name": "9M120O Ataka"
+  },
+  {
+    "category": "agm",
+    "tags": [
       "sead",
       "decoy",
       "glide"
