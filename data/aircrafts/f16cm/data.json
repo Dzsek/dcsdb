@@ -218,6 +218,18 @@
       "tags": [],
       "id": "cbu103",
       "name": "CBU-103"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "hts",
+      "name": "HTS"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "alq184",
+      "name": "AN/ALQ-184"
     }
   ]
 }
