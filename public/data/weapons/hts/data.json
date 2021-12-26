@@ -1,0 +1,15 @@
+{
+  "id": "hts",
+  "name": "HARM Targeting System",
+  "description": "The High-speed Anti-Radiation Missile Targeting System, or HTS, is a targeting system used for suppression of enemy air defenses.\r\nIt provides situational awareness to pilots on the types and locations of radars.",
+  "data": {
+    "Type": "Pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f16cm",
+      "name": "F-16CM bl.50"
+    }
+  ]
+}

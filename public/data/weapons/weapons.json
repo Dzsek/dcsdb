@@ -1543,6 +1543,22 @@
     "name": "HOT3"
   },
   {
+    "category": "pod",
+    "tags": [
+      "hts",
+      "harm",
+      "had",
+      "sead",
+      "dead",
+      "wildweasel",
+      "sam",
+      "radar",
+      "pod"
+    ],
+    "id": "hts",
+    "name": "HTS"
+  },
+  {
     "category": "rocket",
     "tags": [
       "dumb",
