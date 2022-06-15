@@ -70,6 +70,16 @@
   },
   {
     "tags": [
+      "helicopter",
+      "blue",
+      "modern",
+      "longbow"
+    ],
+    "id": "ah64d",
+    "name": "AH-64D"
+  },
+  {
+    "tags": [
       "littlebird",
       "free",
       "mod",
@@ -111,6 +121,17 @@
     ],
     "id": "c101cc",
     "name": "C-101CC"
+  },
+  {
+    "tags": [
+      "cargo",
+      "gunship",
+      "logistics",
+      "free",
+      "mod"
+    ],
+    "id": "c130",
+    "name": "Hercules"
   },
   {
     "tags": [
@@ -499,6 +520,19 @@
   },
   {
     "tags": [
+      "trainer",
+      "goshawk",
+      "blue",
+      "carrier",
+      "navy",
+      "free",
+      "mod"
+    ],
+    "id": "t45",
+    "name": "T-45"
+  },
+  {
+    "tags": [
       "huey",
       "iroquois",
       "fortunateson",
@@ -508,5 +542,17 @@
     ],
     "id": "uh1h",
     "name": "UH-1H"
+  },
+  {
+    "tags": [
+      "helicopter",
+      "free",
+      "mod",
+      "logistics",
+      "cargo",
+      "blackhawk"
+    ],
+    "id": "uh60l",
+    "name": "UH-60L"
   }
 ]

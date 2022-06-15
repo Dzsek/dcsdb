@@ -230,6 +230,12 @@
       "tags": [],
       "id": "alq184",
       "name": "AN/ALQ-184"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu24",
+      "name": "GBU-24"
     }
   ]
 }

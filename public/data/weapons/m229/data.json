@@ -1,0 +1,19 @@
+{
+  "id": "m229",
+  "name": "Hydra 70 M229 HEDP",
+  "description": "The Hydra 70 rocket is a 2.75-inch (70 mm) diameter fin-stabilized unguided rocket used primarily in the air-to-ground role.\r\n\r\nIt can be equipped with a variety of warheads, this particular version using the M229 High explosive dual purpose warhead.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "High Explosive Dual Purpose",
+    "Targets": "Unarmored, Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ah64d",
+      "name": "AH-64D"
+    }
+  ]
+}
