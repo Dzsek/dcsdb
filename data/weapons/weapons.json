@@ -73,6 +73,17 @@
   {
     "category": "agm",
     "tags": [
+      "laser",
+      "hellfire",
+      "tank",
+      "lightarmor"
+    ],
+    "id": "agm114k",
+    "name": "AGM-114K Hellfire"
+  },
+  {
+    "category": "agm",
+    "tags": [
       "sidearm",
       "sam",
       "antiradiation",
@@ -384,6 +395,22 @@
     ],
     "id": "aim7mh",
     "name": "AIM-7MH"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "sparrow",
+      "sahr",
+      "semiactive",
+      "fox1",
+      "aa",
+      "missile",
+      "aircraft",
+      "radar",
+      "passive"
+    ],
+    "id": "aim7p",
+    "name": "AIM-7P"
   },
   {
     "category": "aam",
@@ -1231,6 +1258,12 @@
   {
     "category": "fuel",
     "tags": [],
+    "id": "fuel230galah64",
+    "name": "Fuel Tank 230 gallons (AH-64D)"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
     "id": "fuel275galf5",
     "name": "Fuel Tank 275 gallons (F-5E-3)"
   },
@@ -1864,6 +1897,26 @@
     "category": "rocket",
     "tags": [
       "hydra",
+      "ag",
+      "dumb",
+      "lightarmor"
+    ],
+    "id": "m229",
+    "name": "2.75' rocket M229 (HEDP)"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "rack",
+      "cosmetic"
+    ],
+    "id": "m299rack",
+    "name": "M299"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "hydra",
       "dumb",
       "illumination",
       "flare"
@@ -1881,6 +1934,17 @@
     ],
     "id": "m274smoke",
     "name": "2.75' rocket M274 Smoke"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "hydra",
+      "ag",
+      "lightarmor",
+      "dumb"
+    ],
+    "id": "m282",
+    "name": "2.75' rocket M282 (MPP)"
   },
   {
     "category": "pod",

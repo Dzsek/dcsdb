@@ -1,0 +1,15 @@
+{
+  "id": "fuel230galah64",
+  "name": "Fuel Tank 230 gallons (AH-64D)",
+  "description": "External Fuel Tank 230 gallons",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ah64d",
+      "name": "AH-64D"
+    }
+  ]
+}

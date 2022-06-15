@@ -1,0 +1,15 @@
+{
+  "id": "m299rack",
+  "name": "M299",
+  "description": "Missile rack that can hold up to 4 AGM-114 Hellfires",
+  "data": {
+    "Type": "Missile rack"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ah64d",
+      "name": "AH-64D"
+    }
+  ]
+}

@@ -278,6 +278,12 @@
       "tags": [],
       "id": "agm84h",
       "name": "AGM-84H SLAM"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7p",
+      "name": "AIM-7P"
     }
   ]
 }

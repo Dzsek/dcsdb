@@ -1,0 +1,31 @@
+{
+  "id": "t45",
+  "name": "McDonnell Douglas T-45 Goshawk",
+  "description": "The McDonnell Douglas T-45 Goshawk is a highly modified version of the British BAE Systems Hawk land-based training jet aircraft.\r\n\r\nManufactured by McDonnell Douglas (now Boeing) and British Aerospace (now BAE Systems), the T-45 is used by the United States Navy as an aircraft carrier-capable trainer.\r\n\r\nIn DCS it is a free community made mod.\r\n\r\nMore information can be found on the <a href=\"https://forum.dcs.world/topic/203816-vnao-t-45-goshawk/\">ED forum post</a> of the mod. ",
+  "weapons": [
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu33",
+      "name": "BDU-33"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m274smoke",
+      "name": "2.75' rocket M274 Smoke"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "wtu1b",
+      "name": "2.75' rocket WTU-1/B"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "mxu648",
+      "name": "MXU-648"
+    }
+  ]
+}
