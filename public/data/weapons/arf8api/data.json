@@ -1,0 +1,20 @@
+{
+  "id": "arf8api",
+  "name": "arf8api",
+  "description": "arf8api",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339a",
+      "name": "MB-339A"
+    }
+  ]
+}

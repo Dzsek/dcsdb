@@ -1,0 +1,15 @@
+{
+  "id": "fuel500ltmb339",
+  "name": "Fuel Tank 500lb (MB339)",
+  "description": "External Fuel Tank",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339a",
+      "name": "MB-339A"
+    }
+  ]
+}

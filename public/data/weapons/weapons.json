@@ -701,6 +701,24 @@
     "name": "ARAK M70B HE"
   },
   {
+    "category": "rocket",
+    "tags": [],
+    "id": "arf8api",
+    "name": "arf8api"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "arf8heiheavy",
+    "name": "arf8heiheavy"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "arf8tpsm",
+    "name": "arf8tpsm"
+  },
+  {
     "category": "pod",
     "tags": [
       "flare",
@@ -726,6 +744,12 @@
     ],
     "id": "bap100",
     "name": "BAP 100"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "bat120",
+    "name": "bat120"
   },
   {
     "category": "bomb",
@@ -879,6 +903,12 @@
   },
   {
     "category": "bomb",
+    "tags": [],
+    "id": "blu107b",
+    "name": "blu107b"
+  },
+  {
+    "category": "bomb",
     "tags": [
       "lightarmor",
       "tank",
@@ -896,6 +926,18 @@
     ],
     "id": "br500",
     "name": "BR-500"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "brd4250mk106",
+    "name": "brd4250mk106"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "brd4250mk76",
+    "name": "brd4250mk76"
   },
   {
     "category": "rocket",
@@ -1280,6 +1322,18 @@
     "name": "Fuel Tank 300L (MiG-15)"
   },
   {
+    "category": null,
+    "tags": [],
+    "id": "fuel320ltmb339",
+    "name": "Fuel Tank 320lb (MB339)"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "fuel320ltmb339tip",
+    "name": "Fuel Tank 320lb Wingtip (MB339)"
+  },
+  {
     "category": "fuel",
     "tags": [],
     "id": "fuel350l39",
@@ -1308,6 +1362,12 @@
     "tags": [],
     "id": "fuel490l",
     "name": "Fuel Tank 490 Liters"
+  },
+  {
+    "category": null,
+    "tags": [],
+    "id": "fuel500ltmb339",
+    "name": "Fuel Tank 500lb (MB339)"
   },
   {
     "category": "fuel",
@@ -1371,7 +1431,7 @@
     "name": "GAU-19"
   },
   {
-    "category": "agm",
+    "category": "bomb",
     "tags": [
       "glide",
       "gps",
@@ -1382,7 +1442,7 @@
     "name": "GB-6"
   },
   {
-    "category": "agm",
+    "category": "bomb",
     "tags": [
       "tank",
       "building",
@@ -1393,7 +1453,7 @@
     "name": "GB-6 HE"
   },
   {
-    "category": "agm",
+    "category": "bomb",
     "tags": [
       "glide",
       "gps",
@@ -1609,6 +1669,17 @@
     ],
     "id": "hvarsmoke",
     "name": "HVAR (SMOKE)"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "manpad",
+      "ir",
+      "aircraft",
+      "fox2"
+    ],
+    "id": "igla",
+    "name": "9M39 Igla"
   },
   {
     "category": "pod",
@@ -1833,7 +1904,31 @@
     "name": "LD-10"
   },
   {
-    "category": "agm",
+    "category": "bomb",
+    "tags": [
+      "tank",
+      "gps",
+      "laser",
+      "lightarmor"
+    ],
+    "id": "ls6100",
+    "name": "LS-6-100"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "tank",
+      "building",
+      "jsow",
+      "glide",
+      "gps",
+      "lightarmor"
+    ],
+    "id": "ls6250",
+    "name": "LS-6-250"
+  },
+  {
+    "category": "bomb",
     "tags": [
       "tank",
       "building",
@@ -1905,15 +2000,6 @@
     "name": "2.75' rocket M229 (HEDP)"
   },
   {
-    "category": "pod",
-    "tags": [
-      "rack",
-      "cosmetic"
-    ],
-    "id": "m299rack",
-    "name": "M299"
-  },
-  {
     "category": "rocket",
     "tags": [
       "hydra",
@@ -1945,6 +2031,15 @@
     ],
     "id": "m282",
     "name": "2.75' rocket M282 (MPP)"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "rack",
+      "cosmetic"
+    ],
+    "id": "m299rack",
+    "name": "M299"
   },
   {
     "category": "pod",
@@ -2213,6 +2308,20 @@
     ],
     "id": "mk84",
     "name": "Mk-84"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building",
+      "ag",
+      "retarded",
+      "highdrag"
+    ],
+    "id": "mk84airgp",
+    "name": "MK-84 AIR"
   },
   {
     "category": "pod",

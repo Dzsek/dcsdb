@@ -1,0 +1,18 @@
+{
+  "id": "ls6100",
+  "name": "LS-6-100",
+  "description": "LS is an abbreviation for a family of Chinese built precision-guided munitions (PGM) named Thunder Stone Precision Guided Bomb developed by Luoyang Electro-Optics Technology Development Centre.\r\n\r\nLS PGB is actually an upgrade kit to modernize gravity bombs with precision / laser guidance, with the kit consisted of two modules, the guidance module and the gliding module.\r\n\r\nThis version uses GPS for initial guidance and laser homing for terminal guidance.",
+  "data": {
+    "Guidance": "GPS/Laser",
+    "Type": "Guided Bomb",
+    "Warhead": "High Explosive",
+    "Targets": "Light Armor, Tanks"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "jf17",
+      "name": "JF-17"
+    }
+  ]
+}

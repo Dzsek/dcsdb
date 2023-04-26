@@ -1,0 +1,19 @@
+{
+  "id": "igla",
+  "name": "9M39 Igla",
+  "description": "The 9M38 Igla is a Russian/Soviet man-portable infrared homing surface-to-air missile.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Infrared",
+    "Type": "Surface-to-Air Missile",
+    "Warhead": "Explosive",
+    "Targets": "Aircraft"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ka503",
+      "name": "Ka-50 III"
+    }
+  ]
+}

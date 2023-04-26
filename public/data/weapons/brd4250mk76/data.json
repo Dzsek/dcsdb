@@ -1,0 +1,20 @@
+{
+  "id": "brd4250mk76",
+  "name": "brd4250mk76",
+  "description": "brd4250mk76",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339a",
+      "name": "MB-339A"
+    }
+  ]
+}

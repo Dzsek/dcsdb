@@ -1,0 +1,20 @@
+{
+  "id": "arf8heiheavy",
+  "name": "arf8heiheavy",
+  "description": "arf8heiheavy",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339a",
+      "name": "MB-339A"
+    }
+  ]
+}

@@ -273,6 +273,19 @@
   },
   {
     "tags": [
+      "blackshark",
+      "akula",
+      "hokum",
+      "alligator",
+      "helicopter",
+      "red",
+      "modern"
+    ],
+    "id": "ka503",
+    "name": "Ka-50 III"
+  },
+  {
+    "tags": [
       "albatros",
       "trainer",
       "red"
@@ -304,6 +317,18 @@
     ],
     "id": "m2000c",
     "name": "M-2000C"
+  },
+  {
+    "tags": [
+      "trainer",
+      "ag",
+      "a2g",
+      "red",
+      "italy",
+      "italian"
+    ],
+    "id": "mb339a",
+    "name": "MB-339A"
   },
   {
     "tags": [
@@ -418,6 +443,36 @@
     ],
     "id": "mig29s",
     "name": "MiG-29S"
+  },
+  {
+    "tags": [
+      "fighter",
+      "interceptor",
+      "coldwar",
+      "blue",
+      "french",
+      "aa",
+      "a2a",
+      "ag",
+      "a2g"
+    ],
+    "id": "miragef1ce",
+    "name": "Mirage F1 CE"
+  },
+  {
+    "tags": [
+      "fighter",
+      "interceptor",
+      "coldwar",
+      "blue",
+      "french",
+      "aa",
+      "a2a",
+      "ag",
+      "a2g"
+    ],
+    "id": "miragef1ee",
+    "name": "Mirage F1 EE"
   },
   {
     "tags": [

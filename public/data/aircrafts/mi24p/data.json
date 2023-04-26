@@ -146,6 +146,12 @@
       "tags": [],
       "id": "r60m",
       "name": "R-60M"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "kord127",
+      "name": "Kord 12.7mm"
     }
   ]
 }

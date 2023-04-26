@@ -1,0 +1,73 @@
+{
+  "id": "miragef1ce",
+  "name": "Dassault Mirage F1 CE",
+  "description": "The Dassault Mirage F1 is a French fighter and attack aircraft designed and manufactured by Dassault Aviation. It was developed as a successor to the popular Mirage III family.\r\n\r\nThe C is the interceptor version.\r\n\r\nThe CE is an export of the C version made for Spain.",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9b",
+      "name": "AIM-9B"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9p",
+      "name": "AIM-9P"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "blg66ac",
+      "name": "BLG-66-AC"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "blu107b",
+      "name": "blu107b"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "br250",
+      "name": "BR-250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "br500",
+      "name": "BR-500"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82",
+      "name": "Mk-82"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk83",
+      "name": "Mk-83"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu12",
+      "name": "GBU-12"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu16",
+      "name": "GBU-16"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu10",
+      "name": "GBU-10"
+    }
+  ]
+}

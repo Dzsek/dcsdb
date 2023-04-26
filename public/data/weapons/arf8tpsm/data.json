@@ -1,0 +1,20 @@
+{
+  "id": "arf8tpsm",
+  "name": "arf8tpsm",
+  "description": "arf8tpsm",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339a",
+      "name": "MB-339A"
+    }
+  ]
+}
