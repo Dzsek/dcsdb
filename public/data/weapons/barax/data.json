@@ -1,0 +1,20 @@
+{
+  "id": "barax",
+  "name": "barax",
+  "description": "barax",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "miragef1ee",
+      "name": "Mirage F1 EE"
+    }
+  ]
+}

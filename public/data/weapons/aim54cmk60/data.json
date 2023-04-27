@@ -1,0 +1,25 @@
+{
+  "id": "aim54cmk60",
+  "name": "aim54cmk60",
+  "description": "aim54cmk60",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f14a135gr",
+      "name": "F-14A-135-GR"
+    },
+    {
+      "instructions": [],
+      "id": "f14b",
+      "name": "F-14B"
+    }
+  ]
+}

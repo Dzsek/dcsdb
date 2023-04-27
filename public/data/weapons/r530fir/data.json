@@ -1,0 +1,25 @@
+{
+  "id": "r530fir",
+  "name": "r530fir",
+  "description": "r530fir",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "miragef1ce",
+      "name": "Mirage F1 CE"
+    },
+    {
+      "instructions": [],
+      "id": "miragef1ee",
+      "name": "Mirage F1 EE"
+    }
+  ]
+}

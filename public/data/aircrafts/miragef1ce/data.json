@@ -68,6 +68,132 @@
       "tags": [],
       "id": "gbu10",
       "name": "GBU-10"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9j",
+      "name": "aim9j"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9juli",
+      "name": "aim9juli"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r550magic1",
+      "name": "r550magic1"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r550magic2",
+      "name": "r550magic2"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "samp125",
+      "name": "samp125"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "samp250",
+      "name": "samp250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "samp250hd",
+      "name": "samp250hd"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "samp400",
+      "name": "samp400"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "samp400hd",
+      "name": "samp400hd"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r530fem",
+      "name": "r530fem"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r530fir",
+      "name": "r530fir"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "s530f",
+      "name": "s530f"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype250tpsm",
+      "name": "snebtype250tpsm"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype251he",
+      "name": "snebtype251he"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype259eil",
+      "name": "snebtype259eil"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype257hefraglarge",
+      "name": "snebtype257hefraglarge"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype256hefrag",
+      "name": "snebtype256hefrag"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype254sm",
+      "name": "snebtype254sm"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype253heat",
+      "name": "snebtype253heat"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype252tp",
+      "name": "snebtype252tp"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel1137lmf1",
+      "name": "Fuel Tank 1137L (Mirage F1)"
     }
   ]
 }

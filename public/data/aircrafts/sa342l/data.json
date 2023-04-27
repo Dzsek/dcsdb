@@ -18,14 +18,50 @@
     {
       "category": "rocket",
       "tags": [],
-      "id": "sneb68eap",
-      "name": "SNEB 68mm EAP"
+      "id": "snebtype251he",
+      "name": "snebtype251he"
     },
     {
       "category": "rocket",
       "tags": [],
-      "id": "sneb68wp",
-      "name": "SNEB 68mm WP"
+      "id": "snebtype252tp",
+      "name": "snebtype252tp"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype253heat",
+      "name": "snebtype253heat"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype254sm",
+      "name": "snebtype254sm"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype256hefrag",
+      "name": "snebtype256hefrag"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype257hefraglarge",
+      "name": "snebtype257hefraglarge"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype259eil",
+      "name": "snebtype259eil"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype250tpsm",
+      "name": "snebtype250tpsm"
     }
   ]
 }

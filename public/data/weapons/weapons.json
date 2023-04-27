@@ -350,6 +350,12 @@
   },
   {
     "category": "aam",
+    "tags": [],
+    "id": "aim54cmk60",
+    "name": "aim54cmk60"
+  },
+  {
+    "category": "aam",
     "tags": [
       "sparrow",
       "sahr",
@@ -425,6 +431,18 @@
     ],
     "id": "aim9b",
     "name": "AIM-9B"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "aim9j",
+    "name": "aim9j"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "aim9juli",
+    "name": "aim9juli"
   },
   {
     "category": "aam",
@@ -744,6 +762,12 @@
     ],
     "id": "bap100",
     "name": "BAP 100"
+  },
+  {
+    "category": "pod",
+    "tags": [],
+    "id": "barax",
+    "name": "barax"
   },
   {
     "category": "bomb",
@@ -1254,6 +1278,12 @@
     "tags": [],
     "id": "ft600",
     "name": "Fuel Tank FT600"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "fuel1137lmf1",
+    "name": "Fuel Tank 1137L (Mirage F1)"
   },
   {
     "category": "fuel",
@@ -2494,6 +2524,18 @@
   },
   {
     "category": "aam",
+    "tags": [],
+    "id": "r530fem",
+    "name": "r530fem"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "r530fir",
+    "name": "r530fir"
+  },
+  {
+    "category": "aam",
     "tags": [
       "infrared",
       "alkali",
@@ -2503,6 +2545,18 @@
     ],
     "id": "r55",
     "name": "R-55"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "r550magic1",
+    "name": "r550magic1"
+  },
+  {
+    "category": "aam",
+    "tags": [],
+    "id": "r550magic2",
+    "name": "r550magic2"
   },
   {
     "category": "aam",
@@ -2817,6 +2871,12 @@
     "name": "S-25 OFM"
   },
   {
+    "category": "aam",
+    "tags": [],
+    "id": "s530f",
+    "name": "s530f"
+  },
+  {
     "category": "rocket",
     "tags": [
       "lightarmor",
@@ -2900,6 +2960,36 @@
     "name": "SAB-100"
   },
   {
+    "category": "bomb",
+    "tags": [],
+    "id": "samp125",
+    "name": "samp125"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "samp250",
+    "name": "samp250"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "samp250hd",
+    "name": "samp250hd"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "samp400",
+    "name": "samp400"
+  },
+  {
+    "category": "bomb",
+    "tags": [],
+    "id": "samp400hd",
+    "name": "samp400hd"
+  },
+  {
     "category": "aam",
     "tags": [
       "active",
@@ -2924,23 +3014,51 @@
   },
   {
     "category": "rocket",
-    "tags": [
-      "dumb",
-      "lightarmor",
-      "tank"
-    ],
-    "id": "sneb68eap",
-    "name": "SNEB 68mm EAP"
+    "tags": [],
+    "id": "snebtype250tpsm",
+    "name": "snebtype250tpsm"
   },
   {
     "category": "rocket",
-    "tags": [
-      "smoke",
-      "practice",
-      "dumb"
-    ],
-    "id": "sneb68wp",
-    "name": "SNEB 68mm WP"
+    "tags": [],
+    "id": "snebtype251he",
+    "name": "snebtype251he"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "snebtype252tp",
+    "name": "snebtype252tp"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "snebtype253heat",
+    "name": "snebtype253heat"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "snebtype254sm",
+    "name": "snebtype254sm"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "snebtype256hefrag",
+    "name": "snebtype256hefrag"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "snebtype257hefraglarge",
+    "name": "snebtype257hefraglarge"
+  },
+  {
+    "category": "rocket",
+    "tags": [],
+    "id": "snebtype259eil",
+    "name": "snebtype259eil"
   },
   {
     "category": "pod",
