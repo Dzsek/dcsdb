@@ -1452,15 +1452,6 @@
     "name": "GAU-12 Equalizer"
   },
   {
-    "category": "pod",
-    "tags": [
-      "gun",
-      "lightarmor"
-    ],
-    "id": "gau19",
-    "name": "GAU-19"
-  },
-  {
     "category": "bomb",
     "tags": [
       "glide",

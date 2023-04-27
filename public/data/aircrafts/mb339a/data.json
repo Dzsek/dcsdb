@@ -4,19 +4,19 @@
   "description": "The Aermacchi MB-339 is a military jet trainer and light attack aircraft designed and manufactured by Italian aviation company Aermacchi.\r\n\r\nThe MB-339 was developed during the 1970s in response to an Italian Air Force requirement that sought a replacement for the service's existing fleet of Aermacchi MB-326s.\r\n\r\nThe A version is the original production variant for Italy.",
   "weapons": [
     {
-      "category": null,
+      "category": "fuel",
       "tags": [],
       "id": "fuel320ltmb339",
       "name": "Fuel Tank 320lb (MB339)"
     },
     {
-      "category": null,
+      "category": "fuel",
       "tags": [],
       "id": "fuel320ltmb339tip",
       "name": "Fuel Tank 320lb Wingtip (MB339)"
     },
     {
-      "category": null,
+      "category": "fuel",
       "tags": [],
       "id": "fuel500ltmb339",
       "name": "Fuel Tank 500lb (MB339)"
