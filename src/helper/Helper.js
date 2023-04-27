@@ -9,10 +9,7 @@ export function OptimizeWeaponTags(weapon)
     }
 
     weapon.tags.push(weaponname);
-    if(weapon.category)
-    {
-        weapon.tags.push(weapon.category.toLowerCase());
-    }
+    weapon.tags.push(weapon.category.toLowerCase());
 
     if(weapon.tags.includes('ir'))
     {

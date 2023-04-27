@@ -1352,13 +1352,13 @@
     "name": "Fuel Tank 300L (MiG-15)"
   },
   {
-    "category": null,
+    "category": "fuel",
     "tags": [],
     "id": "fuel320ltmb339",
     "name": "Fuel Tank 320lb (MB339)"
   },
   {
-    "category": null,
+    "category": "fuel",
     "tags": [],
     "id": "fuel320ltmb339tip",
     "name": "Fuel Tank 320lb Wingtip (MB339)"
@@ -1394,7 +1394,7 @@
     "name": "Fuel Tank 490 Liters"
   },
   {
-    "category": null,
+    "category": "fuel",
     "tags": [],
     "id": "fuel500ltmb339",
     "name": "Fuel Tank 500lb (MB339)"
