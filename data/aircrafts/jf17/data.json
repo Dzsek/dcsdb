@@ -36,12 +36,6 @@
     {
       "category": "agm",
       "tags": [],
-      "id": "ls6500",
-      "name": "LS-6-500"
-    },
-    {
-      "category": "agm",
-      "tags": [],
       "id": "c802ak",
       "name": "C-802AK"
     },
@@ -50,24 +44,6 @@
       "tags": [],
       "id": "cm802akg",
       "name": "CM-802AKG"
-    },
-    {
-      "category": "agm",
-      "tags": [],
-      "id": "gb6",
-      "name": "GB-6"
-    },
-    {
-      "category": "agm",
-      "tags": [],
-      "id": "gb6he",
-      "name": "GB-6 HE"
-    },
-    {
-      "category": "agm",
-      "tags": [],
-      "id": "gb6sfw",
-      "name": "GB-6 SFW"
     },
     {
       "category": "bomb",
@@ -170,6 +146,42 @@
       "tags": [],
       "id": "mk5he",
       "name": "2.75' rocket MK5 (HE)"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "ls6500",
+      "name": "LS-6-500"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gb6",
+      "name": "GB-6"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gb6he",
+      "name": "GB-6 HE"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gb6sfw",
+      "name": "GB-6 SFW"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "ls6100",
+      "name": "LS-6-100"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "ls6250",
+      "name": "LS-6-250"
     }
   ]
 }

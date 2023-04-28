@@ -1,0 +1,151 @@
+{
+  "id": "mb339a",
+  "name": "Aermacchi MB-339A",
+  "description": "The Aermacchi MB-339 is a military jet trainer and light attack aircraft designed and manufactured by Italian aviation company Aermacchi.\r\n\r\nThe MB-339 was developed during the 1970s in response to an Italian Air Force requirement that sought a replacement for the service's existing fleet of Aermacchi MB-326s.\r\n\r\nThe A version is the original production variant for Italy.",
+  "weapons": [
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel320ltmb339",
+      "name": "Fuel Tank 320lb (MB339)"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel320ltmb339tip",
+      "name": "Fuel Tank 320lb Wingtip (MB339)"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel500ltmb339",
+      "name": "Fuel Tank 500lb (MB339)"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bap100",
+      "name": "BAP 100"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bl755",
+      "name": "BL755"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "blg66ac",
+      "name": "BLG-66-AC"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk81",
+      "name": "Mk-81"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82",
+      "name": "Mk-82"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82se",
+      "name": "Mk-82 SnakeEye"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m151he",
+      "name": "2.75' rocket M151 (HE)"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "m156wp",
+      "name": "2.75' rocket M156 (WP)"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "wtu1b",
+      "name": "2.75' rocket WTU-1/B"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "matratype155",
+      "name": "SNEB 68mm (Matra Type 155)"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bat120",
+      "name": "BAT-120"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "arf8api",
+      "name": "ARF-8/M3 API"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "arf8heiheavy",
+      "name": "ARF-8/M3 HEI"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "arf8tpsm",
+      "name": "ARF-8/M3 TP-SM"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "blu107b",
+      "name": "BLU-107"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk83",
+      "name": "Mk-83"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "mk71zuni",
+      "name": "ZUNI MK 71"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "defa553",
+      "name": "DEFA 553"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "brd4250mk106",
+      "name": "BRD-4-250 4x Mk 106"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "brd4250mk76",
+      "name": "BRD-4-250 4x Mk 76"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "anm3",
+      "name": "AN/M3"
+    }
+  ]
+}

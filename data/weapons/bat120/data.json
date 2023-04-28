@@ -1,0 +1,18 @@
+{
+  "id": "bat120",
+  "name": "BAT-120",
+  "description": "A high-explosive (HE) further development of the BAP 100mm anti-runway and area denial bomb.\r\n\r\nIt is a parachute-retarded, fragmentation, integrally fuzed bomb used in a tactical support role.\r\n\r\nThe ABL version is used against lightly armoured vehicles.",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "High-drag Bomb",
+    "Warhead": "High Explosive Fragmentation",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339a",
+      "name": "MB-339A"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "r530fir",
+  "name": "R.530F IR",
+  "description": "The Matra R.530 is a French medium to short range air-to-air missile.\r\n\r\nThe IR is an infrared guided version",
+  "data": {
+    "Range": "Medium",
+    "Guidance": "Infrared",
+    "Type": "Air-to-Air Missile",
+    "Targets": "Aircraft"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "miragef1ce",
+      "name": "Mirage F1 CE"
+    },
+    {
+      "instructions": [],
+      "id": "miragef1ee",
+      "name": "Mirage F1 EE"
+    }
+  ]
+}

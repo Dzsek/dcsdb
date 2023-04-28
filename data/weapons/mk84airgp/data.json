@@ -1,0 +1,18 @@
+{
+  "id": "mk84airgp",
+  "name": "MK-84 AIR",
+  "description": "Standard Mk 84 General-Purpose bomb fitted with a parachute desgined to slow the forward progress of the bomb, allowing the delivery aircraft to safely pass over the target before the bomb explodes.",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "General Purpose Bomb",
+    "Warhead": "2000lb High Explosive",
+    "Targets": "Light Armor, Tanks, Buildings"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f16cm",
+      "name": "F-16CM bl.50"
+    }
+  ]
+}

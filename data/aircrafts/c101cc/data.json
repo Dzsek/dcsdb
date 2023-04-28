@@ -16,12 +16,6 @@
       "name": "AIM-9P"
     },
     {
-      "category": "aam",
-      "tags": [],
-      "id": "magic2",
-      "name": "Matra Magic II"
-    },
-    {
       "category": "agm",
       "tags": [],
       "id": "seaeagle",
@@ -116,6 +110,12 @@
       "tags": [],
       "id": "defa553",
       "name": "DEFA 553"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r550magic2",
+      "name": "R.550 Magic II"
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "id": "fuel320ltmb339tip",
+  "name": "Fuel Tank 320lb Wingtip (MB339)",
+  "description": "External Fuel Tank",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339a",
+      "name": "MB-339A"
+    }
+  ]
+}

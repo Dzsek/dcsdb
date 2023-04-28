@@ -1,0 +1,19 @@
+{
+  "id": "arf8api",
+  "name": "ARF-8/M3 API",
+  "description": "Armor piercing rockets",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "Armor Piercing",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339a",
+      "name": "MB-339A"
+    }
+  ]
+}

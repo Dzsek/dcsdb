@@ -1,0 +1,15 @@
+{
+  "id": "barax",
+  "name": "BARAX ECM pod",
+  "description": "ECM pod",
+  "data": {
+    "Type": "ECM pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "miragef1ee",
+      "name": "Mirage F1 EE"
+    }
+  ]
+}

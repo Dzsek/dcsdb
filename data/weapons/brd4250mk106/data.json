@@ -1,0 +1,16 @@
+{
+  "id": "brd4250mk106",
+  "name": "BRD-4-250 4x Mk 106",
+  "description": "The Mk 106 is a 2.27 kilogram practice bomb used for training purposes as a low-cost low-risk alternative to live munitions. ",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "Training bomb"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "mb339a",
+      "name": "MB-339A"
+    }
+  ]
+}
