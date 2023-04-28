@@ -1,14 +1,12 @@
 {
   "id": "blu107b",
-  "name": "blu107b",
-  "description": "blu107b",
+  "name": "Matra Durandal BLU-107",
+  "description": "Anti-runway bomb based on the french Matra Durandal.\r\n\r\nThe bombs fall is slowed by a parachute. When the bomb has reached a 40° angle due to the parachute's drag, it fires a rocket booster that accelerates it into the runway surface.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "Anti Runway Bomb",
+    "Warhead": "High Explosive",
+    "Targets": "Runways"
   },
   "aircraft": [
     {

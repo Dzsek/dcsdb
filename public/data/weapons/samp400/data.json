@@ -1,14 +1,12 @@
 {
   "id": "samp400",
-  "name": "samp400",
-  "description": "samp400",
+  "name": "SAMP 400",
+  "description": "SAMP is a series of French general purpose bombs.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "General Purpose Bomb",
+    "Warhead": "400kg",
+    "Targets": "Light Armor, Tank, Building"
   },
   "aircraft": [
     {

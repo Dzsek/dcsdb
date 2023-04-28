@@ -1,14 +1,13 @@
 {
   "id": "arf8api",
-  "name": "arf8api",
-  "description": "arf8api",
+  "name": "ARF-8/M3 API",
+  "description": "Armor piercing rockets",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "Armor Piercing",
+    "Targets": "Light Armor"
   },
   "aircraft": [
     {

@@ -12,18 +12,6 @@
     {
       "category": "aam",
       "tags": [],
-      "id": "magic2",
-      "name": "Matra Magic II"
-    },
-    {
-      "category": "rocket",
-      "tags": [],
-      "id": "matratype155",
-      "name": "SNEB 68mm (Matra Type 155)"
-    },
-    {
-      "category": "aam",
-      "tags": [],
       "id": "super530d",
       "name": "Super 530D"
     },
@@ -86,6 +74,18 @@
       "tags": [],
       "id": "bap100",
       "name": "BAP 100"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r550magic2",
+      "name": "R.550 Magic II"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "matratype155",
+      "name": "SNEB 68mm (Matra Type 155)"
     }
   ]
 }

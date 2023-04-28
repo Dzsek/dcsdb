@@ -1,14 +1,12 @@
 {
   "id": "arf8tpsm",
-  "name": "arf8tpsm",
-  "description": "arf8tpsm",
+  "name": "ARF-8/M3 TP-SM",
+  "description": "Training/Smoke marker rockets",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "Smoke"
   },
   "aircraft": [
     {

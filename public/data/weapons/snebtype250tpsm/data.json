@@ -1,14 +1,12 @@
 {
   "id": "snebtype250tpsm",
-  "name": "snebtype250tpsm",
-  "description": "snebtype250tpsm",
+  "name": "SNEB 68mm Type 250 TP-SM",
+  "description": "The SNEB rocket is an unguided air-to-ground 68 mm rocket projectile manufactured by the French company TDA Armements, designed for launch by combat aircraft and helicopters. \r\n\r\nIt is also known as the SNEB rocket pod, and sometimes as the Matra rocket, due to it commonly being carried in pod-like launchers built by Matra.\r\n\r\nThe type 250 has a training/smoke marker warhead.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "Smoke"
   },
   "aircraft": [
     {

@@ -85,31 +85,31 @@
       "category": "bomb",
       "tags": [],
       "id": "bat120",
-      "name": "bat120"
+      "name": "BAT-120"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "arf8api",
-      "name": "arf8api"
+      "name": "ARF-8/M3 API"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "arf8heiheavy",
-      "name": "arf8heiheavy"
+      "name": "ARF-8/M3 HEI"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "arf8tpsm",
-      "name": "arf8tpsm"
+      "name": "ARF-8/M3 TP-SM"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "blu107b",
-      "name": "blu107b"
+      "name": "BLU-107"
     },
     {
       "category": "bomb",
@@ -133,13 +133,13 @@
       "category": "pod",
       "tags": [],
       "id": "brd4250mk106",
-      "name": "brd4250mk106"
+      "name": "BRD-4-250 4x Mk 106"
     },
     {
       "category": "pod",
       "tags": [],
       "id": "brd4250mk76",
-      "name": "brd4250mk76"
+      "name": "BRD-4-250 4x Mk 76"
     },
     {
       "category": "pod",

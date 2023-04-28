@@ -1,14 +1,12 @@
 {
   "id": "samp400hd",
-  "name": "samp400hd",
-  "description": "samp400hd",
+  "name": "SAMP 400 HD",
+  "description": "SAMP is a series of French general purpose bombs.\r\n\r\nHD is the parachute retarded version.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "High-drag General Purpose Bomb",
+    "Warhead": "400kg",
+    "Targets": "Light Armor, Tank, Building"
   },
   "aircraft": [
     {

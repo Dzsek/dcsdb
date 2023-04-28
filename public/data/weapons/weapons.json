@@ -350,9 +350,17 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "phoenix",
+      "active",
+      "fox3",
+      "missile",
+      "aa",
+      "radar",
+      "aircraft"
+    ],
     "id": "aim54cmk60",
-    "name": "aim54cmk60"
+    "name": "AIM-54C Mk60"
   },
   {
     "category": "aam",
@@ -434,15 +442,29 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "aircraft"
+    ],
     "id": "aim9j",
-    "name": "aim9j"
+    "name": "AIM-9J"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "missile",
+      "sidewinder",
+      "fox2",
+      "heatseaker",
+      "ir",
+      "aircraft"
+    ],
     "id": "aim9juli",
-    "name": "aim9juli"
+    "name": "AIM-9JULI"
   },
   {
     "category": "aam",
@@ -720,21 +742,31 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor"
+    ],
     "id": "arf8api",
-    "name": "arf8api"
+    "name": "ARF-8/M3 API"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor"
+    ],
     "id": "arf8heiheavy",
-    "name": "arf8heiheavy"
+    "name": "ARF-8/M3 HEI"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "smoke",
+      "training"
+    ],
     "id": "arf8tpsm",
-    "name": "arf8tpsm"
+    "name": "ARF-8/M3 TP-SM"
   },
   {
     "category": "pod",
@@ -765,15 +797,25 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "ecm",
+      "jamming",
+      "ew"
+    ],
     "id": "barax",
-    "name": "barax"
+    "name": "BARAX"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "retarded",
+      "lightarmor",
+      "dumb",
+      "highdrag",
+      "ag"
+    ],
     "id": "bat120",
-    "name": "bat120"
+    "name": "BAT-120"
   },
   {
     "category": "bomb",
@@ -927,9 +969,12 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "runway",
+      "dumb"
+    ],
     "id": "blu107b",
-    "name": "blu107b"
+    "name": "BLU-107"
   },
   {
     "category": "bomb",
@@ -953,15 +998,24 @@
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "training",
+      "bomb",
+      "dumb"
+    ],
     "id": "brd4250mk106",
-    "name": "brd4250mk106"
+    "name": "BRD-4-250 4x Mk 106"
   },
   {
     "category": "pod",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "bomb",
+      "smoke",
+      "training"
+    ],
     "id": "brd4250mk76",
-    "name": "brd4250mk76"
+    "name": "BRD-4-250 4x Mk 76"
   },
   {
     "category": "rocket",
@@ -2095,18 +2149,6 @@
     "name": "M/71 HE w chute"
   },
   {
-    "category": "aam",
-    "tags": [
-      "missile",
-      "fox2",
-      "heatseaker",
-      "infrared",
-      "aircraft"
-    ],
-    "id": "magic2",
-    "name": "Matra Magic II"
-  },
-  {
     "category": "rocket",
     "tags": [
       "matra",
@@ -2515,15 +2557,29 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "semiactive",
+      "radar",
+      "sahr",
+      "fox1",
+      "missile",
+      "passive",
+      "aircraft"
+    ],
     "id": "r530fem",
-    "name": "r530fem"
+    "name": "R.530F EM"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "fox2",
+      "infrared",
+      "missile",
+      "aircraft",
+      "heatseaker"
+    ],
     "id": "r530fir",
-    "name": "r530fir"
+    "name": "R.530F IR"
   },
   {
     "category": "aam",
@@ -2539,15 +2595,27 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "missile",
+      "fox2",
+      "heatseaker",
+      "infrared",
+      "aircraft"
+    ],
     "id": "r550magic1",
-    "name": "r550magic1"
+    "name": "R.550 Magic"
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "missile",
+      "fox2",
+      "heatseaker",
+      "infrared",
+      "aircraft"
+    ],
     "id": "r550magic2",
-    "name": "r550magic2"
+    "name": "R.550 Magic II"
   },
   {
     "category": "aam",
@@ -2863,9 +2931,17 @@
   },
   {
     "category": "aam",
-    "tags": [],
+    "tags": [
+      "semiactive",
+      "radar",
+      "sahr",
+      "fox1",
+      "missile",
+      "passive",
+      "aircraft"
+    ],
     "id": "s530f",
-    "name": "s530f"
+    "name": "Super 530F"
   },
   {
     "category": "rocket",
@@ -2952,33 +3028,62 @@
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
     "id": "samp125",
-    "name": "samp125"
+    "name": "SAMP 125"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
     "id": "samp250",
-    "name": "samp250"
+    "name": "SAMP 250"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building",
+      "retarded",
+      "highdrag"
+    ],
     "id": "samp250hd",
-    "name": "samp250hd"
+    "name": "SAMP 250 HD"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building"
+    ],
     "id": "samp400",
-    "name": "samp400"
+    "name": "SAMP 400"
   },
   {
     "category": "bomb",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "lightarmor",
+      "tank",
+      "building",
+      "retarded",
+      "highdrag"
+    ],
     "id": "samp400hd",
-    "name": "samp400hd"
+    "name": "SAMP 400 HD"
   },
   {
     "category": "aam",
@@ -3005,51 +3110,89 @@
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "matra",
+      "dumb",
+      "training",
+      "smoke"
+    ],
     "id": "snebtype250tpsm",
-    "name": "snebtype250tpsm"
+    "name": "SNEB 68mm Type 250 TP-SM"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "matra",
+      "lightarmor"
+    ],
     "id": "snebtype251he",
-    "name": "snebtype251he"
+    "name": "SNEB 68mm Type 251 HE"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "matra",
+      "training"
+    ],
     "id": "snebtype252tp",
-    "name": "snebtype252tp"
+    "name": "SNEB 68mm Type 252 TP"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "matra",
+      "lightarmor",
+      "tank"
+    ],
     "id": "snebtype253heat",
-    "name": "snebtype253heat"
+    "name": "SNEB 68mm Type 253 HEAT"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "matra",
+      "smoke"
+    ],
     "id": "snebtype254sm",
-    "name": "snebtype254sm"
+    "name": "SNEB 68mm Type 254 SM"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "matra",
+      "lightarmor",
+      "infantry"
+    ],
     "id": "snebtype256hefrag",
-    "name": "snebtype256hefrag"
+    "name": "SNEB 68mm Type 256 HE/Frag"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "matra",
+      "lightarmor",
+      "infantry"
+    ],
     "id": "snebtype257hefraglarge",
-    "name": "snebtype257hefraglarge"
+    "name": "SNEB 68mm Type 257 HE/Frag Lg Whd"
   },
   {
     "category": "rocket",
-    "tags": [],
+    "tags": [
+      "dumb",
+      "matra",
+      "illumination",
+      "light",
+      "flare"
+    ],
     "id": "snebtype259eil",
-    "name": "snebtype259eil"
+    "name": "SNEB 68mm Type 259E IL"
   },
   {
     "category": "pod",

@@ -1,14 +1,12 @@
 {
   "id": "samp125",
-  "name": "samp125",
-  "description": "samp125",
+  "name": "SAMP 125",
+  "description": "SAMP is a series of French general purpose bombs.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Guidance": "Unguided",
+    "Type": "General Purpose Bomb",
+    "Warhead": "125kg",
+    "Targets": "Light Armor, Tank, Building"
   },
   "aircraft": [
     {

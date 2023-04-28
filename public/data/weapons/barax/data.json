@@ -1,14 +1,9 @@
 {
   "id": "barax",
-  "name": "barax",
-  "description": "barax",
+  "name": "BARAX ECM pod",
+  "description": "ECM pod",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Type": "ECM pod"
   },
   "aircraft": [
     {

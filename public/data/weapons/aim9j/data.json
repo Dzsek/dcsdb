@@ -1,14 +1,14 @@
 {
   "id": "aim9j",
-  "name": "aim9j",
-  "description": "aim9j",
+  "name": "AIM-9J Sidewinder",
+  "description": "The AIM-9 Sidewinder is a short-range air-to-air missile which entered service with the US Navy in 1956 and subsequently was adopted by the US Air Force in 1964. \r\n\r\nSince then the Sidewinder has proved to be an enduring international success, and its latest variants are still standard equipment in most western-aligned air forces.\r\n\r\nThe J has better maneuverability then its predecessors, a longer-burning motor, and wider seeker FOV.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Aspect": "Rear",
+    "Range": "Short",
+    "Guidance": "Infrared",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "Annular blast-fragmentation",
+    "Targets": "Aircraft"
   },
   "aircraft": [
     {

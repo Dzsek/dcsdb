@@ -25,7 +25,7 @@
       "category": "bomb",
       "tags": [],
       "id": "blu107b",
-      "name": "blu107b"
+      "name": "BLU-107"
     },
     {
       "category": "bomb",
@@ -73,127 +73,127 @@
       "category": "aam",
       "tags": [],
       "id": "r530fem",
-      "name": "r530fem"
+      "name": "R.530F EM"
     },
     {
       "category": "aam",
       "tags": [],
       "id": "r530fir",
-      "name": "r530fir"
+      "name": "R.530F IR"
     },
     {
       "category": "aam",
       "tags": [],
       "id": "s530f",
-      "name": "s530f"
+      "name": "Super 530F"
     },
     {
       "category": "aam",
       "tags": [],
       "id": "aim9j",
-      "name": "aim9j"
+      "name": "AIM-9J"
     },
     {
       "category": "aam",
       "tags": [],
       "id": "aim9juli",
-      "name": "aim9juli"
+      "name": "AIM-9JULI"
     },
     {
       "category": "aam",
       "tags": [],
       "id": "r550magic1",
-      "name": "r550magic1"
+      "name": "R.550 Magic"
     },
     {
       "category": "aam",
       "tags": [],
       "id": "r550magic2",
-      "name": "r550magic2"
+      "name": "R.550 Magic II"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "samp125",
-      "name": "samp125"
+      "name": "SAMP 125"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "samp250",
-      "name": "samp250"
+      "name": "SAMP 250"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "samp250hd",
-      "name": "samp250hd"
+      "name": "SAMP 250 HD"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "samp400",
-      "name": "samp400"
+      "name": "SAMP 400"
     },
     {
       "category": "bomb",
       "tags": [],
       "id": "samp400hd",
-      "name": "samp400hd"
+      "name": "SAMP 400 HD"
     },
     {
       "category": "pod",
       "tags": [],
       "id": "barax",
-      "name": "barax"
+      "name": "BARAX"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "snebtype250tpsm",
-      "name": "snebtype250tpsm"
+      "name": "SNEB 68mm Type 250 TP-SM"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "snebtype252tp",
-      "name": "snebtype252tp"
+      "name": "SNEB 68mm Type 252 TP"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "snebtype253heat",
-      "name": "snebtype253heat"
+      "name": "SNEB 68mm Type 253 HEAT"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "snebtype254sm",
-      "name": "snebtype254sm"
+      "name": "SNEB 68mm Type 254 SM"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "snebtype256hefrag",
-      "name": "snebtype256hefrag"
+      "name": "SNEB 68mm Type 256 HE/Frag"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "snebtype259eil",
-      "name": "snebtype259eil"
+      "name": "SNEB 68mm Type 259E IL"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "snebtype257hefraglarge",
-      "name": "snebtype257hefraglarge"
+      "name": "SNEB 68mm Type 257 HE/Frag Lg Whd"
     },
     {
       "category": "rocket",
       "tags": [],
       "id": "snebtype251he",
-      "name": "snebtype251he"
+      "name": "SNEB 68mm Type 251 HE"
     },
     {
       "category": "fuel",

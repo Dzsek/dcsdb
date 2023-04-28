@@ -1,14 +1,14 @@
 {
   "id": "r550magic1",
-  "name": "r550magic1",
-  "description": "r550magic1",
+  "name": "R.550 Magic",
+  "description": "The Matra Magic is a short-range air-to-air missile designed in 1968 by French company Matra to compete with the American AIM-9 Sidewinder, and it was made backwards compatible with the Sidewinder launch hardware.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Aspect": "Rear",
+    "Range": "Short",
+    "Guidance": "Infrared",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "13 kg fragmentation",
+    "Targets": "Aircraft"
   },
   "aircraft": [
     {

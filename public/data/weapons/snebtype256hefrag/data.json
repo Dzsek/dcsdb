@@ -1,14 +1,13 @@
 {
   "id": "snebtype256hefrag",
-  "name": "snebtype256hefrag",
-  "description": "snebtype256hefrag",
+  "name": "SNEB 68mm Type 256 HE/Frag",
+  "description": "The SNEB rocket is an unguided air-to-ground 68 mm rocket projectile manufactured by the French company TDA Armements, designed for launch by combat aircraft and helicopters. \r\n\r\nIt is also known as the SNEB rocket pod, and sometimes as the Matra rocket, due to it commonly being carried in pod-like launchers built by Matra.\r\n\r\nThe type 256 has a High Explosive Fragmentation warhead",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Rocket",
+    "Warhead": "High Explosive Fragmentation",
+    "Targets": "Light Armor, Infantry"
   },
   "aircraft": [
     {

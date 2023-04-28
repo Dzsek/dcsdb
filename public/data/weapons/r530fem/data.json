@@ -1,14 +1,12 @@
 {
   "id": "r530fem",
-  "name": "r530fem",
-  "description": "r530fem",
+  "name": "R.530F EM",
+  "description": "The Matra R.530 is a French medium to short range air-to-air missile.\r\n\r\nTh EM is a radar guided version.",
   "data": {
-    "Weight": "-",
-    "Range": "-",
-    "Guidance": "-",
-    "Type": "-",
-    "Warhead": "-",
-    "Targets": "-"
+    "Range": "Medium",
+    "Guidance": "Semi Active Radar",
+    "Type": "Air-to-Air Missile",
+    "Targets": "Aircraft"
   },
   "aircraft": [
     {
