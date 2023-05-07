@@ -1,0 +1,133 @@
+{
+  "id": "f15e",
+  "name": "McDonell Douglas F-15E Strike Eagle",
+  "description": "The McDonnell Douglas F-15E Strike Eagle is an American all-weather multirole strike fighter derived from the McDonnell Douglas F-15 Eagle. \r\n\r\nThe F-15E was designed in the 1980s for long-range, high-speed interdiction without relying on escort or electronic-warfare aircraft.",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9l",
+      "name": "AIM-9L"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9m",
+      "name": "AIM-9M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9p",
+      "name": "AIM-9P"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9p5",
+      "name": "AIM-9P5"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7m",
+      "name": "AIM-7M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7mh",
+      "name": "AIM-7MH"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim120b",
+      "name": "AIM-120B"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim120c",
+      "name": "AIM-120C-5"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82",
+      "name": "Mk-82"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82air",
+      "name": "Mk-82 Air"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82se",
+      "name": "Mk-82 SnakeEye"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk84",
+      "name": "Mk-84"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk84airgp",
+      "name": "MK-84 AIR"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "cbu87",
+      "name": "CBU-87"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "cbu97",
+      "name": "CBU-97"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu10",
+      "name": "GBU-10"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu12",
+      "name": "GBU-12"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu24",
+      "name": "GBU-24"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "mxu648",
+      "name": "MXU-648"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu27",
+      "name": "GBU-27"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu28",
+      "name": "GBU-28"
+    }
+  ]
+}
