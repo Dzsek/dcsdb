@@ -1,0 +1,18 @@
+{
+  "id": "gbu28",
+  "name": "GBU-28",
+  "description": "The GBU-28 is a 5,000-pound class laser-guided \"bunker busting\" bomb produced originally by the Watervliet Arsenal, Watervliet, New York.\r\n\r\nIt was designed, manufactured, and deployed in less than three weeks due to an urgent need during Operation Desert Storm to penetrate hardened Iraqi command centers located deep underground.",
+  "data": {
+    "Guidance": "Laser",
+    "Type": "Guided Bomb",
+    "Warhead": "Penetration",
+    "Targets": "Fortifications"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f15e",
+      "name": "F-15E"
+    }
+  ]
+}

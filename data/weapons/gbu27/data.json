@@ -1,0 +1,18 @@
+{
+  "id": "gbu27",
+  "name": "GBU-27 Paveway III",
+  "description": "Paveway III is a family of laser-guided bombs, a sub-group of the larger Raytheon Paveway III family of weapons. The Paveway guidance package consists of a seeker package attached to the nose of the weapon, and a wing kit attached to the rear to provide stability and greater range.\r\n\r\nCompared to the GBU-10 family, or the Paveway II family, the GBU-27 glides farther as a result of more efficient guidance technology.\r\n\r\nThe GBU-27 Paveway III is a BLU-109 hardened penetration bomb equipped with Paveway III laser guidance kit.",
+  "data": {
+    "Guidance": "Laser",
+    "Type": "Guided Bomb",
+    "Warhead": "520lb Penetration",
+    "Targets": "Fortifications"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f15e",
+      "name": "F-15E"
+    }
+  ]
+}

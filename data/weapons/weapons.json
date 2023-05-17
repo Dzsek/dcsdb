@@ -1589,6 +1589,29 @@
   {
     "category": "bomb",
     "tags": [
+      "paveway",
+      "laser",
+      "building",
+      "ag",
+      "fortification"
+    ],
+    "id": "gbu27",
+    "name": "GBU-27"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "laser",
+      "building",
+      "ag",
+      "fortification"
+    ],
+    "id": "gbu28",
+    "name": "GBU-28"
+  },
+  {
+    "category": "bomb",
+    "tags": [
       "lightarmor",
       "tank",
       "building",
