@@ -20,7 +20,7 @@ class AboutPage extends React.Component{
                 <p>This is a hobby project and is in no way affiliated with Eagle Dynamics.</p>
 
                 <p>You can find the github project <a href="https://github.com/Dzsek/dcsdb">here</a>.</p>
-                <p>This will always remain free and without ads, however if you would like to support development feel free to <a href="https://www.buymeacoffee.com/dcsdb">buy me a coffee/beer</a>.</p>
+                <p>This will always remain free and without ads, however if you would like to support development feel free to <a href="https://www.buymeacoffee.com/dzsek">buy me a coffee/beer</a>.</p>
             </div>
         );
     }
