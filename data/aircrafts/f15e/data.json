@@ -24,12 +24,6 @@
     {
       "category": "aam",
       "tags": [],
-      "id": "aim9p5",
-      "name": "AIM-9P5"
-    },
-    {
-      "category": "aam",
-      "tags": [],
       "id": "aim7m",
       "name": "AIM-7M"
     },
@@ -112,22 +106,70 @@
       "name": "GBU-24"
     },
     {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk20",
+      "name": "Mk-20"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "blu107b",
+      "name": "BLU-107"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9j",
+      "name": "AIM-9J"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "cap9m",
+      "name": "Captive AIM-9M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7f",
+      "name": "AIM-7F"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu50hd",
+      "name": "BDU-50 HD"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu50ld",
+      "name": "BDU-50 LD"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu50lgb",
+      "name": "BDU-50 LGB"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9p5",
+      "name": "AIM-9P5"
+    },
+    {
       "category": "pod",
       "tags": [],
-      "id": "mxu648",
-      "name": "MXU-648"
+      "id": "lantirn",
+      "name": "AN/AAQ-14 LANTIRN"
     },
     {
-      "category": "bomb",
+      "category": "fuel",
       "tags": [],
-      "id": "gbu27",
-      "name": "GBU-27"
-    },
-    {
-      "category": "bomb",
-      "tags": [],
-      "id": "gbu28",
-      "name": "GBU-28"
+      "id": "fuel610gal",
+      "name": "Fuel Tank 610 gallons (F-15)"
     }
   ]
 }

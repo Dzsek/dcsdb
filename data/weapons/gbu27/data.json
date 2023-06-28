@@ -8,11 +8,5 @@
     "Warhead": "520lb Penetration",
     "Targets": "Fortifications"
   },
-  "aircraft": [
-    {
-      "instructions": [],
-      "id": "f15e",
-      "name": "F-15E"
-    }
-  ]
+  "aircraft": []
 }
