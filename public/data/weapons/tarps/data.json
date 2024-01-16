@@ -1,0 +1,20 @@
+{
+  "id": "tarps",
+  "name": "Tactical Airborne Reconnaissance Pod System",
+  "description": "The Tactical Airborne Reconnaissance Pod System (TARPS) was a large and sophisticated camera pod carried by the Grumman F-14 Tomcat.\r\n\r\nIt contains three camera bays with different type cameras which are pointed down at passing terrain.",
+  "data": {
+    "Type": "Recon Pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f14a135gr",
+      "name": "F-14A-135-GR"
+    },
+    {
+      "instructions": [],
+      "id": "f14b",
+      "name": "F-14B"
+    }
+  ]
+}

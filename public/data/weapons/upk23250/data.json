@@ -3,7 +3,7 @@
   "name": "UPK-23-250 Gun pod",
   "description": "The UPK-23 is a late Cold War era gun pod of Soviet origin.\r\n\r\nThe 23 denotes it 23mm caliber and the 250 is it's ammunition capacity.",
   "data": {
-    "Range": "Shoer",
+    "Range": "Short",
     "Guidance": "Unguided",
     "Type": "Gun Pod",
     "Caliber": "23mm",

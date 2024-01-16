@@ -62,6 +62,30 @@
       "tags": [],
       "id": "snebtype250tpsm",
       "name": "SNEB 68mm Type 250 TP-SM"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "hot3",
+      "name": "HOT3"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "fnhmp400",
+      "name": "FN HMP400"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "giatm621",
+      "name": "GIAT M621"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "mistral",
+      "name": "Mistral"
     }
   ]
 }

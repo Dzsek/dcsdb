@@ -170,6 +170,48 @@
       "tags": [],
       "id": "fuel610gal",
       "name": "Fuel Tank 610 gallons (F-15)"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm154a",
+      "name": "AGM-154A JSOW"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu31v1b",
+      "name": "GBU-31(V)1/B"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu31v3b",
+      "name": "GBU-31(V)3/B"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu38",
+      "name": "GBU-38"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu54v1b",
+      "name": "GBU-54(V)1/B"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "lantirnnav",
+      "name": "AN/AAQ-13 LANTIRN Nav Pod"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "axq14",
+      "name": "AN/AXQ-14 Data Link Pod"
     }
   ]
 }

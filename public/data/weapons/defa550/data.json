@@ -1,0 +1,29 @@
+{
+  "id": "defa550",
+  "name": "DEFA 550",
+  "description": "The DEFA cannon (Direction des Études et Fabrications d'Armement) is a family of widely used French-made aircraft revolver cannon firing standard 30 mm caliber NATO rounds.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gun Pod",
+    "Warhead": "30mm NATO",
+    "Targets": "Light Armor"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "miragef1be",
+      "name": "Mirage F1 BE"
+    },
+    {
+      "instructions": [],
+      "id": "miragef1ce",
+      "name": "Mirage F1 CE"
+    },
+    {
+      "instructions": [],
+      "id": "miragef1ee",
+      "name": "Mirage F1 EE"
+    }
+  ]
+}

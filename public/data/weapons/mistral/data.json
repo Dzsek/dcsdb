@@ -14,6 +14,11 @@
       "instructions": [],
       "id": "sa342mistral",
       "name": "SA324 Mistral"
+    },
+    {
+      "instructions": [],
+      "id": "sa342l",
+      "name": "SA324L"
     }
   ]
 }

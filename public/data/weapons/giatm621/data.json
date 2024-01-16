@@ -1,0 +1,19 @@
+{
+  "id": "giatm621",
+  "name": "GIAT M621",
+  "description": "giatm621",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Type": "Gun",
+    "Caliber": "20mm",
+    "Targets": "Unarmored"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "sa342l",
+      "name": "SA324L"
+    }
+  ]
+}

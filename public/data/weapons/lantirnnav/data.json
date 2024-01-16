@@ -1,0 +1,15 @@
+{
+  "id": "lantirnnav",
+  "name": "AN/AAQ-13 LANTIRN Nav Pod",
+  "description": "Low Altitude Navigation and Targeting Infrared for Night, or LANTIRN, is a combined navigation and targeting pod system for use on the United States Air Force fighter aircraft.\r\n\r\nLANTIRN significantly increases the combat effectiveness of these aircraft, allowing them to fly at low altitudes, at night and under-the-weather to attack ground targets with a variety of precision-guided weapons.\r\n\r\nThis is the Nav Pod which provides a FLIR image for the HUD",
+  "data": {
+    "Type": "Targeting Pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f15e",
+      "name": "F-15E"
+    }
+  ]
+}

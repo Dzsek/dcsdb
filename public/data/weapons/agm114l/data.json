@@ -1,0 +1,19 @@
+{
+  "id": "agm114l",
+  "name": "AGM-114L Hellfire",
+  "description": "The AGM-114 Hellfire is an air-to-surface missile first developed for anti-armor us. \r\n\r\nThe Hellfire missile is the primary 100-pound (45 kg) class air-to-ground precision weapon for the armed forces of the United States and many other nations.\r\n\r\nThe L version is guided by an onboard radar, which allows for fire and forget capability.",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Radar",
+    "Type": "Air-to-ground missile",
+    "Warhead": "20 lb tandem shaped charge",
+    "Targets": "Light Armor, Tanks"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "ah64d",
+      "name": "AH-64D"
+    }
+  ]
+}
