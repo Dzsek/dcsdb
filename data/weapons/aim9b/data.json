@@ -35,6 +35,11 @@
       "instructions": [],
       "id": "miragef1ee",
       "name": "Mirage F1 EE"
+    },
+    {
+      "instructions": [],
+      "id": "miragef1be",
+      "name": "Mirage F1 BE"
     }
   ]
 }

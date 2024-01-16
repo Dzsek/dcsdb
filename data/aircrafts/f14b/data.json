@@ -176,6 +176,12 @@
       "tags": [],
       "id": "aim54cmk60",
       "name": "AIM-54C Mk60"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "tarps",
+      "name": "TARPS"
     }
   ]
 }

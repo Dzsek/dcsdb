@@ -1,0 +1,15 @@
+{
+  "id": "axq14",
+  "name": "AN/AXQ-14 Data Link Pod",
+  "description": "The AN/AXQ-14 Data Link allows the operator to select an aimpoint for weapon impact, and provides a link between munition seekers and humans.",
+  "data": {
+    "Type": "Datalink Pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f15e",
+      "name": "F-15E"
+    }
+  ]
+}

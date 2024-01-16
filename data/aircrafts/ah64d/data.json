@@ -46,10 +46,16 @@
       "name": "2.75' rocket M229 (HEDP)"
     },
     {
+      "category": "agm",
+      "tags": [],
+      "id": "agm114l",
+      "name": "AGM-114L Hellfire"
+    },
+    {
       "category": "rocket",
       "tags": [],
-      "id": "m282",
-      "name": "2.75' rocket M282 (MPP)"
+      "id": "m433",
+      "name": "2.75` rocket M151, M433 (RC Fuze)"
     }
   ]
 }

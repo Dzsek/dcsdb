@@ -200,6 +200,12 @@
       "tags": [],
       "id": "fuel1137lmf1",
       "name": "Fuel Tank 1137L (Mirage F1)"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "defa550",
+      "name": "DEFA 550"
     }
   ]
 }

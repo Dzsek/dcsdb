@@ -445,6 +445,22 @@
       "aa",
       "a2a",
       "ag",
+      "a2g",
+      "trainer"
+    ],
+    "id": "miragef1be",
+    "name": "Mirage F1 BE"
+  },
+  {
+    "tags": [
+      "fighter",
+      "interceptor",
+      "coldwar",
+      "blue",
+      "french",
+      "aa",
+      "a2a",
+      "ag",
       "a2g"
     ],
     "id": "miragef1ce",
@@ -496,17 +512,6 @@
     ],
     "id": "sa342minigun",
     "name": "SA324 Minigun"
-  },
-  {
-    "tags": [
-      "helicopter",
-      "scout",
-      "gazelle",
-      "antiair",
-      "blue"
-    ],
-    "id": "sa342mistral",
-    "name": "SA324 Mistral"
   },
   {
     "tags": [

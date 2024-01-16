@@ -84,6 +84,17 @@
   {
     "category": "agm",
     "tags": [
+      "radar",
+      "hellfire",
+      "tank",
+      "lightarmor"
+    ],
+    "id": "agm114l",
+    "name": "AGM-114L Hellfire"
+  },
+  {
+    "category": "agm",
+    "tags": [
       "sidearm",
       "sam",
       "antiradiation",
@@ -787,6 +798,14 @@
     "name": "AN/AWW-13 Datalink Pod"
   },
   {
+    "category": "pod",
+    "tags": [
+      "datalink"
+    ],
+    "id": "axq14",
+    "name": "AN/AXQ-14 Data Link Pod"
+  },
+  {
     "category": "bomb",
     "tags": [
       "runway",
@@ -1205,6 +1224,15 @@
       "gun",
       "lightarmor"
     ],
+    "id": "defa550",
+    "name": "DEFA 550"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "gun",
+      "lightarmor"
+    ],
     "id": "defa553",
     "name": "DEFA 553"
   },
@@ -1320,6 +1348,14 @@
     ],
     "id": "ffarmk5",
     "name": "FFAR Mk5 HEAT"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "gun"
+    ],
+    "id": "fnhmp400",
+    "name": "FN HMP400"
   },
   {
     "category": "fuel",
@@ -1701,6 +1737,14 @@
   {
     "category": "pod",
     "tags": [
+      "gun"
+    ],
+    "id": "giatm621",
+    "name": "GIAT M621"
+  },
+  {
+    "category": "pod",
+    "tags": [
       "lightarmor",
       "gun"
     ],
@@ -1979,6 +2023,18 @@
   {
     "category": "pod",
     "tags": [
+      "infrared",
+      "lantern",
+      "flir",
+      "navigation",
+      "navflir"
+    ],
+    "id": "lantirnnav",
+    "name": "AN/AAQ-13 LANTIRN Nav Pod"
+  },
+  {
+    "category": "pod",
+    "tags": [
       "rack"
     ],
     "id": "lau105",
@@ -2132,6 +2188,17 @@
     ],
     "id": "m299rack",
     "name": "M299"
+  },
+  {
+    "category": "rocket",
+    "tags": [
+      "hydra",
+      "ag",
+      "lightarmor",
+      "dumb"
+    ],
+    "id": "m433",
+    "name": "2.75` rocket M151, M433 (RC Fuze)"
   },
   {
     "category": "pod",
@@ -3269,6 +3336,15 @@
     ],
     "id": "suu25",
     "name": "SUU-25"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "pod",
+      "recon"
+    ],
+    "id": "tarps",
+    "name": "TARPS"
   },
   {
     "category": "agm",

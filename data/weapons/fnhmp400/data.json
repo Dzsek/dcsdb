@@ -1,0 +1,19 @@
+{
+  "id": "fnhmp400",
+  "name": "FN HMP400",
+  "description": "fnhmp400",
+  "data": {
+    "Range": "Short",
+    "Guidance": "Unguided",
+    "Targets": "Unarmored",
+    "Caliber": ".50 Cal",
+    "Type": "Gun Pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "sa342l",
+      "name": "SA324L"
+    }
+  ]
+}

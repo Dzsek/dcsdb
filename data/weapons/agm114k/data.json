@@ -1,7 +1,7 @@
 {
   "id": "agm114k",
   "name": "AGM-114K Hellfire",
-  "description": "The AGM-114 Hellfire is an air-to-surface missile first developed for anti-armor us. \r\n\r\nThe Hellfire missile is the primary 100-pound (45 kg) class air-to-ground precision weapon for the armed forces of the United States and many other nations.",
+  "description": "The AGM-114 Hellfire is an air-to-surface missile first developed for anti-armor us. \r\n\r\nThe Hellfire missile is the primary 100-pound (45 kg) class air-to-ground precision weapon for the armed forces of the United States and many other nations. \r\n\r\nThe K is a standard laser guided variant.",
   "data": {
     "Range": "Short",
     "Guidance": "Laser",

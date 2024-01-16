@@ -9,11 +9,5 @@
     "Warhead": "Multipurpose Penetrator",
     "Targets": "Light Armor"
   },
-  "aircraft": [
-    {
-      "instructions": [],
-      "id": "ah64d",
-      "name": "AH-64D"
-    }
-  ]
+  "aircraft": []
 }

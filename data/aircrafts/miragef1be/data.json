@@ -1,0 +1,211 @@
+{
+  "id": "miragef1be",
+  "name": "Dassault Mirage F1 BE",
+  "description": "The Dassault Mirage F1 is a French fighter and attack aircraft designed and manufactured by Dassault Aviation. It was developed as a successor to the popular Mirage III family.\r\n\r\nThe B is a two-seat operational conversion trainer.\r\n\r\nIt features a second seat equiped with a hud repeater, and does not have a built in gun.\r\n\r\nThe BE is an export of the B version made for Spain.",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9b",
+      "name": "AIM-9B"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9p",
+      "name": "AIM-9P"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9j",
+      "name": "AIM-9J"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9juli",
+      "name": "AIM-9JULI"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r550magic1",
+      "name": "R.550 Magic"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r550magic2",
+      "name": "R.550 Magic II"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "s530f",
+      "name": "Super 530F"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r530fem",
+      "name": "R.530F EM"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "r530fir",
+      "name": "R.530F IR"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "blg66ac",
+      "name": "BLG-66-AC"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "blu107b",
+      "name": "BLU-107"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "br250",
+      "name": "BR-250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "br500",
+      "name": "BR-500"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82",
+      "name": "Mk-82"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk83",
+      "name": "Mk-83"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu10",
+      "name": "GBU-10"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu12",
+      "name": "GBU-12"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu16",
+      "name": "GBU-16"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "samp125",
+      "name": "SAMP 125"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "samp250",
+      "name": "SAMP 250"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "samp250hd",
+      "name": "SAMP 250 HD"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "samp400",
+      "name": "SAMP 400"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "samp400hd",
+      "name": "SAMP 400 HD"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "fuel1137lmf1",
+      "name": "Fuel Tank 1137L (Mirage F1)"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "barax",
+      "name": "BARAX"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype250tpsm",
+      "name": "SNEB 68mm Type 250 TP-SM"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype252tp",
+      "name": "SNEB 68mm Type 252 TP"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype253heat",
+      "name": "SNEB 68mm Type 253 HEAT"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype254sm",
+      "name": "SNEB 68mm Type 254 SM"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype256hefrag",
+      "name": "SNEB 68mm Type 256 HE/Frag"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype257hefraglarge",
+      "name": "SNEB 68mm Type 257 HE/Frag Lg Whd"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype259eil",
+      "name": "SNEB 68mm Type 259E IL"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "snebtype251he",
+      "name": "SNEB 68mm Type 251 HE"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "defa550",
+      "name": "DEFA 550"
+    }
+  ]
+}
