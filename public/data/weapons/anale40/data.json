@@ -1,0 +1,15 @@
+{
+  "id": "anale40",
+  "name": "AN/ALE-40",
+  "description": "Countermeasure dispenser for chaff and flares",
+  "data": {
+    "Type": "Countermeasure dispenser"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f4e",
+      "name": "F-4E"
+    }
+  ]
+}

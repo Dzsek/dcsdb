@@ -1,0 +1,18 @@
+{
+  "id": "gbu15",
+  "name": "GBU-15",
+  "description": "The Rockwell International Guided Bomb Unit 15 is an unpowered glide weapon used to destroy high-value enemy targets.",
+  "data": {
+    "Guidance": "TV",
+    "Type": "Guided Bomb",
+    "Warhead": "2000 lb High Explosive",
+    "Targets": "Buildings"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f4e",
+      "name": "F-4E"
+    }
+  ]
+}

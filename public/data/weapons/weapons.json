@@ -107,6 +107,28 @@
   {
     "category": "agm",
     "tags": [
+      "lightarmor",
+      "radio",
+      "structures",
+      "bullpup"
+    ],
+    "id": "agm12a",
+    "name": "AGM-12A"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "lightarmor",
+      "radio",
+      "structures",
+      "bullpup"
+    ],
+    "id": "agm12b",
+    "name": "AGM-12B"
+  },
+  {
+    "category": "agm",
+    "tags": [
       "jsow",
       "tank",
       "lightarmor",
@@ -152,6 +174,41 @@
     ],
     "id": "agm62",
     "name": "AGM-62 Walleye II"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "walleye",
+      "tv",
+      "ship",
+      "building",
+      "datalink",
+      "mitl"
+    ],
+    "id": "agm62w1",
+    "name": "AGM-62 Walleye I"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "maverick",
+      "lightarmor",
+      "tank",
+      "tv"
+    ],
+    "id": "agm65a",
+    "name": "AGM-65A"
+  },
+  {
+    "category": "agm",
+    "tags": [
+      "maverick",
+      "lightarmor",
+      "tank",
+      "tv"
+    ],
+    "id": "agm65b",
+    "name": "AGM-65B"
   },
   {
     "category": "agm",
@@ -372,6 +429,38 @@
     ],
     "id": "aim54cmk60",
     "name": "AIM-54C Mk60"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "sahr",
+      "sparrow",
+      "fox1",
+      "semiactive",
+      "aa",
+      "missile",
+      "aircraft",
+      "radar",
+      "passive"
+    ],
+    "id": "aim7e",
+    "name": "AIM-7E"
+  },
+  {
+    "category": "aam",
+    "tags": [
+      "sahr",
+      "sparrow",
+      "fox1",
+      "semiactive",
+      "aa",
+      "missile",
+      "aircraft",
+      "radar",
+      "passive"
+    ],
+    "id": "aim7e2",
+    "name": "AIM-7E2"
   },
   {
     "category": "aam",
@@ -602,6 +691,17 @@
   {
     "category": "pod",
     "tags": [
+      "chaff",
+      "flare",
+      "countermeasure",
+      "dispenser"
+    ],
+    "id": "anale40",
+    "name": "AN/ALE-40"
+  },
+  {
+    "category": "pod",
+    "tags": [
       "ecm",
       "spj",
       "jammer",
@@ -629,6 +729,15 @@
     ],
     "id": "anasqt50tcts",
     "name": "AN/ASQ-T50 TCTS"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "tgp",
+      "targeting"
+    ],
+    "id": "anavq23",
+    "name": "AN/AVQ-23 Pave Spike"
   },
   {
     "category": "pod",
@@ -1247,6 +1356,18 @@
     "name": "Eclair"
   },
   {
+    "category": "fuel",
+    "tags": [],
+    "id": "f4efuel",
+    "name": "Fuel Tank 600 gal (F-4E)"
+  },
+  {
+    "category": "fuel",
+    "tags": [],
+    "id": "f4efuel370",
+    "name": "Fuel Tank 370 gal (F-4E)"
+  },
+  {
     "category": "bomb",
     "tags": [
       "dumb",
@@ -1599,6 +1720,15 @@
   {
     "category": "bomb",
     "tags": [
+      "tv",
+      "building"
+    ],
+    "id": "gbu15",
+    "name": "GBU-15"
+  },
+  {
+    "category": "bomb",
+    "tags": [
       "building",
       "laser",
       "tank",
@@ -1733,6 +1863,17 @@
     ],
     "id": "gbu54v1b",
     "name": "GBU-54(V)1/B"
+  },
+  {
+    "category": "bomb",
+    "tags": [
+      "tv",
+      "hobos",
+      "tank",
+      "building"
+    ],
+    "id": "gbu8",
+    "name": "GBU-8"
   },
   {
     "category": "pod",
@@ -3327,6 +3468,18 @@
     ],
     "id": "super530d",
     "name": "Super 530D"
+  },
+  {
+    "category": "pod",
+    "tags": [
+      "gun",
+      "m61",
+      "xm130",
+      "m130",
+      "gau4"
+    ],
+    "id": "suu23",
+    "name": "SUU-23"
   },
   {
     "category": "bomb",

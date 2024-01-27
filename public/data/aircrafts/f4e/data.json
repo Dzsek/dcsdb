@@ -1,0 +1,295 @@
+{
+  "id": "f4e",
+  "name": "McDonnell Douglas F-4E Phantom II",
+  "description": "The McDonnell Douglas F-4 Phantom II is an American tandem two-seat, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber originally developed by McDonnell Aircraft for the United States Navy.\r\n\r\nProving highly adaptable, it entered service with the Navy in 1961 before it was adopted by the United States Marine Corps and the United States Air Force, and by the mid-1960s it had become a major part of their air arms.\r\n\r\nThe E variant was built for the USAF, and introduced an internal M61 Vulcan cannon. It, along with the D, were the most produced and widely exported variants.",
+  "weapons": [
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9b",
+      "name": "AIM-9B"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9j",
+      "name": "AIM-9J"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9juli",
+      "name": "AIM-9JULI"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9l",
+      "name": "AIM-9L"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9m",
+      "name": "AIM-9M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim9p",
+      "name": "AIM-9P"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "cap9m",
+      "name": "Captive AIM-9M"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7f",
+      "name": "AIM-7F"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7m",
+      "name": "AIM-7M"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm45a",
+      "name": "AGM-45 Shrike"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm65d",
+      "name": "AGM-65D Maverick"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk81",
+      "name": "Mk-81"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82",
+      "name": "Mk-82"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk83",
+      "name": "Mk-83"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk84",
+      "name": "Mk-84"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "m117",
+      "name": "M117"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk20",
+      "name": "Mk-20"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "cbu52b",
+      "name": "CBU-52B"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "cbu87",
+      "name": "CBU-87"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82air",
+      "name": "Mk-82 Air"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "mk82se",
+      "name": "Mk-82 SnakeEye"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu33",
+      "name": "BDU-33"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu50hd",
+      "name": "BDU-50 HD"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu50ld",
+      "name": "BDU-50 LD"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu10",
+      "name": "GBU-10"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu12",
+      "name": "GBU-12"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu24",
+      "name": "GBU-24"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "agm62",
+      "name": "AGM-62 Walleye II"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "bdu45",
+      "name": "BDU-45"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "blu107b",
+      "name": "BLU-107"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "ffarmk1",
+      "name": "FFAR Mk1 HE"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "ffarmk5",
+      "name": "FFAR Mk5 HEAT"
+    },
+    {
+      "category": "rocket",
+      "tags": [],
+      "id": "ffar156",
+      "name": "FFAR M156 WP"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "alq131",
+      "name": "AN/ALQ-131"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7e",
+      "name": "AIM-7E"
+    },
+    {
+      "category": "aam",
+      "tags": [],
+      "id": "aim7e2",
+      "name": "AIM-7E2"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm65a",
+      "name": "AGM-65A"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm65b",
+      "name": "AGM-65B"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm12a",
+      "name": "AGM-12A"
+    },
+    {
+      "category": "agm",
+      "tags": [],
+      "id": "agm12b",
+      "name": "AGM-12B"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "agm62w1",
+      "name": "AGM-62 Walleye I"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu8",
+      "name": "GBU-8"
+    },
+    {
+      "category": "bomb",
+      "tags": [],
+      "id": "gbu15",
+      "name": "GBU-15"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "suu23",
+      "name": "SUU-23"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "anavq23",
+      "name": "AN/AVQ-23 Pave Spike"
+    },
+    {
+      "category": "pod",
+      "tags": [],
+      "id": "anale40",
+      "name": "AN/ALE-40"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "f4efuel370",
+      "name": "Fuel Tank 370 gal (F-4E)"
+    },
+    {
+      "category": "fuel",
+      "tags": [],
+      "id": "f4efuel",
+      "name": "Fuel Tank 600 gal (F-4E)"
+    }
+  ]
+}

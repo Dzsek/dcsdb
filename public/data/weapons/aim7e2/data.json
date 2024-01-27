@@ -1,0 +1,19 @@
+{
+  "id": "aim7e2",
+  "name": "AIM-7E2 Sparrow",
+  "description": "The AIM-7 Sparrow is an American, medium-range semi-active radar homing air-to-air missile operated by the United States Air Force, United States Navy, and United States Marine Corps, as well as other various air forces and navies. \r\n\r\nSparrow and its derivatives were the West's principal beyond visual range air-to-air missile from the late 1950s until the 1990s. \r\n\r\nIt remains in service, although it is being phased out in aviation applications in favor of the more advanced AIM-120 AMRAAM.\r\n\r\nThe E2 variant was an upgrade over the E which improved performance in close range at the expense of long range engagements.",
+  "data": {
+    "Range": "Medium",
+    "Guidance": "Semi Active Radar",
+    "Type": "Air-to-Air Missile",
+    "Warhead": "65 lb continous rod",
+    "Targets": "Aircraft"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f4e",
+      "name": "F-4E"
+    }
+  ]
+}
