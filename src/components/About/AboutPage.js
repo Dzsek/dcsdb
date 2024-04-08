@@ -14,7 +14,8 @@ class AboutPage extends React.Component{
         return (
             <div className="AboutPage-root">
                 <p>This website was created to provide a quick reference for the aircraft and weapons available in Digital Combat Simulator.</p>
-                <p>I will try to keep this site updated to reflect the latest open beta version of DCS, but I can not guarantee that the information presented here is going to be 100% accurate at all times.</p>
+
+                <p>Support for this project has been stopped as of April 2024 and the aircraft and loadout information will no longer be updated.</p>
                 
                 <p>The data presented on this website is only applicable to DCS, and it does not necessarily reflect any real-world characteristics of the various aircraft and weapons.</p>
                 <p>This is a hobby project and is in no way affiliated with Eagle Dynamics.</p>
