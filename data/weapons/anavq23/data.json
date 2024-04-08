@@ -1,0 +1,15 @@
+{
+  "id": "anavq23",
+  "name": "AN/AVQ-23 Pave Spike",
+  "description": "The Westinghouse AN/ASQ-153\\AN/AVQ-23 Pave Spike is an electro-optical laser designator targeting pod used to direct laser-guided bombs to target in daylight, visual conditions. \r\n\r\nIt contained a laser boresighted to a television camera, which displayed its image on a cockpit screen.",
+  "data": {
+    "Type": "Targeting Pod"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f4e",
+      "name": "F-4E"
+    }
+  ]
+}

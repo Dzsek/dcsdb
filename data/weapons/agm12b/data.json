@@ -1,0 +1,19 @@
+{
+  "id": "agm12b",
+  "name": "AGM-12B Bullpup",
+  "description": "The AGM-12 Bullpup is a short-range air-to-ground missile developed by Martin Marietta for the US Navy.\r\n\r\nIt is among the earliest precision guided air-to-ground weapons and the first to be mass produced.\r\n\r\nThe B has an improved rocket motor and longer range.",
+  "data": {
+    "Range": "Medium",
+    "Guidance": "Radio Command",
+    "Type": "Air-to-Ground Missile",
+    "Warhead": "250 lb High Explosive",
+    "Targets": "Light Armor, Structures"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f4e",
+      "name": "F-4E"
+    }
+  ]
+}

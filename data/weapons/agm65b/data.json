@@ -1,0 +1,19 @@
+{
+  "id": "agm65b",
+  "name": "AGM-65B Maverick",
+  "description": "The AGM-65 Maverick is an air-to-ground missile designed for close air support. \r\n\r\nIt is the most widely produced precision-guided missile in the Western world, and is effective against a wide range of tactical targets, including armor, air defenses, ships, ground transportation and fuel storage facilities.\r\n\r\nThe B version features an added optical zoom for engaging smaller or distant targets.",
+  "data": {
+    "Range": "Medium",
+    "Guidance": "TV",
+    "Type": "Air-to-Ground Missile",
+    "Warhead": "126 lb WDU-20/8 shaped-charge",
+    "Targets": "Light Armor, Tanks"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f4e",
+      "name": "F-4E"
+    }
+  ]
+}

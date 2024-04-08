@@ -1,0 +1,15 @@
+{
+  "id": "f4efuel370",
+  "name": "Fuel Tank 370 gal (F-4E)",
+  "description": "External Fuel Tank 370 gallons",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f4e",
+      "name": "F-4E"
+    }
+  ]
+}

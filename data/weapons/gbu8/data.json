@@ -1,0 +1,18 @@
+{
+  "id": "gbu8",
+  "name": "GBU-8 Homing Bomb System",
+  "description": "The GBU-8 Homing Bomb System (HOBOS) is a 2,000 lb (910 kg) electro-optical guided bomb developed for the United States Air Force.\r\n\r\nIt consists of a contrast seeker in the nose section, four cruciform tailfins with flying surfaces for control, strakes connecting the tailfins with the nose section, and a 2000 lb Mk. 84 LDGP bomb.",
+  "data": {
+    "Guidance": "TV",
+    "Type": "Guided Bomb",
+    "Warhead": "2000 lb High Explosive",
+    "Targets": "Tanks, Buildings"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f4e",
+      "name": "F-4E"
+    }
+  ]
+}

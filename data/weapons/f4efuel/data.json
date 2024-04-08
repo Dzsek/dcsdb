@@ -1,0 +1,15 @@
+{
+  "id": "f4efuel",
+  "name": "Fuel Tank 600 gal (F-4E)",
+  "description": "External Fuel Tank 600 gallons",
+  "data": {
+    "Type": "Fuel"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f4e",
+      "name": "F-4E"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "suu23",
+  "name": "SUU-23",
+  "description": "This gun pod features a self-powered variant of the M61A1, designated XM130 by the US Army and GAU-4/A by the US Air Force.\r\n\r\nThis modification allowed its carriage on aircraft that could not meet the speed requirement of the previous unit, and reduced drag by removing the ram-air turbine requirement.",
+  "data": {
+    "Guidance": "Unguided",
+    "Type": "Gunpod",
+    "Calliber": "20 mm"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f4e",
+      "name": "F-4E"
+    }
+  ]
+}

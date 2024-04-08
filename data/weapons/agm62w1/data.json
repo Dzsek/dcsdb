@@ -1,0 +1,20 @@
+{
+  "id": "agm62w1",
+  "name": "agm62w1",
+  "description": "agm62w1",
+  "data": {
+    "Weight": "-",
+    "Range": "-",
+    "Guidance": "-",
+    "Type": "-",
+    "Warhead": "-",
+    "Targets": "-"
+  },
+  "aircraft": [
+    {
+      "instructions": [],
+      "id": "f4e",
+      "name": "F-4E"
+    }
+  ]
+}
